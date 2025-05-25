@@ -46,7 +46,7 @@ def create_requires_relationship_tx(tx, job, skill):
         MERGE (j)-[:REQUIRES]->(s)
         """, job=job, skill=skill)
     
-
+#delete all nodes and relationshipps
 def clear_database(tx):
     tx.run("MATCH (n) DETACH DELETE n")
 
@@ -55,7 +55,7 @@ driver = GraphDatabase.driver(URI, auth=AUTH)
 driver.verify_connectivity()
 print("Connected to:", driver.get_server_info())
 
-#add nodes and relationships saved in results.json
+#add nodes and relationships saved in courses_skills.json
 with open("courses_skills.json", "r", encoding="utf-8") as f:
     courses_skills = json.load(f)
 for course in courses_skills:
@@ -67,5 +67,5 @@ for course in courses_skills:
             print(skill)
             #session.execute_write(clear_database)
 
-# Close driver (after all sessions are done)
+# Close driver 
 driver.close()
