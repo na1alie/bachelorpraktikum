@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Einführung in die Informatik",
+    "skills": [
+      "Algorithms",
+      "Syntax",
+      "Semantics",
+      "Efficiency",
+      "Java",
+      "Object-oriented Programming",
+      "Concurrent Programming",
+      "Distributed Programming"
+    ]
+  },
+  {
+    "title": "Rechnerarchitektur",
+    "skills": [
+      "Machine-level programming",
+      "Microprogramming",
+      "Circuit design",
+      "Hardware understanding",
+      "Computer architecture"
+    ]
+  }
+]
