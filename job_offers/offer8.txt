@@ -1,0 +1,113 @@
+Corsair
+Share
+Show more options
+Senior Software Embedded Architect
+Landshut, Bavaria, Germany
+·
+Reposted
+2 weeks ago
+·
+Over 100 people clicked apply
+On-site
+Full-time
+Mid-Senior level
+Skills: Softwareentwicklung, C++, +8 more
+Curious where you stand? See how you compare to over 100 others who clicked apply.
+Try Premium for €0
+Apply
+Save
+Save Senior Software Embedded Architect at Corsair
+Senior Software Embedded Architect
+Corsair · Landshut, Bavaria, Germany (On-site)
+Apply
+Save
+Save Senior Software Embedded Architect at Corsair
+Show more options
+People you can reach out to
+Technical University of Munich logo
+School alumni from Technical University of Munich
+Show all
+Meet the hiring team
+Marco Schubert
+3rd
+Human Resources Director, EMEA @ Corsair
+Message
+Show all
+About the job
+Key Responsibilities
+JOB DESCRIPTION
+Lead the design and development of firmware for embedded systems, ensuring scalability, efficiency, and robustness.
+Write, debug, and optimize code in languages such as C, C++, or assembly.
+Collaborate with hardware and software engineers to align firmware functionality with hardware capabilities.
+Provide mentorship and technical guidance to junior developers.
+Review code for quality, maintainability, and compliance with best practices.
+Lead design discussions and contribute to architectural decisions for embedded systems.
+Ensure seamless integration of firmware with hardware components and external systems.
+Develop and execute test plans to validate firmware performance under various scenarios.
+Identify and address complex issues in embedded systems, implementing innovative solutions to meet design objectives.
+Create detailed technical documentation, including design specifications, user manuals, and test reports.
+Ensure firmware complies with industry standards and customer specifications.
+Expectations
+Proficiency in embedded systems programming and strong knowledge of microcontrollers, RTOS, and communication protocols (e.g., I2C, SPI, UART, CAN, Ethernet).
+Familiarity with development tools such as debuggers, oscilloscopes, and logic analyzers.
+Experience with version control systems (e.g., Git) and CI/CD workflows.
+Take ownership of firmware projects from concept to deployment, ensuring timely delivery and high quality.
+Manage priorities in a fast-paced environment while meeting deadlines and technical goals.
+Work effectively with cross-functional teams, including hardware, software, and product management.
+Communicate technical concepts clearly to stakeholders with varying levels of technical expertise.
+Demonstrate a commitment to staying current with emerging technologies, tools, and methodologies in the embedded systems domain.
+Essential Skills And Experience
+You have a successfully completed degree in electrical engineering/communications engineering/automation technology or a comparable qualification with several years of professional experience.
+6+ years of experience in embedded software
+Mastery of C/C++/Assembly and confident application at all levels of the software stack
+Bare metal, Zephyr, Cortex ARM processor family
+Device driver software, interrupt techniques, security architectures
+Experience in test automation, unit tests in embedded software development
+Your German and English language skills are good, so you feel comfortable working with our international development partners.
+Motivation to bring new features and products to the road cleanly and efficiently
+Very good communication and moderation skills
+Experience in agile development
+About Us
+Welcome to Fanatec, the ultimate destination for sim racing enthusiasts! At Fanatec, we are passionate about pushing the boundaries of technology to create the most immersive and realistic racing experiences. Our high-performance racing wheels, pedals, and accessories are engineered with precision and innovation, making us a leader in the sim racing industry.
+Fanatec merged with CORSAIR, and remains a separate brand within CORSAIR – a world leader in providing high-performance PC peripherals and components to gamers, enthusiasts, and esports athletes.
+Qualifications
+1 skill matches your profile. Stand out by adding other skills you have.
+Skills associated with the job post
+Identified by LinkedIn
+1 skill on your profile
+Softwareentwicklung
+9 skills missing on your profile
+C (Programmiersprache), C++, Embedded Software, Embedded Systems, Git, Mentoring, Neue Technologien, Testautomatisierung, and XML
+Add skills you have to your profile to stand out to the employer.
+Add skills
+Show qualification details
+Job search faster with Premium
+Access company insights like strategic priorities, headcount trends, and more
+Yange and millions of other members use Premium
+Try Premium for €0
+1-month free trial. Cancel whenever. We’ll remind you 7 days before your trial ends.
+About the company
+Corsair
+95,776 followers
+Follow
+Computer Hardware Manufacturing
+1,001-5,000 employees
+1,300 on LinkedIn
+Founded in 1994, CORSAIR (NASDAQ:CRSR) is a leading global developer and manufacturer of high-performance gaming and streaming gear. With 21 different product lines CORSAIR offers a complete range of products that help digital athletes perform at their peak and enable streaming creators to produce studio-quality content for their fans.
+CORSAIR has built a passionate base of loyal customers due to its gamer- and creator-centric design philosophy, commitment to high performance, and professional quality. The company has received more than 4,000 product awards and has a footprint that reaches customers in more than 75 countries.
+CORSAIR also includes subsidiary brands Elgato, which provides premium studio equipment and accessories for content creators, SCUF Gaming, which builds custom-designed controllers for competitive gamers, and ORIGIN PC, a builder of custom gaming and workstation desktop PCs and laptops.
+…
+show more
+Interested in working with us in the future?
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates.
+Learn more
+Learn more about Interested in working for our company
+I’m interested
+Company photos
+Page 1 of 6
+Previous
+Next
+January 16, 2024
+April 16, 2025
+April 16, 2025
+Show more

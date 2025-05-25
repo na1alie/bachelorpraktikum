@@ -1,8 +1,12 @@
 from neo4j import GraphDatabase
 import json
+import os
+from dotenv import load_dotenv
 
-URI = "neo4j+s://19f2c9b2.databases.neo4j.io"
-AUTH = ("neo4j", "2BfCH2hjWO_3Z3cqcUj4wXsyqxKe7bfKeBqIhM9J0o8")
+load_dotenv()
+URI = os.getenv("NEO4J_URI")
+USERNAME = os.getenv("NEO4J_USERNAME")
+PASSWORD = os.getenv("NEO4J_PASSWORD")
 
 #create NODES
 def create_course_tx(tx, name):
@@ -51,7 +55,7 @@ def clear_database(tx):
     tx.run("MATCH (n) DETACH DELETE n")
 
 #connect to database
-driver = GraphDatabase.driver(URI, auth=AUTH)
+driver = GraphDatabase.driver(URI, auth=(USERNAME, PASSWORD))
 driver.verify_connectivity()
 print("Connected to:", driver.get_server_info())
 

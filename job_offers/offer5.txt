@@ -1,0 +1,176 @@
+Celonis
+Share
+Show more options
+Senior Software Engineer - Database Systems
+Munich, Bavaria, Germany
+·
+5 days ago
+·
+9 people clicked apply
+Skills: Softwareentwicklung, Datenbanksysteme, +8 more
+Curious where you stand? See how you compare to 9 others who clicked apply.
+Try Premium for €0
+Apply
+Save
+Save Senior Software Engineer - Database Systems at Celonis
+Senior Software Engineer - Database Systems
+Celonis · Munich, Bavaria, Germany
+Apply
+Save
+Save Senior Software Engineer - Database Systems at Celonis
+Show more options
+People you can reach out to
+Amazon Web Services (AWS) logo
+Company alumni from Amazon Web Services (AWS) and others in your network
+Show all
+About the job
+We're Celonis, the global leader in Process Mining technology and one of the world's fastest-growing SaaS firms. We believe there is a massive opportunity to unlock productivity by placing data and intelligence at the core of business processes - and for that, we need you to join us.
+The Team:
+You will be part of a team that owns the Process Query Engine which is an analytical database and our core product for process mining that enables our customers to interactively mine enterprise-sized data sets. In order to handle the strong growth of our customer base and their demands, we are continuously expanding our Process Query Language and heavily invest in the performance and scalability of our engine.
+The Role:
+For the Performance squad of our Process Query Engine team, we are looking for a Software Engineer with solid experience in system programming and the skills to build a highly parallelized and distributed database with modern C++. As part of a talented engineering team, you’ll develop and implement new concepts and algorithms for our Process Query Engine, take ownership of our solutions to increase reliability and performance, and drive initiatives to shape future innovations.
+The work you’ll do:
+Develop new concepts and algorithms for data management and query execution
+Challenge and benchmark our solutions using performance engineering principles
+Shape and contribute to our development and maintenance processes
+Communicate and coordinate with stakeholders and customers
+Take responsibility for the performance, scalability, and reliability of our solutions
+Support in problem-solving and optimization
+Mentor project teams and more junior engineers
+Lead projects and define technical roadmaps
+Take full responsibility from end-to-end - from problem to solution
+The qualifications you need:
+University degree in computer science or comparable education
+Experience in system programming, ideally modern C++ - other languages are a plus
+Solid knowledge in one or more of the following areas: parallel computing, distributed systems or database internals
+Experience in software development for productive systems (as senior 5+ years)
+Experience in cloud engineering, Linux systems, infrastructure as code, build systems, performance monitoring is a plus
+An analytical mindset with great understanding of performance and algorithms
+Excellent communication skills in English, German is a plus
+What Celonis Can Offer You:
+Pioneer Innovation: Work with the leading, award-winning process mining technology, shaping the future of business.
+Accelerate Your Growth: Benefit from clear career paths, internal mobility, a dedicated learning program, and mentorship opportunities.
+Receive Exceptional Benefits: Including generous PTO, hybrid working options, company equity (RSUs), comprehensive benefits, extensive parental leave, dedicated volunteer days, and
+much more
+.
+Prioritize Your Well-being: Access to resources such as gym subsidies, counseling, and well-being programs.
+Connect and Belong: Find community and support through dedicated inclusion and belonging programs.
+Make Meaningful Impact: Be part of a company driven by strong
+values
+that guide everything we do: Live for Customer Value, The Best Team Wins, We Own It, and Earth Is Our Future.
+Collaborate Globally: Join a dynamic, international team of talented individuals.
+Empowered Environment: Contribute your ideas in an open culture with autonomous teams.
+About Us:
+Celonis makes processes work for people, companies and the planet. The Celonis Process Intelligence Platform uses industry-leading process mining and AI technology and augments it with business context to give customers a living digital twin of their business operation. It’s system-agnostic and without bias, and provides everyone with a common language for understanding and improving businesses. Celonis enables its customers to continuously realize significant value across the top, bottom, and green line. Celonis is headquartered in Munich, Germany, and New York City, USA, with more than 20 offices worldwide.
+Get familiar with the Celonis Process Intelligence Platform by watching this
+video
+.
+Celonis Inclusion Statement:
+At Celonis, we believe our people make us who we are and that “The Best Team Wins”. We know that the best teams are made up of people who bring different perspectives to the table. And when everyone feels included, able to speak up and knows their voice is heard - that's when creativity and innovation happen.
+Your Privacy:
+Any information you submit to Celonis as part of your application will be processed in accordance with Celonis’
+Accessibility and Candidate Notices
+By submitting this application, you confirm that you agree to the storing and processing of your personal data by Celonis as described in our
+Privacy Notice for the Application and Hiring Process
+.
+Please be aware of common job offer scams, impersonators and frauds. Learn more
+here
+.
+Qualifications
+1 skill matches your profile. Stand out by adding other skills you have.
+Skills associated with the job post
+Identified by LinkedIn
+1 skill on your profile
+Softwareentwicklung
+9 skills missing on your profile
+Analytische Fähigkeiten, Benchmarking, Counseling, Datenbanken, Datenbanksysteme, Neue Konzepte, Performance Engineering, Projektgruppen, and Psychotherapie
+Add skills you have to your profile to stand out to the employer.
+Add skills
+Show qualification details
+Job search faster with Premium
+Access company insights like strategic priorities, headcount trends, and more
+Yange and millions of other members use Premium
+Try Premium for €0
+1-month free trial. Cancel whenever. We’ll remind you 7 days before your trial ends.
+About the company
+Celonis
+276,360 followers
+Follow
+Software Development
+1,001-5,000 employees
+3,603 on LinkedIn
+Celonis makes processes work for people, companies, and the planet.
+The Celonis Process Intelligence Platform takes the data from the systems you already use, and presents you with a living digital twin of your end-to-end processes. It’s system-agnostic, without bias, and provides everyone with a common language for understanding and improving processes.
+Because when processes work, everything works.
+Since 2011, Celonis has helped 1,000+ of the world’s largest companies to realize value across the top, bottom, and green line.
+Celonis is headquartered in Munich, Germany, and New York City, USA, with more than 20 offices worldwide. Find out more at www.celonis.com.
+…
+show more
+Commitments
+Environmental sustainability
+We believe that Earth is Our Future. 
+
+Sustaining our planet isn’t about keeping up with trends, it’s about committing to a better way of doing business. 
+
+We believe in delivering real change internally, and real value externally. Celonis has committed to setting near and long-term science-based targets in line with the Science Based Targets initiative (SBTi) Net-Zero Standard. 
+
+Our Sustainability Report outlines the measures we’re taking to reduce emissions and the investments we’re making in a range of climate solutions to create the most impact. 
+
+We believe in delivering green value to our customers by leveraging the power of our Execution Management System (EMS). 
+
+Our product empowers every company to reduce its carbon impact and execute in a sustainable way through the elimination of process inefficiencies. We can change the world - one process at a time.
+…
+Show more
+Social impact
+We think companies that can do more, should. 
+
+We give each of our 3000+ Celonauts three days a year to make a positive change in their communities or on the planet. We call these Celonis Impact Days and they contributed to 50,000 hours of impact in 2022 alone.
+
+We also use our resources to amplify the good Celonauts are doing in the world by supporting causes they care about through donation-matching schemes and internal programming. We believe in equal opportunities and the power of education to pursue one's dreams. So, we designed the Aspire program to combat educational inequality by removing financial barriers and turning educational dreams into real opportunities. 
+
+We also launched our Academic Alliance program in partnership with over a thousand universities to help educate the next generation of process miners. We’re supporting students and teachers globally by providing free access to Celonis technology for learning purposes, and opportunities to earn learning certifications. We believe that together we can really make a difference.
+…
+Show more
+Work-life balance
+At Celonis, we want to support Celonauts through their key life stages and milestones. 
+
+We recognize the demanding work we ask of our employees and want to give Celonauts time to recharge and take care of their loved ones. Our family leave program, offering 24 weeks of paid leave for main carers and 12 weeks for supporting carers, helps new parents to spend time bonding with their baby or adopted child in a way that fits their family circumstances. 
+
+Celonauts are eligible for this benefit from day 1 of their journey with us. Additionally, we offer a wide range of employee offerings globally to support employee health and wellbeing, including subsidized gym memberships and confidential counseling to support Celonauts through difficult times. 
+
+Celonis has adopted a hybrid working model allowing Celonauts to work part of their working week at home. We’ve invested in our offices globally to ensure Celonauts have access to comfortable workspaces that promote collaboration and socialization to bring the Celonis culture to life. 
+
+We aim to provide the resources and support to ensure Celonis is a place where everyone feels valued and can thrive.
+…
+Show more
+Career growth and learning
+We live and breathe continuous improvement. 
+
+It’s a fundamental aspect of what we do, and we extend that to the professional and personal development of our employees. 
+
+Through our evolving learning experience platform, Celonauts can access skills training for today or learn new skills for a future role. Though Celonauts are the drivers of their careers, we offer mentorship programs, skills development, and consistent training opportunities to foster their growth. 
+
+Our Internal Mobility Program provides career path options - not just based on what an employee has been doing, but based on what they could do for other teams, functions, or locations. It gives our employees the chance to upskill, scale their impact, become leaders, and even create new departments to fuel their career development and Celonis’ success.
+…
+Show more
+Diversity, equity, and inclusion
+We believe that The Best Team Wins. 
+
+And the best-performing teams are inclusive ones. We are committed to building a workplace that truly reflects the world we live in and a culture that exemplifies our values. 
+
+We know we have a long way to go, but we have laid crucial foundations for our global strategy. Our approach is data-driven and our roadmap is built on precise insights from analytics, as well as key performance indicators and targets to monitor our progress. 
+
+Our Business Resource Groups (BRGs) support our goals of creating a sense of inclusion and belonging at Celonis. Many of these communities are sponsored by our executive team and come together to exchange experiences, celebrate cultural events, and support each other's development.
+…
+Show more
+Learn more
+Interested in working with us in the future?
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates.
+Learn more
+Learn more about Interested in working for our company
+I’m interested
+Trending employee content
+Page 1 of 4
+Previous
+Next
+Show more

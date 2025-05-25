@@ -1,0 +1,90 @@
+Google
+Share
+Show more options
+Systems Development Engineer, Customer Deployments, Google Cloud
+Munich, Bavaria, Germany
+·
+2 weeks ago
+·
+15 people clicked apply
+On-site
+Full-time
+Skills: Informatik, Amazon Web Services (AWS), +8 more
+Curious where you stand? See how you compare to 15 others who clicked apply.
+Try Premium for €0
+Apply
+Save
+Save Systems Development Engineer, Customer Deployments, Google Cloud at Google
+Systems Development Engineer, Customer Deployments, Google Cloud
+Google · Munich, Bavaria, Germany (On-site)
+Apply
+Save
+Save Systems Development Engineer, Customer Deployments, Google Cloud at Google
+Show more options
+People you can reach out to
+Amazon Web Services (AWS) logo
+Company alumni from Amazon Web Services (AWS) and others in your network
+Show all
+About the job
+Minimum qualifications:
+Bachelor's degree in Computer Science or equivalent practical experience.
+3 years of experience with systems automation, and with systems design and implementation and technical infrastructure (e.g., deployment, maintenance, troubleshooting).
+Experience in TCP/IP and networking concepts (PXE boot, Subnets, VLANs, Jumbo Frames, LACP, NIC Teaming, Unicast/Broadcast/Multicast, ACLs, DNS, DHCP, SSH, etc.) and in one or more areas of infrastructure: Linux, Kubernetes, Networking, Storage, etc.
+Due to the sensitive nature of this role, candidates must be able to obtain and maintain a Level 2 security clearance (SÜ2) under the German Classification Act (SÜG).
+Preferred qualifications:
+Experience as a Customer Solution Engineer.
+Experience in scripting (e.g., Bash, Perl, Python, Ruby, etc.) to help with automation of routine tasks.
+Experience in Site Reliability Engineer or IT production systems engineering.
+Understanding of physical server, storage and network devices.
+Ability to travel internationally up to 25% of the time.
+Excellent relationship-building skills and the ability to empathize with customers.
+About The Job
+Systems Development Engineering (SDE) at Google is a role where you manage services and systems at scale. SDEs creatively put their engineering discipline to use automating the mundane and reducing toil. We don’t just write code to fix bugs, but emphasize the development of tools and solutions that fix classes of problems. We know it’s hard to control what you can’t measure – so we focus on observability: instrumenting first, then turning data into knowledge, and finally knowledge into action. We know that the operational efficiency of Google systems, services, virtual compute environments and the operating systems that power them impact the environment, not just the bottom line. We know that working together we can do more, and that community matters.
+Google brings together people with a wide variety of backgrounds, experiences and perspectives. We encourage them to collaborate, think big and take risks in a blame-free environment. We promote self-direction to work on meaningful projects, while we also strive to create an environment that provides the support and mentorship needed to learn and grow.
+Together we engineer and build the infrastructure, tools, access and telemetry for systems that enable orchestration of Google-scale services. Come build things that matter.
+As a Systems Development Engineer, you will be responsible for deploying Google Distributed Cloud Hosted (GDCH) solutions at customer sites as well as internal reference deployments. You will build expertise in deploying and operating GDCH solutions.
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+Responsibilities
+Perform day to day troubleshooting and resolution of Infrastructure issues (Network, Storage, Servers,OS, Kubernetes, etc.).
+Interact with customers as well as internal development organizations in order to accomplish shared goals.
+Participate in Customer, Partner, and Internal team Deployments and training which will require international travel.
+Deliver train-the-trainer programs to equip Google partners with the knowledge and skills to effectively conduct customer deployments.
+Participate in the 24x7 on-call rotation to support escalations from client deployments as well as internal reference deployments.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .
+Qualifications
+2 skills match your profile. Stand out by adding other skills you have.
+Skills associated with the job post
+Identified by LinkedIn
+2 skills on your profile
+Amazon Web Services (AWS) and Informatik
+8 skills missing on your profile
+Aufbau von Beziehungen, Fehlerbehebung, Linux, Multicast, Systementwicklung, Systemtechnik, Unicast, and VLAN
+Add skills you have to your profile to stand out to the employer.
+Add skills
+Show qualification details
+Job search faster with Premium
+Access company insights like strategic priorities, headcount trends, and more
+Yange and millions of other members use Premium
+Try Premium for €0
+1-month free trial. Cancel whenever. We’ll remind you 7 days before your trial ends.
+About the company
+Google
+37,424,503 followers
+Follow
+Software Development
+10,001+ employees
+306,990 on LinkedIn
+A problem isn't truly solved until it's solved for all. Googlers build products that help create opportunities for everyone, whether down the street or across the globe. Bring your insight, imagination and a healthy disregard for the impossible. Bring everything that makes you unique. Together, we can build for everyone.
+Check out our career opportunities at goo.gle/3DLEokh
+…
+show more
+Interested in working with us in the future?
+Privately share your profile with our recruiters – you’ll be noted as expressing interest for up to a year and be notified about jobs and updates.
+Learn more
+Learn more about Interested in working for our company
+I’m interested
+Trending employee content
+Page 1 of 3
+Previous
+Next
+Show more

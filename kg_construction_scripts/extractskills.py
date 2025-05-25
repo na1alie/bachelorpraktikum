@@ -1,8 +1,11 @@
 import openai
+import os
 import json
+from dotenv import load_dotenv
 
+load_dotenv()
 #openai api key, kostet je prompt
-client = openai.OpenAI(api_key="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")
+client = openai.OpenAI(api_key=os.getenv("OPEN_AI_API_KEY"))
 
 courses_skills = []
 

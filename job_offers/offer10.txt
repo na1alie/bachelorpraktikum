@@ -1,0 +1,130 @@
+LSE Space
+Share
+Show more options
+Fullstack Engineer (f/m/d)
+Gilching, Bavaria, Germany
+·
+1 week ago
+·
+Over 100 applicants
+Hybrid
+Full-time
+Mid-Senior level
+Skills: React.js, Spring Boot, +7 more
+See how you compare to over 100 other applicants.
+Try Premium for €0
+Easy Apply
+Save
+Save Fullstack Engineer (f/m/d) at LSE Space
+Fullstack Engineer (f/m/d)
+LSE Space  · Gilching, Bavaria, Germany (Hybrid)
+Easy Apply
+Save
+Save Fullstack Engineer (f/m/d) at LSE Space
+Show more options
+People you can reach out to
+Technical University of Munich logo
+School alumni from Technical University of Munich
+Show all
+About the job
+Are you fuelled by a passion for satellite operations and ready to embark on an exciting journey with us to help Earth benefit from space? If you answered yes to the question, we invite you to seize the opportunity to make a significant impact with LSE Space!
+Overview
+Location: This is a hybrid position that requires the candidate to be based in either Darmstadt or Gilching, Germany.
+Working hours: full time, 40h/week
+Please submit your application and all accompanying documents in English.
+We are currently seeking to employ a motivated and experienced FullStack Engineer to strengthen our team of software and system engineers.
+What you´ll do
+Front-End Development
+Build and maintain user interfaces to ensure exceptional user experiences.
+Deliver responsive, interactive, and visually appealing applications.
+Back-End Development
+Implement and maintain robust microservices to meet business needs.
+Design and consume scalable APIs to handle complex data requirements.
+Ensure efficient data access, schema design, and performance optimization.
+Deploy microservices in scalable and secure environments.
+Configure systems to handle load balancing, traffic routing, and security policies effectively.
+Maintain and optimize continuous integration and deployment pipelines.
+Develop efficient data flows while ensuring performance and security.
+Integrate secure user management and authentication systems.
+Monitor system metrics and create insightful performance dashboards.
+Incorporate centralized logging and advanced analytics for troubleshooting and optimization.
+Troubleshoot and optimize systems for performance, reliability, and security.
+Participate actively in sprint planning, daily stand-ups, and retrospectives.
+Collaborate closely with cross-functional teams to gather requirements and create technical documentation.
+Ensure timely delivery of project milestones and contribute ideas for continuous improvement.
+What we are looking for
+Extensive hands-on backend development experience with Java, Spring Boot and Kafka.
+Practical experience designing or consuming GraphQL APIs.
+Experience with SecDevOps principles or strong security-focused development practices.
+Proven experience with Docker, Kubernetes, and pipelines (Git, Jenkins, Nexus).
+Strong understanding of cloud-native design patterns and microservices architecture.
+Proficient in Linux environments with the ability to script in Bash or Python.
+Basic understanding of data structures, algorithms, and common programming patterns.
+Ability to approach technical challenges methodically and seek guidance when needed.
+Strong attention to detail and high level of accuracy.
+About LSE Space
+We are an independent provider of space services, covering the entire life cycle of space systems, as the main subsidiary of SSC's Engineering Services. Employing over 190 engineers, we provide services to the international space market, including support for all phases of a space mission or full service, operations, independent consulting and training.
+What we offer:
+Thriving Environment
+: A growing and international environment with diverse backgrounds to learn from, with a lot of social events.
+Work-Life Balance
+: Take advantage of our relocation support and 30 days of paid vacation.
+Develop yourself:
+Enjoy permanent employment with diverse opportunities for growth, with our training program and a German language course.
+Well being
+: Prioritize your well-being with access to our gym program, bike lease program, and company doctor services.
+Supportive Workplace
+: Experience our open-door policy and ISO 9001-certified workplace, where your voice is valued and your contributions recognized
+Rewards and Incentives
+: Receive a competitive salary, bonus scheme, deferred compensation scheme and sponsored public transportation tickets.
+Our Values:
+Customer Passion - Collaboration - Care - Curiosity - Courage
+In particular this means we always put our customers’ needs at the forefront of everything we do. We aspire to a high level of customer passion. Our policy, as a fair and loyal partner, is to focus on our customers’ goals and generate innovative solutions tailored to the project. Collaboration is the key to our success – one for all and all for one. We care for our people and try to make everything happen – for our employees AND our customers. Only with a high employee well-being our success is possible. We are reliable and result-oriented all the way and we always strive to deliver better than expected. This approach is essential for the benefit of both our clients and teams. As a result, we are able to preserve a spirit of trust and fairness between customers, partners and employees.
+LSE Space is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+Qualifications
+Stand out by adding skills associated with the job post
+Requirements added by the job poster
+Authorized to work in Deutschland
+Professional in Englisch
+2+ years of work experience with Angular
+Skills added by the job poster
+9 skills missing on your profile
+Angular, Back-End-Webentwicklung, Frontend-Entwicklung, Git, GraphQL, Java, Microservices, React.js, and Spring Boot
+Add skills you have to your profile to stand out to the employer.
+Add skills
+Show qualification details
+Job search faster with Premium
+Access company insights like strategic priorities, headcount trends, and more
+Yange and millions of other members use Premium
+Try Premium for €0
+1-month free trial. Cancel whenever. We’ll remind you 7 days before your trial ends.
+About the company
+LSE Space
+12,814 followers
+Follow
+Defense and Space Manufacturing
+51-200 employees
+167 on LinkedIn
+LSE Space is part of SSC Group (Swedish Space Corporation). We provide engineering, operations and consultancy services to the international space community and support all project phases, from designing and testing to launch and operations. As an independent space consultancy, we support satellite and manned missions in both the industrial and public sectors. Based on more than 30 years of experience, we can offer a wide range of services including customized ground segment software solutions.
+What we offer to our employees:
+•	International and innovative environment
+•	Fascinating missions and projects in the area of satellite operations
+•	Permanent employment contract
+•	Open door policy
+•	ISO 9001-certified workplace
+•	Career opportunities
+•	Competitive salary
+•	Bonus scheme
+•	Deferred compensation scheme
+•	Relocation support
+•	30 days paid vacation
+•	Company doctor
+•	Gym program
+•	Bike lease program
+•	Support for public transportation ticket
+•	Educational training program
+•	Company events
+Join our team now!
+…
+show more
+Show more

@@ -402,3 +402,5 @@ FodyWeavers.xsd
 
 # my own
 myenv
+
+.env
