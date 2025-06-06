@@ -13,3 +13,15 @@ def add_requires_relation(tx, job_name, skill_name):
         MATCH (s:Skill {name: $skill_name})
         MERGE (j)-[:requires]->(s)
     """, job_name=job_name, skill_name=skill_name)
+
+def add_teaches_relationship(tx, course, skill):
+    tx.run("""
+        MATCH (c:Course {name: $course})
+        MATCH (s:Skill {name: $skill})
+        MERGE (c)-[:TEACHES]->(s)
+        """, course=course, skill=skill)
+    
+def clear_database(tx):
+    tx.run("MATCH (n) DETACH DELETE n")
+
+
