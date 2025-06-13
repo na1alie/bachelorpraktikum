@@ -1,0 +1,2054 @@
+[
+  {
+    "title": "Introduction to Software Engineering",
+    "kennung": "IN0006",
+    "skills": [
+      "Problem Solving",
+      "Software Design",
+      "Software Architecture",
+      "Software Testing",
+      "Program Analysis",
+      "Software Management",
+      "Software Deployment",
+      "Software Quality",
+      "Project Management",
+      "Cloud Computing"
+    ]
+  },
+  {
+    "title": "Introduction to Theory of Computation",
+    "kennung": "IN0011",
+    "skills": [
+      "Formal Languages",
+      "Automata Theory",
+      "Computability",
+      "Complexity Theory",
+      "Algorithms",
+      "Problem Solving",
+      "Proofs",
+      "Transformations",
+      "Reductions",
+      "Equivalence"
+    ]
+  },
+  {
+    "title": "Functional Programming and Verification",
+    "kennung": "IN0003",
+    "skills": [
+      "Programming",
+      "Functional Programming",
+      "Verification",
+      "Formal Methods",
+      "Imperative Programming",
+      "Data Structures",
+      "Higher-Order Functions",
+      "Polymorphism",
+      "Semantics",
+      "Program Correctness"
+    ]
+  },
+  {
+    "title": "Introduction to Informatics 2",
+    "kennung": "IN0003",
+    "skills": [
+      "Critical Thinking",
+      "Problem-Solving",
+      "Programming",
+      "Functional Programming",
+      "Verification",
+      "Imperative Programming",
+      "Data Structures",
+      "Polymorphism",
+      "Abstraction",
+      "Self-Learning"
+    ]
+  },
+  {
+    "title": "Fundamentals of Algorithms and Data Structures",
+    "kennung": "IN0007",
+    "skills": [
+      "Algorithm Design",
+      "Data Structures",
+      "Complexity Analysis",
+      "Sorting",
+      "Hashing",
+      "Graph Theory",
+      "Optimization",
+      "Pattern Matching",
+      "Data Compression",
+      "Problem Solving"
+    ]
+  },
+  {
+    "title": "Fundamentals of Algorithms and Data Structures",
+    "kennung": "IN0007",
+    "skills": [
+      "Data Structures",
+      "Algorithm Analysis",
+      "Sorting",
+      "Hashing",
+      "Searching",
+      "Complexity Analysis",
+      "Graph Algorithms",
+      "Data Compression",
+      "Pattern Matching",
+      "Priority Queues"
+    ]
+  },
+  {
+    "title": "Fundamentals of Databases",
+    "kennung": "IN0008",
+    "skills": [
+      "Database Design",
+      "SQL",
+      "Relational Algebra",
+      "Query Optimization",
+      "Transaction Management",
+      "Data Recovery",
+      "Concurrency Control",
+      "Authorization",
+      "XML Data Modeling",
+      "Systematic Evaluation"
+    ]
+  },
+  {
+    "title": "Introduction to Computer Networking and Distributed Systems",
+    "kennung": "IN0010",
+    "skills": [
+      "Networking",
+      "Distributed Systems",
+      "Protocols",
+      "Architecture",
+      "Performance",
+      "Implementation",
+      "Security",
+      "Cryptography",
+      "Authentication",
+      "Management"
+    ]
+  },
+  {
+    "title": "Fundamentals of Programming (Exercises & Laboratory)",
+    "kennung": "IN0002",
+    "skills": [
+      "Programming",
+      "Problem Solving",
+      "Data Structures",
+      "Recursion",
+      "Object-Oriented Programming",
+      "Concurrency"
+    ]
+  },
+  {
+    "title": "Basic Practical Course: Computer Architecture",
+    "kennung": "IN0005",
+    "skills": [
+      "Performance Analysis",
+      "Benchmarking",
+      "Profiling",
+      "C Programming",
+      "Data Structures",
+      "Compiler Optimizations",
+      "Parallel Programming",
+      "Instruction Parallelism",
+      "SIMD Programming",
+      "Multithreading"
+    ]
+  },
+  {
+    "title": "Laboratory: Computer Organization and Computer Architecture",
+    "kennung": "IN0005",
+    "skills": [
+      "Assembly Programming",
+      "Hardware Description",
+      "Project Management",
+      "Teamwork",
+      "Oral Communication",
+      "Written Communication"
+    ]
+  },
+  {
+    "title": "IT Security",
+    "kennung": "IN0042",
+    "skills": [
+      "Cryptography",
+      "Information Security",
+      "Network Security",
+      "Risk Management",
+      "Access Control",
+      "Authentication",
+      "Systems Security",
+      "Operational Security",
+      "Cybersecurity",
+      "Threat Analysis"
+    ]
+  },
+  {
+    "title": "Efficient Algorithms and Data Structures",
+    "kennung": "IN2003",
+    "skills": [
+      "Algorithm Analysis",
+      "Data Structures",
+      "Algorithmic Design",
+      "Complexity Analysis",
+      "Runtime Analysis",
+      "Memory Analysis",
+      "Recurrence Relations",
+      "Graph Algorithms",
+      "Optimization Algorithms",
+      "Problem Solving"
+    ]
+  },
+  {
+    "title": "Efficient Algorithms and Data Structures II",
+    "kennung": "IN2004",
+    "skills": [
+      "Optimization",
+      "Modeling",
+      "Algorithms",
+      "Approximation",
+      "Greedy",
+      "Local Search",
+      "Relaxation",
+      "Primal-Dual",
+      "Linear Programming",
+      "Combinatorial Optimization"
+    ]
+  },
+  {
+    "title": "Complexity Theory",
+    "kennung": "IN2007",
+    "skills": [
+      "Computational Complexity",
+      "Computational Models",
+      "Algorithmic Analysis",
+      "Reductions",
+      "Completeness",
+      "Diagonalization",
+      "Polynomial Hierarchy",
+      "Space Complexity",
+      "Randomization",
+      "Interactive Proofs"
+    ]
+  },
+  {
+    "title": "Parallel Algorithms",
+    "kennung": "IN2011",
+    "skills": [
+      "Algorithm Design",
+      "Parallel Computing",
+      "Complexity Theory",
+      "Computational Thinking",
+      "Problem Solving",
+      "Evaluation",
+      "Routing",
+      "Sorting",
+      "Discrete Mathematics",
+      "Data Structures"
+    ]
+  },
+  {
+    "title": "Advanced Network and Graph Algorithms",
+    "kennung": "IN2158",
+    "skills": [
+      "Algorithm Design",
+      "Graph Theory",
+      "Network Analysis",
+      "Optimization",
+      "Problem Solving",
+      "Quantitative Analysis",
+      "Statistical Analysis",
+      "Theoretical Computer Science"
+    ]
+  },
+  {
+    "title": "Randomized Algorithms",
+    "kennung": "IN2160",
+    "skills": [
+      "Algorithms",
+      "Probability Theory",
+      "Mathematical Analysis",
+      "Game Theory",
+      "Complexity Theory",
+      "Data Structures",
+      "Hashing",
+      "Randomization",
+      "Optimization",
+      "Problem Solving"
+    ]
+  },
+  {
+    "title": "Algorithmic Game Theory",
+    "kennung": "IN2239",
+    "skills": [
+      "Algorithm Design",
+      "Game Theory",
+      "Strategic Thinking",
+      "Computational Complexity",
+      "Mathematical Modeling",
+      "Economic Mechanisms",
+      "Interactive Systems",
+      "Theoretical Analysis",
+      "Problem Solving",
+      "Decision Making"
+    ]
+  },
+  {
+    "title": "Computational Social Choice",
+    "kennung": "IN2229",
+    "skills": [
+      "Preference Aggregation",
+      "Voting Theory",
+      "Choice Theory",
+      "Axiomatic Analysis",
+      "Computational Complexity",
+      "Formal Reasoning",
+      "Theorem Proving",
+      "Algorithmic Analysis",
+      "Optimization",
+      "Formal Modeling"
+    ]
+  },
+  {
+    "title": "Advanced Algorithms",
+    "kennung": "IN2360",
+    "skills": [
+      "Algorithm Design",
+      "Data Structures",
+      "Randomized Algorithms",
+      "Greedy Algorithms",
+      "Dynamic Programming",
+      "Graph Theory",
+      "Complexity Theory",
+      "Optimization",
+      "Probability",
+      "Cryptography"
+    ]
+  },
+  {
+    "title": "Online and Approximation Algorithms",
+    "kennung": "IN2304",
+    "skills": [
+      "Algorithm Design",
+      "Approximation Algorithms",
+      "Data Structures",
+      "Online Algorithms",
+      "Optimization",
+      "Problem Solving",
+      "Resource Management",
+      "Scheduling",
+      "Theoretical Analysis",
+      "Time Complexity"
+    ]
+  },
+  {
+    "title": "Operations Research",
+    "kennung": "IN0024",
+    "skills": [
+      "Decision Analysis",
+      "Linear Programming",
+      "Optimization",
+      "Modeling",
+      "Sensitivity Analysis",
+      "Duality Theory",
+      "Integer Programming",
+      "Network Analysis",
+      "Problem Solving",
+      "Critical Thinking"
+    ]
+  },
+  {
+    "title": "Analysis of Three-Dimensional Shapes",
+    "kennung": "IN2238",
+    "skills": [
+      "Differential Geometry",
+      "Shape Analysis",
+      "Shape Representation",
+      "Shape Comparison",
+      "Symmetry Detection",
+      "Spectral Methods",
+      "Conformal Geometry",
+      "Continuum Mechanics",
+      "Feature Extraction",
+      "Machine Learning"
+    ]
+  },
+  {
+    "title": "Basic Mathematical Methods for Imaging and Visualization",
+    "kennung": "IN2124",
+    "skills": [
+      "Linear Algebra",
+      "Optimization",
+      "Probability Theory",
+      "Numerical Programming",
+      "Calculus",
+      "Least Squares",
+      "Eigenvalues",
+      "Gradient Descent",
+      "Convergence",
+      "Differentiability"
+    ]
+  },
+  {
+    "title": "Game Engine Design",
+    "kennung": "IN0038",
+    "skills": [
+      "Rendering",
+      "Geometry Transformation",
+      "Shading",
+      "Lighting",
+      "Texture Mapping",
+      "Dynamics",
+      "Collision Detection",
+      "Rasterization",
+      "Animation",
+      "Real-time"
+    ]
+  },
+  {
+    "title": "Real-time Computer Graphics",
+    "kennung": "IN0038",
+    "skills": [
+      "Computer Graphics",
+      "Rendering",
+      "Shading",
+      "Texture Mapping",
+      "Motion Dynamics",
+      "Collision Detection",
+      "Geometry Transformation",
+      "Rasterization",
+      "Object Modeling",
+      "Particle Systems"
+    ]
+  },
+  {
+    "title": "Practical Course: Game Engine Design",
+    "kennung": "IN0039",
+    "skills": [
+      "Programming",
+      "Graphics",
+      "Rendering",
+      "Shader",
+      "Teamwork",
+      "Version Control"
+    ]
+  },
+  {
+    "title": "Practical Course: Real-time Computer Graphics",
+    "kennung": "IN0039",
+    "skills": [
+      "Programming",
+      "Software Development",
+      "Graphics Programming",
+      "Rendering",
+      "Shader Programming",
+      "Version Control",
+      "Teamwork",
+      "C++",
+      "Direct3D"
+    ]
+  },
+  {
+    "title": "Tracking and Detection in Computer Vision",
+    "kennung": "IN2210",
+    "skills": [
+      "Image Processing",
+      "Feature Detection",
+      "Feature Matching",
+      "Object Tracking",
+      "Object Detection",
+      "Optimization",
+      "Probabilistic Methods",
+      "Machine Learning",
+      "Camera Modeling",
+      "Pose Estimation"
+    ]
+  },
+  {
+    "title": "Application and Implementation of Database Systems",
+    "kennung": "IN2031",
+    "skills": [
+      "Database Design",
+      "Concurrency Control",
+      "Security",
+      "Object-Oriented Design",
+      "Distributed Systems",
+      "Data Mining",
+      "Performance Evaluation",
+      "XML",
+      "Big Data",
+      "Algorithm Design"
+    ]
+  },
+  {
+    "title": "Electronic Publishing / Document Engineering and the World-Wide Web",
+    "kennung": "IN2032",
+    "skills": [
+      "Information Retrieval",
+      "Data Processing",
+      "Document Engineering",
+      "Markup Languages",
+      "Schema Design",
+      "Transformation",
+      "Query Languages",
+      "Web Application Development",
+      "Modeling",
+      "Programming"
+    ]
+  },
+  {
+    "title": "Database Systems on Modern CPU Architectures",
+    "kennung": "IN2118",
+    "skills": [
+      "Algorithm Design",
+      "Database Management",
+      "Data Structures",
+      "Memory Management",
+      "Performance Optimization",
+      "Query Optimization",
+      "Relational Databases",
+      "Software Engineering",
+      "Systems Architecture",
+      "Tuple Layout"
+    ]
+  },
+  {
+    "title": "Cloud Information Systems",
+    "kennung": "CIT3230002",
+    "skills": [
+      "Systems Analysis",
+      "Cloud Computing",
+      "Software Architecture",
+      "Cost Optimization",
+      "Scalability",
+      "Virtualization",
+      "Containers",
+      "Microservices",
+      "DevOps",
+      "Cybersecurity"
+    ]
+  },
+  {
+    "title": "Cloud-Based Data Processing",
+    "kennung": "IN2386",
+    "skills": [
+      "Data Processing",
+      "Distributed Systems",
+      "Cloud Computing",
+      "Scalability",
+      "Fault Tolerance",
+      "Consistency Models",
+      "Distributed Transactions",
+      "Resource Management",
+      "Data Storage",
+      "Security"
+    ]
+  },
+  {
+    "title": "Code Generation for Data Processing",
+    "kennung": "CIT3230001",
+    "skills": [
+      "Code Generation",
+      "Data Processing",
+      "Program Representation",
+      "Optimization Techniques",
+      "Machine Code Generation",
+      "Instruction Selection",
+      "Register Allocation",
+      "Virtual Machine Execution",
+      "Sandboxing",
+      "Database Query Execution"
+    ]
+  },
+  {
+    "title": "Data Processing on Modern Hardware",
+    "kennung": "CIT3230004",
+    "skills": [
+      "Data Structures",
+      "Algorithms",
+      "Parallelism",
+      "Optimization",
+      "Memory Management",
+      "Hardware Acceleration",
+      "Distributed Systems",
+      "Performance Analysis",
+      "Software Design",
+      "Debugging"
+    ]
+  },
+  {
+    "title": "Data Structure Engineering",
+    "kennung": "CIT3230003",
+    "skills": [
+      "Data Structures",
+      "Algorithm Design",
+      "Performance Optimization",
+      "Software Engineering",
+      "Hardware Architecture",
+      "Parallel Programming",
+      "Scalability",
+      "Efficiency",
+      "Retrieval",
+      "Storage"
+    ]
+  },
+  {
+    "title": "Event Processing",
+    "kennung": "IN2288",
+    "skills": [
+      "Problem Solving",
+      "Analytical Thinking",
+      "Data Processing",
+      "Modeling",
+      "Programming",
+      "Algorithms",
+      "Distributed Systems",
+      "Event Handling",
+      "Stream Processing",
+      "Formal Methods"
+    ]
+  },
+  {
+    "title": "High Performance Query Processing",
+    "kennung": "CIT323001",
+    "skills": [
+      "Query Processing",
+      "Analytical Queries",
+      "Parallel Processing",
+      "Distributed Processing",
+      "Performance Optimization",
+      "Database Algorithms",
+      "Multicore Parallelization",
+      "SIMD Parallelization",
+      "Out-of-memory Processing",
+      "Scalable Algorithms"
+    ]
+  },
+  {
+    "title": "Query Optimization",
+    "kennung": "IN2219",
+    "skills": [
+      "Query Processing",
+      "Optimization Techniques",
+      "Cost Modeling",
+      "Dynamic Programming",
+      "Complexity Analysis",
+      "Problem-Solving",
+      "Data Analysis",
+      "Relational Databases",
+      "Critical Thinking",
+      "Decision-Making"
+    ]
+  },
+  {
+    "title": "Transaction Systems",
+    "kennung": "IN2267",
+    "skills": [
+      "Concurrency Control",
+      "Transaction Management",
+      "Database Design",
+      "Recovery Techniques",
+      "Distributed Systems"
+    ]
+  },
+  {
+    "title": "IT-Consulting",
+    "kennung": "IN2079",
+    "skills": [
+      "Critical Thinking",
+      "Problem Solving",
+      "Strategic Decision-Making",
+      "IT Management",
+      "IT Governance",
+      "IT Organization",
+      "IT Processes",
+      "IT Controlling",
+      "IT Cost Management",
+      "IT Value Management"
+    ]
+  },
+  {
+    "title": "Modelling of Distributed Systems",
+    "kennung": "IN2080",
+    "skills": [
+      "Modeling",
+      "Specification",
+      "Abstraction",
+      "Refinement",
+      "Verification",
+      "Concurrency",
+      "Interaction",
+      "Coordination",
+      "Systems Development",
+      "Formal Techniques"
+    ]
+  },
+  {
+    "title": "Patterns in Software Engineering",
+    "kennung": "IN2081",
+    "skills": [
+      "Software Design",
+      "Software Architecture",
+      "Software Testing",
+      "Software Refactoring",
+      "Software Analysis",
+      "Software Transformation",
+      "Design Patterns",
+      "Reusable Knowledge",
+      "UML Modeling",
+      "Code Refactoring"
+    ]
+  },
+  {
+    "title": "Project Organisation and Management in Software Engineering",
+    "kennung": "IN2083",
+    "skills": [
+      "Project Management",
+      "Agile Methodologies",
+      "Software Lifecycle",
+      "Estimation",
+      "Scheduling",
+      "Configuration Management",
+      "Continuous Integration",
+      "Continuous Delivery",
+      "Quality Management",
+      "Risk Management"
+    ]
+  },
+  {
+    "title": "Advanced Topics of Software Testing",
+    "kennung": "IN2084",
+    "skills": [
+      "Software Testing",
+      "Risk Management",
+      "Cost Analysis",
+      "Test Planning",
+      "Test Automation",
+      "Software Lifecycle",
+      "Static Analysis",
+      "Black-Box Testing",
+      "White-Box Testing",
+      "Test Management"
+    ]
+  },
+  {
+    "title": "Automotive Software - Methods and Technology",
+    "kennung": "IN2114",
+    "skills": [
+      "Software Development",
+      "Embedded Systems",
+      "Real-Time Systems",
+      "Control Theory",
+      "Sensors and Actuators",
+      "Software Architecture",
+      "Quality Assurance",
+      "Model-Based Development",
+      "Programming",
+      "Software Life Cycle"
+    ]
+  },
+  {
+    "title": "Advanced Concepts of Programming Languages",
+    "kennung": "CIT3230000",
+    "skills": [
+      "Programming",
+      "Language Design",
+      "Compiler Engineering",
+      "Concurrency",
+      "Parallelism",
+      "Object-Oriented Programming",
+      "Functional Programming",
+      "Metaprogramming",
+      "Software Design",
+      "Formal Methods"
+    ]
+  },
+  {
+    "title": "Automata and Formal Languages",
+    "kennung": "IN2041",
+    "skills": [
+      "Problem Solving",
+      "Data Structures",
+      "Formal Verification",
+      "Pattern Matching",
+      "Complexity Analysis",
+      "Automata Theory",
+      "Boolean Operations",
+      "Logical Reasoning",
+      "Diophantine Equations",
+      "Program Analysis"
+    ]
+  },
+  {
+    "title": "Compiler Construction I",
+    "kennung": "IN2227",
+    "skills": [
+      "Programming",
+      "Compilers",
+      "Lexical Analysis",
+      "Syntactic Analysis",
+      "Type Checking",
+      "Type Inference",
+      "Code Generation",
+      "Abstract Machines",
+      "System Software",
+      "Automata Theory"
+    ]
+  },
+  {
+    "title": "Functional Data Structures",
+    "kennung": "IN2347",
+    "skills": [
+      "Problem Solving",
+      "Functional Programming",
+      "Formal Verification",
+      "Algorithmic Analysis",
+      "Data Structures",
+      "Sorting",
+      "Trees",
+      "Priority Queues",
+      "Algorithms",
+      "String Processing"
+    ]
+  },
+  {
+    "title": "Games on Graphs",
+    "kennung": "IN2296",
+    "skills": [
+      "Game Theory",
+      "Algorithm Design",
+      "Problem Solving",
+      "Quantitative Analysis",
+      "Qualitative Analysis",
+      "Reachability",
+      "Markov Decision Processes",
+      "Payoff Games",
+      "Graph Theory",
+      "Logic"
+    ]
+  },
+  {
+    "title": "Logic",
+    "kennung": "IN2049",
+    "skills": [
+      "Logical Reasoning",
+      "Formal Proofs",
+      "Semantics",
+      "Computational Theory",
+      "Automated Reasoning",
+      "Formal Verification",
+      "Decision Procedures",
+      "Declarative Programming",
+      "Database Theory",
+      "Set Theory"
+    ]
+  },
+  {
+    "title": "Model Checking",
+    "kennung": "IN2050",
+    "skills": [
+      "Formal modeling",
+      "Formal verification",
+      "Temporal logic",
+      "Model checking",
+      "Complexity analysis",
+      "State-space reduction",
+      "Automated verification",
+      "Hardware verification",
+      "Software verification",
+      "Concurrency analysis"
+    ]
+  },
+  {
+    "title": "Network Analysis - Statistical and Formal Models and Methods",
+    "kennung": "IN2045",
+    "skills": [
+      "Data Analysis",
+      "Modeling",
+      "Simulation",
+      "Optimization",
+      "Experimental Design",
+      "Statistical Methods",
+      "Quantitative Analysis",
+      "Computational Thinking",
+      "Problem-Solving",
+      "Critical Thinking"
+    ]
+  },
+  {
+    "title": "Petri Nets",
+    "kennung": "IN2052",
+    "skills": [
+      "Modeling",
+      "Analysis",
+      "Verification",
+      "Concurrent Systems",
+      "Formal Methods",
+      "Graphical Notation",
+      "Reachability",
+      "Invariants",
+      "Structure Theory",
+      "Software Tools"
+    ]
+  },
+  {
+    "title": "Program Optimization",
+    "kennung": "IN2053",
+    "skills": [
+      "Dataflow Analysis",
+      "Optimization Techniques",
+      "Program Analysis",
+      "Lattice Theory",
+      "Constant Propagation",
+      "Pointer Analysis",
+      "Fixpoint Algorithms",
+      "Register Allocation",
+      "Instruction Selection",
+      "Cache Optimization"
+    ]
+  },
+  {
+    "title": "Quantitative Verification",
+    "kennung": "IN2340",
+    "skills": [
+      "Formal Modeling",
+      "Formal Verification",
+      "Probabilistic Analysis",
+      "Temporal Logic",
+      "Optimization Techniques",
+      "Reinforcement Learning",
+      "Embedded Systems",
+      "Cyber-Physical Systems",
+      "Safety-Critical Systems",
+      "Model Checking"
+    ]
+  },
+  {
+    "title": "Semantics",
+    "kennung": "IN2055",
+    "skills": [
+      "Programming Language Semantics",
+      "Formal Verification",
+      "Deductive Reasoning",
+      "Axiomatic Reasoning",
+      "Operational Semantics",
+      "Compiler Design",
+      "Static Analysis",
+      "Optimization",
+      "Functional Programming",
+      "Object-Oriented Programming"
+    ]
+  },
+  {
+    "title": "Virtual Machines",
+    "kennung": "IN2040",
+    "skills": [
+      "Program Translation",
+      "Language Design",
+      "Compiler Design",
+      "Virtual Machines",
+      "Portability",
+      "Code Generation",
+      "Imperative Programming",
+      "Functional Programming",
+      "Logic Programming",
+      "Object-Oriented Programming"
+    ]
+  },
+  {
+    "title": "Business Analytics",
+    "kennung": "IN2028",
+    "skills": [
+      "Data Analysis",
+      "Statistical Modeling",
+      "Machine Learning",
+      "Programming",
+      "Predictive Modeling",
+      "Classification",
+      "Clustering",
+      "Regression",
+      "Dimensionality Reduction",
+      "Ensemble Methods"
+    ]
+  },
+  {
+    "title": "Business Analytics and Machine Learning",
+    "kennung": "IN2028",
+    "skills": [
+      "Data Analysis",
+      "Machine Learning",
+      "Programming",
+      "Statistical Modeling",
+      "Predictive Modeling",
+      "Optimization",
+      "Classification",
+      "Clustering",
+      "Causal Inference",
+      "Convex Optimization"
+    ]
+  },
+  {
+    "title": "Data Analysis and Visualization in R",
+    "kennung": "IN2339",
+    "skills": [
+      "Data Analysis",
+      "Data Visualization",
+      "Scripting",
+      "Data Cleaning",
+      "Plotting",
+      "Clustering",
+      "Principal Component Analysis",
+      "Statistical Testing",
+      "Regression",
+      "Classification"
+    ]
+  },
+  {
+    "title": "Machine Learning",
+    "kennung": "IN2064",
+    "skills": [
+      "Data Analysis",
+      "Machine Learning",
+      "Algorithm Selection",
+      "Algorithm Derivation",
+      "Practical Application",
+      "Linear Classifiers",
+      "Linear Regression",
+      "Bayesian Methods",
+      "Neural Networks",
+      "Support Vector Machines"
+    ]
+  },
+  {
+    "title": "Advanced Computer Architecture",
+    "kennung": "IN2076",
+    "skills": [
+      "Processor Architecture",
+      "System Architecture",
+      "Parallel Computing",
+      "Performance Evaluation",
+      "Compiler Technology",
+      "Memory Hierarchy",
+      "Fault Tolerance",
+      "Virtualization",
+      "Synchronization",
+      "Communication Networks"
+    ]
+  },
+  {
+    "title": "Cloud Computing",
+    "kennung": "IN2073",
+    "skills": [
+      "Cloud Computing",
+      "Grid Computing",
+      "Application Development",
+      "Resource Management",
+      "Security",
+      "Distributed Systems",
+      "Research"
+    ]
+  },
+  {
+    "title": "Connected Mobility Basics",
+    "kennung": "IN2324",
+    "skills": [
+      "Critical Thinking",
+      "Problem Solving",
+      "System Design",
+      "Networking",
+      "Simulation",
+      "Evaluation",
+      "Wireless Technology",
+      "Security",
+      "Privacy",
+      "Programming"
+    ]
+  },
+  {
+    "title": "Introduction to Emerging Computing Technologies",
+    "kennung": "CIT3330001",
+    "skills": [
+      "Problem Solving",
+      "Critical Thinking",
+      "Communication",
+      "Teamwork",
+      "Project Management",
+      "Design",
+      "Programming",
+      "Emerging Technologies",
+      "Analytical Skills",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Microprocessors",
+    "kennung": "IN2075",
+    "skills": [
+      "Architecture",
+      "Programming",
+      "Optimization",
+      "Performance",
+      "Instruction Set",
+      "Pipelining",
+      "Cache",
+      "Superscalar",
+      "Branch Prediction",
+      "Speculative Execution"
+    ]
+  },
+  {
+    "title": "Mobile Distributed Systems",
+    "kennung": "IN2098",
+    "skills": [
+      "Wireless Communication",
+      "Mobile Computing",
+      "Distributed Systems",
+      "Operating Systems",
+      "Networking",
+      "Architecture Design",
+      "Problem Solving",
+      "Critical Thinking",
+      "Evaluation",
+      "Application Development"
+    ]
+  },
+  {
+    "title": "Network Coding",
+    "kennung": "IN2315",
+    "skills": [
+      "Network Programming",
+      "Linear Programming",
+      "Packet Transmission",
+      "Wireless Communication",
+      "Channel Estimation",
+      "Acknowledgement Schemes",
+      "Socket Programming",
+      "Distributed Systems",
+      "Discrete Structures",
+      "Discrete Probability"
+    ]
+  },
+  {
+    "title": "Network and System Management",
+    "kennung": "IN2099",
+    "skills": [
+      "Network Management",
+      "System Management",
+      "IT Process Management",
+      "Architectural Design",
+      "Distributed Systems",
+      "Service Management",
+      "Process Management",
+      "Platform Integration",
+      "Tool Integration",
+      "Requirements Analysis"
+    ]
+  },
+  {
+    "title": "Virtualization Techniques",
+    "kennung": "IN2125",
+    "skills": [
+      "Virtualization",
+      "System Design",
+      "Performance Optimization",
+      "Process Management",
+      "Multiprocessing",
+      "Technical Analysis",
+      "Evaluation",
+      "Classification",
+      "Implementation",
+      "Trade-offs"
+    ]
+  },
+  {
+    "title": "Autonomous Driving",
+    "kennung": "IN2356",
+    "skills": [
+      "Problem Solving",
+      "Decision Making",
+      "Sensor Fusion",
+      "Computer Vision",
+      "Trajectory Planning",
+      "Scenario Prediction",
+      "Functional Safety",
+      "Software Architecture",
+      "Connectivity",
+      "Machine Learning"
+    ]
+  },
+  {
+    "title": "Autonomous Navigation for Flying Robots",
+    "kennung": "IN2318",
+    "skills": [
+      "3D Geometry",
+      "State Estimation",
+      "Visual Odometry",
+      "SLAM",
+      "3D Mapping",
+      "Linear Control",
+      "Sensor Fusion",
+      "Trajectory Planning",
+      "Robotics",
+      "Programming"
+    ]
+  },
+  {
+    "title": "Real-Time Systems",
+    "kennung": "IN2060",
+    "skills": [
+      "Modeling",
+      "Scheduling",
+      "Concurrency",
+      "Operating Systems",
+      "Programming",
+      "Fault Tolerance",
+      "Real-Time Communication",
+      "Sensor Technology",
+      "Actuator Technology",
+      "Control Systems"
+    ]
+  },
+  {
+    "title": "Introduction to Digital Signal Processing",
+    "kennung": "IN2061",
+    "skills": [
+      "Signal Processing",
+      "Algorithm Design",
+      "Problem Solving",
+      "System Design",
+      "Frequency Analysis",
+      "Discretization",
+      "Compression",
+      "Realization",
+      "Digital Processing",
+      "Implementation"
+    ]
+  },
+  {
+    "title": "Fundamentals of Artificial Intelligence",
+    "kennung": "IN2406",
+    "skills": [
+      "Problem Solving",
+      "Logical Reasoning",
+      "Probabilistic Reasoning",
+      "Decision Making",
+      "Machine Learning",
+      "Robotics",
+      "Constraint Satisfaction",
+      "Automated Reasoning",
+      "Bayesian Networks",
+      "Hidden Markov Models"
+    ]
+  },
+  {
+    "title": "Introduction to Mobile Robotics",
+    "kennung": "CIT3330000",
+    "skills": [
+      "Robotics",
+      "Sensor Analysis",
+      "Probabilistic Modeling",
+      "Localization",
+      "Mapping",
+      "Bayesian Filtering",
+      "SLAM",
+      "Motion Planning",
+      "Collision Avoidance",
+      "Exploration"
+    ]
+  },
+  {
+    "title": "Sensor-based Robotic Manipulation and Locomotion",
+    "kennung": "IN2068",
+    "skills": [
+      "Robotics",
+      "Manipulation",
+      "Locomotion",
+      "Kinematics",
+      "Dynamics",
+      "Task-based Control",
+      "Inverse Kinematics",
+      "Parallel Systems",
+      "Dexterity",
+      "Sensor Guidance"
+    ]
+  },
+  {
+    "title": "Applied Cryptography for Decentralized Systems (ACDS)",
+    "kennung": "CIT333000",
+    "skills": [
+      "Cryptography",
+      "Decentralized Systems",
+      "Zero-Knowledge Proofs",
+      "Threshold Cryptography",
+      "Trusted Execution",
+      "Secure Multiparty Computation",
+      "Circuit Programming",
+      "Polynomial Arithmetic",
+      "Sigma Protocols",
+      "SNARK Constructions"
+    ]
+  },
+  {
+    "title": "Cryptography",
+    "kennung": "CIT3330003",
+    "skills": [
+      "Cryptography",
+      "Symmetric Cryptography",
+      "Asymmetric Cryptography",
+      "Encryption",
+      "Digital Signatures",
+      "Hash Functions",
+      "Random Number Generation",
+      "Number Theory",
+      "Group Theory",
+      "Elliptic Curves"
+    ]
+  },
+  {
+    "title": "Introduction to Emerging Computing Technologies",
+    "kennung": "CIT3330001",
+    "skills": [
+      "Critical Thinking",
+      "Problem Solving",
+      "Design Thinking",
+      "Systems Thinking",
+      "Computational Thinking",
+      "Programming",
+      "Technical Communication",
+      "Interdisciplinary Collaboration",
+      "Adaptability",
+      "Innovation"
+    ]
+  },
+  {
+    "title": "Introduction to Mobile Robotics",
+    "kennung": "CIT3330000",
+    "skills": [
+      "Probability Theory",
+      "Sensor Modeling",
+      "Motion Modeling",
+      "Localization",
+      "Mapping",
+      "Simultaneous Localization and Mapping",
+      "Path Planning",
+      "Collision Avoidance",
+      "Exploration",
+      "Navigation"
+    ]
+  },
+  {
+    "title": "IT Security 2",
+    "kennung": "CIT3330002",
+    "skills": [
+      "Security Analysis",
+      "System Security",
+      "Network Security",
+      "Identity Management",
+      "Cryptography",
+      "Secure Design",
+      "Wireless Security",
+      "IoT Security",
+      "Hardware Security",
+      "Security Engineering"
+    ]
+  },
+  {
+    "title": "IT Security 2",
+    "kennung": "CIT3330002",
+    "skills": [
+      "Security Analysis",
+      "Security Design",
+      "Security Engineering",
+      "Authentication",
+      "Access Control",
+      "Cryptography",
+      "Secure Protocols",
+      "Wireless Security",
+      "IoT Security",
+      "Risk Assessment"
+    ]
+  },
+  {
+    "title": "Cryptography",
+    "kennung": "CIT3330003",
+    "skills": [
+      "Cryptography",
+      "Symmetric Cryptography",
+      "Asymmetric Cryptography",
+      "Encryption",
+      "Digital Signatures",
+      "Pseudorandom Functions",
+      "One-way Functions",
+      "Computational Security",
+      "Group Theory",
+      "Number Theory"
+    ]
+  },
+  {
+    "title": "Network Security",
+    "kennung": "IN2101",
+    "skills": [
+      "Cryptography",
+      "Network Security",
+      "Authentication",
+      "Authorization",
+      "Access Control",
+      "Confidentiality",
+      "Integrity",
+      "Non-Repudiation",
+      "Threat Analysis",
+      "Architecture Design"
+    ]
+  },
+  {
+    "title": "Networks for Monetary Transactions",
+    "kennung": "IN2161",
+    "skills": [
+      "System Design",
+      "Security Architecture",
+      "Network Protocols",
+      "Payment Systems",
+      "Cryptography",
+      "Threat Modeling",
+      "Mobile Architecture",
+      "Regulatory Compliance",
+      "Authorization Mechanisms",
+      "Transaction Processing"
+    ]
+  },
+  {
+    "title": "Peer-to-Peer-Systems and Security",
+    "kennung": "IN2194",
+    "skills": [
+      "Communication",
+      "Collaboration",
+      "Critical Thinking",
+      "Design",
+      "Implementation",
+      "Networking",
+      "Problem-Solving",
+      "Programming",
+      "Security",
+      "Systems Analysis"
+    ]
+  },
+  {
+    "title": "Security Engineering",
+    "kennung": "IN2178",
+    "skills": [
+      "Critical Thinking",
+      "Problem Solving",
+      "Risk Analysis",
+      "System Design",
+      "Software Development",
+      "Security Architecture",
+      "Vulnerability Assessment",
+      "Incident Response",
+      "Process Improvement",
+      "Policy Development"
+    ]
+  },
+  {
+    "title": "Algorithms for Scientific Computing",
+    "kennung": "IN2001",
+    "skills": [
+      "Algorithm Design",
+      "Computational Complexity",
+      "Numerical Methods",
+      "Signal Processing",
+      "Data Structures",
+      "Parallel Computing",
+      "Optimization",
+      "Adaptive Algorithms",
+      "Multidimensional Data",
+      "Fourier Analysis"
+    ]
+  },
+  {
+    "title": "Algorithms for Scientific Computing II",
+    "kennung": "IN2002",
+    "skills": [
+      "Numerical Methods",
+      "Scientific Computing",
+      "Optimization",
+      "Data Structures",
+      "Algorithms",
+      "Linear Algebra",
+      "Quantum Computing",
+      "Molecular Dynamics",
+      "Sparse Matrices",
+      "Multiscale Modeling"
+    ]
+  },
+  {
+    "title": "Introduction to Quantum Computing",
+    "kennung": "IN2381",
+    "skills": [
+      "Problem Solving",
+      "Algorithm Design",
+      "Mathematical Modeling",
+      "Quantum Mechanics",
+      "Circuit Design",
+      "Software Development",
+      "Analytical Thinking",
+      "Interdisciplinary Collaboration",
+      "Numerical Simulation",
+      "Computational Thinking"
+    ]
+  },
+  {
+    "title": "Advanced Concepts of Quantum Computing",
+    "kennung": "IN2400",
+    "skills": [
+      "Quantum Computing",
+      "Algorithm Design",
+      "Fourier Analysis",
+      "Error Correction",
+      "Mathematical Modeling",
+      "Numerical Methods",
+      "Problem Solving",
+      "Theoretical Analysis",
+      "Abstraction",
+      "Logical Reasoning"
+    ]
+  },
+  {
+    "title": "Parallel Program Engineering",
+    "kennung": "IN2310",
+    "skills": [
+      "Problem Solving",
+      "Software Development",
+      "Parallel Programming",
+      "Debugging",
+      "Performance Analysis",
+      "Performance Modeling",
+      "Application Tuning",
+      "Workflow Design",
+      "Tool Development",
+      "Domain Decomposition"
+    ]
+  },
+  {
+    "title": "Parallel Programming",
+    "kennung": "IN2147",
+    "skills": [
+      "Parallel Programming",
+      "Distributed Computing",
+      "Shared Memory",
+      "Data Dependency Analysis",
+      "Program Transformation",
+      "Performance Optimization",
+      "Concurrency",
+      "Scalability",
+      "Communication",
+      "Parallelization"
+    ]
+  },
+  {
+    "title": "Tensor Networks",
+    "kennung": "IN2388",
+    "skills": [
+      "Tensor Analysis",
+      "Approximation Theory",
+      "Quantum Simulation",
+      "Graphical Modeling",
+      "Backpropagation",
+      "Probability Sampling",
+      "Numerical Methods",
+      "Quantum Computing",
+      "Data Representation",
+      "Mathematical Modeling"
+    ]
+  },
+  {
+    "title": "Time Integration and Differential Equations",
+    "kennung": "IN2387",
+    "skills": [
+      "Numerical Analysis",
+      "Differential Equations",
+      "Time Integration",
+      "Partial Differential Equations",
+      "Numerical Discretization",
+      "High-Performance Computing",
+      "Numerical Methods",
+      "Computational Science",
+      "Scientific Computing",
+      "Simulation"
+    ]
+  },
+  {
+    "title": "Augmented Reality",
+    "kennung": "IN2018",
+    "skills": [
+      "Computer Graphics",
+      "Geometric Transformations",
+      "3D Rendering",
+      "Tracking Devices",
+      "Sensor Fusion",
+      "Display Devices",
+      "Augmented Reality",
+      "Mixed Reality",
+      "Ubiquitous Computing",
+      "Mathematical Modelling"
+    ]
+  },
+  {
+    "title": "eLearning - Techniques and Infrastructures",
+    "kennung": "IN2093",
+    "skills": [
+      "Critical Thinking",
+      "Problem Solving",
+      "Communication",
+      "Collaboration",
+      "Content Creation",
+      "Technical Writing",
+      "User Management",
+      "XML",
+      "Standards Compliance",
+      "Knowledge Management"
+    ]
+  },
+  {
+    "title": "Fundamentals of Human-Centered Robotics",
+    "kennung": "IN2371",
+    "skills": [
+      "Robotics",
+      "Robot Control",
+      "Motion Planning",
+      "Trajectory Planning",
+      "Human-Robot Interaction",
+      "Collision Avoidance",
+      "Perception",
+      "Actuation",
+      "Interdisciplinary Teamwork",
+      "Project Management"
+    ]
+  },
+  {
+    "title": "3D User Interfaces",
+    "kennung": "IN2111",
+    "skills": [
+      "Design",
+      "Interaction",
+      "Evaluation",
+      "Usability",
+      "Implementation",
+      "Analysis",
+      "Manipulation",
+      "Selection",
+      "Travel",
+      "Wayfinding"
+    ]
+  },
+  {
+    "title": "Advanced Concepts of Programming Languages",
+    "kennung": "CIT3230000",
+    "skills": [
+      "Programming",
+      "Language Design",
+      "Compiler Design",
+      "Concurrency",
+      "Parallelism",
+      "Object-Oriented Programming",
+      "Functional Programming",
+      "Metaprogramming",
+      "Software Design",
+      "Formal Methods"
+    ]
+  },
+  {
+    "title": "Cloud Information Systems",
+    "kennung": "CIT3230002",
+    "skills": [
+      "Cloud Computing",
+      "System Architecture",
+      "Software Development",
+      "Cost Optimization",
+      "Scalability",
+      "Virtualization",
+      "Containers",
+      "Microservices",
+      "DevOps",
+      "Security"
+    ]
+  },
+  {
+    "title": "Code Generation for Data Processing",
+    "kennung": "CIT3230001",
+    "skills": [
+      "Program Representation",
+      "Code Generation",
+      "Optimization Techniques",
+      "Machine Code Generation",
+      "Virtual Machine Execution",
+      "Sandboxing",
+      "Database Queries",
+      "Execution Models",
+      "Binary Translation",
+      "Compilation"
+    ]
+  },
+  {
+    "title": "Concepts of C++ Programming",
+    "kennung": "CIT323000",
+    "skills": [
+      "Programming",
+      "Object-Oriented Programming",
+      "Generic Programming",
+      "Procedural Programming",
+      "Resource Management",
+      "Build Systems",
+      "Dependency Management",
+      "Parallel Programming",
+      "Compilation",
+      "Containers"
+    ]
+  },
+  {
+    "title": "Data Processing on Modern Hardware",
+    "kennung": "CIT3230004",
+    "skills": [
+      "Algorithm Design",
+      "Concurrency",
+      "Data Structures",
+      "Hardware Acceleration",
+      "Memory Management",
+      "Network Programming",
+      "Parallelism",
+      "Performance Optimization",
+      "Query Optimization",
+      "Storage Systems"
+    ]
+  },
+  {
+    "title": "Data Structure Engineering",
+    "kennung": "CIT3230003",
+    "skills": [
+      "Data Structures",
+      "Algorithm Design",
+      "Software Engineering",
+      "Optimization",
+      "Parallel Computing",
+      "Performance Tuning",
+      "Hardware Architecture",
+      "Memory Management",
+      "Scalability",
+      "Retrieval"
+    ]
+  },
+  {
+    "title": "Lecture Series: What is digitalization?",
+    "kennung": "IN2348",
+    "skills": [
+      "Critical Thinking",
+      "Analytical Skills",
+      "Interdisciplinary Knowledge",
+      "Conflict Resolution",
+      "Communication",
+      "Problem Solving",
+      "Information Synthesis",
+      "Contextualization",
+      "Multidisciplinary Perspective",
+      "Trade-off Analysis"
+    ]
+  },
+  {
+    "title": "Advisor Training",
+    "kennung": "CIT6330002",
+    "skills": [
+      "Communication",
+      "Leadership",
+      "Teamwork",
+      "Time Management",
+      "Presentation",
+      "Moderation",
+      "Stress Management",
+      "Problem Solving",
+      "Project Management",
+      "Group Dynamics"
+    ]
+  },
+  {
+    "title": "Advisor Tutorium",
+    "kennung": "CIT6330001",
+    "skills": [
+      "Communication",
+      "Teamwork",
+      "Time Management",
+      "Presentation",
+      "Stress Management",
+      "Project Management",
+      "Problem Solving",
+      "Critical Thinking",
+      "Leadership",
+      "Collaboration"
+    ]
+  },
+  {
+    "title": "AI Governance",
+    "kennung": "CIT323002",
+    "skills": [
+      "Communication",
+      "Critical Thinking",
+      "Data Governance",
+      "Ethics",
+      "Fundamental Rights",
+      "Legal Compliance",
+      "Monitoring",
+      "Risk Management",
+      "Stakeholder Engagement",
+      "Transparency"
+    ]
+  },
+  {
+    "title": "Data Privacy",
+    "kennung": "IN9044",
+    "skills": [
+      "Critical Thinking",
+      "Communication",
+      "Research",
+      "Presentation",
+      "Interdisciplinary",
+      "Data Protection",
+      "Compliance",
+      "Privacy",
+      "Information Security",
+      "Ethical Reasoning"
+    ]
+  },
+  {
+    "title": "Pedagogical Training in Didactics for Tutors",
+    "kennung": "IN9028",
+    "skills": [
+      "Critical Thinking",
+      "Instructional Design",
+      "Learning Psychology",
+      "Lesson Planning",
+      "Presentation Skills",
+      "Student Assessment",
+      "Teaching Methods",
+      "Teaching Techniques",
+      "Time Management",
+      "Tutoring"
+    ]
+  },
+  {
+    "title": "Introduction to Data Protection Law",
+    "kennung": "IN9050",
+    "skills": [
+      "Data Protection",
+      "Legal Compliance",
+      "Privacy",
+      "Consent Management",
+      "Information Rights",
+      "Organizational Duties",
+      "Data Security",
+      "Sanctions",
+      "International Data Transfer",
+      "Case Studies"
+    ]
+  },
+  {
+    "title": "Entrepreneurship for Small Software-oriented Enterprises",
+    "kennung": "IN9006",
+    "skills": [
+      "Business strategy",
+      "Financial planning",
+      "Market analysis",
+      "Entrepreneurship",
+      "Pitching",
+      "SWOT analysis",
+      "Business modeling",
+      "Startup management",
+      "Marketing",
+      "Presentation"
+    ]
+  },
+  {
+    "title": "Entrepreneurship",
+    "kennung": "IN9017",
+    "skills": [
+      "Critical Thinking",
+      "Problem-Solving",
+      "Communication",
+      "Teamwork",
+      "Presentation",
+      "Business Planning",
+      "Entrepreneurship",
+      "Finance",
+      "Marketing",
+      "Legal Knowledge"
+    ]
+  },
+  {
+    "title": "Innovation Generation in the Healthcare Domain",
+    "kennung": "IN9048",
+    "skills": [
+      "Idea Evaluation",
+      "Innovation Validation",
+      "Structured Ideation",
+      "Business Modeling",
+      "Project Management",
+      "Market Analysis",
+      "Commercialization",
+      "Presentation Skills",
+      "Customer Development",
+      "Product Management"
+    ]
+  },
+  {
+    "title": "IT Law in Public Administrations: E-Government Act, IT Security and Procurement",
+    "kennung": "IN9046",
+    "skills": [
+      "Legal Analysis",
+      "Policy Implementation",
+      "Information Security",
+      "Public Administration",
+      "Contract Management",
+      "Regulatory Compliance",
+      "E-Government",
+      "Risk Management",
+      "Critical Thinking",
+      "Problem Solving"
+    ]
+  },
+  {
+    "title": "Learning through Teaching: Programming Courses at Schools",
+    "kennung": "CIT6230000",
+    "skills": [
+      "Communication",
+      "Presentation",
+      "Facilitation",
+      "Collaboration",
+      "Role Modeling",
+      "Digital Literacy",
+      "Critical Thinking",
+      "Creativity",
+      "Programming",
+      "Teaching"
+    ]
+  },
+  {
+    "title": "Medical Technology Entrepreneurship",
+    "kennung": "IN9038",
+    "skills": [
+      "Business Planning",
+      "Entrepreneurship",
+      "Intellectual Property",
+      "Marketing",
+      "Medical Imaging",
+      "Patents",
+      "Regulation",
+      "Sales",
+      "Start-ups",
+      "Team Building"
+    ]
+  },
+  {
+    "title": "Sanitätsausbildung",
+    "kennung": "CIT3640001",
+    "skills": [
+      "First Aid",
+      "Emergency Care",
+      "Patient Care",
+      "Injury Treatment",
+      "Anatomy",
+      "Physiology",
+      "Triage",
+      "Critical Thinking",
+      "Decision Making",
+      "Communication"
+    ]
+  },
+  {
+    "title": "Seminar: Project Management",
+    "kennung": "IN9011",
+    "skills": [
+      "Project Management",
+      "Leadership",
+      "Communication",
+      "Presentation Skills",
+      "Resource Planning",
+      "Quality Management",
+      "Time Management",
+      "Goal Setting",
+      "Software Tools",
+      "Problem Solving"
+    ]
+  },
+  {
+    "title": "Seminar: Science and Ethics",
+    "kennung": "IN9010",
+    "skills": [
+      "Critical Thinking",
+      "Ethical Analysis",
+      "Effective Communication",
+      "Research Evaluation",
+      "Presentation Skills",
+      "Scientific Integrity",
+      "Technological Ethics",
+      "Interdisciplinary Perspectives",
+      "Analytical Reasoning",
+      "Intellectual Discourse"
+    ]
+  },
+  {
+    "title": "SET-Tutor",
+    "kennung": "IN9007",
+    "skills": [
+      "Group Management",
+      "Peer Mentoring",
+      "Facilitation",
+      "Leadership",
+      "Communication",
+      "Teamwork",
+      "Motivation",
+      "Organization",
+      "Interpersonal Skills",
+      "Problem-Solving"
+    ]
+  },
+  {
+    "title": "Leading Yourself and Others",
+    "kennung": "IN9009",
+    "skills": [
+      "Communication",
+      "Feedback",
+      "Leadership",
+      "Presentation",
+      "Problem-Solving",
+      "Teamwork",
+      "Conflict Resolution",
+      "Self-Awareness",
+      "Coaching",
+      "Decision-Making"
+    ]
+  },
+  {
+    "title": "Technology and Law",
+    "kennung": "IN9049",
+    "skills": [
+      "Legal Analysis",
+      "Civil Liability",
+      "Criminal Liability",
+      "Data Protection",
+      "Autonomous Systems",
+      "Liability Standards",
+      "Negligence Analysis",
+      "Case Analysis",
+      "Regulatory Compliance",
+      "Technical-Legal Integration"
+    ]
+  },
+  {
+    "title": "Trendseminar CDTM",
+    "kennung": "IN9026",
+    "skills": [
+      "Teamwork",
+      "Technical Writing",
+      "Presentation Skills",
+      "Research Skills",
+      "Trend Analysis"
+    ]
+  }
+]

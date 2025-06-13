@@ -1,4 +1,5 @@
-import openai
+#import openai
+import anthropic
 import os
 import json
 from dotenv import load_dotenv
@@ -7,7 +8,8 @@ from neo4j import GraphDatabase
 
 #OPENAI
 load_dotenv()
-client = openai.OpenAI(api_key=os.getenv("OPEN_AI_API_KEY"))
+#client = openai.OpenAI(api_key=os.getenv("OPEN_AI_API_KEY"))
+client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
 #connect to database
 URI = os.getenv("NEO4J_URI")
@@ -19,7 +21,7 @@ driver.verify_connectivity()
 print("Connected to:", driver.get_server_info())
 
 #pre-process courses
-with open("content.json", "r", encoding="utf-8") as f:
+with open("../courses_cs_bsc/cs_bsc_courses_info.json", "r", encoding="utf-8") as f:
     courses = json.load(f)
 
 filtered_content = []
@@ -44,16 +46,18 @@ for course in courses:
 
 
 
-with open("filtered_content.json", "w", encoding="utf-8") as f:
+with open("filtered_cs_content.json", "w", encoding="utf-8") as f:
     json.dump(filtered_content, f, ensure_ascii=False, indent=2)
         
 
-print(f"{len(filtered_content)} courses written to 'filtered_content.json'")
-print(f"{len(courses)} courses in content.json'")
+# print(f"{len(filtered_content)} courses written to 'filtered_content.json'")
+# print(f"{len(courses)} courses in content.json'")
 
 courses_skills = []
 
-for course in filtered_content:
+filtered_content_2 = filtered_content[2:]
+
+for course in filtered_content_2:
     print(course["name"])
     prompt = f"""
     You are an expert in curriculum design and skills mapping.
@@ -62,12 +66,13 @@ for course in filtered_content:
     Your task is to extract **only the relevant skills** from the following course description. Focus strictly on **general, high-level, transferable skills** commonly recognized in academia or industry.
 
     **Instructions:**
-    - Return **between six and ten** distinct skills
+    - Return **at most ten** distinct skills
     - Use **normalized, concise terms** (e.g., 'Java' not 'Java programming').
     - Each skill should consist of **one to three words maximum**.
     - Avoid niche, overly specific terms.
     - Translate all skills to **English**, even if the input is in another language.
     - Do **not** include qualifiers like "experience with", "understanding of", or "interest in".
+    - Do **not** ouput generic skills such as "Mathematics", "Informatics", "Physics"
 
     **Output format:**
     Return a valid **Python list of strings**, and **nothing else**—no explanation, no notes, no headings.
@@ -76,13 +81,21 @@ for course in filtered_content:
     \"\"\"{course}\"\"\"
     """
 
-    response = client.chat.completions.create(
-        model="gpt-4",
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0
-        )
+    # response = client.chat.completions.create(
+    #     model="gpt-4",
+    #     messages=[{"role": "user", "content": prompt}],
+    #     temperature=0
+    #     )
+    response = client.messages.create(
+        model="claude-3-haiku-20240307",
+        max_tokens=1000,
+        temperature=0.7,
+        messages=[
+            {"role": "user", "content": prompt}
+        ]
+    )
 
-    skills_raw = response.choices[0].message.content.strip()
+    skills_raw = response.content[0].text.strip()
     print(skills_raw)
 
     try:
@@ -97,6 +110,7 @@ for course in filtered_content:
             for skill in skills_list:
                 session.execute_write(add_skill, skill)
                 session.execute_write(add_teaches_relationship,f'{course["kennung"]}: {course["name"]}', skill)
+        print("Added course:", course["kennung"], course["name"])
 
     except Exception as e:
         print(f"Could not parse skills for: {course['title']}")
