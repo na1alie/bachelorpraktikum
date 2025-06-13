@@ -9,7 +9,7 @@ load_dotenv(env_path)
 client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
 
-with open("/home/natalie/Bachelorprojekt/course_skill_extraction/filtered_content.json", "r", encoding="utf-8") as f:
+with open("/home/natalie/Bachelorprojekt/course_skill_extraction/courses_department_cs.json", "r", encoding="utf-8") as f:
     filtered_content = json.load(f)
 
 
