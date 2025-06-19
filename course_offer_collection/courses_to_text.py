@@ -12,8 +12,8 @@ import time
 
 parsed_links = set()
 
-if Path('content.json').exists():
-    with open("content.json", "r", encoding="utf-8") as content_file:
+if Path('courses_offer.json').exists():
+    with open("courses_offer.json", "r", encoding="utf-8") as content_file:
         parsed_content = json.load(content_file)
 
         for element in parsed_content:
@@ -41,7 +41,7 @@ semesterselect.select_by_index(0)
 pagenr = driver.find_element(By.NAME, 'pPageNr')
 pagenrselect = Select(pagenr)
 
-for page in range(len(pagenrselect.options)):
+for page in range(200,len(pagenrselect.options)):
 
     if pagenrselect.first_selected_option != pagenrselect.options[page]:
         pagenrselect.select_by_index(page)
@@ -78,6 +78,10 @@ for page in range(len(pagenrselect.options)):
                 anmerkung = root.find_element(By.XPATH, '//*[text()="Anmerkung"]/../../td[2]').text
                 lernergebnisse = root.find_element(By.XPATH, '//*[text()="Angestrebte Lernergebnisse"]/../../td[2]').text
                 inhalt = root.find_element(By.XPATH, '//*[text()="Inhalt"]/../../td[2]').text
+                voraussetzungen = root.find_element(By.XPATH, '//*[text()="(Empfohlene) Voraussetzungen"]/../../td[2]').text
+                modulniveau = root.find_element(By.XPATH, '//*[text()="Modulniveau"]/../../td[2]').text
+                sprache = root.find_element(By.XPATH, '//*[text()="Sprache"]/../../td[2]').text
+                gültig_bis = root.find_element(By.XPATH, '//*[text()="Gültig Bis"]/../../td[2]').text
 
                 parsed_content.append({
                     "url": link,
@@ -86,7 +90,13 @@ for page in range(len(pagenrselect.options)):
                     "organisation": organisation,
                     "anmerkung": anmerkung,
                     "lernergebnisse": lernergebnisse,
-                    "inhalt": inhalt
+                    "inhalt": inhalt,
+                    "voraussetzungen": voraussetzungen,
+                    "modulniveau": modulniveau,
+                    "sprache": sprache,
+                    "gültig bis": gültig_bis
+
+            
                 })
                 driver.switch_to.window(driver.window_handles[0])
                 print(kennung + ": " + name)
@@ -95,6 +105,6 @@ for page in range(len(pagenrselect.options)):
                 driver.switch_to.window(driver.window_handles[0])
                 print(kennung + ": " + name)
 
-            with open("content.json", "w", encoding="utf-8") as content_file:
+            with open("courses_offer.json", "w", encoding="utf-8") as content_file:
                 json.dump(parsed_content, content_file, ensure_ascii=False, indent=2)
                 content_file.flush()
