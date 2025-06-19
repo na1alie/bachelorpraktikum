@@ -5,6 +5,7 @@ import os
 from dotenv import load_dotenv
 import numpy as np
 import pickle
+import time
 
 load_dotenv()
 NEO4J_URI = os.getenv("NEO4J_URI")
@@ -59,15 +60,22 @@ def find_closest_jobs(input_title, all_job_titles, job_title_embeddings, top_k=3
     return [(all_job_titles[i], similarities[i]) for i in top_indices]
 
 def recommend_courses_semantic(job_title, top_n=10):
+    load_start = time.time()
     all_job_titles, job_title_embeddings, all_skills, skill_embeddings = load_precomputed_embeddings()
+    load_end = time.time()
     skill_to_embedding = dict(zip(all_skills, skill_embeddings))
 
+    jobs_start = time.time()
     closest_jobs = find_closest_jobs(job_title, all_job_titles, job_title_embeddings)
+    jobs_end = time.time()
     print(closest_jobs)
 
     course_suggestions = []
 
-    for job, _ in closest_jobs:
+    courses_start = time.time()
+    alpha = 0.6
+
+    for job, job_score in closest_jobs:
         job_skills = get_required_skills(job)
         job_skill_embeddings = [
             skill_to_embedding[skill]
@@ -75,7 +83,10 @@ def recommend_courses_semantic(job_title, top_n=10):
             if skill in skill_to_embedding  # in case some skill is missing from precomputed
         ]
 
+        relevant_courses_start = time.time()
         all_courses = get_relevant_courses_with_skills(job)
+        relevant_courses_end = time.time()
+        print("Query time:", relevant_courses_end - relevant_courses_start)
         ranked_courses = []
 
         for course_name, course_skills, required_skills in all_courses:
@@ -90,15 +101,41 @@ def recommend_courses_semantic(job_title, top_n=10):
             sim_matrix = cosine_similarity(job_skill_embeddings, course_skill_embeddings)
             avg_score = np.mean(sim_matrix)
 
-            ranked_courses.append((course_name, avg_score, required_skills))
+            final_score = alpha * job_score + (1 - alpha) * avg_score
+            ranked_courses.append((course_name, avg_score, final_score, required_skills))
 
         ranked_courses.sort(key=lambda x: x[1], reverse=True)
         course_suggestions.append((job, ranked_courses[:top_n]))
+
+    courses_end = time.time()
+    print("Loading time:", load_end - load_start, "Job starting points time:", jobs_end - jobs_start, "Course recs time:", courses_end - courses_start)
     return course_suggestions
 
-top_courses = recommend_courses_semantic("Cloud Solutions Architect")
+def flatten_and_deduplicate_courses(top_courses, max_courses=10):
+    course_scores = {}
+
+    for _, course_list in top_courses:
+        for course_name, _, final_score, _ in course_list:
+            # Keep the max score if duplicate course_name
+            if course_name not in course_scores or final_score > course_scores[course_name]:
+                course_scores[course_name] = final_score
+
+    # Sort courses by score descending
+    sorted_courses = sorted(course_scores.items(), key=lambda x: x[1], reverse=True)
+
+    # Take top max_courses courses
+    top_courses_flat = [(course, score) for course, score in sorted_courses[:max_courses]]
+    return top_courses_flat
+
+top_courses = recommend_courses_semantic("Data Engineer")
 for job_title, course_list in top_courses:
-    print("Jobs recommended for:", job_title)
-    for course, score, required_skills in course_list:
-        print(f"{course}: {score:.4f} - teaches:", required_skills)
+    print("Courses recommended for:", job_title)
+    for course, course_score, final_score, required_skills in course_list:
+        print(f"{course}: course score {course_score:.4f}, weighted score {final_score:.4f} - teaches:", required_skills)
     print()
+
+top_courses_flat = flatten_and_deduplicate_courses(top_courses)
+for course, score in top_courses_flat:
+    print(f"{course}: {score:.4f}")
+
+print()

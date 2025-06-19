@@ -9,7 +9,7 @@ URI = os.getenv("NEO4J_URI")
 USERNAME = os.getenv("NEO4J_USERNAME")
 PASSWORD = os.getenv("NEO4J_PASSWORD")
 
-input_file = "../jobs_titles_deduplicated.jsonl"
+input_file = "../job_seniority_classification/jobs_complete.jsonl"
 
 #connect to database
 driver = GraphDatabase.driver(URI, auth=(USERNAME, PASSWORD))
@@ -30,9 +30,16 @@ with open(input_file, "r", encoding="utf-8") as f_in:
             continue
 
         with driver.session() as session:
-            session.write_transaction(add_job, job["deduplicated_title"])
+            job_description = (
+                job.get("translated_description")
+                or job.get("job_summary")
+                or job.get("description_text")
+                or job.get("job_overview", "")
+            )
+            session.write_transaction(add_job, job["deduplicated_title"], job["job_seniority_level"], job_description)
             for skill in job["deduplicated_skills"]:
                 session.write_transaction(add_skill, skill)
-                session.write_transaction(add_requires_relation, job["deduplicated_title"], skill)
+                session.write_transaction(add_requires_relation, job["deduplicated_title"], job["job_seniority_level"], skill)
         
-        print("Added", job["deduplicated_title"])
+        id =  job.get("job_posting_id") or job.get("jobid", "")
+        print("Added", job["deduplicated_title"], id)
