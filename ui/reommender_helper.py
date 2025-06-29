@@ -64,7 +64,7 @@ def summarize_job_claude(job_title, job_info):
     Required Skills:
     {', '.join(job_info['skills'])}
 
-    Please summarize this job in 2-3 clear sentences as if explaining to a student.
+    Please summarize this job in English in 2-3 clear sentences as if explaining to a student.
     """
 
     response = client.messages.create(
@@ -232,7 +232,7 @@ def summarize_course_claude(course_title, course_info):
 
    
 
-    Please summarize this course in 2-3 clear sentences as if explaining to a student.
+    Please summarize this course in English in 2-3 clear sentences as if explaining to a student.
     """
 
     response = client.messages.create(
@@ -253,7 +253,7 @@ def summarize_course_claude(course_title, course_info):
 # 3 different modulelevel prperites in KG: "Bachelor", "Bachelor/Master", "Master"
 # After Step 1, Step 2: user selects one of suggestet jobs, select language, modullevel 
 # Output: Top K Courses with Claude Summary, todo: predict potential skill gaps, give back url? skills in common with job?
-top_courses = recommend_courses_semantic("Data Scientist",["Englisch", "Deutsch/Englisch", "Deutsch"], ["Bachelor", "Bachelor/Master", "Master"] )
+top_courses = recommend_courses_semantic("Data Scientist",["Englisch"], ["Bachelor"] )
 for job_title, course_list in top_courses:
     print("Courses recommended for:", job_title)
     for course, course_score,  required_skills in course_list:
