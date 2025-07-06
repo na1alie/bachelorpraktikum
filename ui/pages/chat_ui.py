@@ -114,7 +114,7 @@ class EmbeddingStore:
 
 def get_required_skills(job_title: str):
     query = """
-    MATCH (j:Job {name: $job_title})-[:requires]->(s:Skill)
+    MATCH (j:Job {name: $job_title})-[:REQUIRES]->(s:Skill)
     RETURN s.name AS skill
     """
     with driver.session() as session:
@@ -124,7 +124,7 @@ def get_required_skills(job_title: str):
 
 def get_relevant_courses_with_skills(job_title):
     query = """
-        MATCH (j:Job {name: $job_title})-[:requires]->(s:Skill)<-[:TEACHES]-(c:Course)
+        MATCH (j:Job {name: $job_title})-[:REQUIRES]->(s:Skill)<-[:TEACHES]-(c:Course)
         WITH c, collect(DISTINCT s.name) AS required_skills
         MATCH (c)-[:TEACHES]->(sk:Skill)
         RETURN c.name AS course, collect(DISTINCT sk.name) AS all_skills, required_skills
@@ -139,7 +139,7 @@ def get_explanation_subgraph(job_titles, level, course_name):
         MATCH (c:Course)
         WHERE toLower(c.name) CONTAINS toLower($course_name)
         WITH c
-        MATCH (c)-[:TEACHES]->(s:Skill)<-[:requires]-(j:Job)
+        MATCH (c)-[:TEACHES]->(s:Skill)<-[:REQUIRES]-(j:Job)
         WHERE j.name IN $job_titles
         {level_clause}
         WITH c, j, collect(DISTINCT s) AS shared_skills
@@ -147,7 +147,7 @@ def get_explanation_subgraph(job_titles, level, course_name):
         OPTIONAL MATCH (c)-[:TEACHES]->(s2:Skill)
         WITH c, j, shared_skills, collect(DISTINCT s2) AS all_taught_skills
 
-        OPTIONAL MATCH (j)-[:requires]->(s3:Skill)
+        OPTIONAL MATCH (j)-[:REQUIRES]->(s3:Skill)
         WITH c, j, shared_skills, all_taught_skills, collect(DISTINCT s3) AS all_required_skills
 
         UNWIND all_taught_skills AS taught
@@ -190,8 +190,8 @@ def get_explanation_subgraph(job_titles, level, course_name):
                 "id": required_skill.id, "label": required_skill["name"], "type": "Skill"
             }
 
-            edges.add((job_node.id, required_skill.id, "requires"))
-            edges.add((course_node.id, taught_skill.id, "teaches"))
+            edges.add((job_node.id, required_skill.id, "REQUIRES"))
+            edges.add((course_node.id, taught_skill.id, "TEACHES"))
 
         return {
             "nodes": list(nodes.values()),

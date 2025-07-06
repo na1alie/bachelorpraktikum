@@ -9,7 +9,7 @@ URI = os.getenv("NEO4J_URI")
 USERNAME = os.getenv("NEO4J_USERNAME")
 PASSWORD = os.getenv("NEO4J_PASSWORD")
 
-input_file = "../job_seniority_classification/jobs_complete.jsonl"
+input_file = "../job_title_deduplication/jobs_to_load_into_graph.jsonl"
 
 #connect to database
 driver = GraphDatabase.driver(URI, auth=(USERNAME, PASSWORD))
@@ -18,8 +18,8 @@ print("Connected to:", driver.get_server_info())
 
 with open(input_file, "r", encoding="utf-8") as f_in:
     for line_number, line in enumerate(f_in, start=1):
-        if line_number < 479:
-            continue
+        # if line_number < 479:
+        #     continue
         line = line.strip()
         if not line:
             continue

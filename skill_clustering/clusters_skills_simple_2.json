@@ -1,0 +1,5489 @@
+{
+    "0": [
+        "quantum computing",
+        "Quantum Algorithms",
+        "quantum mechanic",
+        "Quantum Operations",
+        "Quantum Error Correction",
+        "Quantum Simulation Techniques",
+        "Quantum Key Distribution",
+        "Quantum Networks",
+        "Quantum Protocols",
+        "Quantum Communication",
+        "Entanglement",
+        "Quantum Networking",
+        "Quantum Phenomena",
+        "Quantum Hypothesis Testing",
+        "Quantum Source Coding",
+        "Entanglement Theory",
+        "Quantum Dynamics",
+        "Quantum Statistics",
+        "Quantum Teleportation",
+        "Superposition Principle",
+        "Post-Quantum Cryptography",
+        "Qubit Implementation",
+        "Quantum Circuits",
+        "Quantum Verification",
+        "Quantum Sensing",
+        "Fault-tolerant Quantum Algorithms",
+        "Quantization",
+        "Quantum Information Science",
+        "Quantum Engineering",
+        "Quantum Compilation"
+    ],
+    "1": [
+        "datum processing system",
+        "raw datum",
+        "source datum",
+        "unstructured datum",
+        "exploratory datum analysis",
+        "application datum",
+        "test datum",
+        "datum curation",
+        "real time datum",
+        "big datum"
+    ],
+    "2": [
+        "API",
+        "REST APIs",
+        "API development",
+        "API Integration",
+        "API Design",
+        "api gateway",
+        "API Architectures",
+        "API-led connectivity",
+        "Web APIs",
+        "API Management"
+    ],
+    "3": [
+        "State Explosion",
+        "State Management",
+        "state machine",
+        "State Modeling",
+        "State-Space Representation",
+        "State-Space Models",
+        "State-Space Control",
+        "State Space Representation",
+        "State Estimation",
+        "Finite state machines"
+    ],
+    "4": [
+        "Automata",
+        "Nondeterministic Automata",
+        "Deterministic Automata",
+        "Büchi Automata",
+        "Automata Theory",
+        "Finite Automata",
+        "Pushdown Automata"
+    ],
+    "5": [
+        "Real-Time Graphics",
+        "Real-time Systems",
+        "Real-time Applications",
+        "Real-time Processing",
+        "Real-Time Restoration",
+        "State-of-the-Art",
+        "Real-time Simulation",
+        "Real-Time Peripherals",
+        "Real-Time Control",
+        "Real-time operating systems"
+    ],
+    "6": [
+        "Instrumentation",
+        "Artifact Analysis",
+        "Instrumentation Design"
+    ],
+    "7": [
+        "Azure",
+        "Azure Functions",
+        "azure devops",
+        "microsoft 365",
+        "Azure Directory",
+        "Azure SQL",
+        "Azure SQL Managed Instance",
+        "Azure Entra ID",
+        "azure security",
+        "Azure networking",
+        "azure monitor",
+        "Azure AD",
+        "Azure Active Directory",
+        "Azure Virtual Desktop",
+        "Azure and Microsoft Office 365",
+        "Azure Application Insights",
+        "Azure ML",
+        "Cloud",
+        "Cloud Computing"
+    ],
+    "8": [
+        "Predictive Analytics",
+        "business intelligence",
+        "Product analytics",
+        "Advanced Analytics",
+        "Text Analytics",
+        "Synapse Analytics",
+        "Google Analytics",
+        "web analytic",
+        "Business intelligence and analytics solutions",
+        "Data Analytics",
+        "market intelligence"
+    ],
+    "9": [
+        "Reports",
+        "Report Writing",
+        "SSR",
+        "Dashboards",
+        "reporting tool",
+        "GDPR",
+        "Data Reporting",
+        "Data-Driven Reporting",
+        "Reporting Services",
+        "Report Development",
+        "Reporting and Visualization",
+        "SQL Server Reporting Server (SSRS)",
+        "Reporting Dashboards"
+    ],
+    "10": [
+        "Editing",
+        "Formatting",
+        "Text Editing",
+        "Text Generation"
+    ],
+    "11": [
+        "Reproducibility",
+        "Experiment Design",
+        "Experimental Verification",
+        "Experimentation"
+    ],
+    "12": [
+        "Traffic Modelling",
+        "Transportation Problems",
+        "Traffic Regulations",
+        "Traffic Modeling",
+        "Mobility Modeling",
+        "Traffic Theory",
+        "Mobility Management",
+        "Traffic Engineering",
+        "Traffic Specification",
+        "public transport",
+        "Ticketing System"
+    ],
+    "13": [
+        "Doubly Robust Methods",
+        "Robustness",
+        "Certifiable Robustness",
+        "Robust Architectures",
+        "robust regression"
+    ],
+    "14": [
+        "human computer interaction",
+        "Interaction Metaphors",
+        "Interaction",
+        "User Interaction"
+    ],
+    "15": [
+        "Efficiency Analysis",
+        "Efficiency",
+        "Data Efficiency",
+        "Computational Efficiency",
+        "operational efficiency"
+    ],
+    "16": [
+        "Cache Management",
+        "Caching",
+        "Cache Optimization",
+        "Cache Structures",
+        "Cache Utilization",
+        "Memcached",
+        "Caching Systems"
+    ],
+    "17": [
+        "Energy Flow",
+        "Power Efficiency",
+        "Energy Efficiency",
+        "Energy Analysis",
+        "Energy Systems",
+        "renewable energy",
+        "Energy Optimization"
+    ],
+    "18": [
+        "Synchronization",
+        "Asynchronous programming",
+        "Asynchronous Communication",
+        "Synchronization Algorithms",
+        "Synchronous/Asynchronous Reset",
+        "Clock Synchronization",
+        "Synchronous Design",
+        "Synchronization Primitives"
+    ],
+    "19": [
+        "queue system",
+        "Priority Queues",
+        "Queuing Theory",
+        "Message Queues"
+    ],
+    "20": [
+        "Power Optimization",
+        "Power Consumption",
+        "Power Analysis",
+        "Low Power Design"
+    ],
+    "21": [
+        "PowerBI",
+        "power bi",
+        "Power Management",
+        "Power Platform",
+        "Power Query",
+        "PowerAutomate",
+        "Power Apps"
+    ],
+    "22": [
+        "safety engineering",
+        "Safety Analysis Techniques",
+        "Functional Safety",
+        "Safety Cases",
+        "Safety",
+        "Safety-Critical Systems",
+        "Type Safety",
+        "Electrical Safety",
+        "Robotics Safety",
+        "safety assurance",
+        "Safety Protocols",
+        "construction site safety",
+        "System Safety",
+        "Evaluating product safety",
+        "Safety-Critical Software",
+        "Injury Prevention",
+        "Ergonomic Safety",
+        "patient safety"
+    ],
+    "23": [
+        "Reliability Engineering",
+        "Reliability",
+        "Reliability Modeling",
+        "Reliability-Aware Design",
+        "Processor Reliability",
+        "Failure Mode and Effects Analysis",
+        "site reliability engineering",
+        "EDB Failover Manager",
+        "Failure Analysis"
+    ],
+    "24": [
+        "fault tolerance",
+        "Fault Coverage",
+        "Fault detection",
+        "Fault Prevention",
+        "Fault Mitigation",
+        "Fault Attacks",
+        "Fault Modeling",
+        "Fault Simulation",
+        "Fault-Tolerant Systems",
+        "Fail-Safe Systems"
+    ],
+    "25": [
+        "Voting systems",
+        "Monitoring",
+        "Notification Systems",
+        "Alerting",
+        "Feed/Notification Relevance"
+    ],
+    "26": [
+        "Distributed Systems",
+        "Centralized Systems",
+        "Decentralized Systems"
+    ],
+    "27": [
+        "Transactional Memory",
+        "Distributed Ledger",
+        "Distributed Transactions",
+        "Transaction Management",
+        "Distributed Objects",
+        "Transactional Management",
+        "Transactional Correctness",
+        "Transactional Efficiency",
+        "Transaction-Level Modeling",
+        "Transactional Databases",
+        "Transaction Processing"
+    ],
+    "28": [
+        "Uncertainty",
+        "Uncertainty Modeling",
+        "Uncertainty Management",
+        "Information Uncertainty",
+        "uncertainty quantification"
+    ],
+    "30": [
+        "Survival Analysis",
+        "Hazard Assessment"
+    ],
+    "31": [
+        "risk management",
+        "Risk Assessment",
+        "Dynamic Risk Assessment",
+        "Risk Analysis",
+        "risk mitigation",
+        "Risk Minimization",
+        "Empirical Risk Minimization"
+    ],
+    "32": [
+        "Resource Management",
+        "Resource Evaluation",
+        "resource planning",
+        "Resource Coordination",
+        "Resource Sharing",
+        "Resource User Support",
+        "Resource Allocators",
+        "resource allocation",
+        "Resource Monitoring"
+    ],
+    "33": [
+        "Edge Detection",
+        "edge device",
+        "Edge Computing",
+        "Edge integration",
+        "Edge AI"
+    ],
+    "34": [
+        "low latency",
+        "Latency Compensation",
+        "Latency Optimization",
+        "Delay Tolerance",
+        "Low-Latency Execution"
+    ],
+    "35": [
+        "Allocation",
+        "Allocation Efficiency",
+        "Capacity Analysis",
+        "Capacity Error Function",
+        "Capacity",
+        "Capacity Computation",
+        "capacity planning"
+    ],
+    "36": [
+        "Register Allocation",
+        "Shift Register"
+    ],
+    "37": [
+        "Human-AI Interaction",
+        "Agent-Environment Interaction",
+        "Agent Architectures",
+        "Agent Development Kit (ADK)",
+        "AI"
+    ],
+    "38": [
+        "Explainable AI",
+        "Responsible AI",
+        "AI Systems",
+        "AI-Assisted Writing",
+        "Generative AI",
+        "AI Architectures",
+        "AI Technologies",
+        "AI Infrastructure",
+        "AI",
+        "AI-first Design",
+        "AI-assisted development",
+        "AI for creatives",
+        "AI for hobbyists",
+        "AI for storytellers",
+        "AI for studios",
+        "AI for developers",
+        "AI for enterprises",
+        "AI Applications",
+        "Scalable AI Solutions",
+        "AI Tools",
+        "Chatbots",
+        "AI-enabled customer service",
+        "AI/ML fundamental understanding",
+        "AI Research",
+        "Agentive AI",
+        "AI Integration",
+        "On-device AI",
+        "AI/ML Security",
+        "artificial general intelligence",
+        "conversational ai",
+        "Ethical AI",
+        "OpenAI"
+    ],
+    "39": [
+        "Parallel Computing",
+        "Parallelism",
+        "Shared Memory",
+        "Multi-core parallelization",
+        "SIMD parallelization",
+        "Massively parallel processing",
+        "Shared-Memory Parallelism",
+        "Distributed-Memory Parallelism",
+        "Instruction-Level Parallelism",
+        "Data Parallelism",
+        "Distributed Memory Parallelism",
+        "Multithreading",
+        "SIMD Instructions",
+        "OpenMP"
+    ],
+    "40": [
+        "memory management",
+        "Memory Hierarchy",
+        "In-Memory Computing",
+        "Out-of-memory processing",
+        "Associative Memory",
+        "Memory Technologies",
+        "Memory Systems",
+        "Memory Technology"
+    ],
+    "41": [
+        "Error Correction",
+        "Error handling",
+        "error analysis",
+        "Soft Errors",
+        "Error-Correcting Codes",
+        "Bit Error Rate",
+        "Forward Error Correction",
+        "Error Probability"
+    ],
+    "42": [
+        "Exception Handling",
+        "Exception handling",
+        "exception report"
+    ],
+    "43": [
+        "Fine-Tuning",
+        "Profiling",
+        "performance metric",
+        "performance analysis",
+        "Performance Management",
+        "Bottleneck Identification",
+        "Performance Tuning",
+        "Productivity Improvement",
+        "Competitive Benchmarking",
+        "Performance",
+        "Workload Evaluation",
+        "Benchmarking",
+        "Hardware Performance Counters",
+        "Continuous Improvement",
+        "performance improvement",
+        "key performance indicator",
+        "Workload Tuning",
+        "performance testing",
+        "Performance QA",
+        "Performance Monitoring"
+    ],
+    "44": [
+        "Performance optimization",
+        "System performance analysis and optimization"
+    ],
+    "45": [
+        "Graph Neural Networks",
+        "Graph Theory",
+        "Graphs",
+        "Graph Algorithms",
+        "Graph-based Methods",
+        "Graph Analysis",
+        "Graph Data",
+        "Influence Graphs",
+        "Factor Graphs",
+        "Cutting Plane Method",
+        "Graph Cuts",
+        "GraphQL",
+        "Graph Representation Learning"
+    ],
+    "46": [
+        "Identification",
+        "Placement",
+        "entry point",
+        "Check Point"
+    ],
+    "47": [
+        "Stress Management",
+        "Environmental Awareness",
+        "Environmental Monitoring",
+        "environmental test",
+        "sustainable management",
+        "environmental stewardship",
+        "sustainable development",
+        "air quality",
+        "Environmental Science",
+        "environmental protection",
+        "Sustainability"
+    ],
+    "48": [
+        "Trustworthiness Assessment",
+        "Credibility",
+        "Trust"
+    ],
+    "49": [
+        "Resilience Engineering",
+        "Resilience Planning",
+        "Resilience",
+        "emergency preparedness",
+        "Crisis management",
+        "climate resilience",
+        "disaster recovery",
+        "cyber resilience"
+    ],
+    "50": [
+        "Degradation Mitigation",
+        "Remediation Planning",
+        "Remediation Recommendations"
+    ],
+    "53": [
+        "Log Management",
+        "Logging",
+        "Splunk",
+        "Log Evaluation"
+    ],
+    "54": [
+        "CAD",
+        "CAD Data Handling",
+        "CAD modeling"
+    ],
+    "55": [
+        "Roku SceneGraph SDK",
+        "BrightScript",
+        "Roku BrightScript"
+    ],
+    "56": [
+        "SLAM",
+        "Graph-SLAM",
+        "ORB-SLAM",
+        "LSD-SLAM"
+    ],
+    "57": [
+        "Quadrature",
+        "Floorplanning",
+        "Tilesets"
+    ],
+    "58": [
+        "data consistency",
+        "data integrity",
+        "Evolvability",
+        "Control Flow Integrity",
+        "Data-Flow Integrity",
+        "System observability",
+        "Data Observability"
+    ],
+    "59": [
+        "Hash Tables",
+        "Hashing",
+        "Distributed Hash Tables",
+        "Hash Maps",
+        "Data Structures",
+        "Data structures"
+    ],
+    "61": [
+        "Document Modeling",
+        "Document Structure",
+        "tag management",
+        "document management",
+        "Metadata Management",
+        "Document Processing"
+    ],
+    "62": [
+        "Backup",
+        "Backup/Restore",
+        "Database Backup",
+        "Database Recovery",
+        "Backup systems",
+        "Data Backup and Recovery",
+        "Recovery",
+        "Recovery Algorithms",
+        "Crash Recovery"
+    ],
+    "64": [
+        "Mapping",
+        "Population Atlases",
+        "Data mapping",
+        "Ecosystem Mapping",
+        "MAP Inference",
+        "Occupancy Mapping",
+        "MapKit",
+        "Geospatial Data"
+    ],
+    "65": [
+        "Reviews",
+        "peer review",
+        "review application",
+        "contract review"
+    ],
+    "66": [
+        "Oracle",
+        "Oracle CC&B",
+        "Oracle SQL Developer",
+        "Oracle Networks",
+        "Oracle Enterprise Manager",
+        "Oracle Exadata",
+        "Oracle Exascale"
+    ],
+    "67": [
+        "SAP",
+        "sap implementation",
+        "sap logistic",
+        "SAP BTP",
+        "Juniper JunOS"
+    ],
+    "68": [
+        "Relational Algebra",
+        "Relational Theory",
+        "Relational Technology"
+    ],
+    "69": [
+        "Planetary Exploration",
+        "Navigation",
+        "autonomous system",
+        "Autonomous Navigation",
+        "Autonomous Exploration",
+        "Exploration",
+        "autonomous vehicle"
+    ],
+    "70": [
+        "File Storage",
+        "Storage",
+        "Storage Management",
+        "Secure Storage",
+        "Store Systems",
+        "Shelf Management",
+        "SAN/Storage",
+        "cloud storage"
+    ],
+    "71": [
+        "file system",
+        "File Shares",
+        "File sharing systems"
+    ],
+    "72": [
+        "Data Science",
+        "Data strategies and methodologies",
+        "Data-driven architecture",
+        "Data Analysis",
+        "Data Visualization",
+        "Data Processing",
+        "Data pipelines",
+        "Data Pipelines",
+        "Data Validation"
+    ],
+    "73": [
+        "ClearML",
+        "AutoML",
+        "TinyML"
+    ],
+    "74": [
+        "AUTOSAR",
+        "Automic (UC4)",
+        "Autogen"
+    ],
+    "75": [
+        "Information Quality",
+        "Information Quality Assessment",
+        "data quality",
+        "Data Quality Monitoring"
+    ],
+    "76": [
+        "Quality Attributes",
+        "quality assurance",
+        "Quality Control",
+        "Design Quality Assessment",
+        "Quality Awareness",
+        "product quality",
+        "quality assessment",
+        "quality management",
+        "quality improvement"
+    ],
+    "77": [
+        "Footstep Planning",
+        "Pathfinding",
+        "Multi-Agent Path Planning",
+        "Motion Planning",
+        "Path Planning",
+        "Collision Detection",
+        "Collision Resolution",
+        "Collision Avoidance",
+        "Robotics",
+        "Trajectory Prediction",
+        "Real-time Trajectory Planning",
+        "Trajectory Optimization"
+    ],
+    "78": [
+        "Multilayer Planning",
+        "Multiperiod Planning",
+        "scenario planning",
+        "sprint planning",
+        "Long-Term Planning",
+        "Mission Planning",
+        "contingency plan",
+        "Planning and Execution",
+        "medium planning",
+        "Planning & Control"
+    ],
+    "79": [
+        "Multitasking",
+        "Task Space Control",
+        "Task Scheduling",
+        "Task Representation",
+        "Task-Oriented Control",
+        "task planning",
+        "task management"
+    ],
+    "80": [
+        "Unfoldings",
+        "Self-Organizing Maps",
+        "Self-Organizing"
+    ],
+    "81": [
+        "Debugging",
+        "Hardware Failure",
+        "Software Failure",
+        "Hardware Verification",
+        "Android Debugging",
+        "Hardware debugging",
+        "Troubleshooting",
+        "Hardware Troubleshooting",
+        "Software Troubleshooting",
+        "Troubleshooting and problem-solving"
+    ],
+    "82": [
+        "Cryptography",
+        "Decryption",
+        "Digital Signatures",
+        "Threshold Cryptography",
+        "Asymmetric Cryptography",
+        "Cryptographic Primitives",
+        "Cryptography hardware",
+        "Encryption",
+        "Encryption Technologies and Standards"
+    ],
+    "83": [
+        "Key Exchange",
+        "Keycloak",
+        "Microsoft Public Key Infrastructure",
+        "key management",
+        "key control",
+        "Cryptographic Key Management"
+    ],
+    "84": [
+        "Usability Evaluation",
+        "Usability Principles",
+        "Evaluating product usability",
+        "Usability Testing"
+    ],
+    "86": [
+        "Datadog",
+        "Data Center Technology",
+        "Data Center Master Planning"
+    ],
+    "87": [
+        "SQL",
+        "MySQL",
+        "SQL Server",
+        "Pivot Tables",
+        "SQL+",
+        "T-SQL",
+        "PL/SQL"
+    ],
+    "88": [
+        "Information Economics",
+        "Information Demand",
+        "Information Needs Analysis"
+    ],
+    "89": [
+        "Needs Assessment",
+        "educational assessment",
+        "Critical Assessment"
+    ],
+    "90": [
+        "Evaluation",
+        "Technology Evaluation",
+        "evaluate information",
+        "Evaluation Metrics",
+        "Evaluation Methods",
+        "Method Evaluation",
+        "Concept Evaluation",
+        "Design Evaluation",
+        "Business Evaluation",
+        "Peer Evaluation",
+        "Research Evaluation",
+        "Economic Evaluation",
+        "Model Evaluation",
+        "Vendor Evaluation",
+        "Systems Evaluation"
+    ],
+    "91": [
+        "Hypothesis Testing",
+        "Statistical Testing",
+        "Neyman-Pearson Test"
+    ],
+    "92": [
+        "database design",
+        "Database Management",
+        "relational database",
+        "Database Integration",
+        "Database engines",
+        "Database Implementation",
+        "Database Theory",
+        "Relational Database Management Systems",
+        "database schema",
+        "Non-relational Databases",
+        "Database Concepts",
+        "Relational and Time-Series Databases",
+        "Database Partitioning",
+        "Database Modeling",
+        "Database Programming",
+        "database query",
+        "Data Querying",
+        "Graph Databases"
+    ],
+    "94": [
+        "Query Optimization",
+        "Continuous Queries",
+        "Query Processing",
+        "Query processing",
+        "Distributed query processing"
+    ],
+    "95": [
+        "NoSQL",
+        "Databases",
+        "RDBMS",
+        "MariaDB"
+    ],
+    "96": [
+        "DynamoDB",
+        "MongoDB",
+        "CosmosDB",
+        "MongoDB Certification"
+    ],
+    "97": [
+        "Remote Control",
+        "remote desktop service",
+        "Remote Access"
+    ],
+    "98": [
+        "Data Governance",
+        "Data Curation",
+        "data management",
+        "Data Import",
+        "Data Cleaning",
+        "Data Wrangling",
+        "Physical Data Organization",
+        "data integration",
+        "Data Engineering",
+        "Data Organization",
+        "Data Dependencies",
+        "Data Infrastructure",
+        "Data Warehousing",
+        "DataFactory",
+        "Data migration",
+        "Data Ingestion",
+        "Data Assets",
+        "Data Serving",
+        "Big Data",
+        "Data Replication",
+        "Data Entry",
+        "Data Reconciliation",
+        "Data Archival",
+        "Big Data Technologies"
+    ],
+    "99": [
+        "Synthetic Data Generation",
+        "Data Processing",
+        "Data Preprocessing",
+        "data manipulation",
+        "Data Transformation",
+        "Data Preparation",
+        "Raster Data",
+        "Data Stitching",
+        "Data Conversion",
+        "data fusion",
+        "Automatic Data Processing",
+        "Data Augmentation"
+    ],
+    "700": [
+        "Game Testing",
+        "Testing",
+        "Testability",
+        "software testing",
+        "Test Case Design",
+        "test management",
+        "Multiple Testing",
+        "Testing Methods",
+        "Test Automation",
+        "Integrated Testing",
+        "Test Preparation",
+        "Test Procedures",
+        "Passive Testing",
+        "Active Testing",
+        "Memory Testing",
+        "test design",
+        "test case",
+        "Testing Frameworks",
+        "A/B testing",
+        "Acceptance Testing",
+        "Marketing Test Design",
+        "Test Case Generation",
+        "Unit testing",
+        "Test Infrastructure Development",
+        "software development engineer in test",
+        "Test Driven Development",
+        "test drive development",
+        "Test Strategy",
+        "Iterative Testing",
+        "Compatibility Testing",
+        "E2E Testing",
+        "Load Testing",
+        "Chaos Testing",
+        "Test Planning",
+        "Test Execution",
+        "Test Implementation",
+        "Automated Application Testing",
+        "Regression Testing",
+        "Software testing and debugging"
+    ],
+    "701": [
+        "Circuit Testability",
+        "Circuit Testing",
+        "Built-in Self-Test",
+        "Test Pattern Generation",
+        "Non-destructive testing",
+        "Penetrant testing",
+        "Visual testing",
+        "Hardware test",
+        "Hardware-in-the-Loop Testing",
+        "Testing"
+    ],
+    "101": [
+        "Dynamic Application Security Testing",
+        "Network Security Testing",
+        "Remote Attestation",
+        "Security Testing",
+        "Software Attestation"
+    ],
+    "102": [
+        "Rule-based Systems",
+        "Supercomputing"
+    ],
+    "103": [
+        "Dropout",
+        "Mapbox",
+        "Box",
+        "Dropbox"
+    ],
+    "104": [
+        "Containerization",
+        "Containers",
+        "Docker",
+        "Kubernetes",
+        "Docker Compose",
+        "Container Networking",
+        "Container Orchestration",
+        "Container Technologies"
+    ],
+    "105": [
+        "AWS",
+        "AWS Services",
+        "AWS CDK",
+        "EC2",
+        "Fargate ECS",
+        "Amazon Connect",
+        "amazon web service",
+        "AWS Ultraclusters",
+        "Salesforce RLM / RCA",
+        "Google Workspace",
+        "AWS RDS",
+        "aws lambda",
+        "Cloud",
+        "Cloud Computing"
+    ],
+    "106": [
+        "Cloud Computing",
+        "Point Cloud Data",
+        "cloud development",
+        "Terraform",
+        "Cloud infrastructure",
+        "Cloud Technologies",
+        "Cloud Platforms",
+        "Cloud-based systems integration",
+        "Google Cloud Platform",
+        "Cloud-Readiness",
+        "Cloud Architectures",
+        "cloud service",
+        "Cloud Security",
+        "cloud application",
+        "Cloud Networking",
+        "Cloud Migration Tools",
+        "Cloud-Native Engineering",
+        "Private Cloud Architecture",
+        "Salesforce Sales Cloud",
+        "Cloud Enterprise Solutions",
+        "Salesforce Marketing Cloud",
+        "Cloud Backend",
+        "Cloud integration",
+        "Cloud HSM",
+        "Google Cloud SQL",
+        "public cloud",
+        "Cloud",
+        "Cloud Formation",
+        "cloud governance",
+        "Cloud Environments",
+        "cloud database"
+    ],
+    "107": [
+        "Computability",
+        "Turing Machines",
+        "Decidability",
+        "Turing Computability",
+        "Turing computability"
+    ],
+    "108": [
+        "Object-Oriented Programming",
+        "Aspect-Oriented Programming",
+        "Object-Oriented Design",
+        "Object-oriented Design",
+        "Object-Oriented Systems",
+        "Object Handling",
+        "Object Design",
+        "object orient programming",
+        "ArcObjects",
+        "Object Oriented Concepts"
+    ],
+    "109": [
+        "Binary Search",
+        "Binary Representation",
+        "Binary Translation"
+    ],
+    "110": [
+        "Aging Effects",
+        "Temperature Effects",
+        "Self-Heating Effects",
+        "Temperature Analysis",
+        "Gas analysis",
+        "Thermal management",
+        "Thermal Modeling"
+    ],
+    "111": [
+        "Runtime Systems",
+        "Runtime Analysis",
+        "ArcGIS Runtime"
+    ],
+    "112": [
+        "Type Checking",
+        "Type Inference",
+        "Generics",
+        "Type Systems",
+        "TypeScript"
+    ],
+    "113": [
+        "Build Systems",
+        "Makefiles",
+        "Frontend Build Tools",
+        "build tool",
+        "build process",
+        "build automation",
+        "build environment"
+    ],
+    "114": [
+        "Data Streaming",
+        "stream processing",
+        "Streaming Platforms",
+        "live streaming"
+    ],
+    "115": [
+        "Software Abstraction",
+        "Programming Abstractions",
+        "abstraction layer"
+    ],
+    "116": [
+        "Cognitive Systems",
+        "cognitive science",
+        "Cognitive Processes",
+        "Cognitive Architecture",
+        "Cognitive Mechanisms",
+        "Cognitive architecture",
+        "Psychophysics",
+        "Psychophysical judgment tasks"
+    ],
+    "117": [
+        "medical imaging",
+        "Radiology",
+        "Cardiology",
+        "X-ray Imaging",
+        "Angiography",
+        "CT Imaging",
+        "Computed Tomography",
+        "Radiometry",
+        "Radiation Patterns",
+        "Oscilloscopes",
+        "Radiographic testing"
+    ],
+    "118": [
+        "Sound Design",
+        "Electroacoustics",
+        "Psychoacoustics",
+        "Sound Fields",
+        "Sound Perception",
+        "Virtual Acoustics",
+        "Sound Propagation",
+        "Sound Insulation",
+        "Sound Measurement",
+        "Sound Analysis",
+        "Sound Localization",
+        "Acoustics"
+    ],
+    "119": [
+        "Auditory Perception",
+        "Loudness Perception"
+    ],
+    "120": [
+        "Binaural Hearing",
+        "Hearing Physiology",
+        "Auditory Displays",
+        "Hearing Aids",
+        "Hearing Loss",
+        "Auditory Physiology",
+        "Hearing Impairment",
+        "Hearing Models",
+        "Hearing Research",
+        "Hearing Tests"
+    ],
+    "121": [
+        "Prosthetics",
+        "Sensory Implants",
+        "Implant Analysis",
+        "Implant Design",
+        "Cochlear Implants",
+        "Implantable Devices",
+        "dental implant"
+    ],
+    "122": [
+        "game engine",
+        "Game Engine Integration",
+        "Deeptech",
+        "unreal engine",
+        "Unity",
+        "DeepSpeed",
+        "fusion 360"
+    ],
+    "123": [
+        "Speech Intelligibility",
+        "Speech Encoders",
+        "Large-scale Pretraining for Speech",
+        "Speech Processing",
+        "Speech Synthesis",
+        "Automatic Speech Recognition",
+        "Text-to-Speech"
+    ],
+    "124": [
+        "Dataflow Analysis",
+        "MLflow",
+        "Mule flows",
+        "Netflow",
+        "Airflow"
+    ],
+    "125": [
+        "Differential Diagnosis",
+        "Clinical Observation",
+        "Diagnostic Algorithms",
+        "Disease Progression",
+        "Diagnosis",
+        "Pathology",
+        "Postmortem Analysis",
+        "medical terminology",
+        "Oncology",
+        "Diagnostics",
+        "Diagnostic Tools"
+    ],
+    "126": [
+        "Surgical Navigation",
+        "Minimally Invasive Surgery",
+        "Computer-Assisted Surgery",
+        "Minimally Invasive Procedures",
+        "Surgical Applications",
+        "Surgical Techniques",
+        "surgical technology"
+    ],
+    "127": [
+        "Remote Procedure Calls",
+        "Computer-Assisted Procedures",
+        "Procedure Development",
+        "standard operating procedure"
+    ],
+    "128": [
+        "Precision medicine",
+        "medical software",
+        "Clinical Equipment"
+    ],
+    "129": [
+        "Pipelines",
+        "Pipelining",
+        "Outlining",
+        "Loopshaping",
+        "Buffer Overflow",
+        "CI/CD Pipelines",
+        "Test Pipelines",
+        "Deployment Pipelines",
+        "Custom Rendering Pipelines",
+        "Machine Learning Pipelines"
+    ],
+    "130": [
+        "Stacks",
+        "Rigging",
+        "Full-stack application design",
+        "T3 Stack",
+        "Full-stack",
+        "Full-stack engineering"
+    ],
+    "131": [
+        "Metaprogramming",
+        "Program Synthesis",
+        "Verilog"
+    ],
+    "132": [
+        "Program Representation",
+        "Program Correctness",
+        "Program Transformation",
+        "Programmability"
+    ],
+    "133": [
+        "Neural Dynamics",
+        "Neural Coding"
+    ],
+    "134": [
+        "Audio Production",
+        "Audio Programming",
+        "Audio Technology",
+        "Audio Recording",
+        "Audio Deepfake",
+        "Audio Information Processing",
+        "Audiovisual Equipment Setup"
+    ],
+    "135": [
+        "Game Audio",
+        "audio engineering",
+        "Audiology",
+        "Audio Spoofing"
+    ],
+    "136": [
+        "Healthcare Applications",
+        "Healthcare",
+        "dental care",
+        "mental health",
+        "emergency medical service",
+        "public health",
+        "Healthcare Data",
+        "HIPAA",
+        "medical practice",
+        "healthcare analytic",
+        "Nursing",
+        "Patient Mobility",
+        "acute care",
+        "occupational health"
+    ],
+    "137": [
+        "Clinical Requirements",
+        "Clinical Knowledge",
+        "clinical experience"
+    ],
+    "138": [
+        "Voice Acting",
+        "Casting",
+        "Directing",
+        "Actor-Critic"
+    ],
+    "139": [
+        "Plasticity",
+        "Material UI",
+        "Material Design"
+    ],
+    "140": [
+        "Numerical Simulations",
+        "Particle Simulations"
+    ],
+    "141": [
+        "Fairness",
+        "Fairness Evaluation",
+        "Incentive Alignment",
+        "Incentive Design",
+        "Propensity Score Weighting",
+        "Algorithmic Fairness",
+        "Reward",
+        "Scoring Agencies",
+        "Reward Modeling",
+        "Trade Fair Representation"
+    ],
+    "142": [
+        "Data Compression",
+        "Compression",
+        "Image Compression",
+        "Video Compression",
+        "Lossless Compression",
+        "Lossy Compression"
+    ],
+    "143": [
+        "Actuator Technology",
+        "Actuator Integration",
+        "Actuator",
+        "Actuators",
+        "Sensor and actuator",
+        "Exoskeletons",
+        "Actuator Design",
+        "Actuator Systems",
+        "Sensor and actuator systems",
+        "Wearables"
+    ],
+    "144": [
+        "MATLAB/Simulink",
+        "SIMetrix/SIMPLIS",
+        "MATLAB"
+    ],
+    "145": [
+        "drug discovery",
+        "Pharmacophore development",
+        "Structure-based drug design",
+        "drug development"
+    ],
+    "146": [
+        "Pattern Matching",
+        "Matching",
+        "Regular Expressions",
+        "String Matching",
+        "Correspondence",
+        "Template Matching",
+        "Strings"
+    ],
+    "147": [
+        "Prototype-based Programming",
+        "Programming by Example",
+        "Procedural Programming",
+        "Programming Techniques",
+        "High-Level Programming"
+    ],
+    "148": [
+        "Imperative Programming",
+        "Programming Constructs",
+        "Declarative Programming"
+    ],
+    "149": [
+        "Simulation",
+        "Simulation Design",
+        "Monte Carlo Simulation",
+        "Digital Simulation",
+        "Digital Circuit Simulation",
+        "Simulation Software Proficiency",
+        "Continuous System Simulation",
+        "System Simulation",
+        "SPICE simulation",
+        "Simulators",
+        "Simulation Software",
+        "Network Simulation"
+    ],
+    "150": [
+        "Event Processing",
+        "Event-Driven Programming",
+        "Discrete Event Simulation",
+        "Event-Driven Simulation",
+        "Event Modeling",
+        "Discrete-Event Systems",
+        "Discrete Event Systems",
+        "Event Kit UI",
+        "Event-Driven Architecture",
+        "event management"
+    ],
+    "151": [
+        "Physiological Concepts",
+        "Pathophysiology",
+        "Electrophysiology",
+        "Physiological Systems",
+        "Physiology",
+        "Respiratory system"
+    ],
+    "152": [
+        "Compiler Design",
+        "Compilers",
+        "C++",
+        "C Programming",
+        "Software Compilation",
+        "JIT Compilation"
+    ],
+    "153": [
+        "PLC Programming",
+        "System Programming"
+    ],
+    "154": [
+        "Embeddings",
+        "embed system",
+        "embed software"
+    ],
+    "155": [
+        "Robotics",
+        "Mechatronics",
+        "Teleoperation",
+        "Robotic Manipulation",
+        "Dexterous Manipulation",
+        "Grasp Planning",
+        "In-Hand Manipulation",
+        "Manipulation Learning",
+        "Grasping",
+        "Locomotion",
+        "Legged Robotics",
+        "Bipedal Locomotion",
+        "Quadrupedal Locomotion",
+        "Robot Operating System",
+        "Telerobotics",
+        "Physical Human-Robot Interaction",
+        "Flexible Robotics",
+        "Compliant Robotics",
+        "Intrinsically Compliant Robots",
+        "Grasp Properties",
+        "Machine-to-Machine",
+        "Machine-to-Human",
+        "Wearable Robotics",
+        "SCARA Robot",
+        "Humanoid Robot",
+        "Telepresence",
+        "Lightweight Robotics",
+        "Robot Manipulation",
+        "Manipulators",
+        "Mobile Robots",
+        "Robot Decision-Making",
+        "Legged Locomotion",
+        "Parallel Robots",
+        "Anthropomorphic Hands",
+        "Humanoid Manipulators",
+        "Legged Robots",
+        "Mobile Manipulation",
+        "Telemetry",
+        "robotic machine",
+        "Robotics software stack",
+        "Robotics Hardware Integration",
+        "Robot Control Interfaces",
+        "Robotic Control",
+        "industrial robotic",
+        "Manipulation"
+    ],
+    "156": [
+        "Control Engineering",
+        "Control Structures",
+        "Motion Control",
+        "control system",
+        "Pushdown Systems",
+        "Control theory",
+        "Adaptive Control",
+        "Learning-based Control",
+        "Robust Control",
+        "Sliding Mode Control",
+        "Impedance Control",
+        "Optimal Control",
+        "Passivity-based Control",
+        "Predictive Control",
+        "Linear Control",
+        "Model Predictive Control",
+        "Whole-Body Control",
+        "Compensation Techniques",
+        "Advanced Control",
+        "Step-Size Control",
+        "Position Control",
+        "Supervisory Control",
+        "Flatness-based Control",
+        "Geometric Control",
+        "Controller Design",
+        "Constrained Control",
+        "Force Control",
+        "Force and Impedance Control",
+        "Motion Compensation",
+        "Hand Control",
+        "Balance Control",
+        "Hierarchical Control",
+        "Walking Control",
+        "Control Strategies",
+        "Torque Control",
+        "Compliant Control",
+        "Admittance Control",
+        "Trajectory Control",
+        "Optimization-based Control",
+        "Decoupling Control",
+        "H-infinity Control",
+        "Force/Impedance Control",
+        "Hybrid Control",
+        "Distributed Control",
+        "BLDC motor control",
+        "Field-Oriented Control (FOC)",
+        "Trapezoidal control",
+        "Direct Torque Control (DTC)",
+        "motor control",
+        "internal control",
+        "Control Loops",
+        "Control-M",
+        "PID controllers",
+        "Control Algorithms",
+        "Controls",
+        "Non-Linear Controls",
+        "control framework"
+    ],
+    "157": [
+        "user feedback",
+        "Feedback Learning",
+        "Feedback Incorporation",
+        "Feedback Integration",
+        "constructive feedback",
+        "Digital Feedback Loops",
+        "feedback control"
+    ],
+    "158": [
+        "Fluid Dynamics",
+        "Fluid-Structure Interaction",
+        "Fluid Simulation",
+        "Computational Fluid Dynamics",
+        "Microfluidics",
+        "Liquid handling"
+    ],
+    "159": [
+        "Computational Neuroscience",
+        "Neuromorphic Computing",
+        "Multi-Neuron Recording",
+        "Brain-Computer Interfaces",
+        "Brain-Computer Interface",
+        "Brain-Inspired Computing",
+        "Brain-computer interface"
+    ],
+    "160": [
+        "Neuroscience",
+        "Cerebellum",
+        "Basal Ganglia",
+        "Neuroanatomy",
+        "Neurophysiology",
+        "Neuroprosthetics",
+        "Neurological Disorders",
+        "Neurorehabilitation",
+        "nervous system"
+    ],
+    "161": [
+        "Requirements Management",
+        "Requirements Analysis",
+        "Requirements Definition",
+        "Requirement Formulation",
+        "Non-functional Requirements",
+        "Requirement Identification",
+        "Requirements Gathering",
+        "requirement engineer",
+        "Requirements Documentation"
+    ],
+    "162": [
+        "computer graphic",
+        "Display Technology",
+        "Graphics",
+        "graphic design",
+        "Sketch",
+        "Canvas",
+        "Photoshop",
+        "Zoom",
+        "Visual Design"
+    ],
+    "163": [
+        "virtual reality",
+        "Augmented Reality",
+        "Mixed Reality",
+        "augment reality",
+        "AR/VR"
+    ],
+    "164": [
+        "Bioinformatics",
+        "Genomics",
+        "Gene Ontology"
+    ],
+    "165": [
+        "Video Delay",
+        "Video Playback"
+    ],
+    "166": [
+        "Multimedia Integration",
+        "Transmedia",
+        "Interactive Media",
+        "Multimedia Systems",
+        "Media Processing",
+        "Multimedia",
+        "Multimedia Representation",
+        "Multimedia Communications",
+        "Multimedia Design",
+        "Media formats",
+        "Video conferencing",
+        "Media Planning",
+        "Paid Media"
+    ],
+    "167": [
+        "Sensory Feedback",
+        "Sensorimotor Mapping",
+        "Haptic Perception",
+        "Sensory Systems"
+    ],
+    "168": [
+        "Dynamic Music",
+        "Self-healing Systems",
+        "Dynamic Environments",
+        "Dynamic sandbox environments",
+        "system dynamic"
+    ],
+    "169": [
+        "Multimodal Integration",
+        "Multimodal Learning",
+        "Multisensory Integration",
+        "Multimodal Sensing",
+        "Multimodal Content Understanding",
+        "Multimodal Modeling"
+    ],
+    "170": [
+        "Antenna Design",
+        "Antenna Gain",
+        "Antenna Analysis"
+    ],
+    "171": [
+        "Perception Systems",
+        "Perception and Actuation",
+        "Actuation",
+        "Attenuation",
+        "Act",
+        "Perception-response time paradigms"
+    ],
+    "172": [
+        "Protein Interactions",
+        "Protein-Protein Interactions",
+        "Protein-DNA Interactions",
+        "Protein-RNA Interactions",
+        "Protein-Substrate Interactions",
+        "Protein-ligand simulation"
+    ],
+    "173": [
+        "Time Series Prediction",
+        "predictive modeling",
+        "Forecasting",
+        "Sequence Prediction",
+        "Structural Prediction",
+        "Secondary Structure Prediction",
+        "Contact Prediction",
+        "Disorder Prediction",
+        "Branch Prediction",
+        "Prediction",
+        "Demand Forecasting",
+        "Structured Prediction",
+        "Activity Prediction"
+    ],
+    "174": [
+        "Sequence Modeling",
+        "Multiple Sequence Alignment",
+        "Sequence Comparison",
+        "Sequence-Sequence Alignment",
+        "Sequence-Profile Alignment",
+        "Profile-Profile Alignment",
+        "Sequence Alignment",
+        "Alignment Strategies"
+    ],
+    "175": [
+        "Deep Learning",
+        "Neural Networks",
+        "Generative Models",
+        "Siamese Networks",
+        "Recurrent Neural Networks",
+        "Neural Machine Translation",
+        "Convolutional Neural Networks",
+        "Recurrent Networks",
+        "Convolutional Networks",
+        "Discriminative Models",
+        "Neural Modeling",
+        "Convolution",
+        "Equivariant Neural Networks",
+        "Embedded neural networks",
+        "Graph Neural Networks"
+    ],
+    "176": [
+        "Rationalizability",
+        "Polymorphism",
+        "Curry-Howard Isomorphism",
+        "Algebraic Structures"
+    ],
+    "177": [
+        "Super-Directivity",
+        "Directivity"
+    ],
+    "178": [
+        "Feature Representation",
+        "feature extraction",
+        "Feature degradation",
+        "Feature Engineering"
+    ],
+    "179": [
+        "Discrete-time systems",
+        "Linear Time-Invariant Systems",
+        "Time-Continuous Systems",
+        "Time-Discrete Systems",
+        "Time-Varying Systems"
+    ],
+    "180": [
+        "Protein Networks",
+        "Protein Coding",
+        "Proteomics"
+    ],
+    "181": [
+        "Metrics",
+        "API Metrics Tracking",
+        "KPI Metrics",
+        "Metrics and Reporting",
+        "Metric development"
+    ],
+    "182": [
+        "Pattern Recognition",
+        "Gesture Recognition",
+        "Landmark-based Techniques",
+        "Feature Detection",
+        "Keypoint Recognition",
+        "Optical Character Recognition",
+        "Activity Recognition",
+        "Image Classification"
+    ],
+    "183": [
+        "Bias Detection",
+        "Change Detection",
+        "object detection",
+        "Proposal-based Detection",
+        "One-stage Detection",
+        "Detection",
+        "Threshold Detection"
+    ],
+    "184": [
+        "Biomedical Applications",
+        "Biomedical applications",
+        "Biomedical Signals",
+        "Biocompatibility",
+        "biomedical engineering"
+    ],
+    "185": [
+        "Protein Structure",
+        "Protein Function",
+        "Protein Analysis",
+        "Protein-protein simulation"
+    ],
+    "186": [
+        "Protein Structure Prediction",
+        "Protein Function Prediction",
+        "Membrane Helix Prediction",
+        "Enzyme Classification"
+    ],
+    "187": [
+        "Measurement",
+        "Impedance Measurement",
+        "Measurements",
+        "Measurement Techniques",
+        "Measurement System Design",
+        "Optoelectronic Measurement",
+        "Measurement and Analysis"
+    ],
+    "188": [
+        "Bytecode",
+        "Product Codes",
+        "Turbo Codes",
+        "LDPC Codes",
+        "Raptor Codes",
+        "Coding Efficiency",
+        "Non-Binary Codes",
+        "Dirty Paper Coding",
+        "Coding",
+        "Low-code"
+    ],
+    "189": [
+        "Code Generation",
+        "Machine Code",
+        "Code Conventions",
+        "Code Quality",
+        "Code Optimization",
+        "Code Implementation",
+        "Code Analysis",
+        "Code Refactoring",
+        "source code",
+        "Code Readability",
+        "Quasi-Static Analysis",
+        "Code Transformation",
+        "Code Smells",
+        "Code Injection",
+        "Well-Tested Code",
+        "code review",
+        "code comment",
+        "Static code analysis",
+        "Code Evaluation"
+    ],
+    "190": [
+        "Comprehensibility",
+        "Interpretability",
+        "Explainability",
+        "Readability"
+    ],
+    "191": [
+        "Molecular Dynamics",
+        "Atomic Physics",
+        "Molecular Physics",
+        "Solid State Physics",
+        "Chemistry",
+        "Electron",
+        "computational chemistry",
+        "theoretical chemistry",
+        "condense matter"
+    ],
+    "192": [
+        "Nanotechnology Applications",
+        "Nanotechnology",
+        "Materials Science",
+        "Materials Characterization",
+        "Nanomaterials",
+        "Nanoelectronics"
+    ],
+    "193": [
+        "Adaptability",
+        "Additivity",
+        "Reachability",
+        "Reachability Analysis",
+        "Extensibility",
+        "Dependability",
+        "Portability",
+        "reach",
+        "Extendability"
+    ],
+    "194": [
+        "Game Physics",
+        "Physics",
+        "Physics-Informed",
+        "Physics Principles",
+        "Physics Programming"
+    ],
+    "195": [
+        "Adversarial Networks",
+        "Adversarial Training",
+        "Adversarial Examples",
+        "Adversarial Environments"
+    ],
+    "196": [
+        "Code Reuse",
+        "Reuse",
+        "Reusability",
+        "Software Reuse",
+        "Code Reuse Attacks",
+        "Maintainable Code"
+    ],
+    "197": [
+        "Maintainability",
+        "Consistency",
+        "Redundancy",
+        "Persistence",
+        "Variable Liveness",
+        "Redundant Systems",
+        "Maintainable Systems"
+    ],
+    "198": [
+        "Optics",
+        "Fiber Optics",
+        "Laser",
+        "Optical Engineering",
+        "Optical Networking",
+        "Wavelength Assignment",
+        "Optical Systems",
+        "Quantum Optics",
+        "Optical Communications",
+        "Nonlinear Optics",
+        "Optical Simulation",
+        "Optical Modeling",
+        "Optical Optimization",
+        "Optical Component Design",
+        "Optical Communication Systems",
+        "Laser Technology",
+        "Waveguide Technology",
+        "Optical Fiber",
+        "LiDAR"
+    ],
+    "199": [
+        "Spatial Modeling",
+        "Geospatial Systems",
+        "Spatial Reasoning",
+        "Spatial Representation",
+        "Spatial Computing"
+    ],
+    "200": [
+        "Device Calibration",
+        "Camera Calibration",
+        "Hand-Eye Calibration"
+    ],
+    "201": [
+        "Sensor Integration",
+        "Sensor Fusion",
+        "Sensor Technology",
+        "Sensors",
+        "Sensor Calibration",
+        "Transducers",
+        "Sensing",
+        "Sensor",
+        "Sensor Modeling",
+        "Environmental Sensing",
+        "Sensor Systems",
+        "Gas Sensing",
+        "Sensor Analysis",
+        "Inertial Sensing",
+        "Sensor Data Acquisition",
+        "Sensor Design",
+        "Sensor Data Annotation",
+        "Wireless Sensor Networks",
+        "Sensorless control",
+        "Sensor & Communications",
+        "Sensor Data Alignment",
+        "Camera Sensors"
+    ],
+    "202": [
+        "Phylogenetics",
+        "Biomedical Informatics"
+    ],
+    "203": [
+        "Automation",
+        "warehouse automation",
+        "marketing automation",
+        "Network Automation"
+    ],
+    "204": [
+        "digital transformation",
+        "Digital Skills",
+        "Digital Literacy",
+        "Digital Systems",
+        "Digitization Concept Development",
+        "Digital Signal Processor",
+        "Digital Computing",
+        "Digitalization",
+        "Digital Implementation",
+        "Sequential Digital Processing",
+        "Digital Technologies",
+        "Digital systems",
+        "digital asset",
+        "digital medium",
+        "digital production",
+        "digital content",
+        "digital design"
+    ],
+    "205": [
+        "Numerical Stability",
+        "Lyapunov Methods",
+        "Backward Stability",
+        "Stability and Causality",
+        "Stabilization",
+        "Stability"
+    ],
+    "206": [
+        "Biofeedback",
+        "Biomimicry",
+        "Biostatistics",
+        "Bioinspiration",
+        "Biomimetics",
+        "Biosignals",
+        "Biotechnology"
+    ],
+    "207": [
+        "Theoretical Biology",
+        "Biological Mechanisms",
+        "Experimental Biology",
+        "Subcellular Localization",
+        "synthetic biology"
+    ],
+    "208": [
+        "Fieldbus Systems",
+        "communication system",
+        "Computing and Communications Systems"
+    ],
+    "209": [
+        "Digital-to-Analog Conversion",
+        "Analog-to-Digital Conversion",
+        "Analog Computing",
+        "Analog-Digital Conversion",
+        "Analog Testing",
+        "Precision ADC/DAC",
+        "Analog Electronics",
+        "Digital Electronics"
+    ],
+    "210": [
+        "image processing",
+        "Rasterization",
+        "Image Registration",
+        "Pixel-based Methods",
+        "Image Matching",
+        "Symmetry Detection",
+        "Image Acquisition",
+        "Image Enhancement",
+        "Image Representation",
+        "Biometrics",
+        "Image Analysis"
+    ],
+    "211": [
+        "Hybrid Systems",
+        "Physical Systems",
+        "Multibody Systems",
+        "Haar Systems",
+        "Dual-Arm Systems"
+    ],
+    "212": [
+        "Paywalls and subscriptions",
+        "Firewalls",
+        "Firewall and Network Security",
+        "Fortigate Firewalls",
+        "Firewall policy management",
+        "Firewall configuration",
+        "Palo Alto Firewalls",
+        "Firewall Technologies"
+    ],
+    "213": [
+        "Radio Technology",
+        "Digital Communication",
+        "Information Transmission",
+        "Digital Communications"
+    ],
+    "214": [
+        "Satellite Technology",
+        "Data Communications",
+        "satellite communication"
+    ],
+    "215": [
+        "Visual Servoing",
+        "visual perception"
+    ],
+    "216": [
+        "Focus Groups",
+        "solution focus",
+        "Visual Positioning",
+        "visual system",
+        "result focus",
+        "Language Guided Vision Systems"
+    ],
+    "217": [
+        "Dynamics",
+        "Population Dynamics",
+        "Hybrid Dynamics",
+        "Discrete Dynamics",
+        "Continuous Dynamics",
+        "Nonlinear Dynamics",
+        "Dynamics Processing"
+    ],
+    "218": [
+        "Dynamical Systems",
+        "Self-stabilizing Systems",
+        "System Dynamics"
+    ],
+    "219": [
+        "Deconvolution",
+        "Decoding Algorithms",
+        "Soft-Output Decoding",
+        "Iterative Decoding",
+        "Inactivation Decoding",
+        "Decoding Principles",
+        "Unique Decoding",
+        "List Decoding",
+        "Efficient Decoding",
+        "Decoding",
+        "Decoupling"
+    ],
+    "220": [
+        "Segmentation",
+        "Shape Segmentation",
+        "Panoptic Segmentation",
+        "Video Segmentation",
+        "Multi-object Segmentation",
+        "Interactive Segmentation",
+        "Customer Segmentation",
+        "Audience Segmentation",
+        "Semantic Segmentation",
+        "Instance Segmentation",
+        "Network Segmentation"
+    ],
+    "221": [
+        "Motion Capture",
+        "Optical Flow Estimation"
+    ],
+    "222": [
+        "Execution Environment",
+        "Execution Models",
+        "Speculative Execution",
+        "Adaptive Execution",
+        "Apex Triggers",
+        "Execution"
+    ],
+    "223": [
+        "Hierarchical Methods",
+        "Condorcet methods",
+        "Hierarchy"
+    ],
+    "224": [
+        "Machine Learning",
+        "Classification",
+        "Ensemble Methods",
+        "Clustering",
+        "Categorization",
+        "k-Nearest Neighbors",
+        "k-Means Clustering",
+        "Support Vector Machines",
+        "Data Mining",
+        "Data Classification",
+        "Nearest Neighbor",
+        "Boosting",
+        "Scenario Classification",
+        "System Categorization",
+        "Ensemble Learning",
+        "Taxonomy",
+        "Random Forests",
+        "Applied Machine Learning",
+        "Machine Learning Evaluation",
+        "Category Management",
+        "Machine learning model optimization",
+        "Machine Learning Operations"
+    ],
+    "225": [
+        "Federated Machine Learning",
+        "Distributed Machine Learning",
+        "ML Frameworks",
+        "Large-Scale Machine Learning Systems"
+    ],
+    "226": [
+        "Continuous Learning",
+        "Continuous Discovery",
+        "Continuous Model Training"
+    ],
+    "227": [
+        "Baseband Transmission",
+        "Bandpass Transmission",
+        "Transmit Power",
+        "Passband Transmission",
+        "Error-Free Transmission",
+        "Secure Transmission",
+        "Transmission Technology",
+        "Transmission Systems",
+        "Transmission Standards",
+        "Transmission Lines"
+    ],
+    "228": [
+        "CMOS",
+        "CMOS Technology",
+        "CMOS Circuits",
+        "Beyond-CMOS",
+        "CMS"
+    ],
+    "229": [
+        "Elasticity",
+        "Rigid Body Simulation",
+        "Elastic Body Simulation",
+        "Rigid Body Dynamics",
+        "Soft Body Dynamics",
+        "Rigid Modeling",
+        "Rigid-Body Motion",
+        "Rigid-Body Assumption"
+    ],
+    "230": [
+        "privacy law",
+        "Data Privacy",
+        "Anonymity",
+        "Private Information Retrieval",
+        "consumer privacy",
+        "Privacy Compliance",
+        "Privacy Tool Development"
+    ],
+    "231": [
+        "Filtering",
+        "Data Filtering",
+        "Adaptive Filtering",
+        "filter design",
+        "Linear Filtering",
+        "Bayes Filtering",
+        "Wiener Filtering",
+        "Kalman Filters",
+        "Particle Filters",
+        "Information Extraction and Filtering",
+        "Probabilistic Filtering"
+    ],
+    "232": [
+        "Deployment",
+        "Continuous Deployment",
+        "Production Deployment",
+        "Model Deployment",
+        "Deployment Techniques",
+        "Application Deployment"
+    ],
+    "233": [
+        "Workflow Management",
+        "Workflow Analysis",
+        "Workflow Process",
+        "AI Workflow Framework",
+        "workflow automation"
+    ],
+    "234": [
+        "Visual Odometry",
+        "Stereo Vision"
+    ],
+    "235": [
+        "Tracking Systems",
+        "Tracking",
+        "Tracking Technology",
+        "Object Tracking",
+        "3D Tracking",
+        "Pose Estimation",
+        "Experiment Tracking",
+        "KPI tracking",
+        "Applicant Tracking systems (ATS)"
+    ],
+    "236": [
+        "Information Synthesis",
+        "Information Analysis",
+        "Information Representation",
+        "Robust Information Transfer"
+    ],
+    "237": [
+        "Information Theory",
+        "Entropy",
+        "Mutual Information",
+        "Informational Divergence",
+        "Relative Entropy",
+        "Information theory",
+        "Information-Theoretic Security",
+        "Classical Information Theory"
+    ],
+    "238": [
+        "Compliance",
+        "Process Compliance",
+        "Conformance Checking",
+        "Compliance Frameworks",
+        "Claims Compliance"
+    ],
+    "239": [
+        "system migration",
+        "Infrastructure Deployment"
+    ],
+    "240": [
+        "Infrastructure as Code",
+        "Infrastructure",
+        "Infrastructure Provisioning",
+        "Utility Infrastructure",
+        "Infrastructure Migration",
+        "infrastructure management"
+    ],
+    "241": [
+        "Luby-Transform Codes",
+        "Encoding",
+        "Text Encoding",
+        "Transform Coding",
+        "Autoencoder"
+    ],
+    "242": [
+        "Supervised Learning",
+        "Self-Supervised Learning"
+    ],
+    "243": [
+        "Circuits",
+        "Circuit Programming",
+        "Garbled Circuits",
+        "Circuit Design",
+        "Circuit Analysis",
+        "Digital Circuit Design",
+        "Cryptographic Circuit Design",
+        "Transistor Modeling",
+        "Electronic Circuit Design",
+        "Circuit Synthesis",
+        "Amplifier Design",
+        "Linearized Circuit Models",
+        "Resistive Circuits",
+        "Operational Amplifiers",
+        "Circuit prototyping"
+    ],
+    "244": [
+        "Transistor Fundamentals",
+        "MOSFET Transistors",
+        "Transistor Operation",
+        "MOSFET"
+    ],
+    "245": [
+        "Kinematics",
+        "Flexibility"
+    ],
+    "246": [
+        "Mechanics",
+        "Contact Mechanics",
+        "Biomechanics",
+        "Acceleration",
+        "Friction",
+        "Mechanical Systems"
+    ],
+    "247": [
+        "Standards",
+        "Standardization",
+        "Standards Comprehension",
+        "Test Standards",
+        "Web Standards",
+        "technical standard"
+    ],
+    "248": [
+        "IoT Standards",
+        "Bus Standards"
+    ],
+    "249": [
+        "Technology Management",
+        "Technological Trends",
+        "Technology trends",
+        "Emerging Technologies",
+        "Technology Trends",
+        "Technology Fundamentals",
+        "Paradigm Shift",
+        "Technology Mapping",
+        "Technology Planning",
+        "Technology Development",
+        "business technology",
+        "Technology Implementation",
+        "Technology Roadmapping",
+        "Technology Scouting",
+        "Technology",
+        "emerge technology",
+        "technology solution",
+        "technology integration"
+    ],
+    "250": [
+        "Ranking",
+        "SEO"
+    ],
+    "251": [
+        "Semi-Supervised Learning",
+        "Unsupervised Learning",
+        "Dictionary Learning"
+    ],
+    "252": [
+        "Active Learning",
+        "Zero-Shot Learning",
+        "Few-Shot Learning",
+        "Meta-Learning",
+        "In-Context Learning",
+        "reinforcement learning",
+        "lifelong learning",
+        "Autonomous Learning",
+        "E-Learning",
+        "Learning Theory",
+        "collaborative learning",
+        "Experiential Learning",
+        "Learning Psychology",
+        "rapid learning",
+        "Independent Learning",
+        "Contrastive Learning",
+        "Learning Techniques",
+        "Interactive Learning",
+        "Demonstration Learning",
+        "Q-Learning",
+        "Digital Learning",
+        "Learning Theories",
+        "Robot Learning",
+        "Learning from Demonstration",
+        "Hands-on Learning",
+        "Learning",
+        "Safe Robot Learning",
+        "Adaptive Learning",
+        "willingness to learn",
+        "Imitation Learning",
+        "Contextual Bandit"
+    ],
+    "253": [
+        "Transparency",
+        "Sparsity"
+    ],
+    "254": [
+        "Lighting",
+        "Color Theory",
+        "Lighting Models",
+        "Skinning",
+        "Illumination",
+        "Shading",
+        "BRDF",
+        "Compute Shaders",
+        "Stylized Shading",
+        "Lighting Calculation",
+        "Fading"
+    ],
+    "255": [
+        "Technical Documentation",
+        "Software Documentation",
+        "project documentation"
+    ],
+    "256": [
+        "Searching",
+        "Retrieval",
+        "Indexing",
+        "information retrieval",
+        "Index Structures",
+        "Elasticsearch",
+        "LLM-based retrieval",
+        "Retrieval-Augmented Generation"
+    ],
+    "257": [
+        "Trees",
+        "Search Trees",
+        "Quadtree",
+        "Tree Structures",
+        "Trunking"
+    ],
+    "258": [
+        "Digital Modulation",
+        "Coded Modulation",
+        "Modulation",
+        "Trellis Coding",
+        "Modulator",
+        "Coding and Modulation",
+        "Subband Coding",
+        "Pulse Code Modulation",
+        "Modulation Techniques",
+        "Random Linear Network Coding",
+        "Trellis-Coded Modulation"
+    ],
+    "259": [
+        "Huffman Coding",
+        "Multilevel Coding",
+        "Bit-Interleaved Coding",
+        "Coding Theory",
+        "Coding Theorems"
+    ],
+    "260": [
+        "Electronics",
+        "Battery Systems",
+        "Diodes",
+        "Power Electronics",
+        "electronic system"
+    ],
+    "261": [
+        "Electrical Parameters",
+        "Electrical Design",
+        "Electrical Fundamentals",
+        "Voltage References",
+        "Electrical Engineering",
+        "Electrical Systems"
+    ],
+    "262": [
+        "Set Theory",
+        "Set Representation",
+        "Set Operations"
+    ],
+    "263": [
+        "Electromagnetic Fields",
+        "Field Propagation",
+        "Electromagnetic Compatibility",
+        "Electromagnetism",
+        "Field Theory",
+        "Electromagnetic Theory"
+    ],
+    "264": [
+        "Causal Inference",
+        "Causal Discovery",
+        "Cause-Effect Estimation"
+    ],
+    "265": [
+        "Recommendation Systems",
+        "Recommendation",
+        "Content Recommendation Algorithms"
+    ],
+    "266": [
+        "3D Rendering",
+        "Rendering",
+        "Physically-Based Rendering",
+        "Volume Rendering",
+        "Direct3D",
+        "Terrain Rendering",
+        "Differentiable Rendering",
+        "3d engine",
+        "3D Content Generation",
+        "3D Technology",
+        "3D Game Development",
+        "Blender 3D",
+        "3D Printing"
+    ],
+    "267": [
+        "Noise",
+        "Noise Covariance",
+        "Gaussian Noise",
+        "Electromagnetic Noise",
+        "Noise Analysis",
+        "Noise Detection",
+        "Noise Reduction",
+        "Noise Evaluation"
+    ],
+    "268": [
+        "ICT Management",
+        "ICT Acquisition",
+        "Information Systems Management",
+        "Information Technology Management",
+        "information technology",
+        "business informatic",
+        "IT Project Management",
+        "IT Asset Management"
+    ],
+    "269": [
+        "information management",
+        "information system",
+        "information science"
+    ],
+    "270": [
+        "Business Process Management",
+        "Business Process Analysis",
+        "Business Process Mapping"
+    ],
+    "271": [
+        "Medical Processes",
+        "Process Improvement",
+        "Process Modeling",
+        "Process-oriented Applications",
+        "Process Verification",
+        "Process Execution",
+        "process design",
+        "process mining",
+        "Process Choreography",
+        "Process Management",
+        "Process orientation",
+        "Processes",
+        "Process",
+        "Process Simplification",
+        "Process Harmonization",
+        "Statistical Process Control",
+        "Complex Specialist Processes",
+        "process control",
+        "Process Documentation"
+    ],
+    "272": [
+        "Shape Descriptors",
+        "Shape Similarity",
+        "Shape Representation",
+        "Shape Comparison",
+        "Shape Matching"
+    ],
+    "273": [
+        "Shape Analysis",
+        "Shape Modeling",
+        "Shape Synthesis"
+    ],
+    "274": [
+        "Surface Modeling",
+        "Subdivision Surfaces",
+        "Curve Representation",
+        "Surface Representation",
+        "Spline Curves",
+        "Spline Surfaces",
+        "Surface Subdivision",
+        "Adaptive Meshing",
+        "Spline Bases",
+        "Elliptic Curves"
+    ],
+    "275": [
+        "Volume Visualization",
+        "3d visualization",
+        "Volumetric Data"
+    ],
+    "276": [
+        "Interactive Visualization",
+        "Information Visualization",
+        "Scientific Visualization",
+        "Scalar Field Visualization",
+        "Vector Field Visualization"
+    ],
+    "277": [
+        "Automotive Domain",
+        "Automotive Systems",
+        "Automotive Security",
+        "Connected Vehicles",
+        "Vehicle Interfaces",
+        "automotive industry",
+        "Motor drivers",
+        "Motor Driver Circuits",
+        "Self-Driving Cars"
+    ],
+    "710": [
+        "Autoregressive Models",
+        "Mathematical Modeling",
+        "Mathematical Modelling",
+        "Theoretical Modeling",
+        "Analytical Modeling",
+        "Taylor Models",
+        "Computational Modeling",
+        "Computational Modelling",
+        "Computer Modeling",
+        "Physical Modeling"
+    ],
+    "711": [
+        "System Modeling",
+        "Systems Modeling",
+        "system analysis",
+        "Model-Based Development",
+        "Model-based Development",
+        "Model-based Methods",
+        "model base system engineering",
+        "Modeling Techniques",
+        "model building",
+        "Modeling and Identification"
+    ],
+    "712": [
+        "Data Modelling",
+        "Data Modeling Tools",
+        "Information Systems Modeling",
+        "Reference Modeling",
+        "Model Versioning",
+        "Model Monitoring",
+        "Graphical Models",
+        "Structural Equation Models"
+    ],
+    "713": [
+        "Formal Modeling",
+        "Formal Modelling",
+        "Qualitative Modeling",
+        "Modeling",
+        "Modelling",
+        "Models"
+    ],
+    "714": [
+        "UML Modeling",
+        "VHDL Modeling",
+        "Machine Models",
+        "Homology Modeling",
+        "Comparative Modeling",
+        "Topology Modeling",
+        "Environmental Modeling"
+    ],
+    "279": [
+        "Optimal Receivers",
+        "Multiport Analysis"
+    ],
+    "280": [
+        "3D Modeling",
+        "Surface Reconstruction",
+        "Point Clouds",
+        "3D Imaging",
+        "3d reconstruction"
+    ],
+    "281": [
+        "Image Reconstruction",
+        "Stereo Reconstruction",
+        "Scene Reconstruction",
+        "3D Scene Understanding"
+    ],
+    "282": [
+        "Combinatorics",
+        "Mathematical Tools",
+        "Discrete Mathematics",
+        "Combinatorial Model",
+        "apply mathematic",
+        "Mathematics",
+        "Excel Formulas",
+        "Applied Mathematics"
+    ],
+    "283": [
+        "scientific computing",
+        "Computational techniques",
+        "Theoretical Computer Science",
+        "Computational Science",
+        "Computational Thinking",
+        "Computational Analysis",
+        "Computational Concepts",
+        "Computational Tools",
+        "Computational Experiments",
+        "computer science"
+    ],
+    "284": [
+        "Synthesis",
+        "High-Level Synthesis",
+        "Signal Synthesis",
+        "Signal Digitization",
+        "Synthesizability"
+    ],
+    "285": [
+        "Authorization",
+        "access control",
+        "Authentication",
+        "Identity protection",
+        "Security Verification",
+        "Auth0",
+        "OAuth",
+        "Enterprise authentication",
+        "Single Sign-On (SSO)",
+        "Multi-factor Authentication (MFA)",
+        "Identity",
+        "identity and access management",
+        "Privileged Access Management",
+        "Active Directory Hardening",
+        "Advanced Email Security",
+        "Single Sign-On"
+    ],
+    "286": [
+        "Microsoft Active Directory Services",
+        "LDAP",
+        "Active Directory Security",
+        "active directory"
+    ],
+    "287": [
+        "Prioritization",
+        "Preference aggregation"
+    ],
+    "288": [
+        "decision make",
+        "Clinical Decision-Making",
+        "Collective decision-making",
+        "Decision Procedures",
+        "Decision Analysis",
+        "Sequential Decision Making",
+        "Decision Support",
+        "Decision Theory",
+        "Multicriteria Decision Analysis",
+        "Optimal Decision Making",
+        "Data-driven decision making"
+    ],
+    "289": [
+        "Channel Modeling",
+        "Erasure Channels",
+        "Channel Capacity",
+        "Discrete Memoryless Channels",
+        "Discrete Channels",
+        "Multiple Access Channels",
+        "Channel State Information",
+        "Fading Channels",
+        "Multiaccess Channels",
+        "Time-Varying Channel",
+        "Channel Estimation",
+        "Channel Characterization"
+    ],
+    "290": [
+        "Intersymbol Interference",
+        "Successive Interference Cancellation",
+        "Interference Channels",
+        "Interference Management"
+    ],
+    "291": [
+        "Projective Geometry",
+        "Conformal Geometry",
+        "Epipolar Geometry",
+        "Multiview Geometry"
+    ],
+    "292": [
+        "Differential Geometry",
+        "Manifolds",
+        "Manifold Geometry",
+        "Stiefel Manifold",
+        "Grassmann Manifold"
+    ],
+    "293": [
+        "assistive technology",
+        "technical support",
+        "technical assistance",
+        "technical service"
+    ],
+    "294": [
+        "Structured Thinking",
+        "Structured Work",
+        "Structured Approach"
+    ],
+    "295": [
+        "Data Protection",
+        "Protection Techniques",
+        "IT/OT Environment Protection",
+        "Radiation protection",
+        "Data Guard"
+    ],
+    "296": [
+        "art history",
+        "historic site",
+        "Picasso"
+    ],
+    "297": [
+        "Information Resource",
+        "Technical Awareness",
+        "Technical Knowledge",
+        "Technical Concepts",
+        "Technical Challenges",
+        "technical analysis",
+        "technical information",
+        "Translating technical concepts",
+        "technical acumen",
+        "Technical Art",
+        "Technical Understanding",
+        "technical report",
+        "Technical Background",
+        "technical training",
+        "Technical Skills"
+    ],
+    "298": [
+        "Regularization",
+        "Normalization",
+        "Batch Normalization"
+    ],
+    "299": [
+        "Signal processing",
+        "Pulse Shaping",
+        "Signal Shaping"
+    ],
+    "300": [
+        "Hidden Markov Models",
+        "Markov Decision Processes",
+        "Markov Chains",
+        "Markov Processes",
+        "Markov Random Fields",
+        "Probability"
+    ],
+    "301": [
+        "Stochastic Collocation",
+        "Stochastic Galerkin",
+        "Stochastic Search",
+        "Stochastic Modeling",
+        "Stochastic Models",
+        "Stochastic Calculus",
+        "Stochastic Control",
+        "Probability"
+    ],
+    "302": [
+        "Creativity",
+        "Brainstorming",
+        "creative thinking",
+        "Ideation",
+        "Idea Generation",
+        "Computational Creativity",
+        "creative problem solve"
+    ],
+    "303": [
+        "critical thinking",
+        "Concept Development",
+        "Concepts"
+    ],
+    "304": [
+        "Comparison",
+        "Comparative Analysis",
+        "Contrast Ideas",
+        "Contrasting Results"
+    ],
+    "305": [
+        "Analysis",
+        "Quantitative Analysis",
+        "Amortized Analysis",
+        "Trade-off Analysis",
+        "Complex Analysis"
+    ],
+    "306": [
+        "Principal Component Analysis",
+        "Multidimensional Analysis",
+        "Independent Component Analysis"
+    ],
+    "307": [
+        "Correlation Analysis",
+        "Dependence Analysis",
+        "Multivariate Analysis"
+    ],
+    "308": [
+        "Firmware",
+        "Firmware Validation",
+        "Firmware Requirements Review"
+    ],
+    "309": [
+        "Behavior Modeling",
+        "Behavioral Modeling",
+        "Behavioral analysis",
+        "User Behavior Analysis",
+        "User Attitude Analysis"
+    ],
+    "310": [
+        "Diversity",
+        "Diversity Techniques",
+        "diversity and inclusion"
+    ],
+    "311": [
+        "Motivation",
+        "Self-Regulation",
+        "Self-Determination",
+        "Self-Management",
+        "Determination",
+        "Autonomy"
+    ],
+    "312": [
+        "Proof Techniques",
+        "Impossibility theorems",
+        "Theorem Proving",
+        "Correctness Proofs",
+        "Proof Assistants",
+        "Proofs",
+        "Formal Proof",
+        "Correctness Proof",
+        "Zero-Knowledge Proofs",
+        "proof system",
+        "Proofpoint"
+    ],
+    "313": [
+        "Validation",
+        "Formal Verification",
+        "Software Verification",
+        "Verification",
+        "Cross-Validation",
+        "Idea Validation",
+        "Model Validation",
+        "design verification",
+        "software validation",
+        "verification and validation"
+    ],
+    "314": [
+        "Transformers",
+        "Transformer Models",
+        "Transformer Architectures",
+        "Transformation",
+        "Transformations",
+        "Radon Transform",
+        "Linear Transforms",
+        "Hilbert Transforms",
+        "Laplace Transform",
+        "Z-Transform",
+        "Integral Transforms"
+    ],
+    "315": [
+        "Statistics",
+        "Statistical analysis",
+        "Statistical Inference",
+        "Sufficient Statistics",
+        "Confidence Analysis",
+        "statistical method",
+        "Inferential statistics",
+        "Statistical Reasoning",
+        "Statistical Concepts",
+        "Statistical/Psychometric Techniques"
+    ],
+    "316": [
+        "Bayesian Inference",
+        "Probabilistic Programming",
+        "Probabilistic Graphical Models",
+        "Bayes Rule",
+        "Probabilistic Analysis",
+        "Probabilistic Modeling",
+        "Probabilistic Methods",
+        "Probabilistic Reasoning",
+        "Belief Propagation",
+        "Inference Algorithms",
+        "Probabilistic robotics",
+        "Probabilistic Shaping"
+    ],
+    "317": [
+        "Microeconomics",
+        "Revenue Maximization",
+        "Economic Implications",
+        "Economic Perspectives",
+        "Economic Aspects",
+        "Revenue Modeling",
+        "Techno-Economic Analysis",
+        "Economics",
+        "revenue growth",
+        "economic growth"
+    ],
+    "318": [
+        "Auction Design",
+        "Bidding Strategies",
+        "Iterative Auctions",
+        "Auction Theory",
+        "Combinatorial Auctions",
+        "Bid Process",
+        "In-game Monetization"
+    ],
+    "319": [
+        "Conceptual Understanding",
+        "Understanding",
+        "Principles",
+        "Conceptual Thinking",
+        "Theoretical Foundations",
+        "Solid Understanding",
+        "Comprehensive Understanding",
+        "Conceptualization",
+        "Conceptual Foundations",
+        "Principle Understanding"
+    ],
+    "320": [
+        "Scientific Interpretation",
+        "Interpretation",
+        "Result Interpretation",
+        "Data Interpretation",
+        "Model Interpretation",
+        "Result Explanation"
+    ],
+    "321": [
+        "analytical skill",
+        "Analytical Thinking",
+        "Analytical queries",
+        "Analytical Tools",
+        "Critical Analysis",
+        "Analytical Evaluation",
+        "analytic application",
+        "analytical technique"
+    ],
+    "322": [
+        "Approximation Mechanisms",
+        "Approximation",
+        "Approximation Algorithms",
+        "Numerical Approximation",
+        "Approximation Theory",
+        "Value Approximation",
+        "Function Approximation",
+        "Signal Approximation",
+        "Approximation Methods"
+    ],
+    "323": [
+        "Impulse Response",
+        "Transient Analysis",
+        "Transient Response"
+    ],
+    "324": [
+        "Probability Theory",
+        "Probability",
+        "Probability Analysis",
+        "Probability Distributions"
+    ],
+    "325": [
+        "Code Auditing",
+        "Architecture Auditing",
+        "Configuration Auditing",
+        "Organizational Auditing",
+        "Audits",
+        "audit plan",
+        "Security Audit"
+    ],
+    "326": [
+        "Temporal Data",
+        "Temporal Logic",
+        "Temporal Modeling",
+        "Temporal Processing",
+        "Temporal Difference",
+        "Temporal Difference Learning"
+    ],
+    "327": [
+        "time management",
+        "Timed Behaviour",
+        "Time Stepping",
+        "Logical Time",
+        "Timed Conditions",
+        "Time Manipulation",
+        "Time Domain"
+    ],
+    "328": [
+        "fourier transform",
+        "Quantum Fourier Transform",
+        "Fourier Analysis",
+        "Short-Time Fourier Transform",
+        "Orthogonal Series Expansion",
+        "Fourier Series",
+        "Fourier Methods",
+        "Fourier analysis"
+    ],
+    "329": [
+        "Frequency Transformation",
+        "Time-Frequency Analysis",
+        "Frequency Domain Analysis",
+        "Frequency Response",
+        "Frequency Estimation",
+        "Frequency Analysis",
+        "Frequency Domain"
+    ],
+    "330": [
+        "Sampling",
+        "Probability Sampling",
+        "Sampling Methods",
+        "Sampling Rate Conversion",
+        "Sampling Theory"
+    ],
+    "331": [
+        "Randomization",
+        "Random Number Generation",
+        "Pseudorandom Number Generation",
+        "True Random Number Generation",
+        "Pseudorandomness",
+        "Random number generation",
+        "Data Randomization",
+        "Random Variables",
+        "Random Sequences"
+    ],
+    "332": [
+        "Accounting",
+        "Bookkeeping",
+        "asset management",
+        "property management"
+    ],
+    "333": [
+        "problem solve",
+        "Problem Identification",
+        "Complex Problem Solving",
+        "Simplifying Complex Concepts"
+    ],
+    "334": [
+        "Problem Specification",
+        "Constraint Consideration",
+        "Problem Formulation",
+        "Constraint Qualification",
+        "Problem Modeling",
+        "Constraint Satisfaction",
+        "Constraint Modeling",
+        "Condition Number"
+    ],
+    "335": [
+        "Level of Detail",
+        "Level-of-Detail",
+        "Attention to Detail",
+        "detail orient"
+    ],
+    "336": [
+        "Specification",
+        "Axiomatic properties",
+        "Formal Specification",
+        "Algebraic Specification",
+        "Axiomatic Specification",
+        "Unification",
+        "Confluence",
+        "Property Specification",
+        "Specification Development",
+        "Specification Reduction",
+        "Expression Availability",
+        "Overview Provision",
+        "Technical Specification Writing"
+    ],
+    "337": [
+        "Polynomial Reductions",
+        "Problem Reduction",
+        "Reduction",
+        "Partial-Order Reduction",
+        "Model Reduction",
+        "Model Order Reduction",
+        "Pruning"
+    ],
+    "338": [
+        "Digital Forensics",
+        "Host Forensics"
+    ],
+    "339": [
+        "Mobile Security",
+        "RFID Security",
+        "Security Devices"
+    ],
+    "340": [
+        "infrastructure security",
+        "Secure Network Architectures"
+    ],
+    "341": [
+        "Zuora Billing",
+        "Zuora Workflows",
+        "Zuora Revenue",
+        "Zuora Collect"
+    ],
+    "342": [
+        "Formal Methods",
+        "Mathematical Foundations"
+    ],
+    "343": [
+        "Mathematical Formalism",
+        "Mathematical Formulation"
+    ],
+    "344": [
+        "Ranges",
+        "Interval Arithmetic"
+    ],
+    "345": [
+        "Branch-and-Bound",
+        "Convergence Analysis",
+        "Bounds Analysis",
+        "Bounds",
+        "Fundamental Bounds",
+        "Fano's Inequality",
+        "Generalization Bounds",
+        "Interval Analysis",
+        "Convergence",
+        "Fundamental limits"
+    ],
+    "346": [
+        "Duality Theory",
+        "Lagrangian Duality",
+        "Duality"
+    ],
+    "347": [
+        "Waveform Analysis",
+        "Prolate spheroidal wave functions"
+    ],
+    "348": [
+        "Wavelets",
+        "Wavelet Analysis",
+        "Discrete Wavelet Transform",
+        "Wavelet Construction",
+        "Distortion Analysis"
+    ],
+    "349": [
+        "Formalism",
+        "Notation"
+    ],
+    "350": [
+        "Diophantine Equations",
+        "Number Theory",
+        "Integer Factorization",
+        "Floating-Point Arithmetic",
+        "Multipliers",
+        "Number Systems",
+        "Arithmetic Operations",
+        "Binary Arithmetic",
+        "Arithmetic Blocks"
+    ],
+    "351": [
+        "Modularization",
+        "Modular Multiplication",
+        "Modularity",
+        "Modbus"
+    ],
+    "352": [
+        "Traversal",
+        "Six-step commutation"
+    ],
+    "353": [
+        "Recursion",
+        "Iterative Methods",
+        "Iterative Solvers",
+        "Iteration"
+    ],
+    "354": [
+        "Business Knowledge",
+        "Knowledge Application",
+        "Knowledge Management",
+        "Knowledge Representation",
+        "Knowledge Transfer",
+        "Comprehensive Knowledge",
+        "Knowledge Sharing",
+        "knowledge base",
+        "Knowledge distillation"
+    ],
+    "355": [
+        "Transfer Learning",
+        "Domain Adaptation",
+        "Transferable Skills",
+        "Link Adaptation"
+    ],
+    "356": [
+        "Language Comparison",
+        "Language Features",
+        "Translation",
+        "Foreign Language",
+        "Language Design",
+        "Languages",
+        "High-Level Language",
+        "Golang",
+        "german language",
+        "english language",
+        "Multilingual Proficiency",
+        "write english",
+        "Atlassian",
+        "English Proficiency",
+        "Multilingual Modeling"
+    ],
+    "691":[
+        "Large Language Models",
+        "language model",
+        "LangGraph",
+        "LangChain",
+        "Langsmith",
+        "LLM-based retrieval",
+        "Retrieval-Augmented Generation",
+        "Documentation Embedding/Retrieval",
+        "Large Language Model",
+        "Graph Retrieval-Augmented Generation",
+        "AI Tools",
+        "Agentive AI",
+        "AI",
+        "Graph Databases",
+        "knowledge graph",
+        "LLM frameworks"
+    ],
+    "357": [
+        "Payments",
+        "payment processing"
+    ],
+    "358": [
+        "Argument Mining",
+        "Argumentation",
+        "Argument Formulation"
+    ],
+    "359": [
+        "Mathematical Reasoning",
+        "scientific reasoning"
+    ],
+    "360": [
+        "Storytelling",
+        "Narrative Design",
+        "Storybook",
+        "user story",
+        "User Story Writing",
+        "Visual Storytelling"
+    ],
+    "361": [
+        "Character Design",
+        "Persona creation"
+    ],
+    "362": [
+        "Operator Theory",
+        "Functional Decomposition",
+        "Hilbert Space",
+        "Functional Analysis",
+        "Linear Functionals",
+        "Operators",
+        "Functional analysis"
+    ],
+    "363": [
+        "User Management",
+        "Account management",
+        "Session Management",
+        "user account"
+    ],
+    "364": [
+        "Prompt Engineering",
+        "Prompt Design",
+        "Strategy RPG",
+        "Prompt Strategies"
+    ],
+    "365": [
+        "Communication",
+        "public speak",
+        "Interpersonal Skills",
+        "Structured Communication",
+        "Message Passing",
+        "Crisis Communication",
+        "Communication Management",
+        "Messaging",
+        "Oral Communication",
+        "verbal communication skill",
+        "write communication",
+        "Communication Analysis",
+        "Intercultural Competence",
+        "Intermediaries",
+        "Communication Scenarios",
+        "Empathetic communication",
+        "Business Communication",
+        "Clear and concise communication",
+        "interpersonal communication",
+        "communication planning"
+    ],
+    "366": [
+        "Formal Languages",
+        "Syntax",
+        "Formal Grammars",
+        "Formal Semantics",
+        "Tokenization"
+    ],
+    "367": [
+        "Taxation",
+        "Business Tax Preparation",
+        "Tax Laws and Regulations",
+        "Federal and State Tax Returns",
+        "Service Industry Tax Returns",
+        "tax return"
+    ],
+    "368": [
+        "Social Interaction",
+        "Social Computing",
+        "social network",
+        "Social computing",
+        "Social",
+        "social science",
+        "social skill",
+        "social medium",
+        "social justice",
+        "Social Engineering"
+    ],
+    "369": [
+        "Language Processing",
+        "Morphology",
+        "Word Formation",
+        "Computational Linguistics"
+    ],
+    "370": [
+        "Functional Programming",
+        "Functional Verification",
+        "Virtual Functions",
+        "Functions",
+        "Physically Unclonable Functions",
+        "Monotone Functions",
+        "functional requirement"
+    ],
+    "371": [
+        "Loss Functions",
+        "Activation Functions",
+        "Barrier Functions",
+        "Transfer Function",
+        "Correlation Functions",
+        "Transfer Functions",
+        "Walsh functions",
+        "Sim-to-Real Transfer"
+    ],
+    "372": [
+        "Algorithms",
+        "algorithm design",
+        "Algorithm Analysis",
+        "Algorithmic Thinking",
+        "Algorithmic analysis",
+        "Dijkstra's Algorithm",
+        "Efficient algorithms",
+        "Greedy Algorithms",
+        "Algorithmic Problem-Solving",
+        "Algorithm Selection",
+        "Algorithm Description",
+        "Algorithm Derivation",
+        "Algorithm Implementation",
+        "Online Algorithms",
+        "Simplex Algorithm",
+        "Algorithmic Analysis",
+        "Algorithm Development",
+        "Mutation Analysis",
+        "Algorithm Evaluation",
+        "Biologically-Inspired Algorithms",
+        "Viterbi Algorithm",
+        "Evolutionary Algorithms",
+        "Polynomial Algorithms",
+        "Proximal Algorithms",
+        "Fixpoint Algorithms",
+        "Algorithm Understanding",
+        "Unrolled Algorithms",
+        "Shortest Path"
+    ],
+    "373": [
+        "Implementation",
+        "Complexity Analysis",
+        "Time Complexity",
+        "Space Complexity",
+        "Complexity Classes",
+        "Algorithmic Complexity",
+        "Efficient Implementation",
+        "Complexity Management"
+    ],
+    "374": [
+        "Incident Management",
+        "Incident Investigation",
+        "Cyber Incident Response",
+        "incident response",
+        "Incident support"
+    ],
+    "375": [
+        "Systems Thinking",
+        "Solution-oriented mindset",
+        "solution design",
+        "Solutions Architecture",
+        "technical solution design"
+    ],
+    "376": [
+        "System optimization and scaling",
+        "Technology Scaling",
+        "Scaling Laws",
+        "Scaling Limitations"
+    ],
+    "377": [
+        "Policy Making",
+        "Government Policies",
+        "Group Policy",
+        "Policy Development",
+        "Policy Writing",
+        "QoS policies"
+    ],
+    "378": [
+        "financial analysis",
+        "financial planning",
+        "Financing",
+        "Finance",
+        "Return on Investment",
+        "pension fund",
+        "Credit Building",
+        "Financial Opportunities",
+        "financial technology",
+        "financial service",
+        "Financial Processes",
+        "financial system",
+        "Financial Reporting",
+        "Financial Statement Analysis",
+        "Financial Data",
+        "financial institution",
+        "Financial Modeling"
+    ],
+    "379": [
+        "banking service",
+        "Fintech",
+        "online banking"
+    ],
+    "380": [
+        "Deductive Reasoning",
+        "Logical Reasoning",
+        "Reasoning",
+        "Correctness Reasoning",
+        "Inductive Reasoning",
+        "Automated Reasoning",
+        "Formal Reasoning"
+    ],
+    "381": [
+        "Cost Management",
+        "Cost Modeling",
+        "cost benefit analysis",
+        "Cost Function Design",
+        "Cost-Effectiveness",
+        "Pricing",
+        "Cost Analytics",
+        "cost reduction",
+        "Dynamic Pricing"
+    ],
+    "382": [
+        "Teaching",
+        "Lesson Planning",
+        "Instructional Design",
+        "Educational Design",
+        "Curriculum Development",
+        "Pedagogical Approaches",
+        "Instructional Strategies",
+        "Teaching Methods",
+        "Curriculum Design",
+        "Pedagogy"
+    ],
+    "383": [
+        "Empathy",
+        "Evangelism"
+    ],
+    "384": [
+        "Ethics",
+        "Ethical Reasoning",
+        "Ethical Impact Assessment",
+        "Ethical Reflection"
+    ],
+    "385": [
+        "continuous integration",
+        "Integration",
+        "Integral Theorems"
+    ],
+    "386": [
+        "UX optimization",
+        "Cost Optimization",
+        "Optimization Techniques",
+        "Linear Optimization",
+        "Utility Optimization",
+        "Variational Methods",
+        "Gradient Descent",
+        "Backpropagation",
+        "Linear Programming",
+        "Integer Linear Optimization",
+        "Optimization Problems",
+        "Policy Gradients",
+        "Agent Optimization",
+        "Policy Gradient Algorithms",
+        "Area Optimization",
+        "Stochastic Gradient Descent",
+        "Optimization Solvers",
+        "Image Gradient",
+        "Cost Function Minimization",
+        "Gradient Methods",
+        "Subgradient Methods",
+        "Primal-Dual Optimization",
+        "Gradient-Based Optimization",
+        "Subgradient Optimization",
+        "Convexity",
+        "Pseudoboolean Optimization",
+        "Submodular Optimization",
+        "Constrained Optimization",
+        "Nonsmooth Optimization",
+        "Gradient-based Methods",
+        "Bilevel Optimization",
+        "Optimization Methods",
+        "Manifold Optimization",
+        "Conjugate Gradient",
+        "Quadratic Programming",
+        "Cross-Layer Optimization",
+        "Second-order Optimization",
+        "Large-scale Optimization",
+        "Gradient-based Optimization",
+        "Dynamic Optimization",
+        "Convex Optimization",
+        "Algorithmic Foundations of Optimization",
+        "Linear/Non-linear Optimization",
+        "Operational Optimization",
+        "Model Optimization"
+    ],
+    "387": [
+        "Enterprise Software",
+        "Enterprise Systems",
+        "enterprise architecture",
+        "accounting software",
+        "business software",
+        "Enterprise Content Management",
+        "Endpoint Management",
+        "ArcGIS Enterprise",
+        "Enterprise Technology Business",
+        "Enterprise-level Decision Making",
+        "Enterprise Systems Integration",
+        "enterprise resource planning",
+        "onedrive for business",
+        "Postgres Enterprise Manager"
+    ],
+    "388": [
+        "Functional Development",
+        "Development",
+        "Personal Development",
+        "Creation"
+    ],
+    "389": [
+        "Semantics",
+        "Semantic Web",
+        "Ontology Engineering",
+        "Semantic Reasoning"
+    ],
+    "390": [
+        "Hyperparameter Optimization",
+        "Parameter Optimization",
+        "Parameter Learning",
+        "Parameter Identification",
+        "Parameter Tuning",
+        "Hyperparameter Search"
+    ],
+    "391": [
+        "user experience",
+        "Immersive Experiences",
+        "Hands-on Experience",
+        "Practical Experience",
+        "experience design",
+        "Learning Experience Platforms (LXP)",
+        "Lead experience"
+    ],
+    "392": [
+        "dimensionality reduction",
+        "High-Dimensional Methods",
+        "Kernel Methods",
+        "Hyperdimensional Computing"
+    ],
+    "393": [
+        "Finite Differences",
+        "Difference Equations"
+    ],
+    "394": [
+        "Partial Differential Equations",
+        "Differential Calculus",
+        "Differential Equations",
+        "Ordinary Differential Equations",
+        "Differential-Algebraic Equations",
+        "Implicit Function Theorem",
+        "DSO"
+    ],
+    "395": [
+        "Engineering",
+        "industrial design",
+        "Industrial Applicability",
+        "Engineering Perspective",
+        "Responsible Engineering",
+        "Industrial Engineering",
+        "Aerospace Engineering",
+        "Mechanical Engineering",
+        "Civil Engineering",
+        "professional engineer",
+        "construction engineering",
+        "engineering management",
+        "Aviation Industry",
+        "engineer language"
+    ],
+    "396": [
+        "Scalable Architectures",
+        "Scalable Design",
+        "Large-Scale System Design"
+    ],
+    "397": [
+        "Scalability",
+        "Scalable algorithms",
+        "Scalable systems"
+    ],
+    "398": [
+        "Natural language processing",
+        "Lexical Analysis",
+        "Syntax Analysis",
+        "semantic analysis",
+        "Parsing",
+        "NLP",
+        "Syntactic and Semantic Analysis",
+        "Textual Entailment and Assessment"
+    ],
+    "399": [
+        "Textual Analysis",
+        "Text Analysis"
+    ],
+    "400": [
+        "Attacker Modeling",
+        "Physical Attacks",
+        "Attacks",
+        "Man-in-the-Middle Attack",
+        "attack pattern",
+        "Attack Simulation"
+    ],
+    "401": [
+        "GPU Programming",
+        "Graphic Accelerators",
+        "GPU",
+        "WebGPU",
+        "GPU Codegen",
+        "GPU Architecture",
+        "GPU and CPU Resource Management"
+    ],
+    "402": [
+        "Conflict Resolution",
+        "Facilitation",
+        "Consensus Mechanisms",
+        "Cooperation",
+        "Coordination",
+        "Cooperative Techniques"
+    ],
+    "403": [
+        "Group Theory",
+        "Collective Operations",
+        "group work"
+    ],
+    "404": [
+        "Numerical Algorithms",
+        "Numerical Methods",
+        "Discretization",
+        "Numerical Modeling",
+        "Newton's Method",
+        "Nonlinear Root Finding",
+        "Numerical Solving",
+        "Numerical Root Finding",
+        "Numerical Properties"
+    ],
+    "405": [
+        "Finite Elements",
+        "FEA (Finite Element Analysis)",
+        "Finite Element Method"
+    ],
+    "406": [
+        "Maximum Likelihood Estimation",
+        "Maximum A Posteriori Estimation",
+        "Maximum Likelihood",
+        "Maximum A-Posteriori"
+    ],
+    "407": [
+        "Estimation",
+        "Minimum Mean Squared Error Estimation",
+        "Conditional Mean Estimation"
+    ],
+    "408": [
+        "Threat Detection",
+        "Spam Detection"
+    ],
+    "409": [
+        "threat modeling",
+        "Threat hunting",
+        "threat assessment",
+        "Threat Mitigation",
+        "Advanced Persistent Threats"
+    ],
+    "410": [
+        "Manufacturing",
+        "industrial process",
+        "industry 4 0",
+        "textile industry"
+    ],
+    "411": [
+        "pre production",
+        "production process",
+        "Post-production",
+        "Yield Management",
+        "release management",
+        "Production Release",
+        "production engineering",
+        "production system",
+        "production code",
+        "Manufacturing management",
+        "production management",
+        "Production environment"
+    ],
+    "412": [
+        "Teamwork",
+        "team management",
+        "team build",
+        "Team Leadership",
+        "Team Planning",
+        "Team Dynamics",
+        "team orient",
+        "Team Player",
+        "Red Teaming"
+    ],
+    "413": [
+        "Game Playing",
+        "Game Mechanics",
+        "game show"
+    ],
+    "414": [
+        "Game Theory",
+        "Tournament solutions",
+        "Game theory",
+        "Server Authoritative Games"
+    ],
+    "415": [
+        "Virtualization",
+        "Virtual Machine",
+        "VLIW",
+        "VHDL",
+        "Vuex",
+        "V-model",
+        "Microsoft Virtualization Services",
+        "Vulkan",
+        "VxRail",
+        "hyper v",
+        "network virtualization",
+        "TISAX (VDA ISA)",
+        "Hypervisor technologies",
+        "VMware",
+        "V&V-Methodology"
+    ],
+    "416": [
+        "Case Studies",
+        "Case Analysis",
+        "Case studies",
+        "case",
+        "business case",
+        "feasibility study"
+    ],
+    "417": [
+        "Ethical Hacking",
+        "Hackathon Participation",
+        "Hack",
+        "certify ethical hacker"
+    ],
+    "418": [
+        "XML Integration",
+        "XML Modeling",
+        "XML DTD",
+        "XML Schema",
+        "XSL-FO",
+        "XQuery",
+        "XML",
+        "XPath",
+        "XSLT",
+        "XQuery/XML"
+    ],
+    "419": [
+        "Publish-Subscribe",
+        "Publishing",
+        "Content Delivery",
+        "Contentful",
+        "Subscriptions",
+        "content development",
+        "content creation"
+    ],
+    "420": [
+        "Mobile Networking",
+        "Cellular Networks",
+        "Cellular Communication",
+        "Mobile Communication",
+        "mobile network operator"
+    ],
+    "421": [
+        "Leadership",
+        "Technical leadership",
+        "think leadership",
+        "Cross-Functional Leadership"
+    ],
+    "422": [
+        "project management",
+        "Project Ownership",
+        "project implementation",
+        "project scope",
+        "Project Work",
+        "Project Leadership",
+        "project collaboration",
+        "Construction Project Management",
+        "project schedule",
+        "Project Oversight",
+        "Project Tracking",
+        "Project Planning",
+        "Project Structuring"
+    ],
+    "423": [
+        "Logic",
+        "Higher-Order Logic",
+        "Constructive Logic",
+        "business logic"
+    ],
+    "424": [
+        "Inductive Logic Programming",
+        "Fuzzy Logic",
+        "Boolean Logic",
+        "Sequential Logic",
+        "Logic Synthesis",
+        "Logic Optimization",
+        "Logical Flow",
+        "Logic Programming",
+        "logic analyzer"
+    ],
+    "425": [
+        "Sparse Representation",
+        "Sparse Signal Processing"
+    ],
+    "426": [
+        "Vulnerability Analysis",
+        "Security risk mitigation",
+        "Vulnerability Management",
+        "Security Vulnerability Mitigation",
+        "Vulnerability scanning"
+    ],
+    "427": [
+        "Interoperability",
+        "Application Integration",
+        "System Integration",
+        "Library Integration",
+        "Software Integration",
+        "Client-facing Communication",
+        "3rd party service integration",
+        "Third-Party Salesforce Applications",
+        "Client Integration",
+        "Integration Services",
+        "Cross-technical Integration",
+        "Product Integration"
+    ],
+    "428": [
+        "Certifications",
+        "Solution Architect certification",
+        "Certificate management",
+        "Salesforce certified",
+        "WebTrust for CAs"
+    ],
+    "429": [
+        "Wireless Communication",
+        "Wireless Communication Networks",
+        "Wireless LAN",
+        "Wireless Security",
+        "IEEE 802.11",
+        "Wireless Access",
+        "Wifi",
+        "Wireless Packet Capture",
+        "Wireless Speed and Performance Testing",
+        "Wireless Positioning",
+        "Wireless Technologies"
+    ],
+    "430": [
+        "MIMO Detection",
+        "MIMO Systems",
+        "MIMO",
+        "MikroTik",
+        "Mimecast"
+    ],
+    "431": [
+        "Packet Switching",
+        "Switching Speed",
+        "Switching Systems",
+        "Switched Systems",
+        "Circuit Switching",
+        "Burst Switching",
+        "Ethernet Switching",
+        "Relay",
+        "Switches",
+        "Switching",
+        "Switch Configuration",
+        "switch access"
+    ],
+    "432": [
+        "Pre-Training",
+        "Training Delivery",
+        "train operation",
+        "on the job training",
+        "training and development",
+        "Post-Training",
+        "Training",
+        "Qualified",
+        "End User Training",
+        "Recruiting"
+    ],
+    "433": [
+        "Coaching",
+        "Mentoring",
+        "Mentoring senior engineers"
+    ],
+    "434": [
+        "Multidisciplinary Collaboration",
+        "cross functional collaboration",
+        "collaboration tool",
+        "Cross-Group Collaboration"
+    ],
+    "435": [
+        "Relationship Building",
+        "Client Relationship Management",
+        "relationship management"
+    ],
+    "436": [
+        "Cybersecurity",
+        "Intrusion Detection Systems",
+        "Cybersecurity Monitoring",
+        "NIST Cybersecurity Framework",
+        "Cybersecurity Remediation",
+        "Security Monitoring",
+        "Cybersecurity Countermeasures",
+        "Cybersecurity Trends",
+        "Cyber intelligence"
+    ],
+    "437": [
+        "service management",
+        "Microservices",
+        "Service-oriented architecture",
+        "service orient architecture",
+        "Service Access",
+        "service provider",
+        "core service",
+        "Scalable Services",
+        "Scalable and Extendable Core Services",
+        "professional service",
+        "Field Service Management",
+        "ServiceNow",
+        "ServiceNow certification",
+        "ServiceNow configuration",
+        "ServiceNow customization",
+        "service industry",
+        "Services",
+        "Serving Architecture",
+        "service design",
+        "essential service",
+        "service orientation",
+        "Service Level Agreements",
+        "service level",
+        "service delivery",
+        "Istio Service Mesh",
+        "Service Mesh"
+    ],
+    "438": [
+        "management consulting",
+        "Customer Consulting",
+        "Client Engagement",
+        "Prescriptive Consulting",
+        "Consultancy",
+        "Customer Relationship Management",
+        "Technical Consulting"
+    ],
+    "439": [
+        "Customer Requirements Analysis",
+        "Customer-Centered Design",
+        "Customer Interaction",
+        "customer support",
+        "customer experience",
+        "customer success",
+        "customer engagement",
+        "Customer Feedback Analysis",
+        "customer satisfaction",
+        "Customer Guidance",
+        "Customer Sentiment Analysis",
+        "Customer Insights",
+        "Customer Advocacy",
+        "Customer Expertise",
+        "Customer Understanding",
+        "Customer Orientation",
+        "Customer Development"
+    ],
+    "440": [
+        "Human Resources",
+        "employee stock option",
+        "employee assistance program",
+        "People/HR Practices",
+        "human capital",
+        "employee benefit",
+        "work capital"
+    ],
+    "441": [
+        "Oracle PeopleSoft HCM",
+        "PeopleSoft Core HR",
+        "PeopleSoft Benefits",
+        "PeopleSoft Time and Labor",
+        "PeopleSoft Payroll"
+    ],
+    "442": [
+        "Multidisciplinary",
+        "Multidisciplinary Perspective",
+        "Multidisciplinary Perspectives",
+        "Multidisciplinary Approach"
+    ],
+    "443": [
+        "Interdisciplinary Skills",
+        "Interdisciplinary Thinking",
+        "Interdisciplinary Approach",
+        "Interdisciplinary",
+        "Interdisciplinary Research",
+        "Interdisciplinary Knowledge"
+    ],
+    "444": [
+        "Direction of Arrival",
+        "Delivery",
+        "continuous delivery",
+        "Packaging"
+    ],
+    "445": [
+        "Express",
+        "Email Servers",
+        "Email Infrastructure",
+        "Email Clients",
+        "Email Delivery",
+        "Email Design",
+        "Email and groupware",
+        "Outlook"
+    ],
+    "446": [
+        "Lambda Calculus",
+        "Lambdas",
+        "Scala",
+        "LIN"
+    ],
+    "447": [
+        "Organizational Management",
+        "workforce management",
+        "middle management"
+    ],
+    "448": [
+        "Organization",
+        "Organizational Design",
+        "Organization Design",
+        "Organizational Patterns",
+        "Organizational Maturity",
+        "organizational structure"
+    ],
+    "449": [
+        "Liability",
+        "Civil Liability",
+        "Provider Liability"
+    ],
+    "450": [
+        "Tort Law",
+        "Criminal Law",
+        "federal law",
+        "public law"
+    ],
+    "451": [
+        "Presentation Skills",
+        "Presentation",
+        "Oral Presentation",
+        "Beamforming",
+        "Scientific Presentation",
+        "Structured Presentation",
+        "Information Presentation",
+        "PowerPoint",
+        "Customer Presentation",
+        "Audience Development"
+    ],
+    "452": [
+        "Business Management",
+        "Bachelor/Master/MBA",
+        "MBA",
+        "business administration"
+    ],
+    "453": [
+        "Delegate",
+        "Stewardship",
+        "Delegation"
+    ],
+    "454": [
+        "Accountability",
+        "Democracy",
+        "Governance",
+        "Responsibility"
+    ],
+    "455": [
+        "Scientific communication",
+        "Discussion",
+        "Scientific Communication",
+        "Scientific Discussion",
+        "Scientific Dialogue",
+        "Group Discussion",
+        "Discussion Techniques",
+        "Scientific Discourse",
+        "Peer Discussion"
+    ],
+    "456": [
+        "Rhetoric",
+        "Debate",
+        "Rhetorical Strategies"
+    ],
+    "457": [
+        "Application",
+        "Business Applications",
+        "Application Design",
+        "application development",
+        "Application Binary Interface",
+        "Application Analysis",
+        "Applications",
+        "Desktop application development",
+        "application planning",
+        "Application Development Kits",
+        "application portfolio management"
+    ],
+    "458": [
+        "Practical Application",
+        "Technical Application",
+        "Practical Applications",
+        "Engineering Applications"
+    ],
+    "459": [
+        "FIFOs",
+        "UART",
+        "CNAPP",
+        "ChatGPT"
+    ],
+    "460": [
+        "Peer-to-Peer Networks",
+        "Peer-to-Peer Systems",
+        "Peer-to-Peer"
+    ],
+    "461": [
+        "Legal Analysis",
+        "Legal Knowledge",
+        "Legislation Analysis",
+        "Legal Analytics",
+        "Legal Frameworks",
+        "Legalization",
+        "Legal Regulations"
+    ],
+    "462": [
+        "Regulatory Frameworks",
+        "Regulation",
+        "Regulatory Systems",
+        "Regulatory Networks",
+        "Applied Regulatory Control",
+        "regulatory requirement",
+        "Regulated Industries",
+        "Legal & Regulatory Navigation"
+    ],
+    "463": [
+        "Ubiquitous Computing",
+        "Industrial Internet of Things",
+        "Internet of Things",
+        "Zigbee",
+        "IoT",
+        "smart device"
+    ],
+    "464": [
+        "Valuation",
+        "Value Creation",
+        "Value Proposition Design",
+        "Value Management",
+        "value proposition",
+        "value chain"
+    ],
+    "465": [
+        "Software Management",
+        "System-Level Management"
+    ],
+    "466": [
+        "REST",
+        "Swagger",
+        "Huggingface"
+    ],
+    "467": [
+        "android development",
+        "Android UI",
+        "Android backend development",
+        "Android HAL/HIDL",
+        "Android Middleware",
+        "Android OTA",
+        "Android",
+        "google play"
+    ],
+    "468": [
+        "Linear Equations",
+        "Linear Methods",
+        "Linear Equation Solving",
+        "Linear"
+    ],
+    "469": [
+        "Complex IT Systems",
+        "IT/OT Environments",
+        "IT Systems",
+        "IT Architecture",
+        "System and Organization Controls (SOC)",
+        "end system"
+    ],
+    "470": [
+        "DevOps",
+        "MLOps",
+        "Jenkins",
+        "Devtools",
+        "Ansible",
+        "V0.dev",
+        "Protobuf",
+        "DevSecOps",
+        "DevOps Tooling"
+    ],
+    "471": [
+        "mobile application development",
+        "mobile app",
+        "Mobile development life cycle",
+        "Mobile App Design"
+    ],
+    "472": [
+        "Telephony",
+        "Telecommunications",
+        "VOIP",
+        "Asterisk PBX",
+        "VoIP Security"
+    ],
+    "473": [
+        "Mobile Computing",
+        "Mobile Systems",
+        "Mobile Services",
+        "Bluetooth LE",
+        "Phone System Implementation",
+        "mobile phone",
+        "Teams Phones"
+    ],
+    "474": [
+        "Kernel Driver - Development",
+        "Drivers",
+        "device driver",
+        "USB"
+    ],
+    "475": [
+        "Cocoa Touch",
+        "UIKit",
+        "Xcode",
+        "Swift UI",
+        "Apple"
+    ],
+    "476": [
+        "iOS Development",
+        "app store",
+        "AppCompat",
+        "iOS optimization",
+        "ios application"
+    ],
+    "477": [
+        "Sales Forecasting",
+        "Technical Sales Engineering",
+        "sale process",
+        "sale engineering",
+        "regional sale",
+        "solution sell",
+        "Outbound Sales",
+        "Pre-Sales",
+        "Post-Sales",
+        "Aircraft Sales Process",
+        "Sales",
+        "point of sale"
+    ],
+    "478": [
+        "International Law",
+        "Internationalization",
+        "International Exposure",
+        "Globalization",
+        "international organization",
+        "international sale",
+        "International Travel"
+    ],
+    "479": [
+        "Sparse Matrices",
+        "Sparse Linear Systems",
+        "Sparse Matrix"
+    ],
+    "480": [
+        "Network Devices",
+        "network hardware",
+        "Network Accelerators"
+    ],
+    "481": [
+        "Spectral Analysis",
+        "Spectral Decomposition"
+    ],
+    "482": [
+        "Visual Basic for Applications",
+        "C#",
+        "MVC",
+        ".NET",
+        "asp net",
+        "Visualforce",
+        ".NET Core",
+        "MSN",
+        "VB.NET",
+        "Visual Studio Framework",
+        "Visual Studio"
+    ],
+    "483": [
+        "Scripting",
+        "shell script",
+        "Visual Programming",
+        "Visual AI framework",
+        "Bash",
+        "PowerShell",
+        "Linux/Unix shell scripting",
+        "Visual Scripting"
+    ],
+    "484": [
+        "Eigenvalue Analysis",
+        "Singular Value Decomposition",
+        "Eigenvalue Problems",
+        "Epigenomic profiling",
+        "Eigenvalues",
+        "Eigenvalue Decomposition",
+        "Eigen/Singular Value Estimation",
+        "Epigenetics"
+    ],
+    "485": [
+        "Trusted Computing",
+        "Trusted Execution Environments",
+        "Zero Trust Security"
+    ],
+    "486": [
+        "Microcontroller Security",
+        "Processor Security",
+        "Embedded Systems Security",
+        "Hardware Security",
+        "Secure Boot",
+        "Hardware Root-of-Trust"
+    ],
+    "487": [
+        "pdf",
+        "Adobe Acrobat",
+        "Adobe Creative Suite",
+        "Adobe CC"
+    ],
+    "488": [
+        "packet loss",
+        "network traffic analysis",
+        "Packet Analysis",
+        "Deep Packet Inspection",
+        "Packet Tracing"
+    ],
+    "489": [
+        "Methodologies",
+        "Original Approaches"
+    ],
+    "490": [
+        "Secure Multiparty Computation",
+        "Computational Security",
+        "Secure Programming",
+        "Theoretical Security"
+    ],
+    "491": [
+        "Spreadsheet software",
+        "Excel"
+    ],
+    "492": [
+        "QA",
+        "RabbitMQ",
+        "XCTest",
+        "XGBoost",
+        "CPQ",
+        "MQTT",
+        "TSQL",
+        "XQL"
+    ],
+    "493": [
+        "change management",
+        "learn management system",
+        "Problem Management",
+        "management process",
+        "management system",
+        "Ticket Management"
+    ],
+    "494": [
+        "Startup Ideation",
+        "self starter",
+        "High Growth Startup"
+    ],
+    "495": [
+        "Linear Algebra",
+        "Linear Systems"
+    ],
+    "496": [
+        "Microsoft Defender",
+        "Malware/Virus Removal",
+        "Microsoft Defender for Endpoint"
+    ],
+    "497": [
+        "Network Analysis",
+        "Social Network Analysis",
+        "Network Flow Problems",
+        "Biological Network Analysis",
+        "Network analysis",
+        "Network Estimation"
+    ],
+    "498": [
+        "Tensor Operations",
+        "Distributed Matrix Multiplication",
+        "Matrix Operations",
+        "Matrix Factorization",
+        "Cholesky Factorization",
+        "Matrix Computations"
+    ],
+    "499": [
+        "Vectorized Operations",
+        "Vector Operations",
+        "Vector Spaces",
+        "Vector Calculus"
+    ],
+    "500": [
+        "plan maintenance",
+        "Maintenance Engineering",
+        "System Maintenance",
+        "Server Maintenance"
+    ],
+    "501": [
+        "marketing management",
+        "business marketing",
+        "Commercialization",
+        "product marketing",
+        "marketing strategy",
+        "Digital Marketing Metrics",
+        "Advertising Measurement",
+        "Brand Lift",
+        "Campaign Management",
+        "Multichannel Marketing",
+        "marketing operation",
+        "Commercial Sense",
+        "Digital Marketing",
+        "Marketing Mix Modeling",
+        "brand marketing"
+    ],
+    "502": [
+        "strategic thinking",
+        "Strategic Interaction",
+        "strategic planning",
+        "Strategic Analysis",
+        "Strategic Management",
+        "Competitive Advantage",
+        "Strategy Development",
+        "Strategy Evaluation"
+    ],
+    "503": [
+        "Strategies",
+        "Bypass Strategies",
+        "Defensive Strategies",
+        "medium strategy"
+    ],
+    "504": [
+        "scientific writing",
+        "Academic Writing",
+        "Writing",
+        "Note-taking",
+        "Collaborative Writing",
+        "Proposal Writing",
+        "Thesis Writing",
+        "white paper"
+    ],
+    "505": [
+        "Security Incident Reporting",
+        "Security Incident Response",
+        "Security Incident Documentation"
+    ],
+    "506": [
+        "Loader",
+        "spring boot",
+        "Flash Bootloader",
+        "Bootloading"
+    ],
+    "507": [
+        "Ruby on Rails",
+        "ruby on rail",
+        "Ruby",
+        "Django",
+        "master craftsman",
+        "Ruby/Python"
+    ],
+    "508": [
+        "Python",
+        "PyTorch",
+        "scikit-learn",
+        "Pandas",
+        "NumPy",
+        "SciPy",
+        "Matplotlib"
+    ],
+    "509": [
+        "product management",
+        "Product Development",
+        "Product Commercialization",
+        "product engineering",
+        "core product",
+        "AI-native Product Design",
+        "product planning",
+        "product strategy",
+        "Product Intuition",
+        "product requirement",
+        "product leadership",
+        "product design",
+        "Product Knowledge",
+        "Product Launch",
+        "Product Roadmapping",
+        "Customer-Centric Product Discovery",
+        "Product Demos",
+        "Product Discovery",
+        "Product Launch and Management",
+        "product innovation"
+    ],
+    "510": [
+        "Innovation",
+        "Innovation Games",
+        "Innovation Management",
+        "Innovation Methodology",
+        "Patent Strategy"
+    ],
+    "511": [
+        "software architecture",
+        "architectural design",
+        "Architectural Tactics",
+        "Architecture Search",
+        "Layered Architecture",
+        "Architectural Exploration",
+        "Architectural Models",
+        "Clean Architecture",
+        "high level architecture",
+        "Three-Tier Architecture",
+        "reference architecture",
+        "Technical architecture",
+        "Architectural and Engineering Firm Management",
+        "City-Builder Design",
+        "Architecture Analysis",
+        "Mesh Architectures",
+        "Architecture Landscape",
+        "Architecture Roadmaps",
+        "Architecture Principles",
+        "Architecture Standards",
+        "Architecture Guidelines",
+        "Architecture Reviews",
+        "Architecture Decision-Making",
+        "Architecture Portfolio Management"
+    ],
+    "512": [
+        "Trend Analysis",
+        "Trends Analysis",
+        "Trend Identification",
+        "Trend Description"
+    ],
+    "513": [
+        "RISC-V",
+        "Vite",
+        "Jest",
+        "VINS-Mono"
+    ],
+    "514": [
+        "Content Localization",
+        "Marketing Localization",
+        "Marketplace Business",
+        "Go-to-Market Localization",
+        "Go-to-Market Strategy",
+        "Marketplace Fluency",
+        "Localization"
+    ],
+    "515": [
+        "Market Design",
+        "Assignment Markets",
+        "Matching Markets",
+        "market analysis",
+        "Market Adoption",
+        "Market Positioning",
+        "Market Research",
+        "market value",
+        "market development",
+        "target market",
+        "market trend"
+    ],
+    "516": [
+        "Security Analysis",
+        "Security Report Evaluation",
+        "Security Investigation",
+        "Security Assessment",
+        "Automated Security Remediation",
+        "Security Tooling and Automation",
+        "Security Metrics and Reporting",
+        "Security Product Evaluation",
+        "security research"
+    ],
+    "517": [
+        "Security",
+        "Information Security",
+        "Secure Development Practices",
+        "security manage",
+        "software security",
+        "Security Design",
+        "Security Definitions",
+        "Security Requirements",
+        "Security Frameworks",
+        "Security Methodologies",
+        "Security Tool Development",
+        "Security Concepts",
+        "Security Solution Integration",
+        "Secure Application Design",
+        "security engineering",
+        "security system",
+        "Application Security",
+        "Secure-by-Default",
+        "Security Operations",
+        "secure environment",
+        "window security",
+        "security strategy",
+        "endpoint security",
+        "information security management system",
+        "Security Roadmap",
+        "corporate security",
+        "security information and event management",
+        "Software Supply Chain Security",
+        "Security Best Practices",
+        "Security Groups"
+    ],
+    "518": [
+        "Input/Output Devices",
+        "Input/Output",
+        "Input/output"
+    ],
+    "519": [
+        "IP Reputation",
+        "tcp ip",
+        "IP Addressing",
+        "NAT",
+        "IPv4/IPv6",
+        "VPNv4/6",
+        "DPU/IPU",
+        "IDS/IPS",
+        "VPN Technologies",
+        "VPN",
+        "IPS"
+    ],
+    "520": [
+        "supply chain",
+        "warehouse management",
+        "Logistics"
+    ],
+    "521": [
+        "Operations Management",
+        "operational excellence",
+        "operation center",
+        "operation research"
+    ],
+    "522": [
+        "Literature review",
+        "Literature Search",
+        "Literature Research",
+        "Literature research",
+        "Scientific Literature",
+        "Research Paper Reading"
+    ],
+    "523": [
+        "Mergers and Acquisitions",
+        "business partner",
+        "venture capital",
+        "joint venture"
+    ],
+    "524": [
+        "Assembly Language",
+        "Assembly Programming",
+        "Assembly",
+        "x86 Assembly"
+    ],
+    "525": [
+        "Instruction Selection",
+        "Instruction Set Architecture",
+        "Instruction Formats",
+        "Instruction Set",
+        "Instruction Set Design",
+        "Instruction Scheduling"
+    ],
+    "526": [
+        "Business Negotiation",
+        "business model",
+        "Business Planning",
+        "Business Considerations",
+        "business priority",
+        "business continuity",
+        "business operation",
+        "business requirement",
+        "business alignment",
+        "business transformation",
+        "business concept"
+    ],
+    "527": [
+        "business analysis",
+        "Industry Analysis"
+    ],
+    "528": [
+        "Scientific Method",
+        "Scientific Methodology",
+        "Scientific Approach",
+        "scientific study",
+        "Rigorous scientific research",
+        "Novel scientific approaches"
+    ],
+    "529": [
+        "Research",
+        "Research Skills",
+        "research methodology",
+        "Empirical Research",
+        "Research Proposal",
+        "Research Synthesis",
+        "Research Planning",
+        "qualitative research",
+        "action research",
+        "ux research",
+        "primary research",
+        "apply research",
+        "research design"
+    ],
+    "530": [
+        "WordPress",
+        "Laravel"
+    ],
+    "531": [
+        "SharePoint",
+        "NetSuite"
+    ],
+    "532": [
+        "com",
+        "HTTPS",
+        "Salesforce.com",
+        "HTTP",
+        "Salesforce",
+        "Proxy"
+    ],
+    "533": [
+        "interface design",
+        "Interfaces",
+        "Interface guidelines"
+    ],
+    "534": [
+        "Microsoft Solutions",
+        "Microsoft System Center",
+        "Microsoft Environment",
+        "microsoft word",
+        "microsoft office",
+        "Windows Office products",
+        "Microsoft Intune"
+    ],
+    "535": [
+        "agile software development",
+        "Agile Methodologies",
+        "Hybrid Agile",
+        "Scrum"
+    ],
+    "536": [
+        "Go",
+        "CAN",
+        "CAN Open",
+        "OpenACC",
+        "OpenMM"
+    ],
+    "537": [
+        "Protocol Design",
+        "Protocols",
+        "Sigma Protocols",
+        "Link Layer Protocols",
+        "Windowing Protocols",
+        "Model Context Protocol",
+        "Secure Communication Protocols",
+        "network protocol",
+        "route protocol",
+        "Web-based Protocols",
+        "TCP/IP protocols"
+    ],
+    "538": [
+        "Socket Connection",
+        "TCP/IP networking"
+    ],
+    "539": [
+        "WebSockets",
+        "TCP/UDP",
+        "socket programming"
+    ],
+    "540": [
+        "front end",
+        "back end",
+        "Front-end Development",
+        "Frontend Systems",
+        "Micro-Frontends",
+        "Backend Engineering"
+    ],
+    "541": [
+        "Heterostructure Assembly",
+        "Board level design",
+        "PCB assembly",
+        "PCB design"
+    ],
+    "542": [
+        "Prometheus",
+        "Apollo",
+        "SentinelOne"
+    ],
+    "543": [
+        "configuration management",
+        "Configuration-driven development",
+        "system software",
+        "Software Configuration",
+        "Software Installation"
+    ],
+    "544": [
+        "Specialized Software",
+        "Research Software",
+        "software suite",
+        "flight software"
+    ],
+    "545": [
+        "Tools",
+        "Tool Proficiency",
+        "Tool Qualification",
+        "Tool Application",
+        "Tool Development",
+        "Software Tools",
+        "Tool Usage",
+        "Programming Tools",
+        "tool management",
+        "Developer Tools",
+        "Claims IT Tools",
+        "Investigative Tools Development",
+        "Toolkits"
+    ],
+    "546": [
+        "Embedded IT Systems",
+        "Embedded Systems Design",
+        "I/O Systems",
+        "AV Systems",
+        "A/V systems",
+        "computer system"
+    ],
+    "547": [
+        "system architecture",
+        "system design",
+        "Gameplay Ability System (GAS)",
+        "system configuration",
+        "system implementation",
+        "system requirement",
+        "System Enhancements"
+    ],
+    "690": [
+        "Computer Vision",
+        "OpenCV",
+        "Visual Composition",
+        "Special Effects",
+        "Visual Effects",
+        "Perspective-taking",
+        "Language Guided Vision Systems",
+        "Stereo Vision",
+        "Visual Positioning",
+        "visual system",
+        "visual perception"
+    ],
+    "548": [
+        "Device Fabrication",
+        "Peripheral Design",
+        "Sybase Physical Design"
+    ],
+    "549": [
+        "software development",
+        "Software Engineering",
+        "Software Methodologies",
+        "Software Evolution",
+        "software development methodology",
+        "Legacy Software Modernization",
+        "Large-Scale Software Development"
+    ],
+    "550": [
+        "product lifecycle",
+        "Software Lifecycle",
+        "Application Lifecycle",
+        "lifecycle management",
+        "Software Lifecycle Models",
+        "Life Cycle Analysis",
+        "software development life cycle",
+        "contract lifecycle management"
+    ],
+    "551": [
+        "EVs",
+        "EventBridge",
+        "EVPN"
+    ],
+    "552": [
+        "system support",
+        "Desktop Support",
+        "Laptop Support",
+        "Mac Support",
+        "Windows Support"
+    ],
+    "553": [
+        "product support",
+        "learn support",
+        "Support Library",
+        "IT support",
+        "Software Support",
+        "supportive housing"
+    ],
+    "554": [
+        "Hardware optimization",
+        "Hardware Optimization",
+        "Hardware-Software Tradeoffs",
+        "Hardware-Software Co-optimization"
+    ],
+    "555": [
+        "Design Patterns",
+        "Functional Design Patterns",
+        "Software Patterns",
+        "Patterns",
+        "COCOA design patterns",
+        "design specification",
+        "CLI Design"
+    ],
+    "556": [
+        "Hardware Acceleration",
+        "Hardware Awareness",
+        "CPU Architecture",
+        "Hardware-software integration",
+        "Microprocessors",
+        "Microarchitecture",
+        "Processor Design",
+        "Lab-on-a-Chip",
+        "Hardware Description Languages",
+        "Standard Cell Design",
+        "System-on-Chip",
+        "Chip Design",
+        "Chip Manufacturing",
+        "Hardware Operation",
+        "Microprocessor Design",
+        "Hardware Customization",
+        "Hardware Modeling",
+        "Hardware Specification",
+        "FPGA",
+        "Computer Interfacing",
+        "Multiprocessor Architectures",
+        "Hardware Synthesis",
+        "Hardware Administration",
+        "RAML specifications",
+        "Computer Operations",
+        "Hardware Bringup",
+        "Hardware Configuration",
+        "Hardware and Software Systems Codesign",
+        "Hardware Support",
+        "computer hardware",
+        "Hardware-in-the-Loop",
+        "hardware architecture",
+        "Microcontrollers",
+        "ARM Processors",
+        "hardware design",
+        "Hardware-aware training",
+        "Hardware Interactions",
+        "Microcontroller architectures"
+    ],
+    "557": [
+        "Device Engineering",
+        "device management",
+        "Device Bring-up"
+    ],
+    "558": [
+        "OFDMA",
+        "OFDM"
+    ],
+    "559": [
+        "DHCP",
+        "IP Network",
+        "RDMA Networking"
+    ],
+    "560": [
+        "React",
+        "React Hook Form",
+        "React-Query",
+        "React Native"
+    ],
+    "561": [
+        "Wireline Networks",
+        "Wired Network",
+        "Cable Management",
+        "Ethernet"
+    ],
+    "562": [
+        "Node Software Development",
+        "EVM Node Software",
+        "Node-based engine",
+        "Node",
+        "Node-Change Management"
+    ],
+    "563": [
+        "Design Flow",
+        "Design Space Exploration",
+        "Design Space",
+        "Design Systems"
+    ],
+    "564": [
+        "Platform-Independent Development",
+        "Hardware Platforms",
+        "Experimental Platforms",
+        "Embedded Platforms",
+        "computing platform",
+        "Cross-platform development",
+        "Microsoft Platform Systems",
+        "learn platform"
+    ],
+    "565": [
+        "SOAP",
+        "Hive",
+        "Cassandra"
+    ],
+    "566": [
+        "nist 800",
+        "DO-178C",
+        "DO160",
+        "MIL-STD-810"
+    ],
+    "567": [
+        "Linux",
+        "operating system",
+        "Operating System Interaction",
+        "Operating System Functions",
+        "Windows",
+        "Debian",
+        "Ubuntu",
+        "Linux administration",
+        "linux server",
+        "Linux fundamentals",
+        "SELinux",
+        "SUSE Linux",
+        "macOS",
+        "Windows Desktop",
+        "Windows workstation operating systems",
+        "raspberry pi",
+        "Linux Kernel",
+        "Embedded Linux",
+        "linux distribution"
+    ],
+    "568": [
+        "Networking",
+        "network management",
+        "Petri Nets",
+        "network layer",
+        "Networking Functions",
+        "Network Components",
+        "Software-defined networking",
+        "Network Connectivity",
+        "Networking Fundamentals",
+        "Network isolation",
+        "network infrastructure",
+        "network engineering",
+        "network provisioning"
+    ],
+    "569": [
+        "Workshop Design",
+        "Interactive design",
+        "Interactive Design",
+        "Interactive Computing",
+        "UI/UX design"
+    ],
+    "570": [
+        "HTML5",
+        "CSS",
+        "HTML",
+        "CSS3"
+    ],
+    "571": [
+        "ArgoCD",
+        "ARP",
+        "ARP 4754A",
+        "ARP 4761"
+    ],
+    "572": [
+        "AArch64",
+        "ISO 27001",
+        "ISO 26262",
+        "ISO",
+        "ISO27002",
+        "ISO/IEC 27001"
+    ],
+    "573": [
+        "network architecture",
+        "Network Planning",
+        "Logical Network Design",
+        "Network Structures",
+        "Network Design",
+        "Network Optimization",
+        "Network Topologies",
+        "Overlay Networks"
+    ],
+    "574": [
+        "Network Theory",
+        "Network Methods",
+        "Memoryless Networks",
+        "Network Traversal",
+        "Networks",
+        "complex network"
+    ],
+    "575": [
+        "Foley",
+        "Rust",
+        "Helm",
+        "Bun",
+        "yarn",
+        "Spark",
+        "Alpine",
+        "Aurora",
+        "Snowflake",
+        "HAL",
+        "Dagger",
+        "Flink",
+        "Hardhat",
+        "Snort"
+    ],
+    "576": [
+        "Gulp",
+        "Spring",
+        "Lightning",
+        "RAPIDS"
+    ],
+    "577": [
+        "Serverless Computing",
+        "Server Development",
+        "Server Systems",
+        "On-prem server technology",
+        "Windows Server",
+        "Serverless"
+    ],
+    "578": [
+        "Server-Side Rendering",
+        "web server"
+    ],
+    "579": [
+        "Internet web software",
+        "Web Technologies",
+        "Web Meetings",
+        "Webinars"
+    ],
+    "580": [
+        "web development",
+        "web application",
+        "Web Service Development",
+        "Web Application Design",
+        "web tool",
+        "web property",
+        "Web Development Best Practices",
+        "ArcGIS Web App Builder",
+        "ArcGIS Web Experience Builder",
+        "WebAssembly"
+    ],
+    "581": [
+        "web framework",
+        "Component-based Frameworks",
+        "Frameworks",
+        "framework design",
+        "Angular",
+        "Web Components",
+        "ATT&CK framework",
+        "DDS Frameworks",
+        "Anchor Framework"
+    ],
+    "582": [
+        "Component Modeling",
+        "Component Limitations",
+        "Component Selection",
+        "component design",
+        "Component Creation",
+        "Component Libraries",
+        "UI components"
+    ],
+    "583": [
+        "Kotlin",
+        "GitOps",
+        "GIS",
+        "GitLab",
+        "Version Control (Git)"
+    ],
+    "584": [
+        "FIGMA",
+        "Fortinet",
+        "Fortran",
+        "Kanban"
+    ],
+    "585": [
+        "SASS",
+        "SQS",
+        "I2C",
+        "I3C",
+        "PLECS",
+        "PRINCE2",
+        "CSA STAR",
+        "ROS2",
+        "NIS2"
+    ],
+    "586": [
+        "Participatory Design",
+        "User-Centered Design",
+        "User-centered design",
+        "user center design",
+        "User-centric Design"
+    ],
+    "587": [
+        "Custom Design",
+        "UX Design"
+    ],
+    "588": [
+        "Leaflet",
+        "jQuery",
+        "AJAX"
+    ],
+    "589": [
+        "Next.js",
+        "Nest.js",
+        "ArcGIS JavaScript 4.x"
+    ],
+    "590": [
+        "CIO Role",
+        "CI/CD",
+        "NERC CIP",
+        "CIRT",
+        "CISSP",
+        "CIS Controls",
+        "CISOaaS",
+        "CISA"
+    ],
+    "591": [
+        "R",
+        "Informix"
+    ],
+    "592": [
+        "CCNA",
+        "CCNP",
+        "CCIE"
+    ],
+    "593": [
+        "XDR/EDR",
+        "xAPI",
+        "XDR",
+        "Palo Alto Cortex XDR"
+    ],
+    "594": [
+        "Perl",
+        "UML",
+        "ETL"
+    ],
+    "595": [
+        "MVVM",
+        "npm",
+        "JMS",
+        "PWM",
+        "CLM",
+        "CRM",
+        "MDM",
+        "ITSM",
+        "EVM",
+        "MDM Solutions",
+        "PIM"
+    ],
+    "596": [
+        "Kafka",
+        "San",
+        "Palo Alto"
+    ],
+    "597": [
+        "B2B SaaS",
+        "SaaS",
+        "SSO",
+        "Bazel",
+        "SRE",
+        "SLA/SLO",
+        "SPI",
+        "PCI",
+        "PMI",
+        "SSPA",
+        "MPI",
+        "BSI",
+        "SBOM/SCA",
+        "SSE",
+        "SOC"
+    ],
+    "598": [
+        "LLMs",
+        "LLMOps",
+        "LLVM IR",
+        "Veeam",
+        "Large Language Models",
+        "LLM frameworks"
+    ],
+    "599": [
+        "LLM evals",
+        "LLM Alignment",
+        "LLM fine-tuning",
+        "LLM deployment",
+        "Large Language Models"
+    ],
+    "600": [
+        "MPLS/GMPLS",
+        "GCP VMs",
+        "GCP",
+        "GCS",
+        "gRPC",
+        "MCTP",
+        "GSuite",
+        "GNSS",
+        "GSEC",
+        "G Suite"
+    ],
+    "601": [
+        "OSCP",
+        "SMPP"
+    ],
+    "602": [
+        "Egnyte",
+        "Intune"
+    ],
+    "603": [
+        "MRC",
+        "GIAC"
+    ],
+    "604": [
+        "NIST",
+        "NIST CSF",
+        "MEF-CECP"
+    ],
+    "605": [
+        "Clickhouse",
+        "TPU",
+        "TP-Link Omada",
+        "Edge TPU",
+        "RTOS"
+    ],
+    "606": [
+        "SAST",
+        "DAST"
+    ],
+    "607": [
+        "ZK Rollups",
+        "RELAX NG",
+        "CDK",
+        "Zendesk",
+        "NDK",
+        "Dask",
+        "DPDK",
+        "Zeek"
+    ],
+    "608": [
+        "CUDA",
+        "LeanIX",
+        "GenAI",
+        "Grafana",
+        "Statamic",
+        "Prisma",
+        "Avalara",
+        "Cordova",
+        "RViz",
+        "Solana",
+        "CrewAI",
+        "Suricata",
+        "JIRA",
+        "MedBert"
+    ],
+    "609": [
+        "FastAPI",
+        "Nuvolo",
+        "Hapi",
+        "Istio",
+        "Ubiquiti UniFi"
+    ],
+    "610": [
+        "I/O",
+        "IAM",
+        "Yocto",
+        "OOP",
+        "Odoo ERP",
+        "IMU",
+        "iManage 10"
+    ],
+    "611": [
+        "XD",
+        "ERP",
+        "IdP",
+        "IGMP",
+        "OWASP Top 10"
+    ],
+    "612": [
+        "CoAP",
+        "DLP",
+        "STP",
+        "LACP"
+    ],
+    "613": [
+        "EDR/MDR",
+        "EDR",
+        "repmgr",
+        "IVR"
+    ],
+    "614": [
+        "SOAR",
+        "Looker",
+        "Mender",
+        "ITIL"
+    ]
+}

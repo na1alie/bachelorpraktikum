@@ -30,7 +30,7 @@ driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
 # --- Candidate Filtering ---
 def filter_courses_by_job(job_title):
     query = """
-    MATCH (j:Job {name: $job_title})-[:requires]->(s:Skill)<-[:TEACHES]-(c:Course)
+    MATCH (j:Job {name: $job_title})-[:REQUIRES]->(s:Skill)<-[:TEACHES]-(c:Course)
     RETURN DISTINCT c.name AS course
     """
     with driver.session() as session:
