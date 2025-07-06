@@ -1,0 +1,3850 @@
+{
+  "Machine Learning Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Machine Learning Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Entry level": [
+      {
+        "title": "Machine Learning Engineer",
+        "level": "Entry level"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "AI Developer": {
+    "Mid-Senior level": [
+      {
+        "title": "AI Developer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "AI Developer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "AI Engineer",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Not Applicable": [
+      {
+        "title": "AI Developer",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Backend + ML Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Backend + ML Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Backend + ML Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Backend + ML Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "AI DEVELOPER": {
+    "Entry level": [
+      {
+        "title": "AI DEVELOPER",
+        "level": "Entry level"
+      },
+      {
+        "title": "AI DEVELOPER",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Junior Developer": {
+    "Entry level": [
+      {
+        "title": "Junior Developer",
+        "level": "Entry level"
+      },
+      {
+        "title": "Junior Developer",
+        "level": "Entry level"
+      },
+      {
+        "title": "Junior/Senior Full Stack Developer",
+        "level": "Entry level"
+      }
+    ],
+    "Internship": [
+      {
+        "title": "Junior Developer",
+        "level": "Internship"
+      },
+      {
+        "title": "Junior Developer",
+        "level": "Internship"
+      }
+    ]
+  },
+  "Junior Software Developer": {
+    "Mid-Senior level": [
+      {
+        "title": "Junior Software Developer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Junior Software Developer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Software Engineer Intern": {
+    "Internship": [
+      {
+        "title": "Software Engineer Intern",
+        "level": "Internship"
+      },
+      {
+        "title": "Software Engineer Intern",
+        "level": "Internship"
+      }
+    ]
+  },
+  "Software Engineer - Backend": {
+    "Entry level": [
+      {
+        "title": "Software Engineer - Backend",
+        "level": "Entry level"
+      },
+      {
+        "title": "Software Engineer - Backend",
+        "level": "Entry level"
+      },
+      {
+        "title": "Backend Developer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Software Engineer I": {
+    "Mid-Senior level": [
+      {
+        "title": "Software Engineer I",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Software Engineer I",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Software Engineer",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Entry Level": [
+      {
+        "title": "Software Engineer I",
+        "level": "Entry Level"
+      },
+      {
+        "title": "Software Engineer I",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Software Engineer - Recent Grad": {
+    "Entry level": [
+      {
+        "title": "Software Engineer - Recent Grad",
+        "level": "Entry level"
+      },
+      {
+        "title": "Software Engineer - Recent Grad",
+        "level": "Entry level"
+      },
+      {
+        "title": "Software Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Software Engineer, Growth": {
+    "Not Applicable": [
+      {
+        "title": "Software Engineer, Growth",
+        "level": "Not Applicable"
+      },
+      {
+        "title": "Software Engineer, Growth",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Software Engineer, Backend (Multiple Levels) - Slack": {
+    "Mid-Senior level": [
+      {
+        "title": "Software Engineer, Backend (Multiple Levels) - Slack",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Software Engineer, Backend (Multiple Levels) - Slack",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Cloud Engineer - AI Trainer": {
+    "Entry Level": [
+      {
+        "title": "Cloud Engineer - AI Trainer",
+        "level": "Entry Level"
+      },
+      {
+        "title": "Cloud Engineer - AI Trainer",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Android Software Engineer - Senior": {
+    "Senior": [
+      {
+        "title": "Android Software Engineer - Senior",
+        "level": "Senior"
+      },
+      {
+        "title": "Android Software Engineer - Senior",
+        "level": "Senior"
+      },
+      {
+        "title": "Senior Android Developer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Fullstack Software Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Fullstack Software Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Fullstack Software Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Fullstack Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Junior/Senior Full Stack Developer": {
+    "Entry level": [
+      {
+        "title": "Junior/Senior Full Stack Developer",
+        "level": "Entry level"
+      },
+      {
+        "title": "Junior/Senior Full Stack Developer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Software Engineer (Platform)": {
+    "Mid-Senior level": [
+      {
+        "title": "Software Engineer (Platform)",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Software Engineer (Platform)",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Software Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Frontend Engineer - Web": {
+    "Mid-Senior level": [
+      {
+        "title": "Frontend Engineer - Web",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Frontend Engineer - Web",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Frontend Web Developer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Front End Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Front End Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Front End Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Frontend Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Software Engineer - Frontend": {
+    "Mid-Senior level": [
+      {
+        "title": "Software Engineer - Frontend",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Software Engineer, Frontend",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Software Engineer, Backend",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Frontend Developer": {
+    "Entry level": [
+      {
+        "title": "Frontend Developer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Frontend software engineer (React) - Europe Remote": {
+    "Entry level": [
+      {
+        "title": "Frontend software engineer (React) - Europe Remote",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Frontend Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Frontend Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Frontend Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Frontend Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "iOS Developer": {
+    "Senior": [
+      {
+        "title": "iOS Developer",
+        "level": "Senior"
+      }
+    ],
+    "Mid-Senior level": [
+      {
+        "title": "iOS Developer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Web Application Developer - HIRING IN CANADA": {
+    "Senior": [
+      {
+        "title": "Senior Web Application Developer - HIRING IN CANADA",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Senior React Native / iOS Developer": {
+    "Senior": [
+      {
+        "title": "Senior React Native / iOS Developer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Web Master": {
+    "Senior": [
+      {
+        "title": "Web Master",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Frontend Software Engineer": {
+    "Senior": [
+      {
+        "title": "Frontend Software Engineer",
+        "level": "Senior"
+      },
+      {
+        "title": "Front End Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Frontend Developer - AI Trainer": {
+    "Entry Level": [
+      {
+        "title": "Frontend Developer - AI Trainer",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Front End Web Developer": {
+    "Mid-Senior level": [
+      {
+        "title": "Front End Web Developer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior/Staff Frontend Developer": {
+    "Senior": [
+      {
+        "title": "Senior/Staff Frontend Developer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Staff Frontend Engineer": {
+    "Senior": [
+      {
+        "title": "Staff Frontend Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Full Stack Developer": {
+    "Associate": [
+      {
+        "title": "Full Stack Developer",
+        "level": "Associate"
+      },
+      {
+        "title": "Full Stack Developer",
+        "level": "Associate"
+      },
+      {
+        "title": "(Senior) Full Stack Developer",
+        "level": "Associate"
+      }
+    ],
+    "Mid-Senior level": [
+      {
+        "title": "Full Stack Developer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Full Stack Developer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Full Stack Developer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Full Stack Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Full Stack Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Full Stack Software Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Full Stack Software Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Full Stack Software Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Software Engineer, Full-Stack (SF)",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Software Engineer - Core": {
+    "Entry level": [
+      {
+        "title": "Software Engineer - Core",
+        "level": "Entry level"
+      },
+      {
+        "title": "Software Engineer - Core",
+        "level": "Entry level"
+      },
+      {
+        "title": "Software Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Software Engineer, Core Product": {
+    "Not Applicable": [
+      {
+        "title": "Software Engineer, Core Product",
+        "level": "Not Applicable"
+      },
+      {
+        "title": "Software Engineer, Core Product",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Full Stack Web Developer": {
+    "Entry level": [
+      {
+        "title": "Full Stack Web Developer",
+        "level": "Entry level"
+      },
+      {
+        "title": "Full Stack Web Developer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Software Engineer, Full-Stack": {
+    "Entry level": [
+      {
+        "title": "Software Engineer, Full-Stack",
+        "level": "Entry level"
+      },
+      {
+        "title": "Software Engineer, Full-Stack",
+        "level": "Entry level"
+      },
+      {
+        "title": "Software Engineer, Full-Stack",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Softwareentwickler – Schwerpunkt Java": {
+    "Mid-Senior level": [
+      {
+        "title": "Softwareentwickler – Schwerpunkt Java",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Junior Software Engineer - Full Stack": {
+    "Entry Level": [
+      {
+        "title": "Junior Software Engineer - Full Stack",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "(Senior) Full Stack Developer": {
+    "Senior": [
+      {
+        "title": "(Senior) Full Stack Developer",
+        "level": "Senior"
+      },
+      {
+        "title": "(Senior) Full Stack Developer",
+        "level": "Senior"
+      },
+      {
+        "title": "Software Engineer - Full Stack (Senior)",
+        "level": "Senior"
+      }
+    ],
+    "Associate": [
+      {
+        "title": "(Senior) Full Stack Developer",
+        "level": "Associate"
+      }
+    ]
+  },
+  "Senior/Lead Full Stack Developer – VGI Tech": {
+    "Senior": [
+      {
+        "title": "Senior/Lead Full Stack Developer – VGI Tech",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Full Stack Engineer - AI Trainer": {
+    "Entry Level": [
+      {
+        "title": "Full Stack Engineer - AI Trainer",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Senior/Staff Full Stack Engineer": {
+    "Senior": [
+      {
+        "title": "Senior/Staff Full Stack Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Full Stack Engineer II (Backend) - Time Products": {
+    "Mid-Senior level": [
+      {
+        "title": "Full Stack Engineer II (Backend) - Time Products",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Full Stack Engineer II (Backend) - Time Products",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Full Stack Engineer II (Backend) - Time Products",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Software Engineer - GenAI (Full-Stack)": {
+    "Mid-Senior level": [
+      {
+        "title": "Software Engineer - GenAI (Full-Stack)",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Backend Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Backend Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Frontend Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Backend + ML Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Backend Developer": {
+    "Associate": [
+      {
+        "title": "Backend Developer",
+        "level": "Associate"
+      }
+    ],
+    "Mid-Senior level": [
+      {
+        "title": "Backend Developer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Backend Developer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Software Engineer, Backend",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Back End Engineer": {
+    "Entry level": [
+      {
+        "title": "Back End Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Software Engineer, Mail (Backend)": {
+    "Not Applicable": [
+      {
+        "title": "Software Engineer, Mail (Backend)",
+        "level": "Not Applicable"
+      },
+      {
+        "title": "Software Engineer, Mail (Frontend)",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Fullstack Engineer": {
+    "Entry level": [
+      {
+        "title": "Fullstack Engineer",
+        "level": "Entry level"
+      },
+      {
+        "title": "Fullstack Engineer",
+        "level": "Entry level"
+      },
+      {
+        "title": "Fullstack Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Full-Stack Engineer": {
+    "Entry level": [
+      {
+        "title": "Full-Stack Engineer",
+        "level": "Entry level"
+      },
+      {
+        "title": "Full-Stack Engineer",
+        "level": "Entry level"
+      },
+      {
+        "title": "Full Stack Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Contract Fullstack Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Contract Fullstack Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Contract Fullstack Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Member of Technical Staff - Backend": {
+    "Mid-Senior level": [
+      {
+        "title": "Member of Technical Staff - Backend",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "DevOps Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "DevOps Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "DevOps Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "DevOps engineer",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Associate": [
+      {
+        "title": "DevOps Engineer",
+        "level": "Associate"
+      }
+    ]
+  },
+  "Site Reliability Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Site Reliability Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Production Engineering": {
+    "Not Applicable": [
+      {
+        "title": "Production Engineering",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "SYSTEM AIT ENGINEER* – /BERLIN": {
+    "Mid-Senior level": [
+      {
+        "title": "SYSTEM AIT ENGINEER* – /BERLIN",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "DevOps-Engineer": {
+    "Entry level": [
+      {
+        "title": "DevOps-Engineer",
+        "level": "Entry level"
+      },
+      {
+        "title": "DevOps Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Software/AI Engineer (New Grad)": {
+    "Entry level": [
+      {
+        "title": "Software/AI Engineer (New Grad)",
+        "level": "Entry level"
+      },
+      {
+        "title": "Software/AI Engineer (New Grad)",
+        "level": "Entry level"
+      },
+      {
+        "title": "Software/AI Engineer (New Grad)",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Staff Software Engineer, Site Reliability Engineering": {
+    "Senior": [
+      {
+        "title": "Staff Software Engineer, Site Reliability Engineering",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Lead Engineer, Product Site Reliability Engineer": {
+    "Senior": [
+      {
+        "title": "Lead Engineer, Product Site Reliability Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Technical Duty Officer / Sr. Site Reliability Engineer": {
+    "Senior": [
+      {
+        "title": "Technical Duty Officer / Sr. Site Reliability Engineer",
+        "level": "Senior"
+      },
+      {
+        "title": "Senior Site Reliability Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Principal Site Reliability Engineer - Paze": {
+    "Senior": [
+      {
+        "title": "Principal Site Reliability Engineer - Paze",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Data Scientist, Product Analytics": {
+    "Associate": [
+      {
+        "title": "Data Scientist, Product Analytics",
+        "level": "Associate"
+      }
+    ]
+  },
+  "Data Scientist, GTM": {
+    "Not Applicable": [
+      {
+        "title": "Data Scientist, GTM",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Data Scientist": {
+    "Mid-Senior level": [
+      {
+        "title": "Data Scientist",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Data Scientist",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Data Scientist",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Entry level": [
+      {
+        "title": "Data Scientist",
+        "level": "Entry level"
+      },
+      {
+        "title": "Data Analyst",
+        "level": "Entry level"
+      },
+      {
+        "title": "Data Analyst",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Data Scientist, Consumer Research & Marketing": {
+    "Associate": [
+      {
+        "title": "Data Scientist, Consumer Research & Marketing",
+        "level": "Associate"
+      }
+    ]
+  },
+  "Junior AI/ML Software Developer": {
+    "Entry level": [
+      {
+        "title": "Junior AI/ML Software Developer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Machine Learning Engineer,": {
+    "Mid-Senior level": [
+      {
+        "title": "Machine Learning Engineer,",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Automation Engineer - AI Trainer": {
+    "Entry Level": [
+      {
+        "title": "Automation Engineer - AI Trainer",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Data Scientist - Measurement": {
+    "Mid-Senior level": [
+      {
+        "title": "Data Scientist - Measurement",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Data Scientist, Customer Analytics & VoC": {
+    "Mid-Senior level": [
+      {
+        "title": "Data Scientist, Customer Analytics & VoC",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Junior Data Analyst": {
+    "Entry level": [
+      {
+        "title": "Junior Data Analyst",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Data Analyst": {
+    "Not Applicable": [
+      {
+        "title": "Data Analyst",
+        "level": "Not Applicable"
+      }
+    ],
+    "Mid-Senior level": [
+      {
+        "title": "Data Analyst",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Data Analyst",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Entry Level": [
+      {
+        "title": "Data Analyst",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Data Analyst, Measurement Research": {
+    "Entry level": [
+      {
+        "title": "Data Analyst, Measurement Research",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Data Analyst - AI driven initiatives": {
+    "Not Applicable": [
+      {
+        "title": "Data Analyst - AI driven initiatives",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Internship - Data & Analytics": {
+    "Internship": [
+      {
+        "title": "Internship - Data & Analytics",
+        "level": "Internship"
+      }
+    ]
+  },
+  "Product Data Analyst": {
+    "Entry level": [
+      {
+        "title": "Product Data Analyst",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Health Emergency Preparedness Community Program Analyst II (Open)": {
+    "Mid-Senior level": [
+      {
+        "title": "Health Emergency Preparedness Community Program Analyst II (Open)",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Finance Insights & Data Analyst": {
+    "Mid-Senior level": [
+      {
+        "title": "Finance Insights & Data Analyst",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Data Analyst": {
+    "Senior": [
+      {
+        "title": "Senior Data Analyst",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Sr. Consultant, Commercial Analytics": {
+    "Senior": [
+      {
+        "title": "Sr. Consultant, Commercial Analytics",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Solution Architect E-Commerce": {
+    "Mid-Senior level": [
+      {
+        "title": "Solution Architect E-Commerce",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Solutions Architect": {
+    "Mid-Senior level": [
+      {
+        "title": "Solutions Architect",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Solutions Architect",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Solution Architect",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Solutions Architect, Enterprise": {
+    "Mid-Senior level": [
+      {
+        "title": "Solutions Architect, Enterprise",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Solution Architect",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Enterprise Architect / Solution Architekt",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Cloud Architect": {
+    "Mid-Senior level": [
+      {
+        "title": "Cloud Architect",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Solution Architect -": {
+    "Not Applicable": [
+      {
+        "title": "Solution Architect -",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Solutions Architect (Device42)": {
+    "Mid-Senior level": [
+      {
+        "title": "Solutions Architect (Device42)",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Sr. Data Engineer (multiple openings)": {
+    "Senior": [
+      {
+        "title": "Sr. Data Engineer (multiple openings)",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Real Estate Transformation-Nuvolo/Service Now Architect -Senior Consultant": {
+    "Senior": [
+      {
+        "title": "Real Estate Transformation-Nuvolo/Service Now Architect -Senior Consultant",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Salesforce Architect": {
+    "Senior": [
+      {
+        "title": "Salesforce Architect",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Solutions Architect (Box Consulting)": {
+    "Mid-Senior level": [
+      {
+        "title": "Solutions Architect (Box Consulting)",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Deloitte Technology |Product Engineering |Product Architect| Vision360": {
+    "Senior": [
+      {
+        "title": "Deloitte Technology |Product Engineering |Product Architect| Vision360",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Information and Security Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Information and Security Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Security Engineer, Corporate Security",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Security Engineer, Enterprise Security",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Security SOC Analyst": {
+    "Associate": [
+      {
+        "title": "Security SOC Analyst",
+        "level": "Associate"
+      }
+    ]
+  },
+  "SECURITY AUDITOR": {
+    "Not Applicable": [
+      {
+        "title": "SECURITY AUDITOR",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Cyber Security Analyst": {
+    "Associate": [
+      {
+        "title": "Cyber Security Analyst",
+        "level": "Associate"
+      }
+    ]
+  },
+  "Security Analyst II": {
+    "Not Applicable": [
+      {
+        "title": "Security Analyst II",
+        "level": "Not Applicable"
+      },
+      {
+        "title": "SECURITY ANALYST",
+        "level": "Not Applicable"
+      },
+      {
+        "title": "SECURITY ANALYST",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Junior Cyber-Security Engineer": {
+    "Internship": [
+      {
+        "title": "Junior Cyber-Security Engineer",
+        "level": "Internship"
+      },
+      {
+        "title": "Junior Cyber-Security Engineer",
+        "level": "Internship"
+      },
+      {
+        "title": "Junior Cyber-Security Engineer",
+        "level": "Internship"
+      }
+    ]
+  },
+  "Junior Cyber Security Analyst / Consultant": {
+    "Internship": [
+      {
+        "title": "Junior Cyber Security Analyst / Consultant",
+        "level": "Internship"
+      },
+      {
+        "title": "Junior Cyber Security Analyst / Consultant",
+        "level": "Internship"
+      }
+    ]
+  },
+  "Cybersecurity Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Cybersecurity Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Cybersecurity Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Cybersecurity Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "CSIRT ANALYST": {
+    "Not Applicable": [
+      {
+        "title": "CSIRT ANALYST",
+        "level": "Not Applicable"
+      },
+      {
+        "title": "CSIRT ANALYST",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Principal Information Security Specialist": {
+    "Associate": [
+      {
+        "title": "Principal Information Security Specialist",
+        "level": "Associate"
+      }
+    ]
+  },
+  "IT Security Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "IT Security Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "IT Security Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Information and Security Engineer",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Entry level": [
+      {
+        "title": "IT Security Engineer",
+        "level": "Entry level"
+      },
+      {
+        "title": "IT Security Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Information Security Manager": {
+    "Director": [
+      {
+        "title": "Information Security Manager",
+        "level": "Director"
+      }
+    ]
+  },
+  "Security Operations Engineer": {
+    "Senior": [
+      {
+        "title": "Security Operations Engineer",
+        "level": "Senior"
+      },
+      {
+        "title": "Enterprise Security Engineer",
+        "level": "Senior"
+      },
+      {
+        "title": "Senior Security Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Application Cybersecurity Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Application Cybersecurity Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Application Security Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Cyber Security Systems Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Lead Firewall & Security Engineer": {
+    "Senior": [
+      {
+        "title": "Lead Firewall & Security Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Robot Security Engineering Manager, Platform Security": {
+    "Mid-Senior level": [
+      {
+        "title": "Robot Security Engineering Manager, Platform Security",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Network Security Research Architect": {
+    "Mid-Senior level": [
+      {
+        "title": "Network Security Research Architect",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "IT Network Security Administrator": {
+    "Entry level": [
+      {
+        "title": "IT Network Security Administrator",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Principal Architect, Network Security": {
+    "Mid-Senior level": [
+      {
+        "title": "Principal Architect, Network Security",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "SOC Analyst/Engineer (Security Analyst)": {
+    "Mid-Senior level": [
+      {
+        "title": "SOC Analyst/Engineer (Security Analyst)",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Security Consultant": {
+    "Mid-Senior level": [
+      {
+        "title": "Security Consultant",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Network and Cybersecurity Engineer": {
+    "Entry level": [
+      {
+        "title": "Network and Cybersecurity Engineer",
+        "level": "Entry level"
+      },
+      {
+        "title": "Network Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Associate Cybersecurity Engineer - Network Security & AI": {
+    "Associate": [
+      {
+        "title": "Associate Cybersecurity Engineer - Network Security & AI",
+        "level": "Associate"
+      }
+    ]
+  },
+  "Network Security Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Network Security Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Network Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Network Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Network Engineer": {
+    "Senior": [
+      {
+        "title": "Senior Network Engineer",
+        "level": "Senior"
+      },
+      {
+        "title": "Senior Network Engineer",
+        "level": "Senior"
+      }
+    ],
+    "Mid-Senior level": [
+      {
+        "title": "Senior Network Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Level III (3) IT Administrator": {
+    "Mid-Senior level": [
+      {
+        "title": "Level III (3) IT Administrator",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "SR. Information Technology Engineer / Architect Level (Field Service) MSP": {
+    "Senior": [
+      {
+        "title": "SR. Information Technology Engineer / Architect Level (Field Service) MSP",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Junior Frontend/DevOps Engineer": {
+    "Entry level": [
+      {
+        "title": "Junior Frontend/DevOps Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Senior DevOps (Development Operations) Engineer": {
+    "Senior": [
+      {
+        "title": "Senior DevOps (Development Operations) Engineer",
+        "level": "Senior"
+      },
+      {
+        "title": "Senior Software Engineer, DevOps",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Staff Engineer - Cloud Infrastructure": {
+    "Senior": [
+      {
+        "title": "Staff Engineer - Cloud Infrastructure",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Associate Telephony DevOps Engineer": {
+    "Associate": [
+      {
+        "title": "Associate Telephony DevOps Engineer",
+        "level": "Associate"
+      }
+    ]
+  },
+  "DevOps / SRE Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "DevOps / SRE Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "DevOps Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "DevOps Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Contract DevOps Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Contract DevOps Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "AI/ML Engineer": {
+    "Entry level": [
+      {
+        "title": "AI/ML Engineer",
+        "level": "Entry level"
+      },
+      {
+        "title": "AI/ML Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Junior AI Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Junior AI Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "AI Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "AI Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Software Engineer, Machine Learning": {
+    "Not Applicable": [
+      {
+        "title": "Software Engineer, Machine Learning",
+        "level": "Not Applicable"
+      },
+      {
+        "title": "Software Engineer, Machine Learning",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Systems Engineer Integration, Validation & Verification and Testing (IVVQ)": {
+    "Mid-Senior level": [
+      {
+        "title": "Systems Engineer Integration, Validation & Verification and Testing (IVVQ)",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Physics Simulation Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Physics Simulation Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Physics Simulation Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Solution Engineer (Siemens) - Global Accounts": {
+    "Senior": [
+      {
+        "title": "Senior Solution Engineer (Siemens) - Global Accounts",
+        "level": "Senior"
+      },
+      {
+        "title": "Senior Solution Engineer (Siemens) - Global Accounts",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Machine Learning Engineer, Core Engineering": {
+    "Mid-Senior level": [
+      {
+        "title": "Machine Learning Engineer, Core Engineering",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Machine Learning Engineer - Conversation AI": {
+    "Mid-Senior level": [
+      {
+        "title": "Machine Learning Engineer - Conversation AI",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Naturwissenschaftler, Informatiker, Mathematiker, Ingenieur – Zukunftstechnologien": {
+    "Entry level": [
+      {
+        "title": "Naturwissenschaftler, Informatiker, Mathematiker, Ingenieur – Zukunftstechnologien",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Founding Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Founding Engineer",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Entry level": [
+      {
+        "title": "Founding Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "SLAM Engineer – Real-Time Mapping & UAV Navigation all levels": {
+    "Mid-Senior level": [
+      {
+        "title": "SLAM Engineer – Real-Time Mapping & UAV Navigation all levels",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Machine Learning Engineer, Monetization Engineering": {
+    "Mid-Senior level": [
+      {
+        "title": "Machine Learning Engineer, Monetization Engineering",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Founding Engineer ($150k- $230k, 1% - 2.5%)": {
+    "Entry level": [
+      {
+        "title": "Founding Engineer ($150k- $230k, 1% - 2.5%)",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Application Engineer - Integration Engineering": {
+    "Mid-Senior level": [
+      {
+        "title": "Application Engineer - Integration Engineering",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Research Engineer, Language - Generative AI": {
+    "Mid-Senior level": [
+      {
+        "title": "Research Engineer, Language - Generative AI",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Health Tech & AI Startup: Founding ML Engineer": {
+    "Founding ML Engineer": [
+      {
+        "title": "Health Tech & AI Startup: Founding ML Engineer",
+        "level": "Founding ML Engineer"
+      }
+    ]
+  },
+  "Software Engineer, Computer Vision": {
+    "Mid-Senior level": [
+      {
+        "title": "Software Engineer, Computer Vision",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Not Applicable": [
+      {
+        "title": "Software Engineer, Computer Vision",
+        "level": "Not Applicable"
+      },
+      {
+        "title": "Software Engineer, Computer Vision - Reality Labs",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "MLOps Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "MLOps Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Principal Machine Learning Engineer - Personalization": {
+    "Senior": [
+      {
+        "title": "Principal Machine Learning Engineer - Personalization",
+        "level": "Senior"
+      }
+    ]
+  },
+  "AI Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "AI Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "AI Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Software Engineer, NLP Platform": {
+    "Mid-Senior level": [
+      {
+        "title": "Software Engineer, NLP Platform",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "AI/NLP Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "AI/NLP Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Industry Consultant, Insurance": {
+    "Senior": [
+      {
+        "title": "Senior Industry Consultant, Insurance",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Senior Enterprise Architect (Sales/ Lead-to-Cash)": {
+    "Senior": [
+      {
+        "title": "Senior Enterprise Architect (Sales/ Lead-to-Cash)",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Principal Architect, Security Operations": {
+    "Senior": [
+      {
+        "title": "Principal Architect, Security Operations",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Forward Deployed Engineer -": {
+    "Mid-Senior level": [
+      {
+        "title": "Forward Deployed Engineer -",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Startup Solutions Architect": {
+    "Mid-Senior level": [
+      {
+        "title": "Startup Solutions Architect",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Field Solutions Architect I, Generative AI, Google Cloud": {
+    "Entry Level": [
+      {
+        "title": "Field Solutions Architect I, Generative AI, Google Cloud",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Solutions Data Architect, Google Cloud": {
+    "Mid-Senior level": [
+      {
+        "title": "Solutions Data Architect, Google Cloud",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Staff Cloud Solutions Architect, Rapid Innovation": {
+    "Senior": [
+      {
+        "title": "Staff Cloud Solutions Architect, Rapid Innovation",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Solutions Architect, eero": {
+    "Mid-Senior level": [
+      {
+        "title": "Solutions Architect, eero",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Softwareentwickler:in Java (Homeoffice möglich) (Softwareentwickler/in)": {
+    "Entry level": [
+      {
+        "title": "Softwareentwickler:in Java (Homeoffice möglich) (Softwareentwickler/in)",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "MOBILE APP DEVELOPER (D/M/W)": {
+    "Mid-Senior level": [
+      {
+        "title": "MOBILE APP DEVELOPER (D/M/W)",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Unreal AI Developer": {
+    "Mid-Senior level": [
+      {
+        "title": "Unreal Developer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Unreal AI Developer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Fullstack Software Engineer, Agents": {
+    "Mid-Senior level": [
+      {
+        "title": "Fullstack Software Engineer, Agents",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Hybrid Mobile App Developer": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior Hybrid Mobile App Developer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Flutter Developer": {
+    "Mid-Senior level": [
+      {
+        "title": "Flutter Developer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Business Impact Lead - People": {
+    "Mid-Senior level": [
+      {
+        "title": "Business Impact Lead - People",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Android Developer": {
+    "Mid-Senior level": [
+      {
+        "title": "Android Developer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Software Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Software Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Software Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Software Engineer",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Entry level": [
+      {
+        "title": "Software Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Senior Full Stack Engineer- Product Platform": {
+    "Senior": [
+      {
+        "title": "Senior Full Stack Engineer- Product Platform",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Senior Software Engineer - Creator Version Control": {
+    "Senior": [
+      {
+        "title": "Senior Software Engineer - Creator Version Control",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Full Stack Software Engineer: Lead and Principal": {
+    "Senior": [
+      {
+        "title": "Full Stack Software Engineer: Lead and Principal",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Senior Fullstack Software Engineer, Payments Optimization": {
+    "Senior": [
+      {
+        "title": "Senior Fullstack Software Engineer, Payments Optimization",
+        "level": "Senior"
+      }
+    ]
+  },
+  "IT Support Specialist 2nd Level - WindowsOS": {
+    "Mid-Senior level": [
+      {
+        "title": "IT Support Specialist 2nd Level - WindowsOS",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "IT Support Specialist": {
+    "Entry level": [
+      {
+        "title": "IT Support Specialist",
+        "level": "Entry level"
+      },
+      {
+        "title": "IT Support Specialist",
+        "level": "Entry level"
+      },
+      {
+        "title": "Junior IT Support Specialist",
+        "level": "Entry level"
+      }
+    ],
+    "Associate": [
+      {
+        "title": "IT Support Specialist",
+        "level": "Associate"
+      },
+      {
+        "title": "IT Support Specialist",
+        "level": "Associate"
+      }
+    ],
+    "Entry Level": [
+      {
+        "title": "IT Support Specialist",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "IT Support": {
+    "Entry level": [
+      {
+        "title": "IT Support",
+        "level": "Entry level"
+      }
+    ],
+    "Mid-Senior level": [
+      {
+        "title": "IT Support",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "IT Support Administrator (Microsoft 365 Specialist)": {
+    "Entry level": [
+      {
+        "title": "IT Support Administrator (Microsoft 365 Specialist)",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "IT Support Specialist - Entry": {
+    "Mid-Senior level": [
+      {
+        "title": "IT Support Specialist - Entry",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Title IT Support": {
+    "Entry level": [
+      {
+        "title": "Title IT Support",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Senior Sales and Marketing Specialist (all gender)": {
+    "Senior": [
+      {
+        "title": "Senior Sales and Marketing Specialist (all gender)",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Consultant Claims Governance & Reporting *": {
+    "Mid-Senior level": [
+      {
+        "title": "Consultant Claims Governance & Reporting *",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Developer / Architect Cloud Technology SAP BTP": {
+    "Senior": [
+      {
+        "title": "Senior Developer / Architect Cloud Technology SAP BTP",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Media Manager for DACH": {
+    "Mid-Senior level": [
+      {
+        "title": "Media Manager for DACH",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior IT Support Specialist": {
+    "Senior": [
+      {
+        "title": "Senior IT Support Specialist",
+        "level": "Senior"
+      }
+    ]
+  },
+  "User Support & Junior Systems Administrator": {
+    "Entry Level": [
+      {
+        "title": "User Support & Junior Systems Administrator",
+        "level": "Entry Level"
+      },
+      {
+        "title": "User Support & Junior Systems Administrator",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "IT Site Support Specialist": {
+    "Entry Level": [
+      {
+        "title": "IT Site Support Specialist",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "UI/UX Designer": {
+    "Mid-Senior level": [
+      {
+        "title": "UI/UX Designer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "UI/UX Designer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "UI/UX Designer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "UX/UI Designer Intern": {
+    "Internship": [
+      {
+        "title": "UX/UI Designer Intern",
+        "level": "Internship"
+      }
+    ]
+  },
+  "UX/UI Designer": {
+    "Mid-Senior level": [
+      {
+        "title": "UX/UI Designer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "UI/UX Designer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "UX|UI Designer*in",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Associate": [
+      {
+        "title": "UX/UI Designer",
+        "level": "Associate"
+      }
+    ],
+    "Entry level": [
+      {
+        "title": "UX/UI Designer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Junior UI/UX Designer": {
+    "Internship": [
+      {
+        "title": "Junior UI/UX Designer",
+        "level": "Internship"
+      }
+    ]
+  },
+  "User Experience Designer": {
+    "Not Applicable": [
+      {
+        "title": "User Experience Designer",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Senior UX Designer": {
+    "Senior": [
+      {
+        "title": "Senior UX Designer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Intern 3D Visual UX/UI Design": {
+    "Internship": [
+      {
+        "title": "Intern 3D Visual UX/UI Design",
+        "level": "Internship"
+      }
+    ]
+  },
+  "Werkstudent:in Fullstack Development": {
+    "Internship": [
+      {
+        "title": "Werkstudent:in Fullstack Development",
+        "level": "Internship"
+      }
+    ]
+  },
+  "Senior UX/UI Designer - Online Banking": {
+    "Senior": [
+      {
+        "title": "Senior UX/UI Designer - Online Banking",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Senior Database Administrator": {
+    "Not Applicable": [
+      {
+        "title": "Senior Database Administrator",
+        "level": "Not Applicable"
+      },
+      {
+        "title": "Senior Database Administrator II",
+        "level": "Not Applicable"
+      },
+      {
+        "title": "Database Administrator",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Sachbearbeiter für Datenbankpflege in Voll- oder Teilzeit": {
+    "Entry level": [
+      {
+        "title": "Sachbearbeiter für Datenbankpflege in Voll- oder Teilzeit",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Sr. SQL DBA / Systems Analyst": {
+    "Associate": [
+      {
+        "title": "Sr. SQL DBA / Systems Analyst",
+        "level": "Associate"
+      }
+    ]
+  },
+  "Database Administrator": {
+    "Entry level": [
+      {
+        "title": "Database Administrator",
+        "level": "Entry level"
+      }
+    ],
+    "Mid-Senior level": [
+      {
+        "title": "Database Administrator",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Database Administrator",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "System- und Datenbankadministrator -": {
+    "Mid-Senior level": [
+      {
+        "title": "System- und Datenbankadministrator -",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Data Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Data Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Database Administrator (DBA)": {
+    "Mid-Senior level": [
+      {
+        "title": "Database Administrator (DBA)",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Database Administrator (DBA)",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Database Administrator (DBA)",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Database Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Database Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Resident Services Salesforce Database Administrator": {
+    "Mid-Senior level": [
+      {
+        "title": "Resident Services Salesforce Database Administrator",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Resident Services Salesforce Database Administrator",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Database Administrator (DBA) für Business Intelligence...": {
+    "Mid-Senior level": [
+      {
+        "title": "Database Administrator (DBA) für Business Intelligence...",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Principal Member of Technical Staff, Database Performance": {
+    "Senior": [
+      {
+        "title": "Principal Member of Technical Staff, Database Performance",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Database Manager": {
+    "Mid-Senior level": [
+      {
+        "title": "Database Manager",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "SQL Server Database Administrator only on W2": {
+    "Senior": [
+      {
+        "title": "SQL Server Database Administrator only on W2",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Senior Database Administrator II": {
+    "Senior": [
+      {
+        "title": "Senior Database Administrator II",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Netzwerkadministrator": {
+    "Entry level": [
+      {
+        "title": "Netzwerkadministrator",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Network and Systems Administrator": {
+    "Mid-Senior level": [
+      {
+        "title": "Network and Systems Administrator",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Network & System Administrator",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Network & System Administrator",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "IT System Administrator": {
+    "Associate": [
+      {
+        "title": "IT System Administrator",
+        "level": "Associate"
+      }
+    ]
+  },
+  "Network Engineer": {
+    "Not Applicable": [
+      {
+        "title": "Network Engineer",
+        "level": "Not Applicable"
+      }
+    ],
+    "Associate": [
+      {
+        "title": "Network Engineer",
+        "level": "Associate"
+      }
+    ]
+  },
+  "Network Specialist": {
+    "Associate": [
+      {
+        "title": "Network Specialist",
+        "level": "Associate"
+      }
+    ]
+  },
+  "Software Engineer II, SDN Networking": {
+    "Mid-Senior level": [
+      {
+        "title": "Software Engineer II, SDN Networking",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior IT System Administrator": {
+    "Senior": [
+      {
+        "title": "Senior IT System Administrator",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Security Gateway Administrator": {
+    "Mid-Senior level": [
+      {
+        "title": "Security Gateway Administrator",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Sr. Network Administrator": {
+    "Senior": [
+      {
+        "title": "Sr. Network Administrator",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Network Administrator I/II": {
+    "Entry Level": [
+      {
+        "title": "Network Administrator I/II",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "System Administrator": {
+    "Mid-Senior level": [
+      {
+        "title": "System Administrator",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Systems Administrator",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "(Senior) Cloud Platform Engineer": {
+    "Associate": [
+      {
+        "title": "(Senior) Cloud Platform Engineer",
+        "level": "Associate"
+      },
+      {
+        "title": "(Senior) Cloud Platform Engineer",
+        "level": "Associate"
+      }
+    ],
+    "Senior": [
+      {
+        "title": "(Senior) Cloud Platform Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Embedded Software Engineer": {
+    "Associate": [
+      {
+        "title": "Embedded Software Engineer",
+        "level": "Associate"
+      },
+      {
+        "title": "Embedded Software Engineer",
+        "level": "Associate"
+      },
+      {
+        "title": "Embedded Software Engineer",
+        "level": "Associate"
+      }
+    ],
+    "Not Applicable": [
+      {
+        "title": "Embedded Software Engineer",
+        "level": "Not Applicable"
+      },
+      {
+        "title": "Embedded Systems Engineer",
+        "level": "Not Applicable"
+      }
+    ],
+    "Entry level": [
+      {
+        "title": "Embedded Software Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Business Development Representative": {
+    "Entry level": [
+      {
+        "title": "Business Development Representative",
+        "level": "Entry level"
+      },
+      {
+        "title": "Business Development Representative",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Software Engineer - Nexus OS": {
+    "Entry level": [
+      {
+        "title": "Software Engineer - Nexus OS",
+        "level": "Entry level"
+      },
+      {
+        "title": "Software Engineer - Nexus OS",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Full Stack Blockchain Engineer": {
+    "Entry level": [
+      {
+        "title": "Full Stack Blockchain Engineer",
+        "level": "Entry level"
+      },
+      {
+        "title": "Full Stack Blockchain Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Data Backend Developer": {
+    "Mid-Senior level": [
+      {
+        "title": "Data Backend Developer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Data Backend Developer",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Senior": [
+      {
+        "title": "Data Backend Developer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Software Engineer, Crypto Integrations": {
+    "Mid-Senior level": [
+      {
+        "title": "Software Engineer, Crypto Integrations",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Software Engineer, Crypto Integrations",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "PHP Web Developer": {
+    "Entry level": [
+      {
+        "title": "PHP Web Developer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Associate SOC Engineer": {
+    "Associate": [
+      {
+        "title": "Associate SOC Engineer",
+        "level": "Associate"
+      }
+    ]
+  },
+  "Senior GIS Developer and Support Analyst": {
+    "Senior": [
+      {
+        "title": "Senior GIS Developer and Support Analyst",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Senior Systems Analyst": {
+    "Associate": [
+      {
+        "title": "Senior Systems Analyst",
+        "level": "Associate"
+      }
+    ]
+  },
+  "IT-Support PC-Infrastruktur und Industrieanlagen": {
+    "Associate": [
+      {
+        "title": "IT-Support PC-Infrastruktur und Industrieanlagen",
+        "level": "Associate"
+      }
+    ]
+  },
+  "JUNIOR SYSTEMS ENGINEER": {
+    "Entry level": [
+      {
+        "title": "JUNIOR SYSTEMS ENGINEER",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Business Systems Analyst": {
+    "Mid-Senior level": [
+      {
+        "title": "Business Systems Analyst",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Business Systems Analyst",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Business Systems Analyst",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "IT Infrastructure Microsoft Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "IT Infrastructure Microsoft Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior IT Business Systems Analyst": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior IT Business Systems Analyst",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Analytics Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Analytics Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "IT Systems Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "IT Systems Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Systems Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "MuleSoft Developer with Security": {
+    "Mid-Senior level": [
+      {
+        "title": "MuleSoft Developer with Security",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "FP&A Analyst IV Enterprise Planning System Implementation": {
+    "Mid-Senior level": [
+      {
+        "title": "FP&A Analyst IV Enterprise Planning System Implementation",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Temporary Systems Analyst (Business Analyst)": {
+    "Entry Level": [
+      {
+        "title": "Temporary Systems Analyst (Business Analyst)",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Linux BSP Developer": {
+    "Mid-Senior level": [
+      {
+        "title": "Linux BSP Developer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Firmware Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Firmware Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Firmware Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Embedded Software Ingenieur": {
+    "Entry level": [
+      {
+        "title": "Embedded Software Ingenieur",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Embedded Software Entwickler Automotive": {
+    "Entry level": [
+      {
+        "title": "Embedded Software Entwickler Automotive",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Embedded Software Ingenieur Automotive": {
+    "Mid-Senior level": [
+      {
+        "title": "Embedded Software Ingenieur Automotive",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Firmware/ Embedded Systems Engineer": {
+    "Entry level": [
+      {
+        "title": "Firmware/ Embedded Systems Engineer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Software Engineer, PhD, Early Career, Campus, Embedded Systems and Firmware, start": {
+    "Entry Level": [
+      {
+        "title": "Software Engineer, PhD, Early Career, Campus, Embedded Systems and Firmware, start",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Software Engineer, XR Geometry ML": {
+    "Senior": [
+      {
+        "title": "Software Engineer, XR Geometry ML",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Staff Embedded Security Engineer": {
+    "Senior": [
+      {
+        "title": "Staff Embedded Security Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Software Engineer, ML Systems and Cloud AI, Embedded and Networking, University Graduate, PhD, Campus,": {
+    "Entry Level": [
+      {
+        "title": "Software Engineer, ML Systems and Cloud AI, Embedded and Networking, University Graduate, PhD, Campus,",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Sr. GNC Mechatronics Engineer": {
+    "Senior": [
+      {
+        "title": "Sr. GNC Mechatronics Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Embedded Systems Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Embedded Systems Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Embedded Systems Engineer, Device": {
+    "Senior": [
+      {
+        "title": "Senior Embedded Systems Engineer, Device",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Software Development Engineer in Test - Embedded Systems": {
+    "Mid-Senior level": [
+      {
+        "title": "Software Development Engineer in Test - Embedded Systems",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Android Embedded Systems Engineer": {
+    "Senior": [
+      {
+        "title": "Android Embedded Systems Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Applied Scientist - Circuit and Fault Intelligence": {
+    "Mid-Senior level": [
+      {
+        "title": "Applied Scientist - Circuit and Fault Intelligence",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Machine Learning Consultant": {
+    "Entry level": [
+      {
+        "title": "Machine Learning Consultant",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Director, Machine Learning Research": {
+    "Not Applicable": [
+      {
+        "title": "Director, Machine Learning Research",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Machine Learning Engineering Manager – Marketplace": {
+    "Mid-Senior level": [
+      {
+        "title": "Machine Learning Engineering Manager – Marketplace",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Head of AI Engineering,": {
+    "Director": [
+      {
+        "title": "Head of AI Engineering,",
+        "level": "Director"
+      }
+    ]
+  },
+  "Startup Founder & ML / AI Engineer": {
+    "Not Applicable": [
+      {
+        "title": "Startup Founder & ML / AI Engineer",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Senior Consultant / Manager": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior Consultant / Manager",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Senior Technical Consultant",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Head of Computer Vision and Machine Learning": {
+    "Not Applicable": [
+      {
+        "title": "Head of Computer Vision and Machine Learning",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Gruppenleiter / Business Manager Machine Learning": {
+    "Mid-Senior level": [
+      {
+        "title": "Gruppenleiter / Business Manager Machine Learning",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Machine Learning Success Manager": {
+    "Mid-Senior level": [
+      {
+        "title": "Machine Learning Success Manager",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "AI Research Scientist - Computer Vision": {
+    "Senior": [
+      {
+        "title": "AI Research Scientist - Computer Vision",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Principal Research Scientist I": {
+    "Senior": [
+      {
+        "title": "Principal Research Scientist I",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Research Scientist, Robotics Systems": {
+    "Senior": [
+      {
+        "title": "Research Scientist, Robotics Systems",
+        "level": "Senior"
+      }
+    ]
+  },
+  "AI Research Scientist - Speech & Language - Generative AI": {
+    "Senior": [
+      {
+        "title": "AI Research Scientist - Speech & Language - Generative AI",
+        "level": "Senior"
+      }
+    ]
+  },
+  "UX Research Scientist": {
+    "Mid-Senior level": [
+      {
+        "title": "UX Research Scientist",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Director, Computational Chemistry": {
+    "Director": [
+      {
+        "title": "Director, Computational Chemistry",
+        "level": "Director"
+      }
+    ]
+  },
+  "Applied Machine Learning Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Applied Machine Learning Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Machine Learning Scientist": {
+    "Senior": [
+      {
+        "title": "Senior Machine Learning Scientist",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Machine Learning Research Scientist/Engineer, Audio": {
+    "Senior": [
+      {
+        "title": "Machine Learning Research Scientist/Engineer, Audio",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Machine Learning Engineer - Product": {
+    "Mid-Senior level": [
+      {
+        "title": "Machine Learning Engineer - Product",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Computer Programmer Analyst": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior Computer Programmer Analyst",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Computer Scientist / Technician as Application Software Specialist": {
+    "Mid-Senior level": [
+      {
+        "title": "Computer Scientist / Technician as Application Software Specialist",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Softwareentwickler": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior Softwareentwickler",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Software Ingenieur (Vision/3D) - Industrial Automation": {
+    "Not Applicable": [
+      {
+        "title": "Senior Software Ingenieur (Vision/3D) - Industrial Automation",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Senior Softwareentwickler*in und Applikationsarchitekt*in": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior Softwareentwickler*in und Applikationsarchitekt*in",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Software Engineer, Handshake Plus - Monetization": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior Software Engineer, Handshake Plus - Monetization",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Softwareentwickler AI Planning FCAS": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior Softwareentwickler AI Planning FCAS",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior SWE, Perception Evaluation": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior SWE, Perception Evaluation",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior SWE, Perception ML/VLM": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior SWE, Perception ML/VLM",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Product Software Arch and Eng Senior": {
+    "Mid-Senior level": [
+      {
+        "title": "Product Software Arch and Eng Senior",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Student Researcher, BS/MS, Winter/Summer": {
+    "Internship": [
+      {
+        "title": "Student Researcher, BS/MS, Winter/Summer",
+        "level": "Internship"
+      },
+      {
+        "title": "Student Researcher, BS/MS, Winter/Summer",
+        "level": "Internship"
+      },
+      {
+        "title": "Student Researcher, PhD, Winter/Summer",
+        "level": "Internship"
+      }
+    ]
+  },
+  "Q-CTRL Talent Community": {
+    "Entry Level": [
+      {
+        "title": "Q-CTRL Talent Community",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Senior Electrical Engineer": {
+    "Senior": [
+      {
+        "title": "Senior Electrical Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Quantum Algorithms Numerics Specialist, Quantum AI": {
+    "Mid-Senior level": [
+      {
+        "title": "Quantum Algorithms Numerics Specialist, Quantum AI",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Senior": [
+      {
+        "title": "Quantum Algorithms Numerics Specialist, Quantum AI",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Junior Electrical Engineer": {
+    "Entry Level": [
+      {
+        "title": "Junior Electrical Engineer",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "UX Researcher, Qualitative": {
+    "Mid-Senior level": [
+      {
+        "title": "UX Researcher, Qualitative",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Applied Researcher I": {
+    "Mid-Senior level": [
+      {
+        "title": "Applied Researcher I",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "General Interest": {
+    "Not Applicable": [
+      {
+        "title": "General Interest",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "IT Project Manager Logistics": {
+    "Mid-Senior level": [
+      {
+        "title": "IT Project Manager Logistics",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "IT Project Manager – Logistics": {
+    "Associate": [
+      {
+        "title": "IT Project Manager – Logistics",
+        "level": "Associate"
+      }
+    ]
+  },
+  "IT-Projektmanager": {
+    "Mid-Senior level": [
+      {
+        "title": "IT-Projektmanager",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Technical Project Manager - Medical Software": {
+    "Mid-Senior level": [
+      {
+        "title": "Technical Project Manager - Medical Software",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "": {
+    "Associate": [
+      {
+        "title": "",
+        "level": "Associate"
+      }
+    ]
+  },
+  "IT Project Manager (HCM)": {
+    "Not Applicable": [
+      {
+        "title": "IT Project Manager (HCM)",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Information Technology (IT) Project Manager (5502) - Department of Technology": {
+    "Entry level": [
+      {
+        "title": "Information Technology (IT) Project Manager (5502) - Department of Technology",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Regional Program Manager, Data Center, Front End, Planning": {
+    "Not Applicable": [
+      {
+        "title": "Regional Program Manager, Data Center, Front End, Planning",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Senior Project & Program Manager, Internationalization": {
+    "Internship": [
+      {
+        "title": "Senior Project & Program Manager, Internationalization",
+        "level": "Internship"
+      }
+    ]
+  },
+  "Associate Project Manager (Term-limited w/ benefits)": {
+    "Entry level": [
+      {
+        "title": "Associate Project Manager (Term-limited w/ benefits)",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Senior Lead, Marketing Technology & Implementation Manager": {
+    "Senior": [
+      {
+        "title": "Senior Lead, Marketing Technology & Implementation Manager",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Salesforce RLM (Revenue Lifecycle Management) Technical Lead (Revenue Cloud Advanced)": {
+    "Senior": [
+      {
+        "title": "Salesforce RLM (Revenue Lifecycle Management) Technical Lead (Revenue Cloud Advanced)",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Principal Community Program Manager": {
+    "Senior": [
+      {
+        "title": "Principal Community Program Manager",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Project Manager": {
+    "Mid-Senior level": [
+      {
+        "title": "Project Manager",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Project Manager",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Project Manager",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Technical Program Manager II": {
+    "Mid-Senior level": [
+      {
+        "title": "Technical Program Manager II",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Technical Program Manager",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Technical Project Coordinator": {
+    "Mid-Senior level": [
+      {
+        "title": "Technical Project Coordinator",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Technical Project Coordinator",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Technical Project Coordinator",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Unity Developer": {
+    "Mid-Senior level": [
+      {
+        "title": "Unity Developer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Freelance Game Designer at international Educational Gaming Startup": {
+    "Mid-Senior level": [
+      {
+        "title": "Freelance Game Designer at international Educational Gaming Startup",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Programmer - Game Development + Web Front End.": {
+    "Not Applicable": [
+      {
+        "title": "Programmer - Game Development + Web Front End.",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Game Designer": {
+    "Mid-Senior level": [
+      {
+        "title": "Game Designer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Anime Games - Unity Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Anime Games - Unity Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Frontend Engineer (Anime Games)": {
+    "Entry level": [
+      {
+        "title": "Frontend Engineer (Anime Games)",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Software Engineer / Mobile Game Developer": {
+    "Mid-Senior level": [
+      {
+        "title": "Software Engineer / Mobile Game Developer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Game UI/UX Designer": {
+    "Mid-Senior level": [
+      {
+        "title": "Game UI/UX Designer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "QA Automation Engineer | Innovative EdTech Startup": {
+    "Mid-Senior level": [
+      {
+        "title": "QA Automation Engineer | Innovative EdTech Startup",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Application Engineer Power Conversion - MCU": {
+    "Senior": [
+      {
+        "title": "Application Engineer Power Conversion - MCU",
+        "level": "Senior"
+      }
+    ]
+  },
+  "speculative application with Chimera Entertainment GmbH": {
+    "Entry Level": [
+      {
+        "title": "speculative application with Chimera Entertainment GmbH",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Senior Product Manager, Employer": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior Product Manager, Employer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Senior Product Manager",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "(Senior) Product Manager",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Product Manager - SaaS": {
+    "Not Applicable": [
+      {
+        "title": "Senior Product Manager - SaaS",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Technical Product Manager - Commerce": {
+    "Mid-Senior level": [
+      {
+        "title": "Technical Product Manager - Commerce",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Product Owner": {
+    "Mid-Senior level": [
+      {
+        "title": "Product Owner",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Product Manager - Verified Identity Growth": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior Product Manager - Verified Identity Growth",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Product Manager (Data Platform)": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior Product Manager (Data Platform)",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "(Senior) Product Manager": {
+    "Mid-Senior level": [
+      {
+        "title": "(Senior) Product Manager",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Senior Product Manager, Consumer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Testing Specialist - F/M/X": {
+    "Senior": [
+      {
+        "title": "Testing Specialist - F/M/X",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Category Manager": {
+    "Mid-Senior level": [
+      {
+        "title": "Category Manager",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Market Development Representative - DACH Market": {
+    "Entry Level": [
+      {
+        "title": "Market Development Representative - DACH Market",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Account Manager SaaS - European Markets": {
+    "Mid-Senior level": [
+      {
+        "title": "Account Manager SaaS - European Markets",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Customer Success Manager": {
+    "Mid-Senior level": [
+      {
+        "title": "Customer Success Manager",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "IT Operations Generalist": {
+    "Entry level": [
+      {
+        "title": "IT Operations Generalist",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Information Technology Management Consultant": {
+    "Entry level": [
+      {
+        "title": "Information Technology Management Consultant",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "IT Specialist": {
+    "Not Applicable": [
+      {
+        "title": "IT Specialist",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "IT-Management Consultant": {
+    "Mid-Senior level": [
+      {
+        "title": "IT-Management Consultant",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Junior IT Specialist": {
+    "Internship": [
+      {
+        "title": "Junior IT Specialist",
+        "level": "Internship"
+      }
+    ]
+  },
+  "IT Consultant": {
+    "Entry level": [
+      {
+        "title": "IT Consultant",
+        "level": "Entry level"
+      },
+      {
+        "title": "IT Consultant (IT Help Desk Consultant)",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "IT Generalist": {
+    "Mid-Senior level": [
+      {
+        "title": "IT Generalist",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Technology Consultant-": {
+    "Mid-Senior level": [
+      {
+        "title": "Technology Consultant-",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Functional Consultant": {
+    "Associate": [
+      {
+        "title": "Functional Consultant",
+        "level": "Associate"
+      }
+    ]
+  },
+  "Business Tax Consultant -": {
+    "Mid-Senior level": [
+      {
+        "title": "Business Tax Consultant -",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Nurse Consultant - APRN": {
+    "Senior": [
+      {
+        "title": "Nurse Consultant - APRN",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Senior Software Engineer - Caffeine (Frontend)": {
+    "Senior": [
+      {
+        "title": "Senior Software Engineer - Caffeine (Frontend)",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Advanced Technology Senior Software Engineer": {
+    "Senior": [
+      {
+        "title": "Advanced Technology Senior Software Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Senior Staff Software Engineer, Platform": {
+    "Senior": [
+      {
+        "title": "Senior Staff Software Engineer, Platform",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Engineering Manager, Developer Experience": {
+    "Mid-Senior level": [
+      {
+        "title": "Engineering Manager, Developer Experience",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Engineering Manager, Data Feeds": {
+    "Mid-Senior level": [
+      {
+        "title": "Engineering Manager, Data Feeds",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Blockchain Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Blockchain Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Autonomous Systems Engineer (LLM/AI Agentic Workflows)": {
+    "Entry Level": [
+      {
+        "title": "Autonomous Systems Engineer (LLM/AI Agentic Workflows)",
+        "level": "Entry Level"
+      }
+    ]
+  },
+  "Developer Support Operations Manager, Non-Technical": {
+    "Not Applicable": [
+      {
+        "title": "Developer Support Operations Manager, Non-Technical",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Software Engineer, Sensor Fusion and Machine Learning": {
+    "Not Applicable": [
+      {
+        "title": "Software Engineer, Sensor Fusion and Machine Learning",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "XR Software Engineer Unity – Augmented and Virtual Reality": {
+    "Not Applicable": [
+      {
+        "title": "XR Software Engineer Unity – Augmented and Virtual Reality",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Software Engineer III (AR/VR/MR)": {
+    "Not Applicable": [
+      {
+        "title": "Software Engineer III (AR/VR/MR)",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "C++Software Developer": {
+    "Entry level": [
+      {
+        "title": "C++Software Developer",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Senior Robotics Software and Automation Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior Robotics Software and Automation Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Senior Robotics Software Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Senior Robotics Software Engineer (C++)",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Robotics Software Engineer for Digital Twin/Simulation and Automation": {
+    "Entry level": [
+      {
+        "title": "Robotics Software Engineer for Digital Twin/Simulation and Automation",
+        "level": "Entry level"
+      }
+    ]
+  },
+  "Senior Software Quality Assurance Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior Software Quality Assurance Engineer",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Robotics Senior Software Engineer": {
+    "Not Applicable": [
+      {
+        "title": "Robotics Senior Software Engineer",
+        "level": "Not Applicable"
+      },
+      {
+        "title": "Software Engineer (Robotics)",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Robotics Software Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Robotics Software Engineer",
+        "level": "Mid-Senior level"
+      },
+      {
+        "title": "Robotics Hardware Engineer",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Entry level": [
+      {
+        "title": "Robotics Software Engineer",
+        "level": "Entry level"
+      }
+    ],
+    "Senior": [
+      {
+        "title": "Robotics Software Engineer",
+        "level": "Senior"
+      },
+      {
+        "title": "Control Systems Software Engineer, Robotics",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Commercial Operations Manager": {
+    "Mid-Senior level": [
+      {
+        "title": "Commercial Operations Manager",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "ML Compiler & Systems Engineer": {
+    "Senior": [
+      {
+        "title": "ML Compiler & Systems Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "DAQ Software Engineer, Robotics": {
+    "Mid-Senior level": [
+      {
+        "title": "DAQ Software Engineer, Robotics",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Specialist, Penetration Tester": {
+    "Associate": [
+      {
+        "title": "Specialist, Penetration Tester",
+        "level": "Associate"
+      },
+      {
+        "title": "Specialist, Penetration Tester",
+        "level": "Associate"
+      }
+    ]
+  },
+  "Privacy Engineer, Incident Response": {
+    "Not Applicable": [
+      {
+        "title": "Privacy Engineer, Incident Response",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Senior Application Security Engineer": {
+    "Mid-Senior level": [
+      {
+        "title": "Senior Application Security Engineer",
+        "level": "Mid-Senior level"
+      }
+    ],
+    "Senior": [
+      {
+        "title": "Senior Application Security Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Security Engineer, Detection Engineering": {
+    "Not Applicable": [
+      {
+        "title": "Security Engineer, Detection Engineering",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Senior IT Consultant": {
+    "Senior": [
+      {
+        "title": "Senior IT Consultant",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Security Service Engineer, Device": {
+    "Mid-Senior level": [
+      {
+        "title": "Security Service Engineer, Device",
+        "level": "Mid-Senior level"
+      }
+    ]
+  },
+  "Senior Penetration Tester / Ethical Hacker": {
+    "Senior": [
+      {
+        "title": "Senior Penetration Tester / Ethical Hacker",
+        "level": "Senior"
+      },
+      {
+        "title": "Senior Penetration Tester / Ethical Hacker",
+        "level": "Senior"
+      }
+    ]
+  },
+  "SOC & IT Senior Auditor, Third Party Attestation": {
+    "Senior": [
+      {
+        "title": "SOC & IT Senior Auditor, Third Party Attestation",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Sr. SOC Engineer": {
+    "Senior": [
+      {
+        "title": "Sr. SOC Engineer",
+        "level": "Senior"
+      }
+    ]
+  },
+  "Application Security Engineer": {
+    "Not Applicable": [
+      {
+        "title": "Application Security Engineer",
+        "level": "Not Applicable"
+      }
+    ]
+  },
+  "Cybersecurity Solutions Engineer - Entry Level": {
+    "Entry level": [
+      {
+        "title": "Cybersecurity Solutions Engineer - Entry Level",
+        "level": "Entry level"
+      }
+    ]
+  }
+}

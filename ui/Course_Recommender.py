@@ -7,10 +7,13 @@ from recommender_helper import (
     find_closest_jobs,
     get_job_description_and_skills,
     summarize_job_claude,
-    recommend_courses_semantic,
     get_course_description,
     summarize_course_claude,
-    get_required_skills
+    get_required_skills,
+    get_job_seniority_levels,
+    get_required_skill_groups,
+    recommend_courses_top_coverage,
+    recommend_courses_top_similarity
 )
 
 
@@ -21,6 +24,10 @@ if "show_course_options" not in st.session_state:
     st.session_state.show_course_options = False
 if "closest_jobs" not in st.session_state:
     st.session_state.closest_jobs = []
+if "selected_levels" not in st.session_state:
+    st.session_state.selected_levels = []
+if "seniority_levels" not in st.session_state:
+    st.session_state.seniority_levels = []
 
 # --- Inputs ---
 st.title("Curriculum Mapping Tool")
@@ -32,11 +39,11 @@ seniority_levels = st.multiselect(
     ["Mid-Senior level", "Entry level", "Internship", "Senior", "Associate", "Director", "All Levels"],
     default=["All Levels"]
 )
-
+st.session_state.seniority_levels = seniority_levels
 
 if st.button("Find Jobs"):
     all_job_titles, job_title_embeddings, _, _ = load_precomputed_embeddings()
-    filtered_jobs = get_jobs_by_seniority(seniority_levels)
+    filtered_jobs = get_jobs_by_seniority(st.session_state.seniority_levels)
     filtered_indices = [i for i, t in enumerate(all_job_titles) if t in filtered_jobs]
     filtered_jobs = [all_job_titles[i] for i in filtered_indices]
     filtered_embeddings = job_title_embeddings[filtered_indices] 
@@ -86,6 +93,12 @@ if st.session_state.closest_jobs:
     )
     st.session_state.selected_job = selected[0]
 
+    levels_in_graph = get_job_seniority_levels(selected[0])
+    if "All Levels" in st.session_state.seniority_levels or st.session_state.seniority_levels == []:
+        st.session_state.selected_levels = ["Mid-Senior level", "Entry level", "Internship", "Senior", "Associate", "Director"]
+    else:
+        st.session_state.selected_levels = list(set(levels_in_graph) & set(st.session_state.seniority_levels))
+
     if st.button("Select Job"):
         st.session_state.show_course_options = True
 
@@ -114,10 +127,18 @@ if st.session_state.show_course_options and st.session_state.selected_job:
         
     if "All Levels" in modullevel:
         modullevel = ["Bachelor", "Bachelor/Master", "Master"]
+    elif "Bachelor" in modullevel and "Master" in modullevel:
+        modullevel = ["Bachelor", "Bachelor/Master", "Master"]
     if "Bachelor" in modullevel:
         modullevel = ["Bachelor", "Bachelor/Master"]   
     if "Master" in modullevel:
         modullevel = ["Master", "Bachelor/Master"]   
+    
+    algorithm_choice = st.radio(
+        "Select recommendation strategy:",
+        ["Top Similarity", "Top Coverage"],
+        index=0  # default selection
+    )
 
     if st.button(f"Recommend Courses to become {st.session_state.selected_job}"):
         st.markdown(
@@ -125,13 +146,24 @@ if st.session_state.show_course_options and st.session_state.selected_job:
         unsafe_allow_html=True
         )
         with st.spinner("Finding best matching courses..."):
-            all_required_skills = set(get_required_skills(st.session_state.selected_job))
+            all_required_skills = set(get_required_skills(st.session_state.selected_job, st.session_state.selected_levels))
+            all_required_skill_groups = get_required_skill_groups(st.session_state.selected_job, st.session_state.selected_levels)
             all_taught_skills = set()
-            top_courses = recommend_courses_semantic(
-                st.session_state.selected_job,
-                language,
-                modullevel
-            )
+            
+            if algorithm_choice == "Top Similarity":
+                top_courses = recommend_courses_top_similarity(
+                    st.session_state.selected_job,
+                    st.session_state.selected_levels,
+                    language,
+                    modullevel
+                )
+            elif algorithm_choice == "Top Coverage":
+                top_courses = recommend_courses_top_coverage(
+                    st.session_state.selected_job,
+                    st.session_state.selected_levels,
+                    language,
+                    modullevel
+                )
             num_courses = sum(len(course_list) for _, course_list in top_courses)
             st.markdown(f" ({num_courses} courses found)")
             for job_title, course_list in top_courses:
@@ -150,11 +182,15 @@ if st.session_state.show_course_options and st.session_state.selected_job:
                     - [**View Course**]({course_info['url']})
                     """)
                     st.write("---")
-            
-            skill_gap = sorted(all_required_skills - all_taught_skills)
+            filtered_skill_groups = {
+                group: skills
+                for group, skills in all_required_skill_groups.items()
+                if not any(skill in all_taught_skills for skill in skills)
+            }
+            skill_gap = sorted(filtered_skill_groups.keys())
             st.info(f"**Taught skills:** These skills are covered by a recommended course: {', '.join(all_taught_skills)}")
             if skill_gap:
-                st.info(f"**Skill Gaps:** These required skills are not covered by any recommended course: {', '.join(skill_gap)}")
+                st.info(f"**Skill Gaps:** These required skill areas are not covered by any recommended course: {', '.join(skill_gap)}")
             else:
                 st.success("No skill gaps! The recommended courses cover all required skills.")
 

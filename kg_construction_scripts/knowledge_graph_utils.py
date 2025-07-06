@@ -15,7 +15,7 @@ def add_requires_relation(tx, job_name, seniority_level, skill_name):
     tx.run("""
         MATCH (j:Job {name: $job_name, seniority_level: $seniority_level})
         MATCH (s:Skill {name: $skill_name})
-        MERGE (j)-[:requires]->(s)
+        MERGE (j)-[:REQUIRES]->(s)
     """, job_name=job_name, seniority_level=seniority_level, skill_name=skill_name)
 
 def add_teaches_relationship(tx, course, skill):

@@ -27,7 +27,7 @@ def load_precomputed_embeddings():
 # --- Neo4j queries ---
 def get_required_skills(job_title):
     query = """
-    MATCH (j:Job {name: $job_title})-[:requires]->(s:Skill)
+    MATCH (j:Job {name: $job_title})-[:REQUIRES]->(s:Skill)
     RETURN s.name AS skill
     """
     with driver.session() as session:
@@ -36,7 +36,7 @@ def get_required_skills(job_title):
 
 def get_relevant_courses_with_skills(job_title):
     query = """
-        MATCH (j:Job {name: $job_title})-[:requires]->(s:Skill)<-[:TEACHES]-(c:Course)
+        MATCH (j:Job {name: $job_title})-[:REQUIRES]->(s:Skill)<-[:TEACHES]-(c:Course)
         WITH c, collect(DISTINCT s.name) AS required_skills
         MATCH (c)-[:TEACHES]->(sk:Skill)
         RETURN c.name AS course, collect(DISTINCT sk.name) AS all_skills, required_skills
@@ -96,7 +96,7 @@ def recommend_courses_semantic(job_title, top_n=10):
                 skill_to_embedding[skill]
                 for skill in course_skills
                 if skill in skill_to_embedding  # in case some skill is missing from precomputed
-            ]
+             ]
 
             sim_matrix = cosine_similarity(job_skill_embeddings, course_skill_embeddings)
             avg_score = np.mean(sim_matrix)
@@ -127,7 +127,7 @@ def flatten_and_deduplicate_courses(top_courses, max_courses=10):
     top_courses_flat = [(course, score) for course, score in sorted_courses[:max_courses]]
     return top_courses_flat
 
-top_courses = recommend_courses_semantic("Data Engineer")
+top_courses = recommend_courses_semantic("Computer Vision Engineer")
 for job_title, course_list in top_courses:
     print("Courses recommended for:", job_title)
     for course, course_score, final_score, required_skills in course_list:
