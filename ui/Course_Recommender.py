@@ -95,7 +95,7 @@ if st.session_state.closest_jobs:
 
     levels_in_graph = get_job_seniority_levels(selected[0])
     if "All Levels" in st.session_state.seniority_levels or st.session_state.seniority_levels == []:
-        st.session_state.selected_levels = ["Mid-Senior level", "Entry level", "Internship", "Senior", "Associate", "Director"]
+        st.session_state.selected_levels = ["Mid-Senior level", "Entry level", "Internship", "Senior", "Associate", "Director", "Not Applicable"]
     else:
         st.session_state.selected_levels = list(set(levels_in_graph) & set(st.session_state.seniority_levels))
 

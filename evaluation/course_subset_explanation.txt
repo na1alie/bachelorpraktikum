@@ -8,13 +8,8 @@ total: 46, including 15 mandatory Bachelor courses
 
     IN0001 — Einführung in die Informatik
     IN0002 — Grundlagenpraktikum: Programmierung
-    IN0003 — Funktionale Programmierung und Verifikation
     IN0007 — Grundlagen: Algorithmen und Datenstrukturen
     IN0011 — Einführung in die Theoretische Informatik
-    IN0015 — Diskrete Strukturen
-    IN0018 — Diskrete Wahrscheinlichkeitstheorie
-    IN0019 — Numerisches Programmieren
-    IN0024 — Operations Research
     IN2377 — Concepts of C++ Programming
 
 2. Systems, Architecture & OS (6)
@@ -25,6 +20,7 @@ total: 46, including 15 mandatory Bachelor courses
     IN0010 — Grundlagen: Rechnernetze und Verteilte Systeme
     EI71013 — System Design for the Internet of Things
     EI71036 — Software Architecture for Distributed Embedded Systems
+    IN2324 Connected Mobility Basics
 
 3. Software Engineering & Process (5)
 
@@ -33,19 +29,21 @@ total: 46, including 15 mandatory Bachelor courses
     CIT423001 — DevOps: Engineering for Deployment and Operations
     CIT4230000 — Strategic IT Management
     IN9012 — Enterprise Information Systems
+    IN8028 Project Work in Informatics
+    IN0041 Social Gaming
+    IN1504 Essentials of Applied Software Engineering
 
 4. Data Engineering & Databases (4)
 
     IN0008 — Grundlagen: Datenbanken
     IN2326 — Foundations in Data Engineering
-    IN2339 — Data Analysis and Visualization in R
-    IN2026 — Visual Data Analytics
 
 5. Cloud & Distributed Systems (3)
 
     IN2073 — Cloud Computing
     CIT3230002 — Cloud Information Systems
     IN2386 — Cloud-Based Data Processing
+    IN2258 Middleware und verteilte Systeme
 
 6. Security (3)
 
@@ -61,6 +59,10 @@ total: 46, including 15 mandatory Bachelor courses
     CIT323002 — AI Governance
     IN2403 — Artificial Intelligence in Medicine
     IN8026 — Einführung in die Programmierung mit Python
+    CIT1330000 Computational Intelligence
+    IN2028 Business Analytics and Machine Learning
+    CIT1330001 Projektwoche Natural Language Processing (NLP)
+    IN2210 - Tracking and Detection in Computer Vision
 
 8. Robotics & Human-Centered Systems (5)
 
@@ -76,3 +78,9 @@ total: 46, including 15 mandatory Bachelor courses
     IN2018 — Augmented Reality
     IN2401 — Concept Art und Game Design
     IN2293 — Medical Augmented Reality
+
+10. Statistics & Data Science
+    IN2058 Anwendungen Wissensbasierter Methoden
+    IN2351 Business Analytics (Doktorat)
+    IN2339 — Data Analysis and Visualization in R
+    IN2026 — Visual Data Analytics
