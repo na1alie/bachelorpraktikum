@@ -1,4 +1,3 @@
-"keyword": "Game Developer"
 
 "job_title": "Programmer - Game Development + Web Front End."
 
@@ -25,89 +24,10 @@ team members. Highest in the world 20 year exercise window for options Don’t h
 If that’s you, let’s talk. 
 Want to get to know us first? Attend one of our upcoming events. Show more Show less"
 
-"deduplicated_skills": ["3D Game Development", "Real-time Simulation", "Physics Programming", "3D Rendering", "Shader Programming", "Custom Rendering Pipelines", "Technical Art", 
-"Data Visualization", "UX optimization", "Multiplayer Networking", "Game Design", "game engine", "3d engine", "user experience", "frame rate"]
+-----------------------------------------------------------------------------------------------------------------------
 
-
-skills: Game Developement, Game Design, 3D rendering, data visualization, game engine, interactive browser, physics simulation, game mechanics
-
-Top courses: 
-IN0038 — Echtzeit-Computergrafik
-IN2018 — Augmented Reality	
-IN2401 — Concept Art und Game Design	
-IN2346 — Introduction to Deep Learning	
-IN2026 — Visual Data Analytics	
-CIT1330000: Computational Intelligence,
-....
-
-
-
-######### TOP SIMILARITY ##########
-
-Total courses recommended: 10
-
-Courses recommended AND in subset:
-
-No overlap found.
-######### TOP COUVERAGE ##########
-
-Total courses recommended: 10
-
-Courses recommended AND in subset:
-
-No overlap found.
-
-######### TOP SIMILARITY ##########
-
-Total courses recommended: 30
-
-Courses recommended AND in subset:
-
-IN2401: Concept Art und Game Design
-IN2326: Foundations in Data Engineering
-IN0038: Echtzeit-Computergrafik
-IN0041: Praktikum: Social Gaming
-CIT1330000: Computational Intelligence
-
-######### TOP COUVERAGE ##########
-
-Total courses recommended: 30
-
-Courses recommended AND in subset:
-
-IN2346: Introduction to Deep Learning
-CIT1330000: Computational Intelligence
-CIT433027: Advanced Deep Learning for Robotics
-
-######### TOP SIMILARITY ##########
-
-Total courses recommended: 50
-
-Courses recommended AND in subset:
-
-IN2401: Concept Art und Game Design
-IN2326: Foundations in Data Engineering
-IN0038: Echtzeit-Computergrafik
-IN0041: Praktikum: Social Gaming
-CIT1330000: Computational Intelligence
-IN2026: Visual Data Analytics
-######### TOP COUVERAGE ##########
-
-Total courses recommended: 50
-
-Courses recommended AND in subset:
-
-IN2346: Introduction to Deep Learning
-CIT1330000: Computational Intelligence
-CIT433027: Advanced Deep Learning for Robotics
-IN2210: Tracking and Detection in Computer Vision
-IN2326: Foundations in Data Engineering
-
-----------------------------------------------------------------------------------------------------------------
-
-"keyword": "UX/UI Designer" 
 "job_title": "UI/UX Designer",
-    
+
 "job_summary": "Amper is a rapidly growing IoT startup that helps manufacturers unleash their potential with modern software to run operations. 
 We build a simple but powerful platform that helps manufacturers reduce costs, increase visibility, and drive efficiency. We believe in keeping things simple and easy to 
 understand—our culture and products reflect that. For example, it takes just minutes to self-install Amper on any kind of industrial machine—like a consumer device, without 
@@ -135,80 +55,11 @@ for full-time employees for this position is $120,000-150,000 per year. Please n
 knowledge, skills, and experience. Amper provides a comprehensive benefits package, including medical, dental, and vision insurance, 401(k), unlimited paid time off, and early-stage 
 stock option equity. Show more Show less",
 
-
-skills: designing tools, UI/UX design, usability principles, accessibility, responsive design, communication, problem solving, simplify complex workflows, Web and Frontend, Visual Design & Graphics
-
-
-Top courses: 
-IN0006 — Einführung in die Softwaretechnik
-IN2394 — Requirements Engineering
-IN2401 — Concept Art und Game Design
-IN0038 — Echtzeit-Computergrafik
-IN2018 — Augmented Reality
-IN2026 — Visual Data Analytics
-IN2339 — Data Analysis and Visualization in R
-EI04014 — Fundamentals of Human-Centered Robotics
-IN0041 — Praktikum: Social Gaming
-IN2026 — Visual Data Analytics
-######### TOP SIMILARITY ##########
-
-Total courses recommended: 10
-
-Courses recommended AND in subset:
-
-IN0041: Praktikum: Social Gaming
-######### TOP COUVERAGE ##########
-
-Total courses recommended: 5
-
-Courses recommended AND in subset:
-
-IN2073: Cloud Computing
-######### TOP SIMILARITY ##########
-
-Total courses recommended: 30
-
-Courses recommended AND in subset:
-
-IN0041: Praktikum: Social Gaming
-IN8028: Project Work in Informatics
-IN8026: Einführung in die Programmierung mit Python
-IN1504: Essentials of Applied Software Engineering
-IN2073: Cloud Computing
-######### TOP COUVERAGE ##########
-
-Total courses recommended: 5
-
-Courses recommended AND in subset:
-
-IN2073: Cloud Computing
-
-######### TOP SIMILARITY ##########
-
-Total courses recommended: 50
-
-Courses recommended AND in subset:
-
-IN0041: Praktikum: Social Gaming
-IN8028: Project Work in Informatics
-IN8026: Einführung in die Programmierung mit Python
-IN1504: Essentials of Applied Software Engineering
-IN2073: Cloud Computing
-IN2401: Concept Art und Game Design
-######### TOP COUVERAGE ##########
-
-Total courses recommended: 5
-
-Courses recommended AND in subset:
-
-IN2073: Cloud Computing
+-----------------------------------------------------------------------------------------------------------------------
 
 
-----------------------------------------------------------------------------------------------------------------
+"job_title": "Data Engineer"
 
-"keyword": "Database Administrator"
-"job_title": "Data Engineer (f/m/x)"
-"deduplicated_title": "Data Engineer"
 "job_summary": "Responsibilities Design and build efficient data pipelines to support data ingestion, integration, and processing. 
 Manage and optimize data storage and database systems, including both RDBMS and NoSQL databases. Ensure high standards of data quality and reliability, 
 implementing validation and cleaning processes. Collaborate closely with stakeholders to support analytics and machine learning projects. Lead initiatives to 
@@ -225,112 +76,9 @@ About Us Based in the heart of Munich, Vollcom Digital emerges as a vanguard in 
 organizations seeking to navigate the complexities of digital transformation. Our mission is to empower businesses with cutting-edge technology solutions that drive efficiency, 
 innovation, and scalability. Show more Show less",
 
-    
-
-skills: Python, Java, Scala, SQL, ETL, RDBMS, NoSQL, AWS, GCP, Azure, Data Pipelines, Data Storage, Data Quality, 
-Data Governance, Security, Analytics, Machine Learning, Communication, Leadership, Problem-Solving, Time Management
-
-######### TOP SIMILARITY ##########
-
-Total courses recommended: 10
-
-Courses recommended AND in subset:
-
-IN2326: Foundations in Data Engineering
-IN2058: Anwendungen Wissenbasierter Methoden
-IN2073: Cloud Computing
-IN2386: Cloud-Based Data Processing
-######### TOP COUVERAGE ##########
-
-Total courses recommended: 10
-
-Courses recommended AND in subset:
-
-CIT3230002: Cloud Information Systems
-EI71036: Software Architecture for Distributed Embedded Systems
-IN2058: Anwendungen Wissenbasierter Methoden
-IN2326: Foundations in Data Engineering
-IN2386: Cloud-Based Data Processing
-
-######### TOP SIMILARITY ##########
-
-Total courses recommended: 30
-
-Courses recommended AND in subset:
-
-IN2326: Foundations in Data Engineering
-IN2058: Anwendungen Wissenbasierter Methoden
-IN2073: Cloud Computing
-IN2386: Cloud-Based Data Processing
-IN0008: Grundlagen: Datenbanken
-IN0041: Praktikum: Social Gaming
-IN8026: Einführung in die Programmierung mit Python
-IN0001: Einführung in die Informatik
-CIT3230002: Cloud Information Systems
-IN0007: Grundlagen: Algorithmen und Datenstrukturen
-######### TOP COUVERAGE ##########
-
-Total courses recommended: 30
-
-Courses recommended AND in subset:
-
-CIT3230002: Cloud Information Systems
-EI71036: Software Architecture for Distributed Embedded Systems
-IN2058: Anwendungen Wissenbasierter Methoden
-IN2326: Foundations in Data Engineering
-IN2386: Cloud-Based Data Processing
-IN2073: Cloud Computing
-IN0008: Grundlagen: Datenbanken
-IN2339: Data Analysis and Visualization in R
-IN0041: Praktikum: Social Gaming
-IN0007: Grundlagen: Algorithmen und Datenstrukturen
-IN8026: Einführung in die Programmierung mit Python
-
-
-######### TOP SIMILARITY ##########
-
-Total courses recommended: 50
-
-Courses recommended AND in subset:
-
-IN2326: Foundations in Data Engineering
-IN2058: Anwendungen Wissenbasierter Methoden
-IN2073: Cloud Computing
-IN2386: Cloud-Based Data Processing
-IN0008: Grundlagen: Datenbanken
-IN0041: Praktikum: Social Gaming
-IN8026: Einführung in die Programmierung mit Python
-IN0001: Einführung in die Informatik
-CIT3230002: Cloud Information Systems
-IN0007: Grundlagen: Algorithmen und Datenstrukturen
-EI71036: Software Architecture for Distributed Embedded Systems
-CIT1330001: Projektwoche Natural Language Processing (NLP)
-IN2339: Data Analysis and Visualization in R
-######### TOP COUVERAGE ##########
-
-Total courses recommended: 50
-
-Courses recommended AND in subset:
-
-CIT3230002: Cloud Information Systems
-EI71036: Software Architecture for Distributed Embedded Systems
-IN2058: Anwendungen Wissenbasierter Methoden
-IN2326: Foundations in Data Engineering
-IN2386: Cloud-Based Data Processing
-IN2073: Cloud Computing
-IN0008: Grundlagen: Datenbanken
-IN2339: Data Analysis and Visualization in R
-IN0041: Praktikum: Social Gaming
-IN0007: Grundlagen: Algorithmen und Datenstrukturen
-IN8026: Einführung in die Programmierung mit Python
-IN0001: Einführung in die Informatik
-CIT1330001: Projektwoche Natural Language Processing (NLP)
-
-----------------------------------------------------------------------------------------------------------------
-
-"keyword": "Ethical Hacker"
+-----------------------------------------------------------------------------------------------------------------------
+   
 name = IT Security Engineer
-Entry level
 
 "job_summary": "At Gunderson Dettmer, you’ll find people passionate about making an impact while working alongside pioneering founders and innovators. 
 In addition to offering competitive salaries, we also offer an excellent benefits package, which includes comprehensive medical, dental and vision coverage; 
@@ -366,87 +114,206 @@ and communications systems with an eye for how they can be breached and ways we 
  applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other 
  federal, state or local protected class. Show more Show less"
 
-Top courses: 
-IN0042 — IT-Sicherheit
-IN2101 — Network Security
-IN2178 — Security Engineering
-IN0009 — Grundlagen: Betriebssysteme und Systemsoftware
-IN0010 — Grundlagen: Rechnernetze und Verteilte Systeme
-IN2073 — Cloud Computing
+-----------------------------------------------------------------------------------------------------------------------
 
-IN2386 — Cloud-Based Data Processing
+"job_title": "Data Scientist"
 
-CIT3230002 — Cloud Information Systems
+"DESCRIPTION     If you are interested in this position, please apply on Twitch's Career site https://www.twitch.tv/jobs/en/  About Us:  Twitch is the world’s biggest live streaming service,
+ with global communities built around gaming, entertainment, music, sports, cooking, and more. It is where thousands of communities come together for whatever, every day. We’re about community,
+  inside and out. You’ll find coworkers who are eager to team up, collaborate, and smash (or elegantly solve) problems together. We’re on a quest to empower live communities, so if this 
+  sounds good to you, see what we’re up to on LinkedIn and X, and discover the projects we’re solving on our Blog. Be sure to explore our Interviewing Guide to learn how to ace our 
+  interview process.  About the Role  Data is central to Twitch's decision-making process, and data scientists are a critical component to evangelize data-driven decision making in 
+  all of our operations. As a data scientist at Twitch, you will be on the ground floor with your team, shaping the way performance is measured, defining what questions should be asked, 
+and scaling analytics methods and tools to support our growing business, leading the way for high quality, high velocity decisions for your team.  The Marketing Data Science team is
+looking for a Data Scientist to support the Campaigns team. For this role, we're looking for a data scientist to partner with the Campaigns team in ideating, executing, and measuring
+Marketing campaigns. Reporting to the Manager of Marketing Data Science, you will be responsible to define and track KPIs, use data to run campaigns, run A/B tests, build dashboards, 
+and perform data analysis. You will work with our team out of our office in San Francisco, CA!  You Will        Measure marketing campaign success by creating KPIs, dashboards, and
+analysis reports.    Ideate, execute, and analyze A/B tests.    Inform strategies and prioritization through insights derived from in-depth data analysis    Leverage statistical 
+and analytic models to uncover insights and segmentations that drive the business forward and help us uncover new opportunities    Develop automated dashboards and other self-service 
+reporting tools to surface important data to stakeholders    Perks       Medical, Dental, Vision & Disability Insurance    401(k)    Maternity & Parental Leave    Flexible PTO    
+Amazon Employee Discount         BASIC QUALIFICATIONS     Bachelor's degree in a mathematic, scientific or information technology field of study; Master's degree preferable   
+1+ years of experience as a data scientist or data analyst   Experience with A/B testing   Expert fluency in SQL-based data manipulation   Experience using Python for data analysis 
+Experience building aggregates and optimizing data workstreams   High level of comfort creating dashboards      PREFERRED QUALIFICATIONS     Familiarity with Twitch and/or the creator 
+content ecosystem   Twitch is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.  
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence 
+ despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, 
+and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the 
+duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully 
+with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we 
+will consider for employment qualified applicants with arrest and conviction records.  Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified
+applicants with arrest and conviction records.  Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace
+accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit 
+https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.  
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $97,500/year in our lowest geographic market up 
+to $185,000/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and 
+experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a
+total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit 
+https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site."
+
+-----------------------------------------------------------------------------------------------------------------------
+
+"job_title": "AI Engineer"
+
+"About Loop  Loop is on a mission to unlock profits trapped in the supply chain and lower costs for consumers. Bad data and inefficient workflows create friction that 
+limits working capital and raises costs for every supply chain stakeholder.  Loop’s modern audit and pay platform uses our domain-driven AI to harness the complexity 
+of supply chain data and documentation. We improve transportation spend visibility so companies can control their costs and power profit. That is why industry leaders 
+like J.P. Morgan Chase, Great Dane, Emerge, and Loadsmart work with Loop.  Our investors include J.P. Morgan, Index Ventures, Founders Fund, 8VC, Susa Ventures, Flexport, 
+and 50 industry-leading angel investors. Our team brings subject matter expertise from companies like Uber, Google, Flexport, Meta, Samsara, Intuit, Rakuten, and long-standing 
+industry leaders like C.H. Robinson.  About The Role  Loop is growing its AI team and you’ll have the opportunity to build both AI models and features that directly impact Loop’s 
+business. You will face and solve many complex technical challenges while you receive guidance and feedback from the team. The range of work here is broad, you can work on everything 
+from training and deploying in-house multimodal LLMs, scaling our inference infrastructure, or building out and shipping backend features. In doing so, you’ll have the opportunity to 
+define how the AI and broader Loop team will grow.  What you will work on  Our primary focus has been on document extraction and understanding, where we utilize multimodal LLMs to 
+extract, normalize, and link data together into our domain model. As Loop’s customers rely on Loop to ingest and normalize highly accurate data, we hold ourselves to a high standard 
+to build models with a very high level of accuracy. In tandem, Loop’s machine learning platform requires a high degree of reliability and scalability, and we expect our training and 
+inference volume to scale several orders of magnitude in the coming year. Going forward, Loop will expand its AI capabilities, expanding into other areas such as workflow automation 
+and audit, where we will utilize agents to tackle these problems.  This role can span multiple domains:    ML modeling – training, evaluating, and deploying models.  ML infrastructure – 
+scaling data infrastructure, training, or inference, improving reliability of ML systems at Loop.  AI engineer – utilizing and orchestrating API LLM models to solve business problems 
+at Loop.  Backend engineering – building out atomic tasks, general backend work in the servicing or automation domain.   Some projects you might work on:    Scaling up throughput of Loop’s 
+inference engine through continuous batching.  Developing ways to fine-tuning multimodal LLMs to reduce hallucinations.  Build out an agent that audits freight invoices.   Qualifications    
+1+ years of hands-on experience in deep learning frameworks (e.g., PyTorch, Tensorflow, etc.)  Solid understanding of fundamental ML algorithms, especially LLMs.  Experience fine-tuning LLMs 
+and deploying them to production or building out agentic systems.  Ability to ship high-quality code to production.  Experience in cloud environments (AWS, Google, Azure).  
+Strong communication skills and willingness to collaborate in a cross-functional team environment with domain experts.  Keep up to date with the latest AI research.   Nice to Have    
+Prior startup experience.  End-to-end experience building out machine learning models and features."
+
+-----------------------------------------------------------------------------------------------------------------------
+
+"job_title": "DevOps Engineer"
+
+"About Air Apps
+At Air Apps, we believe in thinking bigger&mdash;and moving faster. We&rsquo;re a family-founded company on a mission to create the world&rsquo;s first AI-powered Personal &amp; Entrepreneurial Resource Planner (PRP), and we need your passion and ambition to help us change how people plan, work, and live. Born in Lisbon, Portugal, in 2018&mdash;and now with offices in both Lisbon and San Francisco&mdash;we&rsquo;ve remained self-funded while reaching over 100 million downloads worldwide.
+Our long-term focus drives us to challenge the status quo every day, pushing the boundaries of AI-driven solutions that truly make a difference. Here, you&rsquo;ll be a creative force, shaping products that empower people across the globe.
+Join us on this journey to redefine resource management&mdash;and change lives along the way.
+Responsibilities
+Design, implement, and maintain CI/CD pipelines to automate build, test, and deployment processes.
+Manage and optimize cloud infrastructure on AWS, Azure, or Google Cloud Platform (GCP).
+Implement Infrastructure as Code (IaC) using tools like Terraform, CloudFormation, or Pulumi.
+Deploy and manage containerized applications using Docker and Kubernetes.
+Monitor system performance, identify bottlenecks, and improve infrastructure reliability.
+Establish and enforce security best practices, including identity management, logging, and vulnerability management.
+Work with development teams to improve deployment efficiency and troubleshoot infrastructure issues.
+Optimize cloud resource utilization to ensure cost-effectiveness and scalability.
+Automate infrastructure provisioning, configuration management, and system maintenance.
+Stay up-to-date with emerging DevOps technologies, tools, and best practices.
+Requirements
+Around 3+ years of experience in DevOps, Site Reliability Engineering (SRE), or Cloud Engineering.
+Strong expertise in CI/CD tools (Jenkins, GitHub Actions, GitLab CI, CircleCI, ArgoCD).
+Experience with cloud services (AWS, Azure, or GCP) and serverless computing.
+Proficiency in Infrastructure as Code (IaC) tools like Terraform, CloudFormation, or Pulumi.
+Hands-on experience with containerization and orchestration (Docker, Kubernetes, Helm).
+Strong knowledge of Linux-based systems, networking, and security best practices.
+Scripting skills in Bash, Python, or Go for automation.
+Experience with monitoring and logging tools (Prometheus, Grafana, ELK, Datadog).
+Understanding of cloud cost optimization, scalability, and high-availability architectures.
+Strong problem-solving skills and ability to work in an agile, fast-paced environment.
+What benefits are we offering?
+Apple hardware ecosystem for work.
+Annual Bonus.
+Medical Insurance (including vision &amp; dental).
+Disability insurance - short and long-term.
+401k up to 4% contribution.
+Air Stipend of $3,120/year, paid over 12 monthly installments (for home office, learning, wellness, etc.).
+Air Conference 2025 in Las Vegas &ndash; an opportunity to meet the team, collaborate, and grow together.
+Diversity &amp; Inclusion
+At Air Apps, we are committed to fostering a diverse, inclusive, and equitable workplace. We enthusiastically welcome applicants from all backgrounds, experiences, and perspectives. We celebrate diversity in all its forms and believe that varied voices and experiences make us stronger.
+Application Disclaimer
+At Air Apps, we value transparency and integrity in our hiring process. Applicants must submit their own work without any AI-generated assistance. Any use of AI in application materials, assessments, or interviews will result in disqualification.
+Compensation Range: $109K - $194K"
 
 
-######### TOP SIMILARITY ##########
 
-Total courses recommended: 10
+-----------------------------------------------------------------------------------------------------------------------
 
-Courses recommended AND in subset:
+"job_title": "Research Scientist, Robotics Systems"
 
-IN2101: Network Security
-IN2178: Security Engineering
-IN0042: IT-Sicherheit
-IN2073: Cloud Computing
+"At Meta, we&rsquo;re building the future of human connection and the technology that enables it. This means continuously inventing and developing technologies for the next 
+generation of experiences. To continue our efforts in the path to AGI, and as we move closer to a future with intelligent robots and advanced AI models, we're hiring talent across 
+a broad range of disciplines from robotics hardware to system software, machine perception, and artificial intelligence. These crucial projects and initiatives taken on by this team 
+have never been done before, so you have a rare opportunity to help us create new ways people connect around the world. Meta Robotics Studios is seeking a Research Scientist who will 
+do research &amp; applied research to help lead concept innovation, design, development, and prototyping of novel robotics design and development, including electro-mechanical design 
+and/or perception to control problems, as well as complex robotics that balance ergonomics, performance, reliability, and usability while maintaining the highest safety and quality standards. 
+This role will be part of a cross-collaborative team responsible for initial concept development, analytical modeling, prototype design, construction, and testing; and it may involve 
+research into Electro-mechanics, Sensor &amp; Communication, and/or Planning &amp; Control.
+Research Scientist, Robotics Systems Responsibilities:
+Conduct research advancing novel robotics design and development, including new components and/or processes that guide toward production-ready systems.
+Drive the Robotics roadmap, exploring forward-looking ways to accelerate novel robotic architectures.
+Design and Development: research mechanical and electrical design and analysis problems for robotics structure, new sensors, mechanisms, power transmissions, communication hardware/firmware and systems integration while balancing ergonomics, performance, reliability.
+Research and design planning and control algorithms for executing actions to motors integrating sensors and actuations, frequently interacting with the Large Model (VLM/VLA) AI team and Mechatronics team.
+Perform experiments of real and simulation robotic systems and debug the supporting parts manufacture, working with internal and external partners to support part fabrication and complex custom sub assembly.
+Assembly of robot: hands-on partnership in the lab integrating research with construction of sub-assemblies into full system-level robot prototypes.
+Failure analysis: build subsystem test fixtures, design tests, create test plans, perform tests, measure and analyze data, and refine design assumptions.
+Develop novel mechanical contact sensors and research to understand the mechanics of materials.
+Develop novel non-contact sensors and research to understand the underlying physics behind the sensors.
+Develop communication hardware and firmware software.
+Research and develop characterization/training sensors and calibration.
+Research and design feedback controllers around the sensors and actuators.
+Research and develop a planning algorithm that involves perception and collision avoidance.
+Research and design feedback controllers around the sensors.
 
-######### TOP COUVERAGE ##########
+Minimum Qualifications:
 
-Total courses recommended: 5
+Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
+1+ years experience in Robotics, Electro-Mechanical Design, Sensor &amp; Communications, or a similar field.
+PhD degree or equivalent experience in Robotics, Physical AI, or a similar field.
+Experience designing complex electromechanical assemblies (robotics, automotive, aerospace, industrial automation or a similar domain).
+Experience with Robotics and consumer electronic product design.
+Experience with more than one of the following: motor design and control, digital control theory, optimization algorithms, feedback control algorithms, chip-level sensor design, gear-ratio optimization, dynamic system ID and machine learning.
+Experience with organizational and analytical skills, driving technical strategy and execution in a fast-paced, high ambiguity environment.
 
-Courses recommended AND in subset:
+Preferred Qualifications:
 
-IN0042: IT-Sicherheit
-IN2073: Cloud Computing
+Experience with manufacturing processes and materials.
+Experience in developing power electronics components for robotics systems (battery, power management circuit, and motor driver - field oriented control).
+Experience with SOLIDWORKS, Siemens NX or similar CAD tools.
+Experience in Convex Optimization tools and theories.
+Experience in Machine Learning tools.
+Proficient in C++ or Python programming.
+Extensive knowledge of traditional mass production manufacturing processes, including the potentials and limitations of injection molding, metal injection molding, CNC, sheet metal, elastomer compression molding, die casting, thixomolding, multi-layer board fabrication, surface mount technology, and/or flexible printed circuit fabrication.
+Experience with automation equipment design and custom machine builds.
+Experience in statistical process control.
+Experience working in CM, JDM, and ODM/OEM development models.
+Experience with simulation tools conducting Finite element analysis: Structural, Modal.
+Experience collaborating closely with a cross-functional team of scientists &amp; engineers to deliver technical solutions to novel problems, communicating and collaborating across disciplines.
+.....
 
-######### TOP SIMILARITY ##########
+------------------------------------------------------------------------
 
-Total courses recommended: 30
+"job_title": "Cybersecurity Solutions Engineer - Entry Level"
 
-Courses recommended AND in subset:
-
-IN2101: Network Security
-IN2178: Security Engineering
-IN0042: IT-Sicherheit
-IN2073: Cloud Computing
-IN0010: Grundlagen: Rechnernetze und Verteilte Systeme
-IN2386: Cloud-Based Data Processing
-CIT423001: DevOps: Engineering for Deployment and Operations
-CIT3230002: Cloud Information Systems
-
-
-
-######### TOP COUVERAGE ##########
-
-Total courses recommended: 5
-
-Courses recommended AND in subset:
-
-IN0042: IT-Sicherheit
-IN2073: Cloud Computing
+"Darktrace has more than 2,500 employees located globally. Founded by mathematicians and cyber defence experts in 2013, Darktrace is a global leader in cyber security AI, delivering 
+complete AI-powered solutions in its mission to free the world of cyber disruption. For over a decade, Darktrace has pioneered a proactive, AI-native approach to security. Our roots lie 
+deep in innovation. The Darktrace AI Research Centre based in Cambridge, UK, has conducted research establishing new thresholds in cybersecurity, with technology innovations backed by over 
+200 patents and pending applications. Today, Darktrace is a global leader in cybersecurity AI, delivering the essential cybersecurity platform to protect organisations today and for an 
+ever-changing future. What will I be doing: Following the rapidly continued growth of our customer base, Darktrace are looking to add to our team of Solutions Engineers. These fast-paced, 
+technical and customer facing roles support our sales teams in ensuring customer needs are met. You will use your expertise to provide technical pre-sales and post-sales support, partnering 
+with Account Executives and Customer Success Managers to drive revenue growth and further the adoption of our products. These roles offer accelerated career development and numerous 
+opportunities for personal advancement. You’ll be provided with extensive training and support and you build upon your existing skills in this role. You’ll be the go-to technical point 
+of contact between clients, partners and internal teams here at Darktrace, providing your passion and expertise on our cutting edge cyber security solutions to become a trusted advisor to 
+our clients. Your technical excellence will be highly valued as you meet client and internal team needs, ultimately leading to increased revenue and client satisfaction. This role also 
+includes; Working alongside the sales teams in meeting with clients regularly through the full end-to-end sales processes, being accountable for the delivery of POV (Proof of Value) 
+engagements. Presenting Threat Intelligence Reports and advice to a variety of audiences, from technical teams to C-level Executives. Designing and building custom client integrations 
+and defining solution architectures. What experience do I need: We welcome applications from candidates that come from a technical background with existing sales engineer experience in 
+pre-sales/post-sales engagements. However this role would also suit technical graduates who have graduated with a computer science or similar degree and looking for a challenging technical 
+client facing role that bridges technology and the business. Ideally you’ll have an avid interest in cybersecurity with a strong knowledge of network and security devices/systems (e.g. Cisco, 
+Juniper, Firewalls, IDA, IPS, SIEM as well as knowledge of TCP/IP and common networking protocols). You’ll also likely have: Excellent interpersonal skills (written and verbally) 
+and the ability to share complex technical information in a compelling way, The ability to work as part of a team in an innovative and fast-paced environment while delivering to deadlines, 
+The ability to build long lasting business relationships, Fluency in English and German is essential. Please apply with your CV and a cover letter. Benefits we offer: 28 days’ holiday + 
+all national public holidays, Additional day off for your birthday, Occupational pension, AD&Di-Insurance, Life insurance, Employee Assistance Program. Show more Show less"
 
 
-######### TOP SIMILARITY ##########
+--------------------------------------------------------------------------
 
-Total courses recommended: 50
 
-Courses recommended AND in subset:
+"job_title": "Senior Softwareentwickler"
 
-IN2101: Network Security
-IN2178: Security Engineering
-IN0042: IT-Sicherheit
-IN2073: Cloud Computing
-IN2324: Connected Mobility Basics
-IN0010: Grundlagen: Rechnernetze und Verteilte Systeme
-IN2386: Cloud-Based Data Processing
-CIT423001: DevOps: Engineering for Deployment and Operations
-IN0008: Grundlagen: Datenbanken
-CIT3230002: Cloud Information Systems
-######### TOP COUVERAGE ##########
-
-Total courses recommended: 5
-
-Courses recommended AND in subset:
-
-IN0042: IT-Sicherheit
-IN2073: Cloud Computing
+"Konzept Informationssysteme GmbH has been a successful software and systems house for over 30 years and currently employs around 150 people at ten locations in Germany and Switzerland. 
+We develop systems and components and provide IT development services as part of high-tech projects. Your qualifications Successfully completed studies in computer engineering or a 
+technical or scientific degree program Several years of professional experience in the above-mentioned area of responsibility desirable Sound knowledge of current software development 
+concepts and tools as well as common programming languages such as C++, C, C#, Java Business fluent German (C1/C2) and very good English skills Ideally experience in project implementation 
+and development of safety-critical software according to common standards Independent and structured way of working as well as a strong analytical understanding of complex topics 
+Flexibility with regard to the scope of tasks and on-site deployment at our customers' premises Team spirit and good communication skills as well as a confident and competent manner 
+in the customer environment, Independent performance of requirements analyses and derivation of software concepts and specifications Design and implementation of software components 
+Verification of the software solution in accordance with the specified requirements Creation of technical documentation What you can expect A broad spectrum of high-tech topics in various 
+industries in an attractive customer environment The opportunity to work on a mobile basis Work-life balance: Flexible working hours, time off is time off, special leave days, joint 
+activities, sporting activities and events Health and retirement benefits A highly qualified and motivated team Short decision-making paths thanks to flat hierarchies Communication at 
+eye level An open and appreciative corporate culture Active internal knowledge transfer: learning from each other Exciting and varied tasks Further training opportunities Our benefits at 
+a glance Show more Show less"
