@@ -53,36 +53,7 @@
             "Input/Output"
         ]
     },
-    {
-        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=454051&pOrgNr=1",
-        "name": "Diskrete Strukturen",
-        "kennung": "IN0015",
-        "organisation": "Department Computer Science",
-        "anmerkung": "",
-        "lernergebnisse": "Nach erfolgreichem Abschluss des Moduls\n- beherrschen Teilnehmer die Grundbegriffe sowie die Grundlagen des Umgangs mit logischen, algebraischen und algorithmischen Kalkülen,\n- können kombinatorische Problemstellungen lösen,\n- können Probleme mit Methoden der Graphentheorie modellieren und lösen und\n- sind zur quantitativen Betrachtung der Effizienz von Lösungsmethoden und Algorithmen in der Lage.",
-        "inhalt": "Die Vorlesung ist eine Einführung in die Begriffe und Bereiche der Diskreten Mathematik für Informatiker. Sie gliedert sich in fünf Teilen:\n\n1) Grundbegriffe der Mengen, Relationen und Funktionen:\n- Mengen: Grundoperationen, Äquivalenzgesetze, KV-Diagramme,\nAbzählbarkeit, Satz von Cantor\n- Relationen: Join, Transitive Hülle, Relationale Algebra\n- Funktionen: Grundeigenschaften, Komposition, Inverse\n\n2) Grundlagen der Aussagenlogik und Logik erster Stufe:\n- Aussagenlogik:\n- Syntax und Semantik\n- Wahrheitstabellen und Bezug zu KV-Diagramme\n- Äquivalenzgesetze\n- KNF, DNF, Normalisierungsverfahren, Erfüllbarkeitsäquivalenz\n- SAT-Verfahren: DPLL, Resolution. Korrektheitsnachweis\n- Modellierung mit Aussagenlogik\n- Prädikatenlogik\n- Syntax und Semantik\n- Äquivalenzgesetze\n- Modellierung mit Prädikatenlogik\n\n3) Grundlagen der Kombinatorik:\n- Zählprinzipien\n- Ziehung von Bällen aus Urnen: Variationen, Permutationen, Kombinationen.\n- Binomialkoeffizienten: Symmetrie, Identitäten von Pascal und Vandermonde\n- Verteilungsprobleme\n- Stirling-Zahlen der ersten und zweiten Art\n- Geordnete und ungeordnete Zahlpartitionen\n- Anwendung Lastverteilung\n\n4) Grundlagen der Graphentheorie:\n- Grunddefinitionen\n- Bäume\n- Eulerkreise: Satz von Euler. Hamiltonkreise: Sätze von Dirac und Ore\n- Planargraphen: Eulersche Polyederformel, Satz von Kuratowski\n- Matchings: Heiratssatz, augmentierende Pfade\n- Matchings mit Präferenzen: Satz von Gale-Shapley\n\n5) Algebraische Grundlagen:\n- Grunddefinitionen: Algebra, Gruppe, Ring, Körper\n- Gruppen\n- Ordnung: Satz von Lagrange, Erzeuger, Gruppenexponent\n- Zyklische Gruppen\n- Zahlentheoretische Grundlagen: Größter gemeinsamer Teiler,\nErweiterter euklidischer Algorithmus, Eulersche phi-Funktion\n- Multiplikative Restklassengruppen\n- RSA",
-        "voraussetzungen": "keine",
-        "modulniveau": "Bachelor",
-        "sprache": "Deutsch",
-        "gültig bis": "",
-        "matching": [
-            "Set Theory",
-            "Relational Algebra",
-            "Propositional Logic",
-            "Predicate Logic",
-            "Combinatorics",
-            "Graph Theory",
-            "Group Theory",
-            "Number Theory",
-            "Modeling",
-            "problem solve",
-            "Efficiency Analysis",
-            "Normalization",
-            "Satisfiability",
-            "Theorem Proving",
-            "Algorithmic Thinking"
-        ]
-    },
+
     {
         "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=452806&pOrgNr=1",
         "name": "Grundlagenpraktikum: Programmierung",
@@ -173,32 +144,7 @@
             "Modeling"
         ]
     },
-    {
-        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1458914&pOrgNr=1",
-        "name": "Funktionale Programmierung und Verifikation",
-        "kennung": "IN0003",
-        "organisation": "Department Computer Science",
-        "anmerkung": "",
-        "lernergebnisse": "Nach erfolgreicher Teilnahme an diesem Modul verstehen die Studierenden die wesentlichen Konzepte einer funktionalen Programmiersprache. Sie können in einer funktionalen Programmiersprache überschaubare algorithmische Probleme lösen. Deshalb sind sie in der Lage, sich andere funktionale Programmiersprachen eigenständig anzueignen. Sie kennen weiterhin die wesentlichen Techniken zur Verifizierung sowohl imperativer wie funktionaler Programme und können diese auf einfache Programme anwenden.",
-        "inhalt": "In dem Modul IN0003 werden beispielhaft folgende Inhalte behandelt:\n- Korrektheit imperativer Programme\n++ Verifikation nach Floyd oder Hoare\n++ Terminierung\n++ Prozeduren\n- Grundbegriffe funktionalen Programmierens\n++ Werte, Variablen, Funktionen\n++ Datenstrukturen, Pattern Matching\n++ Höhere Funktionen\n++ Polymorphe Typen\n++ Programmieren im Großen: Strukturen und Funktoren\n++ Korrektheit funktionaler Programme\n+++ Semantik funktionaler Programme\n+++ Verifikation funktionaler Programme",
-        "voraussetzungen": "IN0001 Einführung in die Informatik",
-        "modulniveau": "Bachelor",
-        "sprache": "Deutsch/Englisch",
-        "gültig bis": "",
-        "matching": [
-            "problem solve",
-            "algorithm design",
-            "Functional Programming",
-            "Formal Verification",
-            "Program Correctness",
-            "Procedural Programming",
-            "Data Structures",
-            "Polymorphism",
-            "Functional Design Patterns",
-            "Program Semantics",
-            "Functional Verification"
-        ]
-    },
+
     {
         "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=2916139&pOrgNr=1",
         "name": "Grundlagenpraktikum: Rechnerarchitektur",
@@ -382,66 +328,7 @@
             "Problem Reduction"
         ]
     },
-    {
-        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=454053&pOrgNr=1",
-        "name": "Diskrete Wahrscheinlichkeitstheorie",
-        "kennung": "IN0018",
-        "organisation": "Department Computer Science",
-        "anmerkung": "",
-        "lernergebnisse": "Nach erfolgreichem Abschluss des Moduls\n- sind die Teilnehmer mit wichtigen Konzepten der diskreten und kontinuierlichen Wahrscheinlichkeitsräume sowie der stochastischen Prozesse vertraut und können diese in weiten Teilen selbst herleiten\n- beherrschen Rechenregeln zur Bestimmung und Abschätzung von Wahrscheinlichkeiten, Erwartungswerten und Varianzen,\n- sind in der Lage, reale Probleme auf abstrakte Wahrscheinlichkeitsräume abzubilden und\n- können einfache statistische Tests fachgerecht anwenden.",
-        "inhalt": "-Grundlagen der (diskreten) Wahrscheinlichkeitstheorie\n++ Wahrscheinlichkeitsräume, Ereignisse, Prinzip der Inklusion/Exklusion, Boolesche Ungleichung, bedingte Wahrscheinlichkeit, Multiplikationssatz, Satz der totalen Wahrscheinlichkeit, Satz von Bayes, Unabhängigkeit\n++ Zufallsvariablen, Erwartungswert, Varianz, Linearität des Erwartungswertes, bedingte Zufallsvariablen und deren Erwartungswert, Varianz, Momente und zentrale Momente, mehrere Zufallsvariablen und deren gemeinsame Dichte & Verteilung, Unabhängigkeit von Zufallsvariablen, Momente zusammengesetzter Zufallsvariablen, Indikatorvariablen\n++ diskrete Verteilungen: Bernoulli-Verteilung, Binomialverteilung, geometrische Verteilung, Coupon-Collector-Problem, Poisson-Verteilung, Zusammenhänge unter den Verteilungen\n++ Methoden zur Abschätzung von Wahrscheinlichkeiten, Ungleichungen von Markov und Chebyshev, Chernoff Schranken\n++ Gesetz der großen Zahlen\n++ wahrscheinlichkeitserzeugende Funktionen und deren Anwendung auf Verteilungen, momenterzeugende Funktionen mit verschiedenen Anwendungen\n\n-Kontinuierliche Wahrscheinlichkeitsräume\n++ kontinuierliche Zufallsvariablen, Kolmogorov Axiome, sigma-Algebren, Lebesgue-Integrale, Rechnen mit kontinuierlichen Zufallsvariablen, Simulation von Zufallsvariablen\n++ kontinuierliche Verteilungen: Gleichverteilung, Normalverteilung und lineare Transformation, Exponentialverteilung und Warteprozesse, Zusammenhang mit diskreten Verteilungen\n++ mehrere kontinuierliche Zufallsvariablen, Randverteilungen und Unabhängigkeit, Summen von Zufallsvariablen\n++ Momenterzeugende Funktionen für kontinuierliche Zufallsvariablen\n++ Zentraler Grenzwertsatz\n\n-Induktive Statistik\n++ Schätzvariablen, Maximum-Likelihood-Prinzip, Konfidenzintervalle, Testen von Hypothesen, Entwicklung und Anwendung von statistischen Tests\n\n-Stochastische Prozesse\n++ Prozesse mit diskreter Zeit, Markovketten, Übergangswahrscheinlichkeiten, Ankunftswahrscheinlichkeiten, Übergangszeiten, Rückkehrzeiten, Fundamentalsatz für ergodische Markovketten",
-        "voraussetzungen": "IN0015 Diskrete Strukturen, MA0901 Lineare Algebra für Informatik, MA0902 Analysis für Informatik",
-        "modulniveau": "Bachelor",
-        "sprache": "Deutsch/Englisch",
-        "gültig bis": "",
-        "matching": [
-            "Probability Theory",
-            "Statistics",
-            "Stochastic Processes",
-            "Modeling",
-            "Estimation",
-            "Hypothesis Testing",
-            "Simulation",
-            "UX optimization",
-            "Reasoning",
-            "Analysis",
-            "Inference",
-            "Approximation",
-            "Distributions",
-            "Uncertainty",
-            "problem solve"
-        ]
-    },
-    {
-        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=454055&pOrgNr=1",
-        "name": "Numerisches Programmieren",
-        "kennung": "IN0019",
-        "organisation": "Department Computer Science",
-        "anmerkung": "",
-        "lernergebnisse": "Die Teilnehmenden verstehen die wesentlichen Grundsätze numerischen Programmierens, kennen die wichtigsten elementaren numerischen Algorithmen (z.B. Gauß-Elimination, QR-Algorithmen, Neville-Algorithmen, Jacobi und Gauß-Seidel-Algorithmen, Newtonverfahren), die für Aufgabenstellungen aus der Informatik relevant sind, und sind in der Lage, diese Algorithmen sicher anzuwenden und zu implementieren.",
-        "inhalt": "- Gleitpunktarithmetik (Zahldarstellung, Rundungsfehleranalyse, Kondition, Stabilität)\n- Interpolation (Polynominterpolation, Splines, trigonometrische Interpolation, Schnelle Fourier-Transformation)\n- Integration (einfache und zusammengesetzte Regeln, Extrapolationsverfahren, Gauß-Quadratur)\n- Lösung linearer Gleichungssysteme (Gauß-Elimination, LR-Zerlegung, Pivoting, Least Squares)\n- Gewöhnliche Differentialgleichungen (Finite Differenzen, Euler-Verfahren, Runge-Kutta-Verfahren, Konsistenz, Stabilität und Konvergenz, Diskretisierungsfehler, Mehrschrittverfahren)\n- Iterative Verfahren (Relaxationsverfahren: Jacobi und Gauß-Seidel, Minimierungsverfahren: steilster Abstieg, Fixpunktiteration, nichtlineare Gleichungen: von der Bisektion zu Newton)\n- Das symmetrische Eigenwertproblem (Motivation, Kondition, Vektoriteration, QR-Verfahren, Reduktionsalgorithmen)",
-        "voraussetzungen": "MA0901 Lineare Algebra für Informatik, MA0902 Analysis für Informatik",
-        "modulniveau": "Bachelor",
-        "sprache": "Deutsch",
-        "gültig bis": "",
-        "matching": [
-            "Programming",
-            "Numerical Algorithms",
-            "Numerical Methods",
-            "Floating-Point Arithmetic",
-            "Interpolation",
-            "Integration",
-            "Linear Equations",
-            "Differential Equations",
-            "Iterative Methods",
-            "Eigenvalue Problems",
-            "UX optimization",
-            "Approximation",
-            "Numerical Stability",
-            "error analysis",
-            "Algorithm Implementation"
-        ]
-    },
+
     {
         "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1334293&pOrgNr=1",
         "name": "Introduction to Deep Learning",
@@ -955,33 +842,6 @@
         ]
     },
     {
-        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1498603&pOrgNr=1",
-        "name": "Operations Research",
-        "kennung": "IN0024",
-        "organisation": "Department Computer Science",
-        "anmerkung": "",
-        "lernergebnisse": "Nach Absolvieren des Moduls kennen die Teilnehmer grundlegende Verfahren aus den Bereichen Entscheidungsanalyse, Lineare Optimierung, und Ganzzahlige Lineare Optimierung. Sie sind in der Lage betriebliche Planungs- und Entscheidungsprobleme wie z.B. Transportprobleme oder Netzflussprobleme zu modellieren und verstehen Algorithmen, um diese Probleme effektiv zu lösen. Studierende kennen die wesentlichen Eigenschaften dieser Algorithmen und betriebswirtschaftlich relevante Anwendungen.",
-        "inhalt": "Entscheidungsanalyse (Entscheidungsbäume, MCDM, InvesMMonsrechnung), Lineare Optimierung, Modellierung betrieblicher Optimierungsprobleme (Transportproblem, Zuweisungsproblem, Zielprogrammierung), Simplex (Normalform, Basivariablen und Basislösungen, Primaler Simplex-Algorithmus, Simplex Tableau, Revidierter Simplex), Sensitivitätsanalyse und Dualitätstheorie, Ganzzahlige Programmierung (Branch-and-Bound, Komplexitätstheorie, Modellierung ganzzahliger Probleme), Netzplantechnik und Netzflussprobleme",
-        "voraussetzungen": "IN0015 Diskrete Strukturen, Mathematische Behandlung der Naturwissenschaften",
-        "modulniveau": "Bachelor/Master",
-        "sprache": "Deutsch",
-        "gültig bis": "",
-        "matching": [
-            "Decision Analysis",
-            "Linear Optimization",
-            "Integer Linear Optimization",
-            "Modeling",
-            "Optimization Problems",
-            "Transportation Problems",
-            "Network Flow Problems",
-            "Simplex Algorithm",
-            "sensitivity analysis",
-            "Duality Theory",
-            "Branch-and-Bound",
-            "Complexity Analysis"
-        ]
-    },
-    {
         "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1329289&pOrgNr=1",
         "name": "System Design for the Internet of Things",
         "kennung": "EI71013",
@@ -1010,6 +870,19 @@
             "System Simulation",
             "software validation"
         ]
+    },
+        {
+        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1150616&pOrgNr=1",
+        "name": "Connected Mobility Basics",
+        "kennung": "IN2324",
+        "organisation": "Department Computer Engineering",
+        "anmerkung": "",
+        "lernergebnisse": "After successful completion of this module, students will remember the basic elements that constitute connected mobile systems and understand the (technical) issues relevant to mobile system and service design and their evaluation. They recognize challenges arising from mobility and mobile networking. They understand the requirements for and the limitations of simulation-based evaluation of mobile services. They have an overview of the different components and techniques at their disposal to realize mobile services. They understand the principles of these underlying methods, know their advantages and disadvantages and can apply methods of design, modeling, and evaluation to simple example cases.",
+        "inhalt": "The module IN2324 offers a broad introduction, including the following topics:\n- Introduction to mobile systems\n- Mobile systems by example\n- Mobility: models and simulations\n- Wireless networking technologies\n- Architectures and protocols for mobile networks\n- Architectures for mobile services and systems\n- Mobile measurements\n- Security and privacy",
+        "voraussetzungen": "Recommended requirements are basics in computer networks and distributed systems (IN0010 or equivalent knowledge) as well as command of the Java programming language.",
+        "modulniveau": "Bachelor/Master",
+        "sprache": "Englisch",
+        "gültig bis": ""
     },
     {
         "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1498591&pOrgNr=1",
@@ -1040,6 +913,136 @@
             "Reliability",
             "problem solve"
         ]
+    },
+        {
+        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1357575&pOrgNr=1",
+        "name": "Business Analytics (Doktorat)",
+        "kennung": "IN2351",
+        "organisation": "Department Computer Science",
+        "anmerkung": "",
+        "lernergebnisse": "Nach der Teilnahme an dem Modul kennen Studierende verbreitete Verfahren für Klassifikation, numerische Vorhersage und Clustering. Sie kennen die Annahmen verschiedener Verfahren und verstehen deren Funktionsweise und typische betriebswirtschaftliche Einsatzgebiete. Teilnehmer können Datensätze mit der Programmiersprache R analysieren und die Ergebnisse der Analysen interpretieren.",
+        "inhalt": "Inferential Statistics, Multi-linear Regression, Logistic and Poisson Regression, Naïve Bayes and Bayes Nets, Decision Tree Classifiers, Data Preparation, Evaluation of Classifiers and Learning Theory, Ensemble Methods and Clustering, Dimensionality Reduction, Association Rules",
+        "voraussetzungen": "IN0007 Grundlagen: Algorithmen und Datenstrukturen, IN0008 Grundlagen: Datenbanken",
+        "modulniveau": "",
+        "sprache": "Englisch",
+        "gültig bis": ""
+    },
+        {
+        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=456521&pOrgNr=1",
+        "name": "Anwendungen Wissenbasierter Methoden",
+        "kennung": "IN2058",
+        "organisation": "Department Computer Engineering",
+        "anmerkung": "",
+        "lernergebnisse": "The participants attain detailed knowledge about current techniques for designing and realizing knowledge-based systems and their applications to real-world problems, especially in the context of the world-wide web and the control of intelligent software systems. In the accompanying exercises, participants will gain knowledge about the design and realization of central components of such systems.",
+        "inhalt": "The lecture course teaches state-of-the-art techniques for implementing knowledge-based systems and applying them to real problems, in particular in the contexts of the World Wide Web and controlling intelligent systems. The lecture course covers the following topics:\n- description logics: representation of taxonomic knowledge and reasoning about it;\n- principles of the Semantic Web: Semantic Markup Languages, Inference mechanisms and engines for the Semantic Web;\n- information systems in the WWW: data integration from distributed information sources; wrappers and wrapper learning; planning mechanisms for data integration; global-as-view and local-as-view abstractions;\n- Semantic Web Services and planning complex services;\n- selected examples of intelligent web services;\n- grounded knowledge representation: principles of data mining and the integration of data mining mechanisms into knowledge-based systems",
+        "voraussetzungen": "IN2062 Techniques in Artificial Intelligence, basic courses in informatics",
+        "modulniveau": "Bachelor/Master",
+        "sprache": "Deutsch/Englisch",
+        "gültig bis": ""
+    },
+        {
+        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=487473&pOrgNr=1",
+        "name": "Tracking and Detection in Computer Vision",
+        "kennung": "IN2210",
+        "organisation": "Department Computer Science",
+        "anmerkung": "seit WS15 7 Credits und 6 SWS",
+        "lernergebnisse": "In the end, the students will have a thorough description of the most important tracking and detection techniques. They should be able to understand and implement those solutions and apply them in reasonably complex problems. The concepts described in this course will be accompanied with brief explanations of the necessary mathematical tools. The participants of this course will be given an important basis to follow the vast and growing Computer Vision literature and use the acquired knowledge to solve new practical problems.",
+        "inhalt": "Computer Vision, as a relatively young research area, has emerged as a key discipline in computer science.\nThis is not only evident by a growing and highly competitive research community with a high impact factor in computer science, but also by the emergence of numerous vision companies turning research ideas into a myriad of commercial applications. Besides well-known studies of 3D geometry and camera models, object tracking and detection in images and videos becomes one of the principal research directions of modern Computer Vision. The main objective of this course is to provide students with a gradual introduction to modern tracking, detection and recognition techniques developed in the last years. The course will provide in-depth knowledge of image features, their detection and description, matching techniques, key-point recognition, basic and advanced tracking algorithms based on image features and image intensities, basics of probabilistic and machine learning methods for tracking and object detection. Note that every year the course content is refreshed with new the most promising and potentially the most influential works in the field.\nThe following topics will be handled\n\n- Introduction (overview of the course)\n- Convolution and filtering:\n-- Basic of image formation\n-- Convolution and correlation\n-- Non-linear filtering\n-- Gaussian Filtering\n-- Image Derivatives\n-- Edge Detection\n- Local invariant feature detectors:\n-- Harris corner\n-- Harris Laplace/Affine\n-- Hessian, Hessian-Laplace/Affine\n-- FAST\n- Feature descriptors:\n-- Difference of Gaussians and SIFT\n-- Integral images and SURF\n-- Histogram of Oriented Gradients (HOG)\n- Keypoint recognition:\n-- Randomized trees\n-- FERNS\n-- Keypoint signatures\n- Face detection\n-- Haar features\n-- Ada-boost\n-- Viola-Jones Face Detection\n- Camera models and projections\n-- Model based tracking\n-- Pose estimation from 2D-3D coresspondencies (DLT, P-n-P)\n-- Rotation parametrization\n- Non-linear optimisation\n-- Robust estimators\n-- RANSAC\n- Template tracking methods:\n-- Lucas-Kanade,\n-- Compositional Alg.\n-- Inverse Compositional\n-- ESM\n-- Linear Predictor\n- Mean-shift tracking\n-- mean-shift for pdf estimation\n-- mean-shift for segmentation\n-- mean-shift for object tracking\n-- multi-scale\n- Template matching approaches\n-- basic correlation methods (SAD, NCC etc.)\n-- DOT(Dominant Orientation Template)\n-- LineMod (LINEarizing the memory multiMODal template matching)\n- Kalman and particle filtering\n-- basics Kalman filer\n-- basics Particle filer\n-- applications to visual tracking\n-- applications to camera tracking\n- Tracking with Dictionary Learning",
+        "voraussetzungen": "Most of the knowledge required should be part of the normal background in Computer Science, undergraduate/graduate Mathematics and Geometry.",
+        "modulniveau": "Bachelor/Master",
+        "sprache": "Englisch",
+        "gültig bis": ""
+    },
+        {
+        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=3399657&pOrgNr=1",
+        "name": "Projektwoche Natural Language Processing (NLP)",
+        "kennung": "CIT1330001",
+        "organisation": "Department Computer Engineering",
+        "anmerkung": "",
+        "lernergebnisse": "Am Ende des Kurses werden die Studierenden ein grundsätzliches Verständnis von verschiedenen Ansätzen im Bereich Natural Language Processing haben. Sie werden praktische Kenntnisse zur Implementierung von NLP-Algorithmen erworben haben, von syntaktischen und semantischen Analysen über neueste Transformer-basierte generative Sprachmodelle hin zur automatischen Generierung von Bildern aus kurzen Text-Prompts über Text2Image Modelle. Sie werden Vor- und Nachteile der Modelle kennenlernen, die aktuellen Diskussionen nachvollziehen können und selbständig in der Lage sein, sich in neueste Entwicklungen schnell einzuarbeiten.",
+        "inhalt": "Natural Language Processing (NLP) ist ein interdisziplinäres Fachgebiet an der Schnittstelle zwischen der Informatik und der Linguistik sowie mittlerweile ein Teilbereich der Künstlichen Intelligenz. Es befasst sich mit Algorithmen, welche die natürliche Sprache des Menschen (geschrieben oder gesprochen) interpretieren, um darüber einen Computer zu befähigen aus dem Inhalt Erkenntnisse zu ziehen. So kann man beispielsweise Texte gewissen Themen zuordnen, ähnliche Texte finden, Texte als positiv oder negativ behaftet einstufen. Neueste Sprachmodelle, die auf künstlicher Intelligenz beruhen, können in Texten Antworten auf Fragen finden, Texte automatisiert zusammenfassen, sie vervollständigen und selbst vollkommen neue Texte generieren.\n\nZiel des Projektpraktikums Natural Language Processing ist die Vermittlung von grundlegendem Wissen zu Natural Language Processing und aktuell in der Praxis eingesetzten Algorithmen, sowie die Vermittlung von praktischen Kenntnissen zur Interpretation von Texten und Verwendung in Anwendungsbeispielen. Die Studierenden erlernen dazu die erforderlichen Programmierkenntnisse in der Programmiersprachen Python.\n\nFolgende Teilbereiche werden vermittelt:\n- Syntaktische und statistische NLP Methoden\n- Transformerbasierte Modelle, generative Sprachmodelle\n- Text2Image Modelle\nWir diskutieren verschiedene Methoden und aktuelle Entwicklungen diskutieren und wenden diese praktisch an, um\n- Möglichkeiten und konkrete Anwendungen für Natural Language Processing zu erkennen und zu verstehen\n- Systematisch Lösungsansätze zu Aufgabenstellungen im Bereich des Verstehens und Generierens von Texten zu finden\n- Aktuelle Herausforderungen und Diskussionen im Bereich NLP und speziell transformer-basierter generativer Sprachmodelle zu kennen und nachvollziehen zu können, Überlegungen zu aktuellen Herausforderungen anzustellen\n- In team-orientierter Arbeitsweise verschiedene Teilaufgaben einer Problemstellung zu einem kohärenten Gesamtergebnis zusammenzusetzen",
+        "voraussetzungen": "Die Vorlesung basiert auf folgenden Vorkenntnissen, die in den Lehrveranstaltungen erworben wurden:\n- Grundlegende Programmierkenntnisse in Python\n- Bereitschaft zur aktiven Teilnahme an Diskussionen und Gruppenarbeiten\n- Keine anderen überlappenden Kurse",
+        "modulniveau": "Bachelor",
+        "sprache": "Englisch",
+        "gültig bis": ""
+    },
+        {
+        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=2863073&pOrgNr=1",
+        "name": "Business Analytics and Machine Learning",
+        "kennung": "IN2028",
+        "organisation": "Department Computer Science",
+        "anmerkung": "",
+        "lernergebnisse": "Nach der Teilnahme an dem Modul kennen Studierende verbreitete Verfahren für Klassifikation, numerische Vorhersage und Clustering. Sie kennen die Annahmen verschiedener Verfahren und verstehen deren Funktionsweise und ausgewählte wirtschaftswissenschaftliche Einsatzgebiete. Teilnehmer können Datensätze mit der Programmiersprache R analysieren und die Ergebnisse der Analysen interpretieren.",
+        "inhalt": "Regression Analysis, Regression Diagnostics, Generalized Linear Models, Naïve Bayes, Decision Tree Classifiers, Data Preparation, Causal Inference, Model Selection, Ensemble Methods, Clustering, High-Dimensional Problems, Neural Networks, Convex Optimization",
+        "voraussetzungen": "MA0901 Lineare Algebra für Informatik, MA0902 Analysis für Informatik, IN0018 Diskrete Wahrscheinlichkeitstheorie oder MA9712 Statistik",
+        "modulniveau": "Bachelor/Master",
+        "sprache": "Englisch",
+        "gültig bis": ""
+    },
+        {
+        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=3393112&pOrgNr=1",
+        "name": "Computational Intelligence",
+        "kennung": "CIT1330000",
+        "organisation": "Department Computer Engineering",
+        "anmerkung": "",
+        "lernergebnisse": "Nach dem erfolgreichen Abschluss des Moduls sind Studierende in der Lage, moderne Methoden der Computational Intelligence allgemein anzuwenden sowie Anwendungsfälle speziell im Bereich der Steuerungs- und Regelungstechnik zu analysieren.",
+        "inhalt": "Einführung in Theorie und Anwendung Neuronaler Netze (Single-Layer Neuronale Netze, Multilayer Neuronale Netze und Backpropagation, Radial-Basis Function Netze, Rekurrente Neuronale Netze)\n\nFuzzy- und Neuro-Fuzzy-Verarbeitungstechniken (Grundlagen der Fuzzy Set Theorie, Fuzzy Relations und Fuzzy Logic Inference, T-S fuzzy)\n\nEvolutionsverfahren und genetische Algorithmen zur Optimierung (Evolutionsbasiertes Rechnen, Evolutionsbasierte Optimierung, Evolutionsbasiertes Lernen und Problemlösung)",
+        "voraussetzungen": "Programmierkenntnisse in \"Matlab\"",
+        "modulniveau": "Bachelor",
+        "sprache": "Englisch",
+        "gültig bis": ""
+    },
+        {
+        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=756539&pOrgNr=1",
+        "name": "Middleware und verteilte Systeme",
+        "kennung": "IN2258",
+        "organisation": "Department Computer Science",
+        "anmerkung": "",
+        "lernergebnisse": "1. Understand common pitfalls that determine the development of distributed applications.\n2. Apply basic programming abstractions for building distributed applications (e.g., sockets, messaging, remote procedure call).\n3. Understand characteristics and properties of common middleware abstractions.\n4. Apply higher-level middleware abstractions for building distributed applications (e.g., publish/subscribe, transactions).\n5. Evaluate the applicability of common middleware abstractions in building distributed application architectures.\n6. Understand patterns applicable for implementing middleware abstractions.",
+        "inhalt": "A \"middleware system\" is a programming abstraction and constitutes a set of services that aim at facilitating the development of distributed applications in heterogeneous, networked environments. The primary objectives of middleware are to foster application portability, distributed application interoperability, and facilitate software system integration. At least conceptually, the \"middleware layer\" comprises a layer below the application and above the operating system and network substrate. This course introduces basic distributed system principles and middleware systems, aims at identifying the principles underlying the use of middleware systems, and characterizes common middleware paradigms and abstractions. The course describes a large variety of Middleware systems, starting with original Middleware technologies (e.g. DCE, CORBA, DCOM); going to more modern and lightweight solutions (e.g. Java RMI, J2EE, MQ-Series, JMS, Web Services); and finally finishing with state-of-the-art and large-scale technologies (e.g. Apache Thrift, Protocol Buffers, Avro). Examples, case studies, as well as Middleware implementations are studied to achieve a better understanding of the topic.\nCourse outline:\n1. Introduction\n2. Communication basics:\na. Protocol design\nb. Socket programing\nc. External data representation\nd. Remote procedure calls & remote invocations\n3. Middleware foundations\na. Roots, origins, historical development, principles\nb. Role of standards, standardization processes\nc. Reference models (e.g., OMA, RMODP, SOA)\nd. Interoperability, system integration, multi-tiered systems\n4. Middleware paradigms\na. Distributed computing (procedural paradigm, failure semantics)\nb. Distributed objects (object-oriented paradigm)\nc. Messaging Patterns (e.g., request/reply, messaging, publish/subscribe)\nd. Queuing theory/networks\ne. Service-oriented architecture (SOA) and services\nf. Event-driven architecture (EDA))\n5. Middleware systems\na. Naming and directory services\nb. Web Services\nc. Messaging systems\nd. Application servers\n6. Case studies and examples\n7. Middleware implementation techniques",
+        "voraussetzungen": "Algorithms and data structures (searching, sorting, hash tables, lists, trees, graphs, basic notions of complexity (O-notation)), basic programing skills and tools (Java, C/C++, concurrency, multithreading, synchronization, code versioning and concurrent",
+        "modulniveau": "Bachelor",
+        "sprache": "Englisch",
+        "gültig bis": ""
+    },
+        {
+        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1226089&pOrgNr=1",
+        "name": "Essentials of Applied Software Engineering",
+        "kennung": "IN1504",
+        "organisation": "Department Computer Engineering",
+        "anmerkung": "",
+        "lernergebnisse": "Studierenden verstehen Konzepte und Methoden für die verschiedenen Phasen des Lebenszyklus der Software Entwicklung. Sie verstehen die wichtigsten Begriffe und Konzepte der Softwaretechnik. Sie können konkrete Probleme analysieren, verstehen und bewerten, geeignete Techniken auswählen und diese anwenden um Probleme zu lösen. Sie haben ein Bewusstsein für Fragestellungen entwickelt, auf die im Software Engineering grundsätzlich zu achten ist. Digitale Aufgaben unterstützen die praktische Umsetzung von Videoinhalten, im Bezug auf Design Patterns, Hierarchien im Software Engineering sowie in Grundlagen der Programmierung. Sie erhalten Rückmeldungen zu den von ihnen im Selbststudium entwickelten Lösungsansätzen.",
+        "inhalt": "Projektorganisation und Kommunikation, Konfigurationsmanagement, Delivery, UML Modellierung, Agile Methoden, Anforderungsanalyse, System Design, Objektdesign, Implementierung, Muster in der Softwareentwicklung, Testing.",
+        "voraussetzungen": "IN0001 Grundlagen der Programmierung",
+        "modulniveau": "Bachelor",
+        "sprache": "Englisch",
+        "gültig bis": ""
+    },
+        {
+        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1002907&pOrgNr=1",
+        "name": "Praktikum: Social Gaming",
+        "kennung": "IN0041",
+        "organisation": "Department Computer Science",
+        "anmerkung": "",
+        "lernergebnisse": "Nach erfolgreicher Teilnahme an diesem Modul besitzen die Studierenden die Fähigkeit, die in dem Modul Social Gaming (IN0040) erworbenen Grundkenntnisse der Konzepte/-Modelle, Techniken/-Algorithmen und Denkweisen/Methodiken des Social Computing für die Konzeption und Implementierung von (insbesondere mobilen) sozialen Spielen und freizeitbezogenen Anwendungen, die individuelle und soziale Kontexte von Spielern intelligent einbeziehen, anwenden zu können.\nDie Studierenden können Methoden zum Design von sozialen Spielen anwenden.\nSie haben ihre in den ersten Semestern erworbenen Fähigkeiten im Programmieren (insbesondere in Java) vertieft und erweitert und praktische Erfahrungen im Software Engineering in kleinen Teams gewonnen. Sie haben die Fähigkeit gewonnen, sich benötigte Technologien (bspw. Umgang mit Geo-Informationssystemen in Bezug auf Location-based Mobile Social Games) schnell und effizient in dem Maße aneignen zu können, wie es für die praktische Lösung von Aufgaben im angestrebten Feld nötig ist.\nSie können Software für mobile Android Endgeräte und Serverkomponenten für Social Games und freizeitbezogene Social Computing Anwendungen entwickeln.",
+        "inhalt": "In dem Modul IN0041 werden beispielhaft folgende Inhalte behandelt:\n- Design-Methoden für soziale Spiele und insbesondere mobile soziale Spiele (bspw. Sketching)\n- Anwendungen für Modelle sozialen Kontexts in (mobilen) sozialen Spielen in eigenen Implementierungen in Java.\n- Design eigener Formen sozialer Spiele und freizeitbezogene Social Computing Anwendungen im Web, insbesondere Social Networking Games, Location-Aware Mobile Social Games,-Socially-Aware Mobile Social Games\n- Programmierung von mobilen Endgeräten und Serverkomponenten für Social Games und freizeitbezogene Social Computing Anwendungen",
+        "voraussetzungen": "Empfohlene Voraussetzungen sind die Studieninhalte des ersten bis dritten Fachsemesters. Das Modul Social Gaming (IN0040) sollte gleichzeitig besucht werden.",
+        "modulniveau": "Bachelor",
+        "sprache": "Deutsch/Englisch",
+        "gültig bis": ""
+    },
+        {
+        "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1605337&pOrgNr=1",
+        "name": "Project Work in Informatics",
+        "kennung": "IN8028",
+        "organisation": "Department Computer Science",
+        "anmerkung": "",
+        "lernergebnisse": "Upon successful completion of the module, participants are able to apply knowledge and methods in a research project in the field of Informatics.\nThey have deepened and further cross-linked their understanding of Informatics and the Informatics-related topics acquired by the third-semester modules IN8005, IN8027 (Introduction to Informatics for Students of Management & Technology – Programming Lab Course).\nStudents are able to analyze elements of the solution space of the given research problem in a team under given technical, economic and social constraints. In doing so, they can work out important questions related to the research problem in an Informatics field and clarify them in close coordination with experts from this area.\nThey are able to apply the theoretical knowledge acquired in the third semester such as a basic understanding of Machine Learning and practical capabilities such as programming in Java, using Machine Learning Libraries, or practical Software Engineering skills to an Informatics research-problem and develop their own solutions or solution contributions to the related research questions in a team.\nThey are able to prepare the solution developed in the project in such a way that they can present it to application experts in a written form and orally.\nStudents acquire missing Informatics knowledge and skills related to the research question of the project by private study under the guidance of the advisors.",
+        "inhalt": "The project work centers on a research question in the field of work of the supervisor and the advisor (typically a doctoral student). Students experience hands-on work in a project, where they work together in teams. They pass through the whole process of a small scientific project. The content depends on the research question and the elements of scientific project work. Example content: In a design science methodology driven research program, an intermediate technological artifact (e.g. a software system) has been developed as an intermediate result by the advisor under the guidance of the supervisor. As an example, consider a user interface for an interactive visual data-exploration system. The project work of the student team may consist in systematically evaluating this technological artifact with the help of human study participants in focus groups. The contents of the module then encompass quantitative and qualitative evaluation methods, the technology of the artifact, content elements of the theoretical background of the research question / research field (e.g. UI-Design, Information Visualization, Data-Mining).",
+        "voraussetzungen": "• IN8005 Introduction to Informatics for Students of Management and & Technology\n• IN8027 Introduction to Informatics for Students of Management & Technology – Programming Lab Course",
+        "modulniveau": "Bachelor",
+        "sprache": "Englisch",
+        "gültig bis": ""
     },
     {
         "url": "https://campus.tum.de/tumonline/WBMODHB.wbShowMHBReadOnly?pKnotenNr=460623&pOrgNr=1",
