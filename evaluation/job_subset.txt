@@ -1,0 +1,452 @@
+"keyword": "Game Developer"
+
+"job_title": "Programmer - Game Development + Web Front End."
+
+job_summary": "We’re building a real-time 3D game designed to visualise AI workflows, GPU operations, and large-scale compute infrastructure in an interactive and engaging way. 
+If you’re passionate about game engines, advanced 3D rendering, and making complex technical systems more intuitive through visualisation, this role is for you. 
+We’re hiring across Junior, Senior, and Principal levels to develop high-performance, interactive 3D environments that bring AI and GPU workloads to life. 
+What You’ll Work On: Developing a 3D game that serves as an interactive tool for visualising AI and GPU compute operations Real-time simulation & physics programming to represent 
+large-scale compute processes 3D engine programming – working with rendering pipelines, shaders, and technical art for high-performance visualisation Custom rendering & effects – 
+building real-time visual feedback for AI training, GPU utilisation, and system operations Optimising large-scale interactive environments for seamless user experience and high 
+frame rates Gameplay programming – designing intuitive interactions that allow users to explore and understand AI infrastructure Multi-user experience – supporting multiplayer or 
+collaborative features for team-based AI system visualisation UI/UX design for interactive dashboards and visualisation tools Your Core Background ✅✅ Experience with developing 
+3D and interactive browser experiences (e.g., Svelte, Three.js, WebGL) ✅✅ Proficiency in game engine development (Unity/Unreal Engine/custom/other - for clarity we’re working 
+with our own engine in browser not a commercial engine) ✅✅ Strong background in real-time rendering, physics simulation, and game mechanics ✅✅ Experience with complex data v
+isualization (e.g., massive-scale data, compute clusters, global networking) Nice to haves ✅ Expertise in shader programming, custom rendering pipelines, and technical art for 
+WebGL ✅ Ability to optimize performance for smooth real-time interaction ✅ Experience with multiplayer networking and large-scale simulation is a plus ✅ Familiarity with GPU 
+operations and AI infrastructure concepts Non-Engineering Responsibilities (Optional But Valuable) 🎮 Game & Interaction Design – creating engaging ways to explore complex compute 
+systems 🎨 3D Art & Animation – developing assets that represent real-world AI and GPU environments 🎵 Audio Engineering – integrating sound to enhance immersion in the 3D 
+visualization experienceOur culture 🚀 We move fast. We ship weekly—new features, improvements, and fixes go live fast. 👥 We test big. Every month, we stress test with large 
+groups of users face to face, get real-world feedback, and iterate rapidly. 💻 We build together. On site only, in SF or Sydney 🔄 We iterate relentlessly. Direct user feedback 
+shapes our roadmap—we release, test, refine, and keep moving. ✈️ We travel when needed. Engineers may travel between SF and Sydney to run events and meet with clients 
+📍Location: SF or Sydney (OG startup house vibe, great food, late nights, all the GPUs) Equipment & Benefits Top spec Macbook + separate GPU cluster dev environments for each engineer. 
+Weekly cash bonus when you workout out 3+ times a week. Comprehensive health benefits, including a choice of Kaiser, Aetna OAMC, and HDHP (HSA-eligible) plans for our SF-based 
+team members. Highest in the world 20 year exercise window for options Don’t have all the skills? Apply anyway! We’re looking for people who move fast, learn fast, and ship fast. 
+If that’s you, let’s talk. 
+Want to get to know us first? Attend one of our upcoming events. Show more Show less"
+
+"deduplicated_skills": ["3D Game Development", "Real-time Simulation", "Physics Programming", "3D Rendering", "Shader Programming", "Custom Rendering Pipelines", "Technical Art", 
+"Data Visualization", "UX optimization", "Multiplayer Networking", "Game Design", "game engine", "3d engine", "user experience", "frame rate"]
+
+
+skills: Game Developement, Game Design, 3D rendering, data visualization, game engine, interactive browser, physics simulation, game mechanics
+
+Top courses: 
+IN0038 — Echtzeit-Computergrafik
+IN2018 — Augmented Reality	
+IN2401 — Concept Art und Game Design	
+IN2346 — Introduction to Deep Learning	
+IN2026 — Visual Data Analytics	
+CIT1330000: Computational Intelligence,
+....
+
+
+
+######### TOP SIMILARITY ##########
+
+Total courses recommended: 10
+
+Courses recommended AND in subset:
+
+No overlap found.
+######### TOP COUVERAGE ##########
+
+Total courses recommended: 10
+
+Courses recommended AND in subset:
+
+No overlap found.
+
+######### TOP SIMILARITY ##########
+
+Total courses recommended: 30
+
+Courses recommended AND in subset:
+
+IN2401: Concept Art und Game Design
+IN2326: Foundations in Data Engineering
+IN0038: Echtzeit-Computergrafik
+IN0041: Praktikum: Social Gaming
+CIT1330000: Computational Intelligence
+
+######### TOP COUVERAGE ##########
+
+Total courses recommended: 30
+
+Courses recommended AND in subset:
+
+IN2346: Introduction to Deep Learning
+CIT1330000: Computational Intelligence
+CIT433027: Advanced Deep Learning for Robotics
+
+######### TOP SIMILARITY ##########
+
+Total courses recommended: 50
+
+Courses recommended AND in subset:
+
+IN2401: Concept Art und Game Design
+IN2326: Foundations in Data Engineering
+IN0038: Echtzeit-Computergrafik
+IN0041: Praktikum: Social Gaming
+CIT1330000: Computational Intelligence
+IN2026: Visual Data Analytics
+######### TOP COUVERAGE ##########
+
+Total courses recommended: 50
+
+Courses recommended AND in subset:
+
+IN2346: Introduction to Deep Learning
+CIT1330000: Computational Intelligence
+CIT433027: Advanced Deep Learning for Robotics
+IN2210: Tracking and Detection in Computer Vision
+IN2326: Foundations in Data Engineering
+
+----------------------------------------------------------------------------------------------------------------
+
+"keyword": "UX/UI Designer" 
+"job_title": "UI/UX Designer",
+    
+"job_summary": "Amper is a rapidly growing IoT startup that helps manufacturers unleash their potential with modern software to run operations. 
+We build a simple but powerful platform that helps manufacturers reduce costs, increase visibility, and drive efficiency. We believe in keeping things simple and easy to 
+understand—our culture and products reflect that. For example, it takes just minutes to self-install Amper on any kind of industrial machine—like a consumer device, without 
+the traditional hassle of integration. Our vision is to build the market-leading FactoryOS to enable cutting-edge operations, and we are investing in the next level of growth across 
+our GTM and product teams. We are a venture-backed startup with a distributed team and HQ in Chicago. The role ... We’re expanding our product team and looking for a UI/UX Designer 
+to play a key role in shaping the user experience of our platform. You’ll work closely with product managers and engineers to design intuitive, user-friendly solutions that help 
+anufacturers streamline their operations. You’ll be responsible for research, wireframing, prototyping, and final visual designs—helping to ensure a seamless and engaging experience 
+for our users. You’ll say “no” to complexity and advocate for simplicity. This is a remote-friendly role with the option to work from our Chicago or San Francisco offices. We support 
+flexible work while valuing the collaboration and speed that come from working together in person. 
+You’ll Enjoy Working At Amper If You Have a strong appetite for the unfamiliar; that 
+includes solving complex UX challenges in industrial and SaaS environments. Believe that being helpful and humble are just as important as technical know-how. Can teach the things you 
+know well and acknowledge what you can learn from others. Are excited about designing tools that drive real-world impact in manufacturing. What You'll Do... Own the end-to-end UI/UX 
+design process, from research and wireframing to high-fidelity designs and prototyping. Collaborate with product managers and engineers to define and refine product experiences. 
+Conduct user research, usability testing, and stakeholder interviews to inform design decisions. Translate complex workflows into intuitive, user-friendly interfaces. Ensure consistency 
+in UI components and interactions across the platform. Advocate for the user while balancing business goals and technical constraints. Stay up-to-date on industry trends and best 
+practices to drive innovation. R
+equirements 5+ years of UI/UX design experience, in SaaS or B2B products. Strong portfolio showcasing experience in interaction design, user research, 
+and visual design. Proficiency in Figma, Sketch, or similar design tools. Ability to create wireframes, user flows, and high-fidelity mockups. Strong understanding of usability 
+principles, accessibility, and responsive design. Outstanding communication skills, with the ability to present and justify design decisions. Experience collaborating closely with 
+engineers and product teams to implement designs. Strong problem-solving ability; able to simplify complex workflows into elegant solutions. Preferred Qualifications Experience 
+designing for industrial, IoT, or data-heavy applications. Familiarity with Locations and Affordances design concepts. Basic understanding of front-end development principles 
+(HTML, CSS, JavaScript) to bridge design and engineering. Why Join Amper? Be part of a mission-driven company transforming the manufacturing industry. Collaborate with a dynamic, 
+innovative team that values creativity and impact. Enjoy competitive compensation, benefits, and opportunities for growth. Compensation & Benefits The range of annual base salary 
+for full-time employees for this position is $120,000-150,000 per year. Please note that base pay offered may vary depending on factors including your city of residence, job-related 
+knowledge, skills, and experience. Amper provides a comprehensive benefits package, including medical, dental, and vision insurance, 401(k), unlimited paid time off, and early-stage 
+stock option equity. Show more Show less",
+
+
+skills: designing tools, UI/UX design, usability principles, accessibility, responsive design, communication, problem solving, simplify complex workflows, Web and Frontend, Visual Design & Graphics
+
+
+Top courses: 
+IN0006 — Einführung in die Softwaretechnik
+IN2394 — Requirements Engineering
+IN2401 — Concept Art und Game Design
+IN0038 — Echtzeit-Computergrafik
+IN2018 — Augmented Reality
+IN2026 — Visual Data Analytics
+IN2339 — Data Analysis and Visualization in R
+EI04014 — Fundamentals of Human-Centered Robotics
+IN0041 — Praktikum: Social Gaming
+IN2026 — Visual Data Analytics
+######### TOP SIMILARITY ##########
+
+Total courses recommended: 10
+
+Courses recommended AND in subset:
+
+IN0041: Praktikum: Social Gaming
+######### TOP COUVERAGE ##########
+
+Total courses recommended: 5
+
+Courses recommended AND in subset:
+
+IN2073: Cloud Computing
+######### TOP SIMILARITY ##########
+
+Total courses recommended: 30
+
+Courses recommended AND in subset:
+
+IN0041: Praktikum: Social Gaming
+IN8028: Project Work in Informatics
+IN8026: Einführung in die Programmierung mit Python
+IN1504: Essentials of Applied Software Engineering
+IN2073: Cloud Computing
+######### TOP COUVERAGE ##########
+
+Total courses recommended: 5
+
+Courses recommended AND in subset:
+
+IN2073: Cloud Computing
+
+######### TOP SIMILARITY ##########
+
+Total courses recommended: 50
+
+Courses recommended AND in subset:
+
+IN0041: Praktikum: Social Gaming
+IN8028: Project Work in Informatics
+IN8026: Einführung in die Programmierung mit Python
+IN1504: Essentials of Applied Software Engineering
+IN2073: Cloud Computing
+IN2401: Concept Art und Game Design
+######### TOP COUVERAGE ##########
+
+Total courses recommended: 5
+
+Courses recommended AND in subset:
+
+IN2073: Cloud Computing
+
+
+----------------------------------------------------------------------------------------------------------------
+
+"keyword": "Database Administrator"
+"job_title": "Data Engineer (f/m/x)"
+"deduplicated_title": "Data Engineer"
+"job_summary": "Responsibilities Design and build efficient data pipelines to support data ingestion, integration, and processing. 
+Manage and optimize data storage and database systems, including both RDBMS and NoSQL databases. Ensure high standards of data quality and reliability, 
+implementing validation and cleaning processes. Collaborate closely with stakeholders to support analytics and machine learning projects. Lead initiatives to 
+enhance operational efficiency and scalability of data architectures. Ensure strict compliance with data governance and security standards. Skills & Qualifications 
+Bachelor's or Master's degree in Computer Science, Data Science, Information Technology, or a related field. Proficiency in programming languages: Python, Java/Scala, SQL. 
+Solid understanding of database systems, including RDBMS and NoSQL databases. Experience with cloud platforms: AWS, Google Cloud Platform, Azure. Proficiency with ETL tools 
+and processes. Strong communication skills for effective project coordination. Leadership abilities for team management. Innovative problem-solving and time management skills. 
+Continuous learner with a track record of staying ahead of industry standards and certifications. What We Offer Dynamic Work Environment: Work on exciting projects that have a 
+real impact. Growth Opportunities: With our commitment to training and development, you'll have the chance to enhance your skills and advance your career. Innovative Culture: 
+Be part of a team that's pushing boundaries and setting trends in the industry. Flexible Work Arrangements: Embrace the flexibility of working from our central Munich office or 
+from the comfort of your home, supporting work-life balance. Competitive Benefits Package: Enjoy a comprehensive benefits package designed to support your health, wellness, and 
+financial security. Central Location and Remote Flexibility: Whether you prefer the buzz of city life or the quiet of a remote location, we accommodate your preferred work setting. 
+About Us Based in the heart of Munich, Vollcom Digital emerges as a vanguard in the realm of IT services and consulting, tailored specifically for mid-sized to enterprise-level 
+organizations seeking to navigate the complexities of digital transformation. Our mission is to empower businesses with cutting-edge technology solutions that drive efficiency, 
+innovation, and scalability. Show more Show less",
+
+    
+
+skills: Python, Java, Scala, SQL, ETL, RDBMS, NoSQL, AWS, GCP, Azure, Data Pipelines, Data Storage, Data Quality, 
+Data Governance, Security, Analytics, Machine Learning, Communication, Leadership, Problem-Solving, Time Management
+
+######### TOP SIMILARITY ##########
+
+Total courses recommended: 10
+
+Courses recommended AND in subset:
+
+IN2326: Foundations in Data Engineering
+IN2058: Anwendungen Wissenbasierter Methoden
+IN2073: Cloud Computing
+IN2386: Cloud-Based Data Processing
+######### TOP COUVERAGE ##########
+
+Total courses recommended: 10
+
+Courses recommended AND in subset:
+
+CIT3230002: Cloud Information Systems
+EI71036: Software Architecture for Distributed Embedded Systems
+IN2058: Anwendungen Wissenbasierter Methoden
+IN2326: Foundations in Data Engineering
+IN2386: Cloud-Based Data Processing
+
+######### TOP SIMILARITY ##########
+
+Total courses recommended: 30
+
+Courses recommended AND in subset:
+
+IN2326: Foundations in Data Engineering
+IN2058: Anwendungen Wissenbasierter Methoden
+IN2073: Cloud Computing
+IN2386: Cloud-Based Data Processing
+IN0008: Grundlagen: Datenbanken
+IN0041: Praktikum: Social Gaming
+IN8026: Einführung in die Programmierung mit Python
+IN0001: Einführung in die Informatik
+CIT3230002: Cloud Information Systems
+IN0007: Grundlagen: Algorithmen und Datenstrukturen
+######### TOP COUVERAGE ##########
+
+Total courses recommended: 30
+
+Courses recommended AND in subset:
+
+CIT3230002: Cloud Information Systems
+EI71036: Software Architecture for Distributed Embedded Systems
+IN2058: Anwendungen Wissenbasierter Methoden
+IN2326: Foundations in Data Engineering
+IN2386: Cloud-Based Data Processing
+IN2073: Cloud Computing
+IN0008: Grundlagen: Datenbanken
+IN2339: Data Analysis and Visualization in R
+IN0041: Praktikum: Social Gaming
+IN0007: Grundlagen: Algorithmen und Datenstrukturen
+IN8026: Einführung in die Programmierung mit Python
+
+
+######### TOP SIMILARITY ##########
+
+Total courses recommended: 50
+
+Courses recommended AND in subset:
+
+IN2326: Foundations in Data Engineering
+IN2058: Anwendungen Wissenbasierter Methoden
+IN2073: Cloud Computing
+IN2386: Cloud-Based Data Processing
+IN0008: Grundlagen: Datenbanken
+IN0041: Praktikum: Social Gaming
+IN8026: Einführung in die Programmierung mit Python
+IN0001: Einführung in die Informatik
+CIT3230002: Cloud Information Systems
+IN0007: Grundlagen: Algorithmen und Datenstrukturen
+EI71036: Software Architecture for Distributed Embedded Systems
+CIT1330001: Projektwoche Natural Language Processing (NLP)
+IN2339: Data Analysis and Visualization in R
+######### TOP COUVERAGE ##########
+
+Total courses recommended: 50
+
+Courses recommended AND in subset:
+
+CIT3230002: Cloud Information Systems
+EI71036: Software Architecture for Distributed Embedded Systems
+IN2058: Anwendungen Wissenbasierter Methoden
+IN2326: Foundations in Data Engineering
+IN2386: Cloud-Based Data Processing
+IN2073: Cloud Computing
+IN0008: Grundlagen: Datenbanken
+IN2339: Data Analysis and Visualization in R
+IN0041: Praktikum: Social Gaming
+IN0007: Grundlagen: Algorithmen und Datenstrukturen
+IN8026: Einführung in die Programmierung mit Python
+IN0001: Einführung in die Informatik
+CIT1330001: Projektwoche Natural Language Processing (NLP)
+
+----------------------------------------------------------------------------------------------------------------
+
+"keyword": "Ethical Hacker"
+name = IT Security Engineer
+Entry level
+
+"job_summary": "At Gunderson Dettmer, you’ll find people passionate about making an impact while working alongside pioneering founders and innovators. 
+In addition to offering competitive salaries, we also offer an excellent benefits package, which includes comprehensive medical, dental and vision coverage; 
+401(k) Profit Sharing Plan; Flexible Spending Account, Paid Time Off and fertility and family building support. Gunderson Dettmer has an opening for a full-time 
+IT Security Engineer . We leverage the latest security products and services and correlate multiple telemetry points to furnish a continuous picture of our security readiness. 
+The person filling this role will understand and integrate layers of (sometimes overlapping) technology against the widest array of possible attack vectors while also s
+upporting the Firm’s goals to achieve and maintain industry-recognized security certifications. We are looking for a person with utmost dedication to the discipline of 
+information security and the ability to communicate thoughtfully and concisely across security compliance, risk management, and various technical security domains. This 
+position reports directly to the Director of Enterprise Infrastructure and will work in collaboration with the Office of General Counsel, and Information Governance team 
+to identify the Firm’s ongoing security needs and drive necessary efforts for securing the Firm’s complex environment. Job Responsibilities Plan, develop, implement and 
+update the Firm’s information security strategy to include thorough documentation of the cybersecurity architecture. Design, develop, execute and track the performance of 
+security measures (hardware, software, systems) to protect information and network infrastructure and computer systems. Identify, define and document system security weaknesses 
+and threats and recommend solutions to management. Configure, troubleshoot and maintain security infrastructure software and hardware. Research, assess and recommend security 
+products that monitor systems and networks for security breaches and intrusions. Monitor systems daily for security events and alerts through both organic and SIEM-generated log 
+analysis and provide operational support to the greater information security team. Develop and implement alerting and detection strategies to identify unusual behaviors. Assist 
+the Office of General Counsel in achieving compliance with and maintenance of industry standard security certifications, such as SOC 2 and ISO 27001. Lead efforts in preparation 
+for third-party audits, including gathering evidence, maintaining compliance documentation, and working with auditors. Assist the Office of General Counsel to educate and train 
+staff on information security best practices. Be responsible for evidence collection, documentation, communications, and reporting for all forensic activities including incident 
+response and investigations. Stay updated on evolving security regulations, threats, and best practices to enhance security posture. Required Knowledge, Experience, Skills, And 
+Abilities The candidate who will best fill this role will come to us having traversed any number of paths. We want the candidate to join us because they see an organization deeply 
+committed to information security, both in terms of emphasis and resources. The successful candidate will impress us in many ways, including with: Proficiency in secure network 
+architectures, encryption technologies and standards, web application security, cloud security, cybersecurity technologies and web-based protocols. Working knowledge in identity 
+and access management principles, vulnerability management, social engineering, Advanced Persistent Threats (APTs) and cybersecurity countermeasures. Experience with conducting 
+risk assessments and security audits and working with stakeholders to mitigate identified risks. Fundamental knowledge of all aspects of a professional service firm’s computing 
+and communications systems with an eye for how they can be breached and ways we can protect them. Strong interpersonal skills that establish and sustain close working relationships
+ with functional teams and subject matter experts as well as IT technical, development, and support personnel. Understanding and respect for confidentiality and privacy, with strong 
+ ethics and compliance aptitude. Exceptional oral and written communication skills and expertise with policy writing, crafting educational and impactful emails and other materials. 
+ Ability to translate complex technical jargon into understandable and actionable messages. Minimum Qualifications Candidate must have a degree in Computer Science, Information Systems 
+ or related field or equivalent relevant experience. Familiarity with information security standards, including ISO 27001, 27002, CIS Benchmarks, NIST and others. Demonstrated ability 
+ to gain skills, knowledge and certifications as needed. Any of the following certifications are helpful in the role: Certified Information Systems Security Professional (CISSP), 
+ Certified Internal Systems Auditor (CISA), or Certified Ethical Hacker (CEH). Status Full Time, Exempt. Hybrid Schedule The expected starting salary for this position is $140,000 
+ - $175,000 annually, dependent upon qualifications, experience and location. Gunderson Dettmer is an Equal Opportunity Employer and does not discriminate against any employee or 
+ applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other 
+ federal, state or local protected class. Show more Show less"
+
+Top courses: 
+IN0042 — IT-Sicherheit
+IN2101 — Network Security
+IN2178 — Security Engineering
+IN0009 — Grundlagen: Betriebssysteme und Systemsoftware
+IN0010 — Grundlagen: Rechnernetze und Verteilte Systeme
+IN2073 — Cloud Computing
+
+IN2386 — Cloud-Based Data Processing
+
+CIT3230002 — Cloud Information Systems
+
+
+######### TOP SIMILARITY ##########
+
+Total courses recommended: 10
+
+Courses recommended AND in subset:
+
+IN2101: Network Security
+IN2178: Security Engineering
+IN0042: IT-Sicherheit
+IN2073: Cloud Computing
+
+######### TOP COUVERAGE ##########
+
+Total courses recommended: 5
+
+Courses recommended AND in subset:
+
+IN0042: IT-Sicherheit
+IN2073: Cloud Computing
+
+######### TOP SIMILARITY ##########
+
+Total courses recommended: 30
+
+Courses recommended AND in subset:
+
+IN2101: Network Security
+IN2178: Security Engineering
+IN0042: IT-Sicherheit
+IN2073: Cloud Computing
+IN0010: Grundlagen: Rechnernetze und Verteilte Systeme
+IN2386: Cloud-Based Data Processing
+CIT423001: DevOps: Engineering for Deployment and Operations
+CIT3230002: Cloud Information Systems
+
+
+
+######### TOP COUVERAGE ##########
+
+Total courses recommended: 5
+
+Courses recommended AND in subset:
+
+IN0042: IT-Sicherheit
+IN2073: Cloud Computing
+
+
+######### TOP SIMILARITY ##########
+
+Total courses recommended: 50
+
+Courses recommended AND in subset:
+
+IN2101: Network Security
+IN2178: Security Engineering
+IN0042: IT-Sicherheit
+IN2073: Cloud Computing
+IN2324: Connected Mobility Basics
+IN0010: Grundlagen: Rechnernetze und Verteilte Systeme
+IN2386: Cloud-Based Data Processing
+CIT423001: DevOps: Engineering for Deployment and Operations
+IN0008: Grundlagen: Datenbanken
+CIT3230002: Cloud Information Systems
+######### TOP COUVERAGE ##########
+
+Total courses recommended: 5
+
+Courses recommended AND in subset:
+
+IN0042: IT-Sicherheit
+IN2073: Cloud Computing
