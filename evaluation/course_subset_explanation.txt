@@ -37,6 +37,7 @@ total: 46, including 15 mandatory Bachelor courses
 
     IN0008 — Grundlagen: Datenbanken
     IN2326 — Foundations in Data Engineering
+    IN2058 Anwendungen Wissensbasierter Methoden
 
 5. Cloud & Distributed Systems (3)
 
@@ -80,7 +81,6 @@ total: 46, including 15 mandatory Bachelor courses
     IN2293 — Medical Augmented Reality
 
 10. Statistics & Data Science
-    IN2058 Anwendungen Wissensbasierter Methoden
     IN2351 Business Analytics (Doktorat)
     IN2339 — Data Analysis and Visualization in R
     IN2026 — Visual Data Analytics

@@ -34,7 +34,7 @@ for job in jobs:
     language = ["Englisch", "Deutsch/Englisch", "Deutsch"]
     module_level = ["Bachelor", "Bachelor/Master", "Master"]
 
-    for top_n in [10, 30, 50]:
+    for top_n in [10, 20, 30, 50]:
         print(f"\n##### {job_title} | Similarity | Top {top_n} #####")
 
         similarity_results = recommend_courses_top_similarity(

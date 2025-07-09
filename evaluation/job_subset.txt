@@ -317,3 +317,32 @@ industries in an attractive customer environment The opportunity to work on a mo
 activities, sporting activities and events Health and retirement benefits A highly qualified and motivated team Short decision-making paths thanks to flat hierarchies Communication at 
 eye level An open and appreciative corporate culture Active internal knowledge transfer: learning from each other Exciting and varied tasks Further training opportunities Our benefits at 
 a glance Show more Show less"
+
+--------------------------------------------------------------------------
+
+
+"job_title": "Head of Computer Vision and Machine Learning"
+"About The Role As the Head of CV and ML, you will be leading a team of highly qualified and talented Machine Learning and Computer Vision engineers working on Dexterity’s computer vision 
+and data analysis initiatives. The role will involve understanding our current products and future requirements and bringing your substantial expertise to augment the products and help 
+us to meet the future requirements. Previous experience leading CV and ML teams to create CV models, large training sets as well as robust regression pipelines is a prerequisite for this role. 
+We are very interested in expertise around the subfields of semantic segmentation and instance segmentation and you will be involved in keeping up to date with the latest research papers in 
+these areas and implementing them using platforms like PyTorch or TensorFlow. Robotics data also comes in a variety of different forms that are targets for models to help us predict and 
+analyze behaviors emerging from our robotics systems. You will oversee the overall architecture and lead development of the perfect models, in addition to identifying additional opportunities 
+throughout our system that can be solved with machine learning. In order to thrive in this role you will have significant experience with RGBD datasets and point clouds as they are important 
+to the type of problems you will encounter in robotics. You will have solid experience in writing optimized code in c++ and python and mentoring other developers. You will have experience 
+architecting models, training pipelines and serving infrastructure at scale. The end to end process of gathering and augmenting data, creating balanced training/validation/regression sets, 
+studying the performance of different models and optimizing their quality, and finally deploying and troubleshooting the models as part of a complex robotics system will be under your 
+supervision. About Dexterity: At Dexterity, we believe robots can positively transform the world. Our breakthrough technology frees people to do the creative, inspiring, problem-solving 
+jobs that humans do best by enabling robots to handle repetitive and physically difficult work. We’re starting with warehouse automation, where the need for smarter, more resilient 
+supply chains impacts millions of lives and businesses around the world. Dexterity's full-stack robotics systems pick, move, pack, and collaborate with human-like skill, awareness, 
+and learning capabilities. Our systems are software-driven, hardware-agnostic, and have already picked over 15 million goods in production. And did we mention we’re customer-obsessed? 
+Every decision, large and small, is driven by one question – how can we empower our customers with robots to do more than they thought was possible? Dexterity is one of the fastest 
+growing companies in robotics, backed by world-class investors such as Kleiner Perkins, Lightspeed Venture Partners, and Obvious Ventures. We’re a diverse and multidisciplinary team 
+with a culture built on passion, trust, and dedication. Come join Dexterity and help make intelligent robots a reality! Required Skills: MS or PhD in Computer Science, or a related 
+discipline, or equivalent experience. 2 or more years of experience leading a team of Computer Vision or Machine Learning engineers. At least 5 years of experience in building ML datasets, 
+data pipelines and serving architecture. Creating a culture of developing high quality models, tests and regressions Strong knowledge of Modern C++ and Python. Experience building, 
+maintaining and improving production code. Nice to haves: Experience with Docker and Kubernetes. Experience with cloud infrastructure such as AWS, GCP, Azure etc. and experience using 
+this infrastructure to create training and serving pipelines. Base pay is one element of our Total Rewards package which may also include comprehensive benefits and equity etc., depending 
+on eligibility. The annual base salary range for this position is from $160,000 to $220,000. The actual base pay offered will be determined on factors such as years of relevant experience, 
+skills, education etc. Decisions will be determined on a case-by-case basis. Equal Opportunity Employer We are an equal opportunity employer and value diversity at our company. We do not 
+discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Show more Show less"
