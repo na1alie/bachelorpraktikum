@@ -1,9 +1,7 @@
 import json
 
-PREC_RECALL = '/home/natalie/Bachelorprojekt/evaluation/precision_recall.json'
 
-# Load JSON
-with open(PREC_RECALL, 'r', encoding='utf-8') as f:
+with open("precision_recall.json", 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # Group by (method, top_n)
