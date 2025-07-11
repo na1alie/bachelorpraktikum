@@ -36,8 +36,7 @@ if "state" not in st.session_state:
         "results": [],
     }
 
-dotenv_path = os.path.join(os.path.dirname(__file__), '..', 'kg_construction_scripts', '.env')
-load_dotenv(dotenv_path=dotenv_path)
+load_dotenv()
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 NEO4J_URI = os.getenv("NEO4J_URI")
