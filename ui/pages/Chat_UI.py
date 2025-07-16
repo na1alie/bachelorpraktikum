@@ -22,14 +22,8 @@ import sys
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from recommender_helper import (
-    load_precomputed_embeddings,
-    get_jobs_by_seniority,
     find_closest_jobs,
-    get_job_description_and_skills,
-    summarize_job_claude,
-    recommend_courses_semantic,
-    get_course_description,
-    summarize_course_claude,
+    get_course_description
 )
 
 
@@ -42,8 +36,7 @@ if "state" not in st.session_state:
         "results": [],
     }
 
-dotenv_path = os.path.join(os.path.dirname(__file__), '..', 'kg_construction_scripts', '.env')
-load_dotenv(dotenv_path=dotenv_path)
+load_dotenv()
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 NEO4J_URI = os.getenv("NEO4J_URI")
@@ -399,18 +392,18 @@ tools = [
                     "**IMPORTANT**: You MUST include the output verbatim in your final answer to the user. "
                     "Do NOT just use the information internally — explicitly write the '[SHOW_GRAPH] ...' string into your answer."
         )
-    ),
-    Tool(
-        name="get_course_description",
-        func=get_course_description,
-        description=(
-                    "Use this tool to get more information about a course's content and learning goal."
-                    "ONLY use this to give some more information. DO NOT use it to recommend coureses."
-                    "Please summarize the retrieved info in English in 2-3 clear sentences as if explaining to a student."
-                    "Include the url in the format [**View Course**](url) so that it is clickable"
-                    "Use the other info if the user asks for teaching language or level of the course"
-        )
-    ),
+    )#,
+   # Tool(
+    #    name="get_course_description",
+     #   func=get_course_description,
+      #  description=(
+       #             "Use this tool to get more information about a course's content and learning goal."
+        #            "ONLY use this to give some more information. DO NOT use it to recommend coureses."
+         #           "Please summarize the retrieved info in English in 2-3 clear sentences as if explaining to a student."
+          #          "Include the url in the format [**View Course**](url) so that it is clickable"
+           #         "Use the other info if the user asks for teaching language or level of the course"
+        #)
+    #),
 ]
 
 memory = ConversationBufferMemory(memory_key="chat_history", return_messages=True)
@@ -466,8 +459,8 @@ def display_graph(data):
 
     st.components.v1.html(html_content, height=650, scrolling=True)
 
-st.title("📚 TUM Courses Recommender")
-st.caption("🚀 A Streamlit chatbot powered by Claude")
+st.title("TUM Courses Recommender")
+st.caption("A Streamlit chatbot powered by Claude")
 
 if "messages" not in st.session_state:
     st.session_state["messages"] = [{"role": "assistant", "content": "How can I help you?"}]

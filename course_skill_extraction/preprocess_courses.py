@@ -1,7 +1,7 @@
 import json
 
 
-with open("/home/natalie/Bachelorprojekt/course_offer_collection/content.json", "r", encoding="utf-8") as f:
+with open("../course_offer_collection/content.json", "r", encoding="utf-8") as f:
     courses = json.load(f)
 
 
@@ -30,7 +30,7 @@ for course in courses:
 
 
 
-with open("/home/natalie/Bachelorprojekt/course_skill_extraction/filtered_content.json", "w") as outfile:
+with open("filtered_content.json", "w") as outfile:
     json.dump(filtered_content, outfile, indent=4, ensure_ascii=False)
 
 print(f"{len(filtered_content)} courses written to 'filtered_content.json'")

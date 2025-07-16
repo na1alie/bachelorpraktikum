@@ -1,6 +1,5 @@
 [
     {
-    "keyword": "Game Developer",
     "job_title": "Programmer - Game Development + Web Front End.",
     "seniority_level": "Not Applicable",
     "fitting_courses_subset":[
@@ -15,32 +14,11 @@
         "IN2326: Foundations in Data Engineering",
         "CIT1330000: Computational Intelligence",
         "IN2346: Introduction to Deep Learning",
-        "IN2026: Visual Data Analytics"
+        "IN2026: Visual Data Analytics",
+        "IN0041: Praktikum: Social Gaming"
     ]
   }, 
   {
-    "keyword": "UX/UI Designer",
-    "job_title": "UI/UX Designer",
-    "seniority_level": "Mid-Senior level",
-    "fitting_courses_subset": [
-        "IN0001: Einführung in die Informatik",
-        "IN0002: Grundlagenpraktikum: Programmierung",
-        "IN0006: Einführung in die Softwaretechnik",
-        "IN2394: Requirements Engineering",
-        "IN2026: Visual Data Analytics",
-        "EI71013: System Design for the Internet of Things",
-        "EI04014: Fundamentals of Human-Centered Robotics",
-        "IN2401: Concept Art und Game Design",
-        "IN2073: Cloud Computing",
-        "IN0041: Praktikum: Social Gaming",
-        "IN8028: Project Work in Informatics",
-        "IN1504: Essentials of Applied Software Engineering",
-        "IN8026: Einführung in die Programmierung mit Python"
-    ]
-
-  },
-  {
-    "keyword": "Database Administrator",
     "job_title": "Data Engineer",
     "seniority_level": "Mid-Senior level",
     "fitting_courses_subset": [
@@ -49,16 +27,16 @@
         "IN2073: Cloud Computing",
         "IN2386: Cloud-Based Data Processing",
         "IN0008: Grundlagen: Datenbanken",
-        "IN0041: Praktikum: Social Gaming",
         "IN8026: Einführung in die Programmierung mit Python",
         "IN0001: Einführung in die Informatik",
         "CIT3230002: Cloud Information Systems",
         "IN0007: Grundlagen: Algorithmen und Datenstrukturen",
-        "IN2064 — Machine Learning"
+        "IN2064: Machine Learning",
+        "IN2339: Data Analysis and Visualization in R",
+        "IN2026: Visual Data Analytics"
     ]
   },
   {
-    "keyword": "Ethical Hacker",
     "job_title": "IT Security Engineer",
     "seniority_level": "Entry level",
     "fitting_courses_subset": [
@@ -73,7 +51,6 @@
     ]
   },
       {
-    "keyword": "Data Scientist",
     "job_title": "Data Scientist",
     "seniority_level": "Mid-Senior level",
     "fitting_courses_subset": [
@@ -83,7 +60,7 @@
         "IN0008: Grundlagen: Datenbanken",
         "IN2326: Foundations in Data Engineering",
         "IN2026: Visual Data Analytics",
-        "IN2058: Anwendungen Wissensbasierter Methoden",
+        "IN2058: Anwendungen Wissenbasierter Methoden",
         "IN2339: Data Analysis and Visualization in R",
         "IN2064: Machine Learning",
         "IN2073: Cloud Computing",
@@ -94,8 +71,7 @@
         "IN2406: Fundamentals of Artificial Intelligence"
     ]
   },
-        {
-    "keyword": "AI Engineer",
+    {
     "job_title": "AI Engineer",
     "seniority_level": "Mid-Senior level",
     "fitting_courses_subset": [
@@ -105,18 +81,19 @@
         "IN2406: Fundamentals of Artificial Intelligence",
         "CIT1330001: Projektwoche Natural Language Processing (NLP)",
         "IN2073: Cloud Computing",
+        "CIT1330000: Computational Intelligence",
         "IN2258: Middleware und verteilte Systeme",
         "IN2326: Foundations in Data Engineering",
         "IN0006: Einführung in die Softwaretechnik",
         "CIT423001: DevOps: Engineering for Deployment and Operations",
         "IN8028: Project Work in Informatics",
-        "IN2058: Anwendungen Wissensbasierter Methoden",
+        "IN2058: Anwendungen Wissenbasierter Methoden",
         "IN1504: Essentials of Applied Software Engineering",
-        "IN8026: Einführung in die Programmierung mit Python"
+        "IN8026: Einführung in die Programmierung mit Python",
+        "IN2403: Artificial Intelligence in Medicine"
     ]
   },
   {
-  "keyword": "DevOps Engineer",
   "job_title": "DevOps Engineer",
   "seniority_level": "Mid-Senior level",
   "fitting_courses_subset": [
@@ -127,15 +104,16 @@
         "IN0009: Grundlagen: Betriebssysteme und Systemsoftware",
         "IN0010: Grundlagen: Rechnernetze und Verteilte Systeme",
         "IN2073: Cloud Computing",
+        "IN2386: Cloud-Based Data Processing",
         "IN2258: Middleware und verteilte Systeme",
         "IN0006: Einführung in die Softwaretechnik",
         "CIT423001: DevOps: Engineering for Deployment and Operations",
         "IN1504: Essentials of Applied Software Engineering",
-        "IN8028: Project Work in Informatics"
+        "IN8028: Project Work in Informatics",
+        "CIT3230002: Cloud Information Systems"
   ]
 },
   {
-  "keyword": "Robotics Software Engineer",
   "job_title": "Research Scientist, Robotics Systems",
   "seniority_level": "Senior",
   "fitting_courses_subset": [
@@ -144,45 +122,41 @@
     "IN2376: Advanced Robot Control and Learning",
     "CIT433027: Advanced Deep Learning for Robotics",
     "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning",
-    "IN2377: Concepts of C++ Programming",
     "IN8026: Einführung in die Programmierung mit Python",
     "IN0006: Einführung in die Softwaretechnik",
+    "IN1504: Essentials of Applied Software Engineering",
     "EI71036: Software Architecture for Distributed Embedded Systems",
     "IN2324: Connected Mobility Basics",
     "IN2346: Introduction to Deep Learning",
     "IN2064: Machine Learning",
+    "CIT1330000: Computational Intelligence",
     "IN2406: Fundamentals of Artificial Intelligence",
     "IN2028: Business Analytics and Machine Learning",
-    "IN2058: Anwendungen Wissensbasierter Methoden",
-    "IN2026: Visual Data Analytics",
+    "IN2058: Anwendungen Wissenbasierter Methoden",
     "IN8028: Project Work in Informatics",
     "EI71013: System Design for the Internet of Things"
   ]
 },
   {
-  "keyword": "Penetration Tester",
   "job_title": "Cybersecurity Solutions Engineer - Entry Level",
   "seniority_level": "Entry level",
   "fitting_courses_subset": [
-    "EI04014: Fundamentals of Human-Centered Robotics",
-    "CIT433028: Foundations of Modern Robotics",
-    "IN2376: Advanced Robot Control and Learning",
-    "CIT433027: Advanced Deep Learning for Robotics",
     "IN0042: IT-Sicherheit",
     "IN8026: Einführung in die Programmierung mit Python",
+    "CIT3230002: Cloud Information Systems",
     "IN2178: Security Engineering",
-    "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning",
     "IN2377: Concepts of C++ Programming",
     "IN8026: Einführung in die Programmierung mit Python",
     "IN0006: Einführung in die Softwaretechnik",
     "IN0009: Grundlagen: Betriebssysteme und Systemsoftware",
-    "IN2346: Introduction to Deep Learning",
-    "IN2064: Machine Learning",
-    "IN2406: Fundamentals of Artificial Intelligence"
+    "IN2406: Fundamentals of Artificial Intelligence",
+    "CIT323002: AI Governance",
+    "IN0010: Grundlagen: Rechnernetze und Verteilte Systeme",
+    "IN2258: Middleware und verteilte Systeme",
+    "IN9012: Enterprise Information Systems"
   ]
 },
   {
-  "keyword": "Computer Vision Scientist",
   "job_title": "Senior Softwareentwickler",
   "seniority_level": "Mid-Senior level",
   "fitting_courses_subset": [
@@ -192,12 +166,36 @@
     "IN2377: Concepts of C++ Programming",
     "IN0006: Einführung in die Softwaretechnik",
     "IN2394: Requirements Engineering",
+    "CIT1330000: Computational Intelligence",
     "IN1504: Essentials of Applied Software Engineering",
+    "IN8026: Einführung in die Programmierung mit Python",
     "IN8028: Project Work in Informatics",
     "IN0004: Einführung in die Rechnerarchitektur",
     "IN0009: Grundlagen: Betriebssysteme und Systemsoftware",
     "CIT423001: DevOps: Engineering for Deployment and Operations"
   ]
-}
+},
+    {
+    "job_title": "Head of Computer Vision and Machine Learning",
+    "seniority_level": "Not Applicable",
+    "fitting_courses_subset": [
+      "IN2377: Concepts of C++ Programming",
+      "IN8026: Einführung in die Programmierung mit Python",
+      "IN2346: Introduction to Deep Learning",
+      "IN2064: Machine Learning",
+      "CIT1330000: Computational Intelligence",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
+      "IN2346: Introduction to Deep Learning",
+      "IN2028: Business Analytics and Machine Learning",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "IN2210: Tracking and Detection in Computer Vision",
+      "CIT433027: Advanced Deep Learning for Robotics",
+      "IN2376: Advanced Robot Control and Learning",
+      "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning",
+      "IN2326: Foundations in Data Engineering",
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "IN0007: Grundlagen: Algorithmen und Datenstrukturen"
+    ]
+  }
  
 ]

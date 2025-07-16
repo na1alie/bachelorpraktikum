@@ -1,15 +1,10 @@
 import json
 
 
-EVALUATION_JSON = '/home/natalie/Bachelorprojekt/evaluation/evaluation.json'
-JOBS_JSON = '/home/natalie/Bachelorprojekt/evaluation/job_subset.json'
-
-
-
-with open(EVALUATION_JSON, "r", encoding="utf-8") as f:
+with open("evaluation.json", "r", encoding="utf-8") as f:
     evaluation_results = json.load(f)
 
-with open(JOBS_JSON, "r", encoding="utf-8") as f:
+with open("job_subset.json", "r", encoding="utf-8") as f:
     fitting_jobs = json.load(f)
 
 
@@ -35,8 +30,7 @@ for result in evaluation_results:
     result['recall'] = recall
     result['true_matches'] = true_matches
 
-output_path = "/home/natalie/Bachelorprojekt/evaluation/precision_recall.json"
-with open(output_path, "w", encoding="utf-8") as f:
+with open("precision_recall.json", "w", encoding="utf-8") as f:
     json.dump(evaluation_results, f, indent=2, ensure_ascii=False)
 
 print ("done")

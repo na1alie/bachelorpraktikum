@@ -31,7 +31,7 @@ if "seniority_levels" not in st.session_state:
 
 # --- Inputs ---
 st.title("Curriculum Mapping Tool")
-st.page_link("pages/chat_ui.py", label=" ->  Click here to discover more")
+st.page_link("pages/Chat_UI.py", label=" ->  Click here to discover more")
 job_input = st.text_input("Input a Job Title", value="", placeholder="e.g. Data Scientist")
 
 seniority_levels = st.multiselect(
@@ -129,10 +129,11 @@ if st.session_state.show_course_options and st.session_state.selected_job:
         modullevel = ["Bachelor", "Bachelor/Master", "Master"]
     elif "Bachelor" in modullevel and "Master" in modullevel:
         modullevel = ["Bachelor", "Bachelor/Master", "Master"]
-    if "Bachelor" in modullevel:
+    elif "Bachelor" in modullevel:
         modullevel = ["Bachelor", "Bachelor/Master"]   
-    if "Master" in modullevel:
+    elif "Master" in modullevel:
         modullevel = ["Master", "Bachelor/Master"]   
+    
     
     algorithm_choice = st.radio(
         "Select recommendation strategy:",

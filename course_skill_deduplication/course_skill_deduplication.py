@@ -8,14 +8,14 @@ import numpy as np
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-# load unique skills
-with open("/home/natalie/Bachelorprojekt/job_skill_deduplication/all_unique_skills.json") as f:
+# load unique skills 
+with open("../job_skill_deduplication/all_unique_skills.json") as f:
     skills = json.load(f)
 
 print(f"loaded {len(skills)} skills")
 
 # load courses with skills
-with open("/home/natalie/Bachelorprojekt/course_skill_extraction/courses_anthropic_skills.json", "r") as f:
+with open("../course_skill_extraction/courses_anthropic_skills.json", "r") as f:
     courses = json.load(f)
 
 print(f"loaded {len(courses)} courses")
@@ -80,7 +80,7 @@ for course in courses:
         course['matching'] = matching
         course['matched_skills'] = matched_skills
 
-with open("/home/natalie/Bachelorprojekt/course_skill_deduplication/courses_with_matching.json", "w") as outfile:
+with open("courses_with_matching.json", "w") as outfile:
     json.dump(courses, outfile, indent=4, ensure_ascii=False)
 
 print("wrote skills to courses_with_matching")

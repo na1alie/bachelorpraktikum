@@ -5,13 +5,8 @@ import json
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from ui.recommender_helper import recommend_courses_top_coverage, recommend_courses_top_similarity
 
-
-COURSE_JSON = '/home/natalie/Bachelorprojekt/evaluation/course_subset.json'
-JOBS_JSON = '/home/natalie/Bachelorprojekt/evaluation/job_subset.json'
-
-
 # Load course subset
-with open(COURSE_JSON, 'r', encoding='utf-8') as f:
+with open("course_subset.json", 'r', encoding='utf-8') as f:
     subset_courses = json.load(f)
 
 subset_names = set(
@@ -20,21 +15,20 @@ subset_names = set(
 
 print(f"Subset courses loaded: {len(subset_names)}")
 
-# Load jobs
-with open(JOBS_JSON, 'r', encoding='utf-8') as f:
+# Load job subset
+with open("job_subset.json", 'r', encoding='utf-8') as f:
     jobs = json.load(f)
 
 # Prepare results
 all_results = []
 
-# For each job in the JSON
 for job in jobs:
     job_title = job['job_title']
     job_levels = [job['seniority_level']]
     language = ["Englisch", "Deutsch/Englisch", "Deutsch"]
     module_level = ["Bachelor", "Bachelor/Master", "Master"]
 
-    for top_n in [10, 30, 50]:
+    for top_n in [10, 20, 30, 50]:
         print(f"\n##### {job_title} | Similarity | Top {top_n} #####")
 
         similarity_results = recommend_courses_top_similarity(
@@ -92,10 +86,6 @@ for job in jobs:
             "recommended": coverage_recommended,
             "matches": coverage_matches
         })
-
-# Write all results to a JSON file
-output_path = '/home/natalie/Bachelorprojekt/evaluation/evaluation.json'
-with open(output_path, 'w', encoding='utf-8') as f:
+        
+with open("evaluation.json", 'w', encoding='utf-8') as f:
     json.dump(all_results, f, indent=2, ensure_ascii=False)
-
-print(f"\n Results written to: {output_path}")

@@ -44,6 +44,84 @@
   {
     "job": "Programmer - Game Development + Web Front End.",
     "method": "top_similarity",
+    "top_n": 20,
+    "recommended": [
+      "IN2015: Image Synthesis",
+      "IN2331: Open Real Time Games Workshop",
+      "CIT4210000: Advanced Games-Specific Practical Course (Games Lab)",
+      "IN0039: Praktikum: Echtzeit-Computergrafik",
+      "IN2265: Active SportGames: Sportliche Spiele mit Ganzkörperinteraktion",
+      "IN2363: Moderne Techniken für die Shader-Entwicklung und Bildsynthese",
+      "IN0031: Einführung in die Informatik für Games Engineering",
+      "IN2004: Effiziente Algorithmen und Datenstrukturen II",
+      "EI0631: Medientechnik",
+      "IN2402: Level Engineering: Methoden und Werkzeuge für die Erstellung von Spielumgebungen und Level Design",
+      "EI0543: Multimediatechnik für Lehramt",
+      "IN3200: Ausgewählte Themen aus dem Bereich Computergrafik und -vision",
+      "IN2401: Concept Art und Game Design",
+      "IN2124: Basic Mathematical Methods for Imaging and Visualization",
+      "IN2326: Foundations in Data Engineering",
+      "IN0038: Echtzeit-Computergrafik",
+      "EI50291: Image and Video Compression Lab",
+      "IN8013: Geometrische Modellierung und Visualisierung",
+      "IN0041: Praktikum: Social Gaming",
+      "CIT4210001: Additional Advanced Games-Specific Practical Course (Additional Games Lab)"
+    ],
+    "matches": [
+      "IN2401: Concept Art und Game Design",
+      "IN2326: Foundations in Data Engineering",
+      "IN0038: Echtzeit-Computergrafik",
+      "IN0041: Praktikum: Social Gaming"
+    ],
+    "precision": 1.0,
+    "recall": 0.3076923076923077,
+    "true_matches": [
+      "IN2401: Concept Art und Game Design",
+      "IN2326: Foundations in Data Engineering",
+      "IN0038: Echtzeit-Computergrafik",
+      "IN0041: Praktikum: Social Gaming"
+    ]
+  },
+  {
+    "job": "Programmer - Game Development + Web Front End.",
+    "method": "top_coverage",
+    "top_n": 20,
+    "recommended": [
+      "CIT4210000: Advanced Games-Specific Practical Course (Games Lab)",
+      "CIT433036: Object-centric 3D Vision",
+      "EI0631: Medientechnik",
+      "EI79001: Advanced Topics in Communications Systems",
+      "EI72561: Convex Optimization Laboratory",
+      "IN2004: Effiziente Algorithmen und Datenstrukturen II",
+      "CIT433020: Contact-Rich Robotics; an Optimization Perspective",
+      "EI7649: Approximate Dynamic Programming and Reinforcement Learning",
+      "IN2329: Probabilistische Graphische Modelle in der Computer Vision",
+      "IN2304: Online and Approximation Algorithms",
+      "CIT433037: Advanced Robot Learning and Decision-Making",
+      "EI70360: Machine Learning and Optimization",
+      "CIT4230004: Statistical Foundations of Learning",
+      "IN2346: Introduction to Deep Learning",
+      "EI70140: Optimal Control and Decision Making",
+      "IN2384: Numerische Algorithmen für Computer Vision und Maschinelles Lernen",
+      "IN2378: Statistical Foundations of Learning",
+      "EI50291: Image and Video Compression Lab",
+      "CIT1330000: Computational Intelligence",
+      "IN2124: Basic Mathematical Methods for Imaging and Visualization"
+    ],
+    "matches": [
+      "IN2346: Introduction to Deep Learning",
+      "CIT1330000: Computational Intelligence"
+    ],
+    "precision": 1.0,
+    "recall": 0.15384615384615385,
+    "true_matches": [
+      "IN2346: Introduction to Deep Learning",
+      "CIT1330000: Computational Intelligence"
+    ]
+  },
+  {
+    "job": "Programmer - Game Development + Web Front End.",
+    "method": "top_similarity",
     "top_n": 30,
     "recommended": [
       "IN2015: Image Synthesis",
@@ -84,12 +162,13 @@
       "IN0041: Praktikum: Social Gaming",
       "CIT1330000: Computational Intelligence"
     ],
-    "precision": 0.8,
-    "recall": 0.3333333333333333,
+    "precision": 1.0,
+    "recall": 0.38461538461538464,
     "true_matches": [
       "IN2401: Concept Art und Game Design",
       "IN2326: Foundations in Data Engineering",
       "IN0038: Echtzeit-Computergrafik",
+      "IN0041: Praktikum: Social Gaming",
       "CIT1330000: Computational Intelligence"
     ]
   },
@@ -135,7 +214,7 @@
       "CIT433027: Advanced Deep Learning for Robotics"
     ],
     "precision": 0.6666666666666666,
-    "recall": 0.16666666666666666,
+    "recall": 0.15384615384615385,
     "true_matches": [
       "IN2346: Introduction to Deep Learning",
       "CIT1330000: Computational Intelligence"
@@ -205,12 +284,13 @@
       "CIT1330000: Computational Intelligence",
       "IN2026: Visual Data Analytics"
     ],
-    "precision": 0.8333333333333334,
-    "recall": 0.4166666666666667,
+    "precision": 1.0,
+    "recall": 0.46153846153846156,
     "true_matches": [
       "IN2401: Concept Art und Game Design",
       "IN2326: Foundations in Data Engineering",
       "IN0038: Echtzeit-Computergrafik",
+      "IN0041: Praktikum: Social Gaming",
       "CIT1330000: Computational Intelligence",
       "IN2026: Visual Data Analytics"
     ]
@@ -279,224 +359,11 @@
       "IN2326: Foundations in Data Engineering"
     ],
     "precision": 0.6,
-    "recall": 0.25,
+    "recall": 0.23076923076923078,
     "true_matches": [
       "IN2346: Introduction to Deep Learning",
       "CIT1330000: Computational Intelligence",
       "IN2326: Foundations in Data Engineering"
-    ]
-  },
-  {
-    "job": "UI/UX Designer",
-    "method": "top_similarity",
-    "top_n": 10,
-    "recommended": [
-      "IN0033: Interaktionsmethoden und -geräte",
-      "IN2402: Level Engineering: Methoden und Werkzeuge für die Erstellung von Spielumgebungen und Level Design",
-      "IN2265: Active SportGames: Sportliche Spiele mit Ganzkörperinteraktion",
-      "IN2331: Open Real Time Games Workshop",
-      "IN0031: Einführung in die Informatik für Games Engineering",
-      "EI0543: Multimediatechnik für Lehramt",
-      "IN0039: Praktikum: Echtzeit-Computergrafik",
-      "IN2129: Entwicklungspraktikum Software Engineering für betriebliche Informationssysteme",
-      "IN0041: Praktikum: Social Gaming",
-      "CIT3220000: Games mit Bewegung - Dein Körper als 3D Nutzerinterface"
-    ],
-    "matches": [
-      "IN0041: Praktikum: Social Gaming"
-    ],
-    "precision": 1.0,
-    "recall": 0.07692307692307693,
-    "true_matches": [
-      "IN0041: Praktikum: Social Gaming"
-    ]
-  },
-  {
-    "job": "UI/UX Designer",
-    "method": "top_coverage",
-    "top_n": 10,
-    "recommended": [
-      "CIT331001: Microcredential Workshop on Digital Design and Fabrication",
-      "IN2015: Image Synthesis",
-      "IN2073: Cloud Computing",
-      "IN2264: Tanz und Schauspiel im Virtuellen Studio",
-      "EI71095: Multi-criteria Optimization and Decision Analysis for Embedded Systems Design"
-    ],
-    "matches": [
-      "IN2073: Cloud Computing"
-    ],
-    "precision": 1.0,
-    "recall": 0.07692307692307693,
-    "true_matches": [
-      "IN2073: Cloud Computing"
-    ]
-  },
-  {
-    "job": "UI/UX Designer",
-    "method": "top_similarity",
-    "top_n": 30,
-    "recommended": [
-      "IN0033: Interaktionsmethoden und -geräte",
-      "IN2402: Level Engineering: Methoden und Werkzeuge für die Erstellung von Spielumgebungen und Level Design",
-      "IN2265: Active SportGames: Sportliche Spiele mit Ganzkörperinteraktion",
-      "IN2331: Open Real Time Games Workshop",
-      "IN0031: Einführung in die Informatik für Games Engineering",
-      "EI0543: Multimediatechnik für Lehramt",
-      "IN0039: Praktikum: Echtzeit-Computergrafik",
-      "IN2129: Entwicklungspraktikum Software Engineering für betriebliche Informationssysteme",
-      "IN0041: Praktikum: Social Gaming",
-      "CIT3220000: Games mit Bewegung - Dein Körper als 3D Nutzerinterface",
-      "IN0040: Social Gaming",
-      "EI04001: Komputer & Creativität",
-      "IN8028: Project Work in Informatics",
-      "IN2131: Entwicklungspraktikum Internetbasierte Geschäftssysteme",
-      "IN2264: Tanz und Schauspiel im Virtuellen Studio",
-      "CIT4210000: Advanced Games-Specific Practical Course (Games Lab)",
-      "EI78062: Intelligent Machine Design - Basic System Design",
-      "IN8026: Einführung in die Programmierung mit Python",
-      "IN1504: Essentials of Applied Software Engineering",
-      "IN3200: Ausgewählte Themen aus dem Bereich Computergrafik und -vision",
-      "CIT331001: Microcredential Workshop on Digital Design and Fabrication",
-      "EI0508: Projektpraktikum Python",
-      "CIT4210001: Additional Advanced Games-Specific Practical Course (Additional Games Lab)",
-      "IN2015: Image Synthesis",
-      "IN2073: Cloud Computing",
-      "IN2300: Business-Simulationen gestalten",
-      "IN2170: Interdisziplinäres Projekt im Anwendungsfach Mathematik",
-      "IN8029: Informatik Bachelor-Praktika für Management",
-      "EI79001: Advanced Topics in Communications Systems",
-      "EI78077: Dodo Alive! - Resurrecting the Dodo with Robotics and AI: Simulation & Control"
-    ],
-    "matches": [
-      "IN0041: Praktikum: Social Gaming",
-      "IN8028: Project Work in Informatics",
-      "IN8026: Einführung in die Programmierung mit Python",
-      "IN1504: Essentials of Applied Software Engineering",
-      "IN2073: Cloud Computing"
-    ],
-    "precision": 1.0,
-    "recall": 0.38461538461538464,
-    "true_matches": [
-      "IN0041: Praktikum: Social Gaming",
-      "IN8028: Project Work in Informatics",
-      "IN8026: Einführung in die Programmierung mit Python",
-      "IN1504: Essentials of Applied Software Engineering",
-      "IN2073: Cloud Computing"
-    ]
-  },
-  {
-    "job": "UI/UX Designer",
-    "method": "top_coverage",
-    "top_n": 30,
-    "recommended": [
-      "CIT331001: Microcredential Workshop on Digital Design and Fabrication",
-      "IN2015: Image Synthesis",
-      "IN2073: Cloud Computing",
-      "IN2264: Tanz und Schauspiel im Virtuellen Studio",
-      "EI71095: Multi-criteria Optimization and Decision Analysis for Embedded Systems Design"
-    ],
-    "matches": [
-      "IN2073: Cloud Computing"
-    ],
-    "precision": 1.0,
-    "recall": 0.07692307692307693,
-    "true_matches": [
-      "IN2073: Cloud Computing"
-    ]
-  },
-  {
-    "job": "UI/UX Designer",
-    "method": "top_similarity",
-    "top_n": 50,
-    "recommended": [
-      "IN0033: Interaktionsmethoden und -geräte",
-      "IN2402: Level Engineering: Methoden und Werkzeuge für die Erstellung von Spielumgebungen und Level Design",
-      "IN2265: Active SportGames: Sportliche Spiele mit Ganzkörperinteraktion",
-      "IN2331: Open Real Time Games Workshop",
-      "IN0031: Einführung in die Informatik für Games Engineering",
-      "EI0543: Multimediatechnik für Lehramt",
-      "IN0039: Praktikum: Echtzeit-Computergrafik",
-      "IN2129: Entwicklungspraktikum Software Engineering für betriebliche Informationssysteme",
-      "IN0041: Praktikum: Social Gaming",
-      "CIT3220000: Games mit Bewegung - Dein Körper als 3D Nutzerinterface",
-      "IN0040: Social Gaming",
-      "EI04001: Komputer & Creativität",
-      "IN8028: Project Work in Informatics",
-      "IN2131: Entwicklungspraktikum Internetbasierte Geschäftssysteme",
-      "IN2264: Tanz und Schauspiel im Virtuellen Studio",
-      "CIT4210000: Advanced Games-Specific Practical Course (Games Lab)",
-      "EI78062: Intelligent Machine Design - Basic System Design",
-      "IN8026: Einführung in die Programmierung mit Python",
-      "IN1504: Essentials of Applied Software Engineering",
-      "IN3200: Ausgewählte Themen aus dem Bereich Computergrafik und -vision",
-      "CIT331001: Microcredential Workshop on Digital Design and Fabrication",
-      "EI0508: Projektpraktikum Python",
-      "CIT4210001: Additional Advanced Games-Specific Practical Course (Additional Games Lab)",
-      "IN2015: Image Synthesis",
-      "IN2073: Cloud Computing",
-      "IN2300: Business-Simulationen gestalten",
-      "IN2170: Interdisziplinäres Projekt im Anwendungsfach Mathematik",
-      "IN8029: Informatik Bachelor-Praktika für Management",
-      "EI79001: Advanced Topics in Communications Systems",
-      "EI78077: Dodo Alive! - Resurrecting the Dodo with Robotics and AI: Simulation & Control",
-      "CIT226000: Immersive Storytelling: Games",
-      "IN0034: Betriebssysteme und hardwarenahe Programmierung für Games",
-      "EI7402: SystemC Laboratory",
-      "IN2303: Von der Idee zum Produkt",
-      "EI7413: Project Laboratory Human Centered Robotics",
-      "EI77502: Seminar on Topics in Electronic Design Automation",
-      "EI78073: Intelligent Machine Design Lab- Product Prototype Development",
-      "IN2401: Concept Art und Game Design",
-      "EI78074: Intelligent Machine Programming Lab",
-      "EI78067: Intelligent Machine Design Lab – Advanced System Design",
-      "CIT3330001: Introduction to Emerging Computing Technologies",
-      "IN8030: Informatik Master-Praktika für Management",
-      "EI79002: Advanced Topics in Communications Electronics",
-      "IN8015: Systems Engineering",
-      "IN2004: Effiziente Algorithmen und Datenstrukturen II",
-      "IN2088: Softwarearchitekturen",
-      "IN2087: Software Engineering for Business Applications - Master's Course: Web Application Engineering",
-      "CIT431010: Practical Course Advanced Robocup@Home",
-      "CIT433031: Machine Learning for Electronic Design Automation and Manufacturing",
-      "IN2301: Didaktik von Planspielen"
-    ],
-    "matches": [
-      "IN0041: Praktikum: Social Gaming",
-      "IN8028: Project Work in Informatics",
-      "IN8026: Einführung in die Programmierung mit Python",
-      "IN1504: Essentials of Applied Software Engineering",
-      "IN2073: Cloud Computing",
-      "IN2401: Concept Art und Game Design"
-    ],
-    "precision": 1.0,
-    "recall": 0.46153846153846156,
-    "true_matches": [
-      "IN0041: Praktikum: Social Gaming",
-      "IN8028: Project Work in Informatics",
-      "IN8026: Einführung in die Programmierung mit Python",
-      "IN1504: Essentials of Applied Software Engineering",
-      "IN2073: Cloud Computing",
-      "IN2401: Concept Art und Game Design"
-    ]
-  },
-  {
-    "job": "UI/UX Designer",
-    "method": "top_coverage",
-    "top_n": 50,
-    "recommended": [
-      "CIT331001: Microcredential Workshop on Digital Design and Fabrication",
-      "IN2015: Image Synthesis",
-      "IN2073: Cloud Computing",
-      "IN2264: Tanz und Schauspiel im Virtuellen Studio",
-      "EI71095: Multi-criteria Optimization and Decision Analysis for Embedded Systems Design"
-    ],
-    "matches": [
-      "IN2073: Cloud Computing"
-    ],
-    "precision": 1.0,
-    "recall": 0.07692307692307693,
-    "true_matches": [
-      "IN2073: Cloud Computing"
     ]
   },
   {
@@ -522,7 +389,7 @@
       "IN2386: Cloud-Based Data Processing"
     ],
     "precision": 1.0,
-    "recall": 0.36363636363636365,
+    "recall": 0.3333333333333333,
     "true_matches": [
       "IN2326: Foundations in Data Engineering",
       "IN2058: Anwendungen Wissenbasierter Methoden",
@@ -554,12 +421,110 @@
       "IN2386: Cloud-Based Data Processing"
     ],
     "precision": 0.8,
-    "recall": 0.36363636363636365,
+    "recall": 0.3333333333333333,
     "true_matches": [
       "CIT3230002: Cloud Information Systems",
       "IN2058: Anwendungen Wissenbasierter Methoden",
       "IN2326: Foundations in Data Engineering",
       "IN2386: Cloud-Based Data Processing"
+    ]
+  },
+  {
+    "job": "Data Engineer",
+    "method": "top_similarity",
+    "top_n": 20,
+    "recommended": [
+      "IN2326: Foundations in Data Engineering",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
+      "IN8002: Datenbanksysteme für Hörer anderer Fachrichtungen",
+      "IN8004: Informationswirtschaft",
+      "IN2131: Entwicklungspraktikum Internetbasierte Geschäftssysteme",
+      "IN2073: Cloud Computing",
+      "IN2033: Informationsmanagement",
+      "IN8005: Einführung in die Informatik für andere Fachrichtungen",
+      "IN2031: Einsatz und Realisierung von Datenbanksystemen",
+      "IN2386: Cloud-Based Data Processing",
+      "IN0008: Grundlagen: Datenbanken",
+      "IN2379: Fortgeschrittene Datenverarbeitungs- und Visualisierungstechniken",
+      "IN2168: Einführung in die Programmierung für Bioinformatiker",
+      "IN0041: Praktikum: Social Gaming",
+      "CIT3230003: Data Structure Engineering",
+      "CIT1230000: Einführung in die Informatik für andere Fachrichtungen (Mathematik)",
+      "IN1501: Grundlagen der Programmierung",
+      "IN8026: Einführung in die Programmierung mit Python",
+      "IN0001: Einführung in die Informatik",
+      "CIT3230002: Cloud Information Systems"
+    ],
+    "matches": [
+      "IN2326: Foundations in Data Engineering",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
+      "IN2073: Cloud Computing",
+      "IN2386: Cloud-Based Data Processing",
+      "IN0008: Grundlagen: Datenbanken",
+      "IN0041: Praktikum: Social Gaming",
+      "IN8026: Einführung in die Programmierung mit Python",
+      "IN0001: Einführung in die Informatik",
+      "CIT3230002: Cloud Information Systems"
+    ],
+    "precision": 0.8888888888888888,
+    "recall": 0.6666666666666666,
+    "true_matches": [
+      "IN2326: Foundations in Data Engineering",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
+      "IN2073: Cloud Computing",
+      "IN2386: Cloud-Based Data Processing",
+      "IN0008: Grundlagen: Datenbanken",
+      "IN8026: Einführung in die Programmierung mit Python",
+      "IN0001: Einführung in die Informatik",
+      "CIT3230002: Cloud Information Systems"
+    ]
+  },
+  {
+    "job": "Data Engineer",
+    "method": "top_coverage",
+    "top_n": 20,
+    "recommended": [
+      "CIT3230002: Cloud Information Systems",
+      "IN8008: Einführung in die wissenschaftliche Programmierung",
+      "IN2033: Informationsmanagement",
+      "IN8002: Datenbanksysteme für Hörer anderer Fachrichtungen",
+      "IN2379: Fortgeschrittene Datenverarbeitungs- und Visualisierungstechniken",
+      "EI71036: Software Architecture for Distributed Embedded Systems",
+      "IN2048: Gleichungslogik und Lambda-Kalkül",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
+      "IN2326: Foundations in Data Engineering",
+      "IN2386: Cloud-Based Data Processing",
+      "IN2073: Cloud Computing",
+      "IN2031: Einsatz und Realisierung von Datenbanksystemen",
+      "IN8004: Informationswirtschaft",
+      "IN0008: Grundlagen: Datenbanken",
+      "CIT3230003: Data Structure Engineering",
+      "IN2259: Distributed Systems",
+      "IN2339: Data Analysis and Visualization in R",
+      "IN2131: Entwicklungspraktikum Internetbasierte Geschäftssysteme",
+      "IN8024: Informationsmanagement für Digitale Geschäftsmodelle",
+      "CIT1230000: Einführung in die Informatik für andere Fachrichtungen (Mathematik)"
+    ],
+    "matches": [
+      "CIT3230002: Cloud Information Systems",
+      "EI71036: Software Architecture for Distributed Embedded Systems",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
+      "IN2326: Foundations in Data Engineering",
+      "IN2386: Cloud-Based Data Processing",
+      "IN2073: Cloud Computing",
+      "IN0008: Grundlagen: Datenbanken",
+      "IN2339: Data Analysis and Visualization in R"
+    ],
+    "precision": 0.875,
+    "recall": 0.5833333333333334,
+    "true_matches": [
+      "CIT3230002: Cloud Information Systems",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
+      "IN2326: Foundations in Data Engineering",
+      "IN2386: Cloud-Based Data Processing",
+      "IN2073: Cloud Computing",
+      "IN0008: Grundlagen: Datenbanken",
+      "IN2339: Data Analysis and Visualization in R"
     ]
   },
   {
@@ -610,15 +575,14 @@
       "CIT3230002: Cloud Information Systems",
       "IN0007: Grundlagen: Algorithmen und Datenstrukturen"
     ],
-    "precision": 1.0,
-    "recall": 0.9090909090909091,
+    "precision": 0.9,
+    "recall": 0.75,
     "true_matches": [
       "IN2326: Foundations in Data Engineering",
       "IN2058: Anwendungen Wissenbasierter Methoden",
       "IN2073: Cloud Computing",
       "IN2386: Cloud-Based Data Processing",
       "IN0008: Grundlagen: Datenbanken",
-      "IN0041: Praktikum: Social Gaming",
       "IN8026: Einführung in die Programmierung mit Python",
       "IN0001: Einführung in die Informatik",
       "CIT3230002: Cloud Information Systems",
@@ -675,7 +639,7 @@
       "IN8026: Einführung in die Programmierung mit Python"
     ],
     "precision": 0.8181818181818182,
-    "recall": 0.8181818181818182,
+    "recall": 0.75,
     "true_matches": [
       "CIT3230002: Cloud Information Systems",
       "IN2058: Anwendungen Wissenbasierter Methoden",
@@ -683,7 +647,7 @@
       "IN2386: Cloud-Based Data Processing",
       "IN2073: Cloud Computing",
       "IN0008: Grundlagen: Datenbanken",
-      "IN0041: Praktikum: Social Gaming",
+      "IN2339: Data Analysis and Visualization in R",
       "IN0007: Grundlagen: Algorithmen und Datenstrukturen",
       "IN8026: Einführung in die Programmierung mit Python"
     ]
@@ -760,18 +724,18 @@
       "IN2339: Data Analysis and Visualization in R"
     ],
     "precision": 0.7692307692307693,
-    "recall": 0.9090909090909091,
+    "recall": 0.8333333333333334,
     "true_matches": [
       "IN2326: Foundations in Data Engineering",
       "IN2058: Anwendungen Wissenbasierter Methoden",
       "IN2073: Cloud Computing",
       "IN2386: Cloud-Based Data Processing",
       "IN0008: Grundlagen: Datenbanken",
-      "IN0041: Praktikum: Social Gaming",
       "IN8026: Einführung in die Programmierung mit Python",
       "IN0001: Einführung in die Informatik",
       "CIT3230002: Cloud Information Systems",
-      "IN0007: Grundlagen: Algorithmen und Datenstrukturen"
+      "IN0007: Grundlagen: Algorithmen und Datenstrukturen",
+      "IN2339: Data Analysis and Visualization in R"
     ]
   },
   {
@@ -846,7 +810,7 @@
       "CIT1330001: Projektwoche Natural Language Processing (NLP)"
     ],
     "precision": 0.7692307692307693,
-    "recall": 0.9090909090909091,
+    "recall": 0.8333333333333334,
     "true_matches": [
       "CIT3230002: Cloud Information Systems",
       "IN2058: Anwendungen Wissenbasierter Methoden",
@@ -854,7 +818,7 @@
       "IN2386: Cloud-Based Data Processing",
       "IN2073: Cloud Computing",
       "IN0008: Grundlagen: Datenbanken",
-      "IN0041: Praktikum: Social Gaming",
+      "IN2339: Data Analysis and Visualization in R",
       "IN0007: Grundlagen: Algorithmen und Datenstrukturen",
       "IN8026: Einführung in die Programmierung mit Python",
       "IN0001: Einführung in die Informatik"
@@ -895,6 +859,72 @@
     "job": "IT Security Engineer",
     "method": "top_coverage",
     "top_n": 10,
+    "recommended": [
+      "IN0042: IT-Sicherheit",
+      "IN0025: Information Technologies and Society (IT and Society)",
+      "CIT4310003: Programmable Communication Networks Lab",
+      "IN2073: Cloud Computing",
+      "IN2407: Hardwaresicherheit"
+    ],
+    "matches": [
+      "IN0042: IT-Sicherheit",
+      "IN2073: Cloud Computing"
+    ],
+    "precision": 1.0,
+    "recall": 0.25,
+    "true_matches": [
+      "IN0042: IT-Sicherheit",
+      "IN2073: Cloud Computing"
+    ]
+  },
+  {
+    "job": "IT Security Engineer",
+    "method": "top_similarity",
+    "top_n": 20,
+    "recommended": [
+      "IN2101: Network Security",
+      "IN2178: Security Engineering",
+      "CIT3330002: IT-Sicherheit 2",
+      "IN0042: IT-Sicherheit",
+      "CIT4330009: IoT Security",
+      "EI04002: Grundlagen der IT-Sicherheit",
+      "IN2341: Current Trends in IT Security",
+      "EI71073: Quantum Computers and Quantum Secure Communications",
+      "EI7243: Sichere Implementierung kryptographischer Verfahren",
+      "IN2073: Cloud Computing",
+      "IN2385: Funktions- und Informationssicherheit",
+      "IN2324: Connected Mobility Basics",
+      "IN2407: Hardwaresicherheit",
+      "IN2359: Blockchain-based Systems Engineering",
+      "CIT3330003: Kryptografie",
+      "IN2362: Sprachbasierte Sicherheit",
+      "EI73441: Informationstheoretische Grundlagen der Informationsforensik und biometrischen Sicherheit",
+      "IN2194: Peer-to-Peer-Systems and Security",
+      "IN0010: Grundlagen: Rechnernetze und Verteilte Systeme",
+      "IN2313: Secure Coding"
+    ],
+    "matches": [
+      "IN2101: Network Security",
+      "IN2178: Security Engineering",
+      "IN0042: IT-Sicherheit",
+      "IN2073: Cloud Computing",
+      "IN2324: Connected Mobility Basics",
+      "IN0010: Grundlagen: Rechnernetze und Verteilte Systeme"
+    ],
+    "precision": 0.8333333333333334,
+    "recall": 0.625,
+    "true_matches": [
+      "IN2101: Network Security",
+      "IN2178: Security Engineering",
+      "IN0042: IT-Sicherheit",
+      "IN2073: Cloud Computing",
+      "IN0010: Grundlagen: Rechnernetze und Verteilte Systeme"
+    ]
+  },
+  {
+    "job": "IT Security Engineer",
+    "method": "top_coverage",
+    "top_n": 20,
     "recommended": [
       "IN0042: IT-Sicherheit",
       "IN0025: Information Technologies and Society (IT and Society)",
@@ -1116,10 +1146,11 @@
       "IN2339: Data Analysis and Visualization in R",
       "CIT1330000: Computational Intelligence"
     ],
-    "precision": 0.8,
-    "recall": 0.26666666666666666,
+    "precision": 1.0,
+    "recall": 0.3333333333333333,
     "true_matches": [
       "IN2326: Foundations in Data Engineering",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
       "IN2351: Business Analytics (Doktorat)",
       "IN2339: Data Analysis and Visualization in R",
       "CIT1330000: Computational Intelligence"
@@ -1129,6 +1160,78 @@
     "job": "Data Scientist",
     "method": "top_coverage",
     "top_n": 10,
+    "recommended": [
+      "IN2408: Artificial Intelligence in Medicine II",
+      "IN2379: Fortgeschrittene Datenverarbeitungs- und Visualisierungstechniken",
+      "EI60005: Large-Scale Modeling and Large-Scale Data Analysis",
+      "IN8002: Datenbanksysteme für Hörer anderer Fachrichtungen",
+      "EI78047: Monty MATLAB",
+      "IN2073: Cloud Computing",
+      "IN2210: Tracking and Detection in Computer Vision",
+      "EI77691: Seminar Maschinelle Intelligenz",
+      "IN2053: Programmoptimierung"
+    ],
+    "matches": [
+      "IN2073: Cloud Computing",
+      "IN2210: Tracking and Detection in Computer Vision"
+    ],
+    "precision": 0.5,
+    "recall": 0.06666666666666667,
+    "true_matches": [
+      "IN2073: Cloud Computing"
+    ]
+  },
+  {
+    "job": "Data Scientist",
+    "method": "top_similarity",
+    "top_n": 20,
+    "recommended": [
+      "IN2326: Foundations in Data Engineering",
+      "CIT4230004: Statistical Foundations of Learning",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
+      "IN2030: Data Mining und Knowledge Discovery",
+      "IN2351: Business Analytics (Doktorat)",
+      "IN2339: Data Analysis and Visualization in R",
+      "IN2379: Fortgeschrittene Datenverarbeitungs- und Visualisierungstechniken",
+      "EI71086: Applied Machine Intelligence",
+      "CIT1330000: Computational Intelligence",
+      "IN2367: Automated Programming",
+      "IN8028: Project Work in Informatics",
+      "IN2357: Machine Learning for Computer Vision",
+      "IN2408: Artificial Intelligence in Medicine II",
+      "IN2004: Effiziente Algorithmen und Datenstrukturen II",
+      "EI71087: Coding Theory for Storage and Networks",
+      "CIT433021: Fundamentals of Foundation Models",
+      "CIT4230003: Advanced Machine Learning: Deep Generative Models",
+      "IN2028: Business Analytics and Machine Learning",
+      "IN2323: Machine Learning for Graphs and Sequential Data",
+      "EI70380: Signal Processing and Machine Learning"
+    ],
+    "matches": [
+      "IN2326: Foundations in Data Engineering",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
+      "IN2351: Business Analytics (Doktorat)",
+      "IN2339: Data Analysis and Visualization in R",
+      "CIT1330000: Computational Intelligence",
+      "IN8028: Project Work in Informatics",
+      "IN2028: Business Analytics and Machine Learning"
+    ],
+    "precision": 1.0,
+    "recall": 0.4666666666666667,
+    "true_matches": [
+      "IN2326: Foundations in Data Engineering",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
+      "IN2351: Business Analytics (Doktorat)",
+      "IN2339: Data Analysis and Visualization in R",
+      "CIT1330000: Computational Intelligence",
+      "IN8028: Project Work in Informatics",
+      "IN2028: Business Analytics and Machine Learning"
+    ]
+  },
+  {
+    "job": "Data Scientist",
+    "method": "top_coverage",
+    "top_n": 20,
     "recommended": [
       "IN2408: Artificial Intelligence in Medicine II",
       "IN2379: Fortgeschrittene Datenverarbeitungs- und Visualisierungstechniken",
@@ -1197,10 +1300,11 @@
       "CIT1330001: Projektwoche Natural Language Processing (NLP)",
       "IN2406: Fundamentals of Artificial Intelligence"
     ],
-    "precision": 0.7777777777777778,
-    "recall": 0.4666666666666667,
+    "precision": 0.8888888888888888,
+    "recall": 0.5333333333333333,
     "true_matches": [
       "IN2326: Foundations in Data Engineering",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
       "IN2351: Business Analytics (Doktorat)",
       "IN2339: Data Analysis and Visualization in R",
       "CIT1330000: Computational Intelligence",
@@ -1303,10 +1407,11 @@
       "IN2346: Introduction to Deep Learning",
       "IN2210: Tracking and Detection in Computer Vision"
     ],
-    "precision": 0.6363636363636364,
-    "recall": 0.4666666666666667,
+    "precision": 0.7272727272727273,
+    "recall": 0.5333333333333333,
     "true_matches": [
       "IN2326: Foundations in Data Engineering",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
       "IN2351: Business Analytics (Doktorat)",
       "IN2339: Data Analysis and Visualization in R",
       "CIT1330000: Computational Intelligence",
@@ -1363,13 +1468,14 @@
       "IN1504: Essentials of Applied Software Engineering",
       "CIT1330000: Computational Intelligence"
     ],
-    "precision": 0.8,
-    "recall": 0.2857142857142857,
+    "precision": 1.0,
+    "recall": 0.3125,
     "true_matches": [
       "IN8028: Project Work in Informatics",
       "IN2073: Cloud Computing",
       "IN2326: Foundations in Data Engineering",
-      "IN1504: Essentials of Applied Software Engineering"
+      "IN1504: Essentials of Applied Software Engineering",
+      "CIT1330000: Computational Intelligence"
     ]
   },
   {
@@ -1388,7 +1494,73 @@
       "IN2073: Cloud Computing"
     ],
     "precision": 1.0,
-    "recall": 0.07142857142857142,
+    "recall": 0.0625,
+    "true_matches": [
+      "IN2073: Cloud Computing"
+    ]
+  },
+  {
+    "job": "AI Engineer",
+    "method": "top_similarity",
+    "top_n": 20,
+    "recommended": [
+      "IN8028: Project Work in Informatics",
+      "EI04001: Komputer & Creativität",
+      "IN2191: BGCE Honours Project",
+      "IN2073: Cloud Computing",
+      "IN2326: Foundations in Data Engineering",
+      "IN2367: Automated Programming",
+      "EI71087: Coding Theory for Storage and Networks",
+      "IN1504: Essentials of Applied Software Engineering",
+      "CIT1330000: Computational Intelligence",
+      "IN2004: Effiziente Algorithmen und Datenstrukturen II",
+      "CIT4230003: Advanced Machine Learning: Deep Generative Models",
+      "IN3200: Ausgewählte Themen aus dem Bereich Computergrafik und -vision",
+      "IN0031: Einführung in die Informatik für Games Engineering",
+      "IN1503: Advanced Programming",
+      "CIT4210001: Additional Advanced Games-Specific Practical Course (Additional Games Lab)",
+      "IN8029: Informatik Bachelor-Praktika für Management",
+      "IN8026: Einführung in die Programmierung mit Python",
+      "IN2402: Level Engineering: Methoden und Werkzeuge für die Erstellung von Spielumgebungen und Level Design",
+      "IN2105: Geschäftsprozesstechnologien und -management",
+      "EI79001: Advanced Topics in Communications Systems"
+    ],
+    "matches": [
+      "IN8028: Project Work in Informatics",
+      "IN2073: Cloud Computing",
+      "IN2326: Foundations in Data Engineering",
+      "IN1504: Essentials of Applied Software Engineering",
+      "CIT1330000: Computational Intelligence",
+      "IN8026: Einführung in die Programmierung mit Python"
+    ],
+    "precision": 1.0,
+    "recall": 0.375,
+    "true_matches": [
+      "IN8028: Project Work in Informatics",
+      "IN2073: Cloud Computing",
+      "IN2326: Foundations in Data Engineering",
+      "IN1504: Essentials of Applied Software Engineering",
+      "CIT1330000: Computational Intelligence",
+      "IN8026: Einführung in die Programmierung mit Python"
+    ]
+  },
+  {
+    "job": "AI Engineer",
+    "method": "top_coverage",
+    "top_n": 20,
+    "recommended": [
+      "CIT4230003: Advanced Machine Learning: Deep Generative Models",
+      "IN2310: Parallel Program Engineering",
+      "IN2073: Cloud Computing",
+      "IN2104: CIO Planspiel",
+      "IN2379: Fortgeschrittene Datenverarbeitungs- und Visualisierungstechniken",
+      "IN2361: Natural Language Processing"
+    ],
+    "matches": [
+      "IN2073: Cloud Computing"
+    ],
+    "precision": 1.0,
+    "recall": 0.0625,
     "true_matches": [
       "IN2073: Cloud Computing"
     ]
@@ -1439,13 +1611,14 @@
       "IN0041: Praktikum: Social Gaming",
       "CIT1330001: Projektwoche Natural Language Processing (NLP)"
     ],
-    "precision": 0.75,
-    "recall": 0.42857142857142855,
+    "precision": 0.875,
+    "recall": 0.4375,
     "true_matches": [
       "IN8028: Project Work in Informatics",
       "IN2073: Cloud Computing",
       "IN2326: Foundations in Data Engineering",
       "IN1504: Essentials of Applied Software Engineering",
+      "CIT1330000: Computational Intelligence",
       "IN8026: Einführung in die Programmierung mit Python",
       "CIT1330001: Projektwoche Natural Language Processing (NLP)"
     ]
@@ -1466,7 +1639,7 @@
       "IN2073: Cloud Computing"
     ],
     "precision": 1.0,
-    "recall": 0.07142857142857142,
+    "recall": 0.0625,
     "true_matches": [
       "IN2073: Cloud Computing"
     ]
@@ -1542,15 +1715,17 @@
       "IN9012: Enterprise Information Systems",
       "IN2406: Fundamentals of Artificial Intelligence"
     ],
-    "precision": 0.5384615384615384,
-    "recall": 0.5,
+    "precision": 0.6923076923076923,
+    "recall": 0.5625,
     "true_matches": [
       "IN8028: Project Work in Informatics",
       "IN2073: Cloud Computing",
       "IN2326: Foundations in Data Engineering",
       "IN1504: Essentials of Applied Software Engineering",
+      "CIT1330000: Computational Intelligence",
       "IN8026: Einführung in die Programmierung mit Python",
       "CIT1330001: Projektwoche Natural Language Processing (NLP)",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
       "IN2406: Fundamentals of Artificial Intelligence"
     ]
   },
@@ -1570,7 +1745,7 @@
       "IN2073: Cloud Computing"
     ],
     "precision": 1.0,
-    "recall": 0.07142857142857142,
+    "recall": 0.0625,
     "true_matches": [
       "IN2073: Cloud Computing"
     ]
@@ -1600,12 +1775,14 @@
       "CIT423001: DevOps: Engineering for Deployment and Operations",
       "IN0041: Praktikum: Social Gaming"
     ],
-    "precision": 0.5714285714285714,
-    "recall": 0.3333333333333333,
+    "precision": 0.8571428571428571,
+    "recall": 0.42857142857142855,
     "true_matches": [
       "IN2073: Cloud Computing",
       "IN0006: Einführung in die Softwaretechnik",
+      "CIT3230002: Cloud Information Systems",
       "IN2258: Middleware und verteilte Systeme",
+      "IN2386: Cloud-Based Data Processing",
       "CIT423001: DevOps: Engineering for Deployment and Operations"
     ]
   },
@@ -1630,9 +1807,91 @@
       "IN8028: Project Work in Informatics",
       "IN1504: Essentials of Applied Software Engineering"
     ],
-    "precision": 0.75,
-    "recall": 0.25,
+    "precision": 1.0,
+    "recall": 0.2857142857142857,
     "true_matches": [
+      "CIT3230002: Cloud Information Systems",
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "IN8028: Project Work in Informatics",
+      "IN1504: Essentials of Applied Software Engineering"
+    ]
+  },
+  {
+    "job": "DevOps Engineer",
+    "method": "top_similarity",
+    "top_n": 20,
+    "recommended": [
+      "IN2073: Cloud Computing",
+      "IN0006: Einführung in die Softwaretechnik",
+      "CIT3230002: Cloud Information Systems",
+      "IN2258: Middleware und verteilte Systeme",
+      "IN2131: Entwicklungspraktikum Internetbasierte Geschäftssysteme",
+      "IN2386: Cloud-Based Data Processing",
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "EI71087: Coding Theory for Storage and Networks",
+      "IN0041: Praktikum: Social Gaming",
+      "CIT4210001: Additional Advanced Games-Specific Practical Course (Additional Games Lab)",
+      "IN2324: Connected Mobility Basics",
+      "IN1504: Essentials of Applied Software Engineering",
+      "IN8028: Project Work in Informatics",
+      "IN2085: Software Engineering für betriebliche Anwendungen - Bachelorkurs",
+      "IN1503: Advanced Programming",
+      "IN0039: Praktikum: Echtzeit-Computergrafik",
+      "EI78049: IoT Remote Lab",
+      "EI04001: Komputer & Creativität",
+      "IN2098: Mobile verteilte Systeme",
+      "CIT4210000: Advanced Games-Specific Practical Course (Games Lab)"
+    ],
+    "matches": [
+      "IN2073: Cloud Computing",
+      "IN0006: Einführung in die Softwaretechnik",
+      "CIT3230002: Cloud Information Systems",
+      "IN2258: Middleware und verteilte Systeme",
+      "IN2386: Cloud-Based Data Processing",
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "IN0041: Praktikum: Social Gaming",
+      "IN2324: Connected Mobility Basics",
+      "IN1504: Essentials of Applied Software Engineering",
+      "IN8028: Project Work in Informatics"
+    ],
+    "precision": 0.8,
+    "recall": 0.5714285714285714,
+    "true_matches": [
+      "IN2073: Cloud Computing",
+      "IN0006: Einführung in die Softwaretechnik",
+      "CIT3230002: Cloud Information Systems",
+      "IN2258: Middleware und verteilte Systeme",
+      "IN2386: Cloud-Based Data Processing",
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "IN1504: Essentials of Applied Software Engineering",
+      "IN8028: Project Work in Informatics"
+    ]
+  },
+  {
+    "job": "DevOps Engineer",
+    "method": "top_coverage",
+    "top_n": 20,
+    "recommended": [
+      "CIT3230002: Cloud Information Systems",
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "IN8028: Project Work in Informatics",
+      "IN2125: Virtualisierungstechniken",
+      "EI70630: HW/SW Codesign",
+      "IN1504: Essentials of Applied Software Engineering",
+      "IN2379: Fortgeschrittene Datenverarbeitungs- und Visualisierungstechniken",
+      "IN2168: Einführung in die Programmierung für Bioinformatiker",
+      "EI7391: Vernetzte Regelungssysteme"
+    ],
+    "matches": [
+      "CIT3230002: Cloud Information Systems",
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "IN8028: Project Work in Informatics",
+      "IN1504: Essentials of Applied Software Engineering"
+    ],
+    "precision": 1.0,
+    "recall": 0.2857142857142857,
+    "true_matches": [
+      "CIT3230002: Cloud Information Systems",
       "CIT423001: DevOps: Engineering for Deployment and Operations",
       "IN8028: Project Work in Informatics",
       "IN1504: Essentials of Applied Software Engineering"
@@ -1688,12 +1947,14 @@
       "IN8026: Einführung in die Programmierung mit Python",
       "IN2058: Anwendungen Wissenbasierter Methoden"
     ],
-    "precision": 0.5833333333333334,
-    "recall": 0.5833333333333334,
+    "precision": 0.75,
+    "recall": 0.6428571428571429,
     "true_matches": [
       "IN2073: Cloud Computing",
       "IN0006: Einführung in die Softwaretechnik",
+      "CIT3230002: Cloud Information Systems",
       "IN2258: Middleware und verteilte Systeme",
+      "IN2386: Cloud-Based Data Processing",
       "CIT423001: DevOps: Engineering for Deployment and Operations",
       "IN1504: Essentials of Applied Software Engineering",
       "IN8028: Project Work in Informatics",
@@ -1721,9 +1982,10 @@
       "IN8028: Project Work in Informatics",
       "IN1504: Essentials of Applied Software Engineering"
     ],
-    "precision": 0.75,
-    "recall": 0.25,
+    "precision": 1.0,
+    "recall": 0.2857142857142857,
     "true_matches": [
+      "CIT3230002: Cloud Information Systems",
       "CIT423001: DevOps: Engineering for Deployment and Operations",
       "IN8028: Project Work in Informatics",
       "IN1504: Essentials of Applied Software Engineering"
@@ -1803,12 +2065,14 @@
       "IN9012: Enterprise Information Systems",
       "CIT1330000: Computational Intelligence"
     ],
-    "precision": 0.4375,
-    "recall": 0.5833333333333334,
+    "precision": 0.5625,
+    "recall": 0.6428571428571429,
     "true_matches": [
       "IN2073: Cloud Computing",
       "IN0006: Einführung in die Softwaretechnik",
+      "CIT3230002: Cloud Information Systems",
       "IN2258: Middleware und verteilte Systeme",
+      "IN2386: Cloud-Based Data Processing",
       "CIT423001: DevOps: Engineering for Deployment and Operations",
       "IN1504: Essentials of Applied Software Engineering",
       "IN8028: Project Work in Informatics",
@@ -1836,9 +2100,10 @@
       "IN8028: Project Work in Informatics",
       "IN1504: Essentials of Applied Software Engineering"
     ],
-    "precision": 0.75,
-    "recall": 0.25,
+    "precision": 1.0,
+    "recall": 0.2857142857142857,
     "true_matches": [
+      "CIT3230002: Cloud Information Systems",
       "CIT423001: DevOps: Engineering for Deployment and Operations",
       "IN8028: Project Work in Informatics",
       "IN1504: Essentials of Applied Software Engineering"
@@ -1865,9 +2130,10 @@
       "CIT1330000: Computational Intelligence",
       "IN2406: Fundamentals of Artificial Intelligence"
     ],
-    "precision": 0.3333333333333333,
-    "recall": 0.05555555555555555,
+    "precision": 0.6666666666666666,
+    "recall": 0.1111111111111111,
     "true_matches": [
+      "CIT1330000: Computational Intelligence",
       "IN2406: Fundamentals of Artificial Intelligence"
     ]
   },
@@ -1890,9 +2156,94 @@
     "matches": [
       "IN1504: Essentials of Applied Software Engineering"
     ],
-    "precision": 0.0,
-    "recall": 0.0,
-    "true_matches": []
+    "precision": 1.0,
+    "recall": 0.05555555555555555,
+    "true_matches": [
+      "IN1504: Essentials of Applied Software Engineering"
+    ]
+  },
+  {
+    "job": "Research Scientist, Robotics Systems",
+    "method": "top_similarity",
+    "top_n": 20,
+    "recommended": [
+      "IN2326: Foundations in Data Engineering",
+      "EI0685: Einführung in die Roboterregelung",
+      "CIT1330000: Computational Intelligence",
+      "IN2004: Effiziente Algorithmen und Datenstrukturen II",
+      "IN2367: Automated Programming",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "EI0508: Projektpraktikum Python",
+      "CIT433037: Advanced Robot Learning and Decision-Making",
+      "EI06631: Praktikum Regelung und Automation",
+      "EI7649: Approximate Dynamic Programming and Reinforcement Learning",
+      "EI04001: Komputer & Creativität",
+      "IN2365: Parallel Programming Systems",
+      "IN2158: Fortgeschrittene Netzwerk- und Graph-Algorithmen",
+      "CIT4230004: Statistical Foundations of Learning",
+      "EI7413: Project Laboratory Human Centered Robotics",
+      "EI7766: Seminar Autonome Systeme",
+      "IN2105: Geschäftsprozesstechnologien und -management",
+      "IN8028: Project Work in Informatics",
+      "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning",
+      "IN2308: Programmierung und Regelung für Mensch-Roboterinteraktion"
+    ],
+    "matches": [
+      "IN2326: Foundations in Data Engineering",
+      "CIT1330000: Computational Intelligence",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "IN8028: Project Work in Informatics",
+      "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning"
+    ],
+    "precision": 0.8,
+    "recall": 0.2222222222222222,
+    "true_matches": [
+      "CIT1330000: Computational Intelligence",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "IN8028: Project Work in Informatics",
+      "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning"
+    ]
+  },
+  {
+    "job": "Research Scientist, Robotics Systems",
+    "method": "top_coverage",
+    "top_n": 20,
+    "recommended": [
+      "IN2404: Mobile Robotik",
+      "EI78018: Projektpraktikum Taktiles Internet",
+      "EI7766: Seminar Autonome Systeme",
+      "IN2365: Parallel Programming Systems",
+      "IN2318: Autonomous Navigation for Flying Robots",
+      "CIT4230005: Engineering Resilient Cognitive Systems",
+      "IN1504: Essentials of Applied Software Engineering",
+      "IN2005: Scientific Computing I",
+      "EI0685: Einführung in die Roboterregelung",
+      "EI7649: Approximate Dynamic Programming and Reinforcement Learning",
+      "CIT433037: Advanced Robot Learning and Decision-Making",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "CIT433020: Contact-Rich Robotics; an Optimization Perspective",
+      "IN2004: Effiziente Algorithmen und Datenstrukturen II",
+      "CIT1330000: Computational Intelligence",
+      "CIT433034: Advanced Multi-Fingered Robotic Hands: Dextrous Manipulation and Learning AI",
+      "IN2367: Automated Programming",
+      "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning",
+      "CIT4230004: Statistical Foundations of Learning",
+      "IN2138: Robot Motion Planning"
+    ],
+    "matches": [
+      "IN1504: Essentials of Applied Software Engineering",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "CIT1330000: Computational Intelligence",
+      "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning"
+    ],
+    "precision": 1.0,
+    "recall": 0.2222222222222222,
+    "true_matches": [
+      "IN1504: Essentials of Applied Software Engineering",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "CIT1330000: Computational Intelligence",
+      "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning"
+    ]
   },
   {
     "job": "Research Scientist, Robotics Systems",
@@ -1938,9 +2289,10 @@
       "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning",
       "EI71013: System Design for the Internet of Things"
     ],
-    "precision": 0.6666666666666666,
-    "recall": 0.2222222222222222,
+    "precision": 0.8333333333333334,
+    "recall": 0.2777777777777778,
     "true_matches": [
+      "CIT1330000: Computational Intelligence",
       "IN2406: Fundamentals of Artificial Intelligence",
       "IN8028: Project Work in Informatics",
       "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning",
@@ -1990,10 +2342,12 @@
       "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning",
       "IN2326: Foundations in Data Engineering"
     ],
-    "precision": 0.4,
-    "recall": 0.1111111111111111,
+    "precision": 0.8,
+    "recall": 0.2222222222222222,
     "true_matches": [
+      "IN1504: Essentials of Applied Software Engineering",
       "IN2406: Fundamentals of Artificial Intelligence",
+      "CIT1330000: Computational Intelligence",
       "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning"
     ]
   },
@@ -2061,9 +2415,10 @@
       "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning",
       "EI71013: System Design for the Internet of Things"
     ],
-    "precision": 0.6666666666666666,
-    "recall": 0.2222222222222222,
+    "precision": 0.8333333333333334,
+    "recall": 0.2777777777777778,
     "true_matches": [
+      "CIT1330000: Computational Intelligence",
       "IN2406: Fundamentals of Artificial Intelligence",
       "IN8028: Project Work in Informatics",
       "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning",
@@ -2134,10 +2489,12 @@
       "IN2326: Foundations in Data Engineering",
       "CIT433027: Advanced Deep Learning for Robotics"
     ],
-    "precision": 0.5,
-    "recall": 0.16666666666666666,
+    "precision": 0.8333333333333334,
+    "recall": 0.2777777777777778,
     "true_matches": [
+      "IN1504: Essentials of Applied Software Engineering",
       "IN2406: Fundamentals of Artificial Intelligence",
+      "CIT1330000: Computational Intelligence",
       "CIT4330014: Control for Robotics: from Optimal Control to Reinforcement Learning",
       "CIT433027: Advanced Deep Learning for Robotics"
     ]
@@ -2162,9 +2519,12 @@
       "IN2258: Middleware und verteilte Systeme",
       "IN9012: Enterprise Information Systems"
     ],
-    "precision": 0.0,
-    "recall": 0.0,
-    "true_matches": []
+    "precision": 1.0,
+    "recall": 0.15384615384615385,
+    "true_matches": [
+      "IN2258: Middleware und verteilte Systeme",
+      "IN9012: Enterprise Information Systems"
+    ]
   },
   {
     "job": "Cybersecurity Solutions Engineer - Entry Level",
@@ -2181,9 +2541,73 @@
     "matches": [
       "CIT323002: AI Governance"
     ],
-    "precision": 0.0,
-    "recall": 0.0,
-    "true_matches": []
+    "precision": 1.0,
+    "recall": 0.07692307692307693,
+    "true_matches": [
+      "CIT323002: AI Governance"
+    ]
+  },
+  {
+    "job": "Cybersecurity Solutions Engineer - Entry Level",
+    "method": "top_similarity",
+    "top_n": 20,
+    "recommended": [
+      "EI0508: Projektpraktikum Python",
+      "EI79001: Advanced Topics in Communications Systems",
+      "EI75671: Ringvorlesung Systemsicherheit",
+      "IN9017: Existenzgründung",
+      "EI0572: Kommunikationstechnik für Lehramt",
+      "IN8004: Informationswirtschaft",
+      "IN2258: Middleware und verteilte Systeme",
+      "IN2191: BGCE Honours Project",
+      "IN9012: Enterprise Information Systems",
+      "IN2333: Protocol Design",
+      "IN2194: Peer-to-Peer-Systems and Security",
+      "EI5092: Seminar on Security in Information Technology",
+      "EI78074: Intelligent Machine Programming Lab",
+      "CIT431010: Practical Course Advanced Robocup@Home",
+      "CIT3230002: Cloud Information Systems",
+      "CIT433035: Integrated Systems for Cellular Communications",
+      "EI7215: Projektpraktikum Vernetzte und kooperative Systeme",
+      "IN0034: Betriebssysteme und hardwarenahe Programmierung für Games",
+      "IN0042: IT-Sicherheit",
+      "CIT3330001: Introduction to Emerging Computing Technologies"
+    ],
+    "matches": [
+      "IN2258: Middleware und verteilte Systeme",
+      "IN9012: Enterprise Information Systems",
+      "CIT3230002: Cloud Information Systems",
+      "IN0042: IT-Sicherheit"
+    ],
+    "precision": 1.0,
+    "recall": 0.3076923076923077,
+    "true_matches": [
+      "IN2258: Middleware und verteilte Systeme",
+      "IN9012: Enterprise Information Systems",
+      "CIT3230002: Cloud Information Systems",
+      "IN0042: IT-Sicherheit"
+    ]
+  },
+  {
+    "job": "Cybersecurity Solutions Engineer - Entry Level",
+    "method": "top_coverage",
+    "top_n": 20,
+    "recommended": [
+      "CIT433035: Integrated Systems for Cellular Communications",
+      "CIT323002: AI Governance",
+      "IN2191: BGCE Honours Project",
+      "IN9048: Innovationsentwicklung in der Gesundheitsbranche",
+      "IN9017: Existenzgründung",
+      "CIT3330002: IT-Sicherheit 2"
+    ],
+    "matches": [
+      "CIT323002: AI Governance"
+    ],
+    "precision": 1.0,
+    "recall": 0.07692307692307693,
+    "true_matches": [
+      "CIT323002: AI Governance"
+    ]
   },
   {
     "job": "Cybersecurity Solutions Engineer - Entry Level",
@@ -2228,9 +2652,12 @@
       "IN0042: IT-Sicherheit",
       "IN8026: Einführung in die Programmierung mit Python"
     ],
-    "precision": 0.4,
-    "recall": 0.13333333333333333,
+    "precision": 1.0,
+    "recall": 0.38461538461538464,
     "true_matches": [
+      "IN2258: Middleware und verteilte Systeme",
+      "IN9012: Enterprise Information Systems",
+      "CIT3230002: Cloud Information Systems",
       "IN0042: IT-Sicherheit",
       "IN8026: Einführung in die Programmierung mit Python"
     ]
@@ -2250,9 +2677,11 @@
     "matches": [
       "CIT323002: AI Governance"
     ],
-    "precision": 0.0,
-    "recall": 0.0,
-    "true_matches": []
+    "precision": 1.0,
+    "recall": 0.07692307692307693,
+    "true_matches": [
+      "CIT323002: AI Governance"
+    ]
   },
   {
     "job": "Cybersecurity Solutions Engineer - Entry Level",
@@ -2319,9 +2748,12 @@
       "IN2178: Security Engineering",
       "IN0009: Grundlagen: Betriebssysteme und Systemsoftware"
     ],
-    "precision": 0.5714285714285714,
-    "recall": 0.26666666666666666,
+    "precision": 1.0,
+    "recall": 0.5384615384615384,
     "true_matches": [
+      "IN2258: Middleware und verteilte Systeme",
+      "IN9012: Enterprise Information Systems",
+      "CIT3230002: Cloud Information Systems",
       "IN0042: IT-Sicherheit",
       "IN8026: Einführung in die Programmierung mit Python",
       "IN2178: Security Engineering",
@@ -2343,9 +2775,11 @@
     "matches": [
       "CIT323002: AI Governance"
     ],
-    "precision": 0.0,
-    "recall": 0.0,
-    "true_matches": []
+    "precision": 1.0,
+    "recall": 0.07692307692307693,
+    "true_matches": [
+      "CIT323002: AI Governance"
+    ]
   },
   {
     "job": "Senior Softwareentwickler",
@@ -2367,10 +2801,11 @@
       "IN1504: Essentials of Applied Software Engineering",
       "IN8026: Einführung in die Programmierung mit Python"
     ],
-    "precision": 0.5,
-    "recall": 0.09090909090909091,
+    "precision": 1.0,
+    "recall": 0.15384615384615385,
     "true_matches": [
-      "IN1504: Essentials of Applied Software Engineering"
+      "IN1504: Essentials of Applied Software Engineering",
+      "IN8026: Einführung in die Programmierung mit Python"
     ]
   },
   {
@@ -2394,10 +2829,90 @@
       "IN8028: Project Work in Informatics"
     ],
     "precision": 1.0,
-    "recall": 0.18181818181818182,
+    "recall": 0.15384615384615385,
     "true_matches": [
       "IN1504: Essentials of Applied Software Engineering",
       "IN8028: Project Work in Informatics"
+    ]
+  },
+  {
+    "job": "Senior Softwareentwickler",
+    "method": "top_similarity",
+    "top_n": 20,
+    "recommended": [
+      "IN2313: Secure Coding",
+      "IN2040: Virtuelle Maschinen",
+      "IN1504: Essentials of Applied Software Engineering",
+      "EI04001: Komputer & Creativität",
+      "IN8026: Einführung in die Programmierung mit Python",
+      "IN1503: Advanced Programming",
+      "IN0039: Praktikum: Echtzeit-Computergrafik",
+      "EI70640: Synthesis of Digital Systems",
+      "IN2131: Entwicklungspraktikum Internetbasierte Geschäftssysteme",
+      "IN2191: BGCE Honours Project",
+      "IN2227: Compilerbau I",
+      "IN2081: Muster in der Softwaretechnik",
+      "IN2078: Foundations of Program and System Development",
+      "CIT4210001: Additional Advanced Games-Specific Practical Course (Additional Games Lab)",
+      "IN8028: Project Work in Informatics",
+      "IN8015: Systems Engineering",
+      "EI00110: Computertechnik und Programmieren",
+      "IN2367: Automated Programming",
+      "EI0554: Blockpraktikum C++",
+      "IN8029: Informatik Bachelor-Praktika für Management"
+    ],
+    "matches": [
+      "IN1504: Essentials of Applied Software Engineering",
+      "IN8026: Einführung in die Programmierung mit Python",
+      "IN8028: Project Work in Informatics"
+    ],
+    "precision": 1.0,
+    "recall": 0.23076923076923078,
+    "true_matches": [
+      "IN1504: Essentials of Applied Software Engineering",
+      "IN8026: Einführung in die Programmierung mit Python",
+      "IN8028: Project Work in Informatics"
+    ]
+  },
+  {
+    "job": "Senior Softwareentwickler",
+    "method": "top_coverage",
+    "top_n": 20,
+    "recommended": [
+      "IN2247: Funktionale Sicherheit",
+      "EI0554: Blockpraktikum C++",
+      "EI60005: Large-Scale Modeling and Large-Scale Data Analysis",
+      "IN8003: Informatik",
+      "IN1504: Essentials of Applied Software Engineering",
+      "EI04001: Komputer & Creativität",
+      "IN2191: BGCE Honours Project",
+      "IN8028: Project Work in Informatics",
+      "IN2313: Secure Coding",
+      "IN8015: Systems Engineering",
+      "IN2040: Virtuelle Maschinen",
+      "IN8026: Einführung in die Programmierung mit Python",
+      "IN8029: Informatik Bachelor-Praktika für Management",
+      "IN2078: Foundations of Program and System Development",
+      "IN2367: Automated Programming",
+      "IN1503: Advanced Programming",
+      "IN2402: Level Engineering: Methoden und Werkzeuge für die Erstellung von Spielumgebungen und Level Design",
+      "IN2081: Muster in der Softwaretechnik",
+      "EI78062: Intelligent Machine Design - Basic System Design",
+      "IN0006: Einführung in die Softwaretechnik"
+    ],
+    "matches": [
+      "IN1504: Essentials of Applied Software Engineering",
+      "IN8028: Project Work in Informatics",
+      "IN8026: Einführung in die Programmierung mit Python",
+      "IN0006: Einführung in die Softwaretechnik"
+    ],
+    "precision": 1.0,
+    "recall": 0.3076923076923077,
+    "true_matches": [
+      "IN1504: Essentials of Applied Software Engineering",
+      "IN8028: Project Work in Informatics",
+      "IN8026: Einführung in die Programmierung mit Python",
+      "IN0006: Einführung in die Softwaretechnik"
     ]
   },
   {
@@ -2444,10 +2959,11 @@
       "IN0041: Praktikum: Social Gaming",
       "IN2377: Concepts of C++ Programming"
     ],
-    "precision": 0.6666666666666666,
-    "recall": 0.36363636363636365,
+    "precision": 0.8333333333333334,
+    "recall": 0.38461538461538464,
     "true_matches": [
       "IN1504: Essentials of Applied Software Engineering",
+      "IN8026: Einführung in die Programmierung mit Python",
       "IN8028: Project Work in Informatics",
       "IN0006: Einführung in die Softwaretechnik",
       "IN2377: Concepts of C++ Programming"
@@ -2495,11 +3011,12 @@
       "IN8026: Einführung in die Programmierung mit Python",
       "IN0006: Einführung in die Softwaretechnik"
     ],
-    "precision": 0.75,
-    "recall": 0.2727272727272727,
+    "precision": 1.0,
+    "recall": 0.3076923076923077,
     "true_matches": [
       "IN1504: Essentials of Applied Software Engineering",
       "IN8028: Project Work in Informatics",
+      "IN8026: Einführung in die Programmierung mit Python",
       "IN0006: Einführung in die Softwaretechnik"
     ]
   },
@@ -2568,10 +3085,11 @@
       "IN2377: Concepts of C++ Programming",
       "IN0002: Grundlagenpraktikum: Programmierung"
     ],
-    "precision": 0.7142857142857143,
-    "recall": 0.45454545454545453,
+    "precision": 0.8571428571428571,
+    "recall": 0.46153846153846156,
     "true_matches": [
       "IN1504: Essentials of Applied Software Engineering",
+      "IN8026: Einführung in die Programmierung mit Python",
       "IN8028: Project Work in Informatics",
       "IN0006: Einführung in die Softwaretechnik",
       "IN2377: Concepts of C++ Programming",
@@ -2645,14 +3163,305 @@
       "IN9012: Enterprise Information Systems",
       "IN2394: Requirements Engineering"
     ],
-    "precision": 0.5555555555555556,
-    "recall": 0.45454545454545453,
+    "precision": 0.7777777777777778,
+    "recall": 0.5384615384615384,
     "true_matches": [
       "IN1504: Essentials of Applied Software Engineering",
       "IN8028: Project Work in Informatics",
+      "IN8026: Einführung in die Programmierung mit Python",
       "IN0006: Einführung in die Softwaretechnik",
       "IN0002: Grundlagenpraktikum: Programmierung",
+      "CIT1330000: Computational Intelligence",
       "IN2394: Requirements Engineering"
+    ]
+  },
+  {
+    "job": "Head of Computer Vision and Machine Learning",
+    "method": "top_similarity",
+    "top_n": 10,
+    "recommended": [
+      "IN2375: Computer Vision III: Detection, Segmentation, and Tracking",
+      "IN2210: Tracking and Detection in Computer Vision",
+      "CIT4230004: Statistical Foundations of Learning",
+      "IN2408: Artificial Intelligence in Medicine II",
+      "IN2357: Machine Learning for Computer Vision",
+      "IN2004: Effiziente Algorithmen und Datenstrukturen II",
+      "CIT1330000: Computational Intelligence",
+      "IN2016: Bildverstehen II: Robot Vision",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "IN2351: Business Analytics (Doktorat)"
+    ],
+    "matches": [
+      "IN2210: Tracking and Detection in Computer Vision",
+      "CIT1330000: Computational Intelligence",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "IN2351: Business Analytics (Doktorat)"
+    ],
+    "precision": 0.75,
+    "recall": 0.1875,
+    "true_matches": [
+      "IN2210: Tracking and Detection in Computer Vision",
+      "CIT1330000: Computational Intelligence",
+      "IN2406: Fundamentals of Artificial Intelligence"
+    ]
+  },
+  {
+    "job": "Head of Computer Vision and Machine Learning",
+    "method": "top_coverage",
+    "top_n": 10,
+    "recommended": [
+      "IN2408: Artificial Intelligence in Medicine II",
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "IN2323: Machine Learning for Graphs and Sequential Data",
+      "IN1503: Advanced Programming",
+      "CIT1330001: Projektwoche Natural Language Processing (NLP)"
+    ],
+    "matches": [
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "CIT1330001: Projektwoche Natural Language Processing (NLP)"
+    ],
+    "precision": 0.5,
+    "recall": 0.0625,
+    "true_matches": [
+      "CIT423001: DevOps: Engineering for Deployment and Operations"
+    ]
+  },
+  {
+    "job": "Head of Computer Vision and Machine Learning",
+    "method": "top_similarity",
+    "top_n": 20,
+    "recommended": [
+      "IN2375: Computer Vision III: Detection, Segmentation, and Tracking",
+      "IN2210: Tracking and Detection in Computer Vision",
+      "CIT4230004: Statistical Foundations of Learning",
+      "IN2408: Artificial Intelligence in Medicine II",
+      "IN2357: Machine Learning for Computer Vision",
+      "IN2004: Effiziente Algorithmen und Datenstrukturen II",
+      "CIT1330000: Computational Intelligence",
+      "IN2016: Bildverstehen II: Robot Vision",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "IN2351: Business Analytics (Doktorat)",
+      "EI71086: Applied Machine Intelligence",
+      "IN2030: Data Mining und Knowledge Discovery",
+      "CIT433036: Object-centric 3D Vision",
+      "CIT4230003: Advanced Machine Learning: Deep Generative Models",
+      "IN2124: Basic Mathematical Methods for Imaging and Visualization",
+      "IN3200: Ausgewählte Themen aus dem Bereich Computergrafik und -vision",
+      "IN2367: Automated Programming",
+      "CIT433021: Fundamentals of Foundation Models",
+      "IN2392: Machine Learning for 3D Geometry",
+      "IN2378: Statistical Foundations of Learning"
+    ],
+    "matches": [
+      "IN2210: Tracking and Detection in Computer Vision",
+      "CIT1330000: Computational Intelligence",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "IN2351: Business Analytics (Doktorat)"
+    ],
+    "precision": 0.75,
+    "recall": 0.1875,
+    "true_matches": [
+      "IN2210: Tracking and Detection in Computer Vision",
+      "CIT1330000: Computational Intelligence",
+      "IN2406: Fundamentals of Artificial Intelligence"
+    ]
+  },
+  {
+    "job": "Head of Computer Vision and Machine Learning",
+    "method": "top_coverage",
+    "top_n": 20,
+    "recommended": [
+      "IN2408: Artificial Intelligence in Medicine II",
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "IN2323: Machine Learning for Graphs and Sequential Data",
+      "IN1503: Advanced Programming",
+      "CIT1330001: Projektwoche Natural Language Processing (NLP)"
+    ],
+    "matches": [
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "CIT1330001: Projektwoche Natural Language Processing (NLP)"
+    ],
+    "precision": 0.5,
+    "recall": 0.0625,
+    "true_matches": [
+      "CIT423001: DevOps: Engineering for Deployment and Operations"
+    ]
+  },
+  {
+    "job": "Head of Computer Vision and Machine Learning",
+    "method": "top_similarity",
+    "top_n": 30,
+    "recommended": [
+      "IN2375: Computer Vision III: Detection, Segmentation, and Tracking",
+      "IN2210: Tracking and Detection in Computer Vision",
+      "CIT4230004: Statistical Foundations of Learning",
+      "IN2408: Artificial Intelligence in Medicine II",
+      "IN2357: Machine Learning for Computer Vision",
+      "IN2004: Effiziente Algorithmen und Datenstrukturen II",
+      "CIT1330000: Computational Intelligence",
+      "IN2016: Bildverstehen II: Robot Vision",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "IN2351: Business Analytics (Doktorat)",
+      "EI71086: Applied Machine Intelligence",
+      "IN2030: Data Mining und Knowledge Discovery",
+      "CIT433036: Object-centric 3D Vision",
+      "CIT4230003: Advanced Machine Learning: Deep Generative Models",
+      "IN2124: Basic Mathematical Methods for Imaging and Visualization",
+      "IN3200: Ausgewählte Themen aus dem Bereich Computergrafik und -vision",
+      "IN2367: Automated Programming",
+      "CIT433021: Fundamentals of Foundation Models",
+      "IN2392: Machine Learning for 3D Geometry",
+      "IN2378: Statistical Foundations of Learning",
+      "EI7171: Projektpraktikum Kognitive Technische Systeme",
+      "IN0007: Grundlagen: Algorithmen und Datenstrukturen",
+      "IN8028: Project Work in Informatics",
+      "IN2339: Data Analysis and Visualization in R",
+      "IN2022: Informatikanwendungen in der Medizin II",
+      "EI70380: Signal Processing and Machine Learning",
+      "IN2389: Advanced Deep Learning for Computer Vision: Dynamic Vision",
+      "IN2323: Machine Learning for Graphs and Sequential Data",
+      "IN2329: Probabilistische Graphische Modelle in der Computer Vision",
+      "IN2015: Image Synthesis"
+    ],
+    "matches": [
+      "IN2210: Tracking and Detection in Computer Vision",
+      "CIT1330000: Computational Intelligence",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "IN2351: Business Analytics (Doktorat)",
+      "IN0007: Grundlagen: Algorithmen und Datenstrukturen",
+      "IN8028: Project Work in Informatics",
+      "IN2339: Data Analysis and Visualization in R"
+    ],
+    "precision": 0.5714285714285714,
+    "recall": 0.25,
+    "true_matches": [
+      "IN2210: Tracking and Detection in Computer Vision",
+      "CIT1330000: Computational Intelligence",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "IN0007: Grundlagen: Algorithmen und Datenstrukturen"
+    ]
+  },
+  {
+    "job": "Head of Computer Vision and Machine Learning",
+    "method": "top_coverage",
+    "top_n": 30,
+    "recommended": [
+      "IN2408: Artificial Intelligence in Medicine II",
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "IN2323: Machine Learning for Graphs and Sequential Data",
+      "IN1503: Advanced Programming",
+      "CIT1330001: Projektwoche Natural Language Processing (NLP)"
+    ],
+    "matches": [
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "CIT1330001: Projektwoche Natural Language Processing (NLP)"
+    ],
+    "precision": 0.5,
+    "recall": 0.0625,
+    "true_matches": [
+      "CIT423001: DevOps: Engineering for Deployment and Operations"
+    ]
+  },
+  {
+    "job": "Head of Computer Vision and Machine Learning",
+    "method": "top_similarity",
+    "top_n": 50,
+    "recommended": [
+      "IN2375: Computer Vision III: Detection, Segmentation, and Tracking",
+      "IN2210: Tracking and Detection in Computer Vision",
+      "CIT4230004: Statistical Foundations of Learning",
+      "IN2408: Artificial Intelligence in Medicine II",
+      "IN2357: Machine Learning for Computer Vision",
+      "IN2004: Effiziente Algorithmen und Datenstrukturen II",
+      "CIT1330000: Computational Intelligence",
+      "IN2016: Bildverstehen II: Robot Vision",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "IN2351: Business Analytics (Doktorat)",
+      "EI71086: Applied Machine Intelligence",
+      "IN2030: Data Mining und Knowledge Discovery",
+      "CIT433036: Object-centric 3D Vision",
+      "CIT4230003: Advanced Machine Learning: Deep Generative Models",
+      "IN2124: Basic Mathematical Methods for Imaging and Visualization",
+      "IN3200: Ausgewählte Themen aus dem Bereich Computergrafik und -vision",
+      "IN2367: Automated Programming",
+      "CIT433021: Fundamentals of Foundation Models",
+      "IN2392: Machine Learning for 3D Geometry",
+      "IN2378: Statistical Foundations of Learning",
+      "EI7171: Projektpraktikum Kognitive Technische Systeme",
+      "IN0007: Grundlagen: Algorithmen und Datenstrukturen",
+      "IN8028: Project Work in Informatics",
+      "IN2339: Data Analysis and Visualization in R",
+      "IN2022: Informatikanwendungen in der Medizin II",
+      "EI70380: Signal Processing and Machine Learning",
+      "IN2389: Advanced Deep Learning for Computer Vision: Dynamic Vision",
+      "IN2323: Machine Learning for Graphs and Sequential Data",
+      "IN2329: Probabilistische Graphische Modelle in der Computer Vision",
+      "IN2015: Image Synthesis",
+      "CIT1330001: Projektwoche Natural Language Processing (NLP)",
+      "EI7766: Seminar Autonome Systeme",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
+      "IN2346: Introduction to Deep Learning",
+      "IN2158: Fortgeschrittene Netzwerk- und Graph-Algorithmen",
+      "IN1503: Advanced Programming",
+      "EI0508: Projektpraktikum Python",
+      "CIT1230000: Einführung in die Informatik für andere Fachrichtungen (Mathematik)",
+      "EI04001: Komputer & Creativität",
+      "EI70110: Computer Vision",
+      "CIT3230003: Data Structure Engineering",
+      "IN2028: Business Analytics and Machine Learning",
+      "EI7172: Projektpraktikum Kognitive Robotik und Regelung",
+      "IN8009: Algorithmen und Datenstrukturen",
+      "IN2379: Fortgeschrittene Datenverarbeitungs- und Visualisierungstechniken",
+      "IN2241: Social Computing",
+      "IN2288: Event Processing",
+      "IN8008: Einführung in die wissenschaftliche Programmierung",
+      "IN2361: Natural Language Processing",
+      "IN2390: Advanced Deep Learning for Computer Vision: Visual Computing"
+    ],
+    "matches": [
+      "IN2210: Tracking and Detection in Computer Vision",
+      "CIT1330000: Computational Intelligence",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "IN2351: Business Analytics (Doktorat)",
+      "IN0007: Grundlagen: Algorithmen und Datenstrukturen",
+      "IN8028: Project Work in Informatics",
+      "IN2339: Data Analysis and Visualization in R",
+      "CIT1330001: Projektwoche Natural Language Processing (NLP)",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
+      "IN2346: Introduction to Deep Learning",
+      "IN2028: Business Analytics and Machine Learning"
+    ],
+    "precision": 0.6363636363636364,
+    "recall": 0.4375,
+    "true_matches": [
+      "IN2210: Tracking and Detection in Computer Vision",
+      "CIT1330000: Computational Intelligence",
+      "IN2406: Fundamentals of Artificial Intelligence",
+      "IN0007: Grundlagen: Algorithmen und Datenstrukturen",
+      "IN2058: Anwendungen Wissenbasierter Methoden",
+      "IN2346: Introduction to Deep Learning",
+      "IN2028: Business Analytics and Machine Learning"
+    ]
+  },
+  {
+    "job": "Head of Computer Vision and Machine Learning",
+    "method": "top_coverage",
+    "top_n": 50,
+    "recommended": [
+      "IN2408: Artificial Intelligence in Medicine II",
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "IN2323: Machine Learning for Graphs and Sequential Data",
+      "IN1503: Advanced Programming",
+      "CIT1330001: Projektwoche Natural Language Processing (NLP)"
+    ],
+    "matches": [
+      "CIT423001: DevOps: Engineering for Deployment and Operations",
+      "CIT1330001: Projektwoche Natural Language Processing (NLP)"
+    ],
+    "precision": 0.5,
+    "recall": 0.0625,
+    "true_matches": [
+      "CIT423001: DevOps: Engineering for Deployment and Operations"
     ]
   }
 ]

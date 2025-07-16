@@ -3,13 +3,11 @@ import os
 import json
 from dotenv import load_dotenv
 
-base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-env_path = os.path.join(base_path, "kg_construction_scripts", ".env")
-load_dotenv(env_path)
+load_dotenv()
 client = anthropic.Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
 
-with open("/home/natalie/Bachelorprojekt/course_skill_extraction/courses_department_cs.json", "r", encoding="utf-8") as f:
+with open("courses_department_cs.json", "r", encoding="utf-8") as f:
     filtered_content = json.load(f)
 
 
@@ -62,5 +60,5 @@ for course in filtered_content:
     except Exception as e:
         print(f"Could not parse skills for: {course['title']}")
         
-    with open("/home/natalie/Bachelorprojekt/course_skill_extraction/course_anthropic_skills.json", "w") as outfile:
+    with open("course_anthropic_skills.json", "w") as outfile:
         json.dump(courses_skills, outfile, indent=4, ensure_ascii=False)
