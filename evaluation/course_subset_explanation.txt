@@ -1,10 +1,10 @@
 "courses_cs_and_ce.json" -> alle kurse im KG (Computer Science, Computer Engineering)
 
 Courses in course_subset:
-total: 46, including 15 mandatory Bachelor courses
+total: 52, including 15 mandatory Bachelor courses
 "matching": Skills mit denen der Kurs im KG geladen ist
 
-1. Programming & Theory Foundations (10)
+1. Programming & Theory Foundations (5)
 
     IN0001 — Einführung in die Informatik
     IN0002 — Grundlagenpraktikum: Programmierung
@@ -12,7 +12,7 @@ total: 46, including 15 mandatory Bachelor courses
     IN0011 — Einführung in die Theoretische Informatik
     IN2377 — Concepts of C++ Programming
 
-2. Systems, Architecture & OS (6)
+2. Systems, Architecture & OS (7)
 
     IN0004 — Einführung in die Rechnerarchitektur
     IN0005 — Grundlagenpraktikum: Rechnerarchitektur
@@ -22,7 +22,7 @@ total: 46, including 15 mandatory Bachelor courses
     EI71036 — Software Architecture for Distributed Embedded Systems
     IN2324 Connected Mobility Basics
 
-3. Software Engineering & Process (5)
+3. Software Engineering & Process (8)
 
     IN0006 — Einführung in die Softwaretechnik
     IN2394 — Requirements Engineering
@@ -33,13 +33,13 @@ total: 46, including 15 mandatory Bachelor courses
     IN0041 Social Gaming
     IN1504 Essentials of Applied Software Engineering
 
-4. Data Engineering & Databases (4)
+4. Data Engineering & Databases (3)
 
     IN0008 — Grundlagen: Datenbanken
     IN2326 — Foundations in Data Engineering
     IN2058 Anwendungen Wissensbasierter Methoden
 
-5. Cloud & Distributed Systems (3)
+5. Cloud & Distributed Systems (4)
 
     IN2073 — Cloud Computing
     CIT3230002 — Cloud Information Systems
@@ -52,7 +52,7 @@ total: 46, including 15 mandatory Bachelor courses
     IN2101 — Network Security
     IN2178 — Security Engineering
 
-7. AI & Machine Learning (6)
+7. AI & Machine Learning (10)
 
     IN2346 — Introduction to Deep Learning
     IN2064 — Machine Learning
@@ -80,7 +80,7 @@ total: 46, including 15 mandatory Bachelor courses
     IN2401 — Concept Art und Game Design
     IN2293 — Medical Augmented Reality
 
-10. Statistics & Data Science
+10. Statistics & Data Science (3)
     IN2351 Business Analytics (Doktorat)
     IN2339 — Data Analysis and Visualization in R
     IN2026 — Visual Data Analytics
