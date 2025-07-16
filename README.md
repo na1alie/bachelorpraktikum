@@ -22,6 +22,6 @@ This project implements a recommender system for courses offered by the Computer
 - **Evaluation**
   - Scripts for evaluating course recommendations.
 
-## 🌐 UI 
+## 🌐 Web Tool
 An interactive Streamlit app provides both a search interface and a conversational chat interface for exploring course recommendations based on job titles. It recommends courses with explanations, filters, and LLM-generated summaries. The chat interface is powered by an agent using GraphRAG to enable natural language queries.  
 🔗 Try the app here: https://evaluate.lohhof.city
