@@ -3,6 +3,10 @@ from bs4 import BeautifulSoup
 import json
 from urllib.parse import quote_plus
 
+# DISCLAIMER:
+# This script is not part of the final solution and is included only for reference or experimentation.
+# It may contain incomplete, outdated, or exploratory code.
+
 file_searches = 'job_searches.json'
 file_results = 'job_results.json'
 
