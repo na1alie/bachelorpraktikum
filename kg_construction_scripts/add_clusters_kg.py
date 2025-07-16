@@ -28,8 +28,8 @@ def load_skill_groups(tx, group_name, skills):
 
 with driver.session() as session:
     for cluster_name, skills in clusters.items():
-        print(f"📥 Loading cluster: {cluster_name} ({len(skills)} skills)")
+        print(f"Loading cluster: {cluster_name} ({len(skills)} skills)")
         session.write_transaction(load_skill_groups, cluster_name, skills)
 
 driver.close()
-print("✅ Done loading all skill clusters into the knowledge graph.")
+print("Done loading all skill clusters into the knowledge graph.")

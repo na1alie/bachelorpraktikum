@@ -5,6 +5,10 @@ from dotenv import load_dotenv
 from knowledge_graph_utils import *
 from neo4j import GraphDatabase
 
+# DISCLAIMER:
+# This script is not part of the final solution and is included only for reference or experimentation.
+# It may contain incomplete, outdated, or exploratory code.
+
 load_dotenv()
 URI = os.getenv("NEO4J_URI")
 USERNAME = os.getenv("NEO4J_USERNAME")

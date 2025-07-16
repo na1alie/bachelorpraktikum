@@ -83,11 +83,11 @@ for cluster_id, skills in clusters.items():
         time.sleep(1)
 
     except Exception as e:
-        print(f"❌ Error processing cluster {cluster_id}: {e}")
+        print(f"Error processing cluster {cluster_id}: {e}")
         continue
 
 # Save final output
 with open("named_clusters_2.json", "w") as f:
     json.dump(final_output, f, indent=2, ensure_ascii=False)
 
-print("✅ All done! Named clusters saved to named_clusters.json")
+print("All done! Named clusters saved to named_clusters.json")

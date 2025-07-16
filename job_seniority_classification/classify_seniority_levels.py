@@ -33,8 +33,6 @@ def get_seniority_level(title, description):
 
     Job Title:""" + title + """Job Description: """ + description
 
-    #print(prompt)
-
     response = client.messages.create(
         model="claude-3-haiku-20240307",
         max_tokens=1000,
@@ -49,14 +47,10 @@ def get_seniority_level(title, description):
 
 
 def process_jobs(input_path, output_path):
-    # count = 0
     with open(input_path, "r", encoding="utf-8") as infile, \
          open(output_path, "w", encoding="utf-8") as outfile:
 
         for line in infile:
-            # count += 1
-            # if count < 50 or count > 70:
-            #     continue
             if not line.strip():
                 continue  # skip empty lines
 

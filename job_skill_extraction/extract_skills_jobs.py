@@ -58,32 +58,6 @@ for job in jobs_sample:
         except Exception as e:
             print(f"Skipping due to Error: {e}")
 
-    # Skill extraction using LLM
-    # prompt = """<instructions> 
-    # Your task is to extract ONLY THE RELEVANT SKILLS from the following job offers. Focus strictly on **general, high-level, transferable skills** commonly recognized in academia or industry.
-    # Extract a list of at most 10 required hard technical skills from the following job description.
-    # Do not include any explanations, reasoning, or extra text. 
-    # </instructions>
-    # <output_format>
-    # ```json
-    # {
-    # "Skills": ["string, a comma-separated list of required skills as individual items in a list""]
-    # }
-    # ```
-    # </output_format>
-    # <constraints>
-    # * Skills DO NOT require indicators such as "experience in/with ...", "understanding of ..." or "interest in..."
-    # * Use short and normalized names for skills (e.g. "Java" instead of "Java programming")
-    # * DO NOT ouput generic skills such as "Maths", "Informatics", "Programming", "Physics"
-    # * DO NOT only output frameworks or programming languages, also include concepts to understand
-    # </constraints>
-    # <job_description>
-    # """ + job_description + """
-    # </job_description>
-    # <skillNer_result>
-    # </skillNer_result>
-    # """
-
     prompt = """<instructions> 
     Your task is to extract ONLY THE RELEVANT SKILLS from the following job offers. Focus strictly on **general, high-level, transferable technical skills** commonly recognized in academia or industry.
 

@@ -1,6 +1,10 @@
 from bs4 import BeautifulSoup
 import os
 
+# DISCLAIMER:
+# This script is not part of the final solution and is included only for reference or experimentation.
+# It may contain incomplete, outdated, or exploratory code.
+
 # Script to turn html code of job offers into text files
 
 # Set the directory containing your HTML files

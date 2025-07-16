@@ -18,8 +18,6 @@ print("Connected to:", driver.get_server_info())
 
 with open(input_file, "r", encoding="utf-8") as f_in:
     for line_number, line in enumerate(f_in, start=1):
-        # if line_number < 479:
-        #     continue
         line = line.strip()
         if not line:
             continue
