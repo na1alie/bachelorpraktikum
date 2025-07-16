@@ -8,6 +8,9 @@ import os
 from dotenv import load_dotenv
 import re
 
+# DISCLAIMER: For entity extraction of skills, we experimented with SkillNER (https://github.com/AnasAito/SkillNER) but found irrelevant, non-technical skills in the results (e.g. 'yoga' extracted from the benefits section of a job description)
+# SkillNER extraction can be found in this script but the LLM and SkillNER extracted skills were stored seperately. In the deduplication process, SkillNER skills are ignored and not included in the final solution.
+
 load_dotenv()
 URI = os.getenv("NEO4J_URI")
 USERNAME = os.getenv("NEO4J_USERNAME")

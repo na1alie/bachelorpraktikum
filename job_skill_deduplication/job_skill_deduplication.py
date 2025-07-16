@@ -55,7 +55,7 @@ for job in jobs:
             if canonical not in set(deduped_skills):
                 deduped_skills.append(canonical)
 
-    # Keep at most 15, in insertion order
+    # Keep at most 15, in insertion order, largely stripping away SkillNER skills 
     job["deduplicated_skills"] = deduped_skills[:15]
 
 with open("jobs_skills_deduplicated.json", "w", encoding="utf-8") as f:
