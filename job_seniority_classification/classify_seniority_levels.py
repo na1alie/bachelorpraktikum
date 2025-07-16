@@ -4,6 +4,9 @@ import anthropic
 import time
 from dotenv import load_dotenv
 
+# Job data retrieved from the Linkedin Bright Data API already included seniority levels. 
+# For the jobs retrieved from Glassdoor and Indeed the classification was done using an LLM and random manual checks to confirm correctness.
+
 load_dotenv()
 
 INPUT_FILE = "../job_title_deduplication/jobs_titles_deduplicated.jsonl"

@@ -2,6 +2,10 @@ from sentence_transformers import SentenceTransformer, util
 import torch
 import json
 
+# DISCLAIMER:
+# This script is not part of the final solution and is included only for reference or experimentation.
+# It may contain incomplete, outdated, or exploratory code.
+
 input_file = "jobs_titles_cleaned.jsonl"
 output_file = "jobs_titles_deduplicated.jsonl"
 canonical_titles_file = "all_unique_job_titles.json"

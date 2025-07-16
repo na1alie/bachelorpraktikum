@@ -3,6 +3,9 @@ import torch
 import json
 from collections import Counter
 
+# Final solution of the job title deduplication merging at most 3 job titles (of the same seniority level) to ensure that the number of skills per 
+# job node does not get too high (previous solution produced job nodes with >80 skills).
+
 input_file = "../job_seniority_classification/jobs_complete.jsonl"
 output_file = "jobs_titles_deduplicated_2.jsonl"
 canonical_titles_file = "all_unique_job_titles_with_groups.json"
